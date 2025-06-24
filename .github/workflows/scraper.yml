@@ -2,7 +2,7 @@ name: SoccerFull Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour, on the hour (UTC)
+    - cron: '0 */3 * * *'  # Every hour, on the hour (UTC)
   workflow_dispatch:  # Allow manual trigger from UI
 
 jobs:
