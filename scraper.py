@@ -311,13 +311,39 @@ class SoccerFullScraper:
         
         return True
 
+    def load_existing_matches(self):
+        """Load existing matches from JSON file"""
+        if os.path.exists(self.output_file):
+            try:
+                with open(self.output_file, 'r', encoding='utf-8') as f:
+                    existing_matches = json.load(f)
+                    # Ensure it's a list
+                    if isinstance(existing_matches, list):
+                        return existing_matches
+                    else:
+                        print(f"Warning: {self.output_file} does not contain a valid list. Starting fresh.")
+                        return []
+            except (json.JSONDecodeError, FileNotFoundError) as e:
+                print(f"Warning: Could not load existing matches from {self.output_file}: {e}")
+                return []
+        return []
+
     def save_to_json(self):
-        """Save all scraped data to a JSON file"""
+        """Save all scraped data to a JSON file, merging with existing data"""
+        # Load existing matches
+        existing_matches = self.load_existing_matches()
+        
+        # Merge new matches at the top + existing matches
+        merged_matches = self.all_matches + existing_matches
+        
+        # Save merged data
         with open(self.output_file, 'w', encoding='utf-8') as f:
-            json.dump(self.all_matches, f, indent=2, ensure_ascii=False)
+            json.dump(merged_matches, f, indent=2, ensure_ascii=False)
         
         print(f"\n✓ Data saved to {self.output_file}")
-        print(f"Total new matches processed: {len(self.all_matches)}")
+        print(f"Total new matches added: {len(self.all_matches)}")
+        print(f"Total existing matches preserved: {len(existing_matches)}")
+        print(f"Total matches in file: {len(merged_matches)}")
 
     def run(self):
         """Main execution function"""
@@ -330,9 +356,14 @@ class SoccerFullScraper:
             self.save_to_json()
         elif success:
             print("No new matches found (all were duplicates or failed to process)")
-            # Still save empty array to maintain consistency
-            with open(self.output_file, 'w', encoding='utf-8') as f:
-                json.dump([], f)
+            # Still update the file to maintain the existing structure but don't add empty entries
+            existing_matches = self.load_existing_matches()
+            if existing_matches:
+                print(f"Existing file maintained with {len(existing_matches)} matches")
+            else:
+                # Only create empty array if no existing file
+                with open(self.output_file, 'w', encoding='utf-8') as f:
+                    json.dump([], f)
         else:
             print("Failed to scrape homepage")
         
