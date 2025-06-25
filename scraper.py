@@ -17,6 +17,7 @@ class SoccerFullScraper:
         self.session = requests.Session()
         self.session.headers.update(self.headers)
         self.all_matches = []
+        self.updated_matches = []
         self.log_file = "scraper_log.json"
         self.output_file = "matches.json"
         self.log_data = self.load_log()
@@ -41,23 +42,45 @@ class SoccerFullScraper:
         match_string = f"{match_title}|{date}|{competition}".lower().strip()
         return hashlib.md5(match_string.encode('utf-8')).hexdigest()
 
-    def is_duplicate(self, match_hash, current_date):
-        """Check if a match is a duplicate within 7 days"""
-        if match_hash in self.log_data:
-            logged_date = datetime.fromisoformat(self.log_data[match_hash]['timestamp'])
-            current_datetime = datetime.fromisoformat(current_date)
-            
-            # Check if the match was logged within the last 7 days
-            if (current_datetime - logged_date).days < 7:
-                print(f"Duplicate match found (within 7 days): {self.log_data[match_hash]['match_title']}")
-                return True
-        return False
+    def is_same_day(self, timestamp1, timestamp2):
+        """Check if two timestamps are from the same day"""
+        try:
+            date1 = datetime.fromisoformat(timestamp1).date()
+            date2 = datetime.fromisoformat(timestamp2).date()
+            return date1 == date2
+        except:
+            return False
 
-    def log_match(self, match_hash, match_title, timestamp):
-        """Log a match to prevent duplicates"""
+    def should_update_match(self, match_hash, current_timestamp):
+        """
+        Determine if a match should be updated:
+        - If it's from the same day, allow update
+        - If it's older than 1 day, skip (duplicate)
+        """
+        if match_hash in self.log_data:
+            logged_timestamp = self.log_data[match_hash]['timestamp']
+            
+            # If it's from the same day, allow update
+            if self.is_same_day(current_timestamp, logged_timestamp):
+                return True, "same_day_update"
+            
+            # If it's from a different day within 7 days, skip (duplicate)
+            logged_date = datetime.fromisoformat(logged_timestamp)
+            current_date = datetime.fromisoformat(current_timestamp)
+            
+            if (current_date - logged_date).days < 7:
+                return False, "duplicate"
+        
+        # New match
+        return True, "new_match"
+
+    def log_match(self, match_hash, match_title, timestamp, link_count=0):
+        """Log a match to prevent duplicates and track updates"""
         self.log_data[match_hash] = {
             'match_title': match_title,
-            'timestamp': timestamp
+            'timestamp': timestamp,
+            'link_count': link_count,
+            'last_updated': timestamp
         }
 
     def clean_old_logs(self):
@@ -251,6 +274,10 @@ class SoccerFullScraper:
 
         return match_details
 
+    def has_more_links(self, new_links, old_link_count):
+        """Check if new match data has more links than previously recorded"""
+        return len(new_links) > old_link_count
+
     def scrape_homepage(self):
         """Scrape only the homepage"""
         page_url = self.base_url
@@ -285,8 +312,10 @@ class SoccerFullScraper:
                     match_details['competition']
                 )
                 
-                # Check for duplicates
-                if self.is_duplicate(match_hash, current_timestamp):
+                # Check if we should process this match
+                should_update, reason = self.should_update_match(match_hash, current_timestamp)
+                
+                if not should_update and reason == "duplicate":
                     print(f"Skipping duplicate match: {match['title']}")
                     continue
                 
@@ -298,12 +327,27 @@ class SoccerFullScraper:
                     'links': match_details['links']
                 }
                 
-                self.all_matches.append(match_info)
+                if reason == "same_day_update":
+                    # Check if there are more links than before
+                    old_link_count = self.log_data[match_hash].get('link_count', 0)
+                    new_link_count = len(match_details['links'])
+                    
+                    if self.has_more_links(match_details['links'], old_link_count):
+                        print(f"🔄 Updating same-day match with more links: {match['title']} ({old_link_count} -> {new_link_count} links)")
+                        self.updated_matches.append(match_info)
+                        # Update log with new link count and timestamp
+                        self.log_match(match_hash, match['title'], current_timestamp, new_link_count)
+                    else:
+                        print(f"⏭️  Same-day match has same or fewer links, skipping: {match['title']} ({new_link_count} links)")
+                        continue
+                else:
+                    # New match
+                    print(f"✅ New match: {match['title']}")
+                    self.all_matches.append(match_info)
+                    # Log the match
+                    self.log_match(match_hash, match['title'], current_timestamp, len(match_details['links']))
                 
-                # Log the match
-                self.log_match(match_hash, match['title'], current_timestamp)
-                
-                print(f"✓ Extracted details for {match['title']}")
+                print(f"✓ Extracted details for {match['title']} - {len(match_details['links'])} links")
             else:
                 print(f"✗ Failed to extract details for {match['title']}")
             
@@ -328,10 +372,34 @@ class SoccerFullScraper:
                 return []
         return []
 
+    def update_existing_matches(self, existing_matches):
+        """Update existing matches with new data for same-day updates"""
+        if not self.updated_matches:
+            return existing_matches
+        
+        updated_count = 0
+        for updated_match in self.updated_matches:
+            # Find the existing match to replace
+            for i, existing_match in enumerate(existing_matches):
+                if (existing_match['match'] == updated_match['match'] and 
+                    existing_match['date'] == updated_match['date'] and 
+                    existing_match['competition'] == updated_match['competition']):
+                    
+                    existing_matches[i] = updated_match
+                    updated_count += 1
+                    print(f"🔄 Updated existing match: {updated_match['match']}")
+                    break
+        
+        print(f"Total matches updated in existing data: {updated_count}")
+        return existing_matches
+
     def save_to_json(self):
         """Save all scraped data to a JSON file, merging with existing data"""
         # Load existing matches
         existing_matches = self.load_existing_matches()
+        
+        # Update existing matches with same-day updates
+        existing_matches = self.update_existing_matches(existing_matches)
         
         # Merge new matches at the top + existing matches
         merged_matches = self.all_matches + existing_matches
@@ -342,20 +410,21 @@ class SoccerFullScraper:
         
         print(f"\n✓ Data saved to {self.output_file}")
         print(f"Total new matches added: {len(self.all_matches)}")
+        print(f"Total matches updated: {len(self.updated_matches)}")
         print(f"Total existing matches preserved: {len(existing_matches)}")
         print(f"Total matches in file: {len(merged_matches)}")
 
     def run(self):
         """Main execution function"""
-        print("SoccerFull.net Match Data Scraper (Homepage Only)")
-        print("=" * 50)
+        print("SoccerFull.net Match Data Scraper (Homepage Only) - Enhanced with Same-Day Updates")
+        print("=" * 80)
         
         success = self.scrape_homepage()
         
-        if success and self.all_matches:
+        if success and (self.all_matches or self.updated_matches):
             self.save_to_json()
         elif success:
-            print("No new matches found (all were duplicates or failed to process)")
+            print("No new matches found and no updates needed (all were duplicates or failed to process)")
             # Still update the file to maintain the existing structure but don't add empty entries
             existing_matches = self.load_existing_matches()
             if existing_matches:
