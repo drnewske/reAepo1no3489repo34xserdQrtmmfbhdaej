@@ -3,7 +3,12 @@
     "match": "Al Hilal vs Pachuca",
     "date": "Friday Jun 27, 2025",
     "competition": "FIFA Club World Cup",
-    "links": []
+    "links": [
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10089919875821"
+      }
+    ]
   },
   {
     "match": "Salzburg vs Real Madrid",
@@ -17,6 +22,10 @@
       {
         "label": "Full Match - German",
         "url": "https://ok.ru/videoembed/9853827811927"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10089909193453"
       }
     ]
   },
