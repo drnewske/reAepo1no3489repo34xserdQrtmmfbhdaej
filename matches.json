@@ -1,5 +1,16 @@
 [
   {
+    "match": "Mexico vs Saudi Arabia",
+    "date": "Sunday Jun 29, 2025",
+    "competition": "Gold Cup",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://www.youtube.com/embed/5cWMC6_lci4"
+      }
+    ]
+  },
+  {
     "match": "Benfica vs Chelsea",
     "date": "Saturday Jun 28, 2025",
     "competition": "FIFA Club World Cup",
@@ -19,6 +30,10 @@
       {
         "label": "Full Match - Portuguese",
         "url": "https://smoothpre.com/s/l9vu2mvloxy2"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10095290157805"
       }
     ]
   },

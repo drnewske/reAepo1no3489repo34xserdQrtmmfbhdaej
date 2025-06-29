@@ -157,14 +157,20 @@
   },
   "8d5a8fac3e08d8520afe8332e8979ec0": {
     "match_title": "Benfica vs Chelsea",
-    "timestamp": "2025-06-29T01:46:02.426955",
-    "link_count": 4,
-    "last_updated": "2025-06-29T01:46:02.426955"
+    "timestamp": "2025-06-29T06:26:40.212316",
+    "link_count": 5,
+    "last_updated": "2025-06-29T06:26:40.212316"
   },
   "5e78a1e273ce9370e1373d1535a1d4bc": {
     "match_title": "England U21 vs Germany U21",
     "timestamp": "2025-06-29T01:46:02.426955",
     "link_count": 1,
     "last_updated": "2025-06-29T01:46:02.426955"
+  },
+  "833f141f9eb5e2b928eeda954ce487bd": {
+    "match_title": "Mexico vs Saudi Arabia",
+    "timestamp": "2025-06-29T06:26:40.212316",
+    "link_count": 1,
+    "last_updated": "2025-06-29T06:26:40.212316"
   }
 }
