@@ -1,5 +1,20 @@
 [
   {
+    "match": "Manchester City vs Al Hilal",
+    "date": "Tuesday Jul 1, 2025",
+    "competition": "FIFA Club World Cup",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://ok.ru/videoembed/9864989444695"
+      },
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://ok.ru/videoembed/9865002486359"
+      }
+    ]
+  },
+  {
     "match": "Inter vs Fluminense",
     "date": "Monday Jun 30, 2025",
     "competition": "FIFA Club World Cup",
