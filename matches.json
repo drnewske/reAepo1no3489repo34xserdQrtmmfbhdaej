@@ -1,5 +1,55 @@
 [
   {
+    "match": "Canada vs El Salvador",
+    "date": "Wednesday Jun 25, 2025",
+    "competition": "Gold Cup",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9lylr4"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://www.youtube.com/embed/2C_dhmk6JfY"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://www.youtube.com/embed/gg66ov8wdNs"
+      }
+    ]
+  },
+  {
+    "match": "Esperance Tunis vs Chelsea",
+    "date": "Wednesday Jun 25, 2025",
+    "competition": "FIFA Club World Cup",
+    "links": [
+      {
+        "label": "Full Match - French",
+        "url": "https://ok.ru/videoembed/9848686905943"
+      },
+      {
+        "label": "1st half - English",
+        "url": "https://ok.ru/videoembed/9600953486022"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://gradehgplus.com/e/n6aouort6d32"
+      },
+      {
+        "label": "2nd half - English",
+        "url": "https://ok.ru/videoembed/9600953617094"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://gofile.io/d/ZSNZXw"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10084570434285"
+      }
+    ]
+  },
+  {
     "match": "Dortmund vs Monterrey",
     "date": "Wednesday Jul 2, 2025",
     "competition": "FIFA Club World Cup",
@@ -30,6 +80,10 @@
       {
         "label": "Full Match - Portuguese",
         "url": "https://smoothpre.com/s/jsmwjgqg12uy"
+      },
+      {
+        "label": "Post Match - English",
+        "url": "https://ok.ru/videoembed/9614906559174"
       },
       {
         "label": "Full Match - Spanish",
