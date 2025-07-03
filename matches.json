@@ -1,5 +1,51 @@
 [
   {
+    "match": "Inter vs River Plate",
+    "date": "Thursday Jun 26, 2025",
+    "competition": "FIFA Club World Cup",
+    "links": [
+      {
+        "label": "Full Match - Czech",
+        "url": "https://ok.ru/videoembed/9851213056599"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://ok.ru/videoembed/9606431705798"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10087349816045"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://gradehgplus.com/e/tbtfr5rxzt9o"
+      }
+    ]
+  },
+  {
+    "match": "Urawa Reds vs Monterrey",
+    "date": "Thursday Jun 26, 2025",
+    "competition": "FIFA Club World Cup",
+    "links": [
+      {
+        "label": "Full Match - French",
+        "url": "https://ok.ru/videoembed/9851202505303"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://ok.ru/videoembed/9606431771334"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10087376292589"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://gradehgplus.com/e/38a78a2x26gm"
+      }
+    ]
+  },
+  {
     "match": "Germany U21 vs France U21",
     "date": "Wednesday Jun 25, 2025",
     "competition": "Euro U21 Championship",
