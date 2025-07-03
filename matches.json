@@ -1,5 +1,27 @@
 [
   {
+    "match": "USA vs Guatemala",
+    "date": "Wednesday Jul 2, 2025",
+    "competition": "Gold Cup",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://www.youtube.com/embed/iGXyoYBvbkk"
+      }
+    ]
+  },
+  {
+    "match": "England U21 vs Netherlands U21",
+    "date": "Wednesday Jun 25, 2025",
+    "competition": "Euro U21 Championship",
+    "links": [
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10086691375853"
+      }
+    ]
+  },
+  {
     "match": "Canada vs El Salvador",
     "date": "Wednesday Jun 25, 2025",
     "competition": "Gold Cup",
