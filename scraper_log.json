@@ -1,10 +1,4 @@
 {
-  "ce18ef729b09489cb5eb30aa64416be6": {
-    "match_title": "Juventus vs Manchester City",
-    "timestamp": "2025-06-27T01:37:56.803576",
-    "link_count": 6,
-    "last_updated": "2025-06-27T01:37:56.803576"
-  },
   "f572c1d115e8f3197787ed723194eae7": {
     "match_title": "Al Hilal vs Pachuca",
     "timestamp": "2025-06-27T09:19:51.913235",
@@ -160,5 +154,11 @@
     "timestamp": "2025-07-03T15:19:59.778916",
     "link_count": 4,
     "last_updated": "2025-07-03T15:19:59.778916"
+  },
+  "ce18ef729b09489cb5eb30aa64416be6": {
+    "match_title": "Juventus vs Manchester City",
+    "timestamp": "2025-07-04T03:48:47.791090",
+    "link_count": 6,
+    "last_updated": "2025-07-04T03:48:47.791090"
   }
 }
