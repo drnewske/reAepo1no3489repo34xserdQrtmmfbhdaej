@@ -1,5 +1,24 @@
 [
   {
+    "match": "Al Hilal vs Pachuca",
+    "date": "Friday Jun 27, 2025",
+    "competition": "FIFA Club World Cup",
+    "links": [
+      {
+        "label": "Full Match - Portuguese",
+        "url": "https://ok.ru/videoembed/9606609963718"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10089919875821"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://gradehgplus.com/e/ix8xtmu3fmhk"
+      }
+    ]
+  },
+  {
     "match": "Juventus vs Manchester City",
     "date": "N/A",
     "competition": "UEFA Champions League",
