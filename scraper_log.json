@@ -1,21 +1,9 @@
 {
-  "bbbb263c30ac8ccd90705b27d519111f": {
-    "match_title": "PSG vs Inter Miami",
-    "timestamp": "2025-06-29T21:16:36.933583",
-    "link_count": 1,
-    "last_updated": "2025-06-29T21:16:36.933583"
-  },
   "3966daca393e4641be26fda8af084467": {
     "match_title": "Canada vs Guatemala",
     "timestamp": "2025-06-30T03:53:40.634133",
     "link_count": 2,
     "last_updated": "2025-06-30T03:53:40.634133"
-  },
-  "c8d04edea07272004f91a067bbb05030": {
-    "match_title": "Flamengo vs Bayern Munich",
-    "timestamp": "2025-06-30T01:42:22.539430",
-    "link_count": 9,
-    "last_updated": "2025-06-30T01:42:22.539430"
   },
   "583e38db292591630fe2f1a93bfc2ff1": {
     "match_title": "USA vs Costa Rica",
@@ -184,5 +172,23 @@
     "timestamp": "2025-07-06T12:35:27.495507",
     "link_count": 12,
     "last_updated": "2025-07-06T12:35:27.495507"
+  },
+  "eb95c4c37d9ee1e3f04e5748f5ec314e": {
+    "match_title": "USA vs Mexico",
+    "timestamp": "2025-07-07T01:42:38.566334",
+    "link_count": 1,
+    "last_updated": "2025-07-07T01:42:38.566334"
+  },
+  "c8d04edea07272004f91a067bbb05030": {
+    "match_title": "Flamengo vs Bayern Munich",
+    "timestamp": "2025-07-07T01:42:38.566334",
+    "link_count": 12,
+    "last_updated": "2025-07-07T01:42:38.566334"
+  },
+  "bbbb263c30ac8ccd90705b27d519111f": {
+    "match_title": "PSG vs Inter Miami",
+    "timestamp": "2025-07-07T01:42:38.566334",
+    "link_count": 8,
+    "last_updated": "2025-07-07T01:42:38.566334"
   }
 }
