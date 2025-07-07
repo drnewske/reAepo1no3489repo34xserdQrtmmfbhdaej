@@ -1,9 +1,28 @@
 [
   {
+    "match": "Canada vs Guatemala",
+    "date": "Sunday Jun 29, 2025",
+    "competition": "Gold Cup",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://www.youtube.com/embed/xUS_cPT9VvY"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://www.youtube.com/embed/KTdqXZcZmfk"
+      }
+    ]
+  },
+  {
     "match": "USA vs Mexico",
     "date": "Sunday Jul 6, 2025",
     "competition": "Gold Cup",
     "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://gofile.io/d/qls8do"
+      },
       {
         "label": "Full Match - English",
         "url": "https://www.youtube.com/embed/ZJ4r8dksWpY"

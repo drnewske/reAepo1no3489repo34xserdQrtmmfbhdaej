@@ -1,10 +1,4 @@
 {
-  "3966daca393e4641be26fda8af084467": {
-    "match_title": "Canada vs Guatemala",
-    "timestamp": "2025-06-30T03:53:40.634133",
-    "link_count": 2,
-    "last_updated": "2025-06-30T03:53:40.634133"
-  },
   "583e38db292591630fe2f1a93bfc2ff1": {
     "match_title": "USA vs Costa Rica",
     "timestamp": "2025-06-30T06:29:17.440028",
@@ -175,9 +169,9 @@
   },
   "eb95c4c37d9ee1e3f04e5748f5ec314e": {
     "match_title": "USA vs Mexico",
-    "timestamp": "2025-07-07T01:42:38.566334",
-    "link_count": 1,
-    "last_updated": "2025-07-07T01:42:38.566334"
+    "timestamp": "2025-07-07T03:54:02.976372",
+    "link_count": 2,
+    "last_updated": "2025-07-07T03:54:02.976372"
   },
   "c8d04edea07272004f91a067bbb05030": {
     "match_title": "Flamengo vs Bayern Munich",
@@ -190,5 +184,11 @@
     "timestamp": "2025-07-07T01:42:38.566334",
     "link_count": 8,
     "last_updated": "2025-07-07T01:42:38.566334"
+  },
+  "3966daca393e4641be26fda8af084467": {
+    "match_title": "Canada vs Guatemala",
+    "timestamp": "2025-07-07T03:54:02.976372",
+    "link_count": 2,
+    "last_updated": "2025-07-07T03:54:02.976372"
   }
 }
