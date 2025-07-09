@@ -5,30 +5,6 @@
     "link_count": 10,
     "last_updated": "2025-07-02T09:21:53.573730"
   },
-  "c7641ae9a4c9df7bded0657c6bc068d3": {
-    "match_title": "Benfica vs Bayern Munich",
-    "timestamp": "2025-07-02T01:37:17.719889",
-    "link_count": 11,
-    "last_updated": "2025-07-02T01:37:17.719889"
-  },
-  "0009071bae6cfb14ba3da01a8472a3f2": {
-    "match_title": "FC Porto vs Al Ahly",
-    "timestamp": "2025-07-02T01:37:17.719889",
-    "link_count": 9,
-    "last_updated": "2025-07-02T01:37:17.719889"
-  },
-  "815c2835077dffbc94314f09ed9f7342": {
-    "match_title": "Inter Miami vs Palmeiras",
-    "timestamp": "2025-07-02T01:37:17.719889",
-    "link_count": 9,
-    "last_updated": "2025-07-02T01:37:17.719889"
-  },
-  "f5ef7bae3b3327a8d9fe0484a541e9b2": {
-    "match_title": "Seattle Sounders vs PSG",
-    "timestamp": "2025-07-02T01:37:17.719889",
-    "link_count": 6,
-    "last_updated": "2025-07-02T01:37:17.719889"
-  },
   "35f8f349caaf6d36971bedc177a56c3d": {
     "match_title": "Dortmund vs Monterrey",
     "timestamp": "2025-07-02T12:38:44.872999",
@@ -190,5 +166,11 @@
     "timestamp": "2025-07-08T18:27:19.735614",
     "link_count": 16,
     "last_updated": "2025-07-08T18:27:19.735614"
+  },
+  "06d16d755c2d8e7ad8ee13d09c28b966": {
+    "match_title": "Fluminense vs Chelsea",
+    "timestamp": "2025-07-09T01:39:13.263144",
+    "link_count": 7,
+    "last_updated": "2025-07-09T01:39:13.263144"
   }
 }
