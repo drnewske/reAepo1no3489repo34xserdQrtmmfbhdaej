@@ -5,12 +5,6 @@
     "link_count": 3,
     "last_updated": "2025-07-03T06:29:00.254995"
   },
-  "7f720ce7395147df9af0deeeac0221bb": {
-    "match_title": "England U21 vs Netherlands U21",
-    "timestamp": "2025-07-03T01:37:38.131841",
-    "link_count": 1,
-    "last_updated": "2025-07-03T01:37:38.131841"
-  },
   "56f47facbe8e32a8d6a5fc028b644f55": {
     "match_title": "Mexico vs Honduras",
     "timestamp": "2025-07-03T06:29:00.254995",
@@ -160,5 +154,11 @@
     "timestamp": "2025-07-09T12:39:18.765209",
     "link_count": 8,
     "last_updated": "2025-07-09T12:39:18.765209"
+  },
+  "06048fd42a31153d7a9926f4971c39a5": {
+    "match_title": "PSG vs Real Madrid",
+    "timestamp": "2025-07-10T01:39:21.800479",
+    "link_count": 9,
+    "last_updated": "2025-07-10T01:39:21.800479"
   }
 }
