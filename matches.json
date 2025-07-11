@@ -1,5 +1,36 @@
 [
   {
+    "match": "Juventus vs Manchester City",
+    "date": "N/A",
+    "competition": "UEFA Champions League",
+    "links": [
+      {
+        "label": "[EN] Full Match",
+        "url": "https://ok.ru/videoembed/9448367393527"
+      },
+      {
+        "label": "[EN] Full Match",
+        "url": "https://dhtpre.com/embed/kgb2vfzh0sgz"
+      },
+      {
+        "label": "[EN] Full Match",
+        "url": "https://dood.li/e/6a1uhepvnoc8"
+      },
+      {
+        "label": "[EN] Highlights",
+        "url": "https://ok.ru/videoembed/9195669359178"
+      },
+      {
+        "label": "[EN] Highlights",
+        "url": "https://dood.li/e/fpnmop2tovem"
+      },
+      {
+        "label": "[EN] Highlights",
+        "url": "https://dhtpre.com/embed/gneffqwtiw2d"
+      }
+    ]
+  },
+  {
     "match": "Germany U21 vs France U21",
     "date": "Wednesday Jun 25, 2025",
     "competition": "Euro U21 Championship",
