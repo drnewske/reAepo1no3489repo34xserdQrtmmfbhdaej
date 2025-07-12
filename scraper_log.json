@@ -5,12 +5,6 @@
     "link_count": 7,
     "last_updated": "2025-07-05T15:17:32.394503"
   },
-  "77d01fca1f8ecfaa7bf10f3f1c439fac": {
-    "match_title": "Palmeiras vs Chelsea",
-    "timestamp": "2025-07-05T12:34:54.594280",
-    "link_count": 2,
-    "last_updated": "2025-07-05T12:34:54.594280"
-  },
   "966f07557c30c88153c7eefee8206c48": {
     "match_title": "PSG vs Bayern Munich",
     "timestamp": "2025-07-05T21:17:00.232696",
@@ -142,5 +136,11 @@
     "timestamp": "2025-07-11T18:27:00.320090",
     "link_count": 12,
     "last_updated": "2025-07-11T18:27:00.320090"
+  },
+  "77d01fca1f8ecfaa7bf10f3f1c439fac": {
+    "match_title": "Palmeiras vs Chelsea",
+    "timestamp": "2025-07-12T12:35:48.108461",
+    "link_count": 3,
+    "last_updated": "2025-07-12T12:35:48.108461"
   }
 }
