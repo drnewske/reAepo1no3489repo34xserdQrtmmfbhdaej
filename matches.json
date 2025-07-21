@@ -1,5 +1,24 @@
 [
   {
+    "match": "USA vs Costa Rica",
+    "date": "Sunday Jun 29, 2025",
+    "competition": "Gold Cup",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://www.youtube.com/embed/jVvHhOWBaK4"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://gofile.io/d/NDarCo"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://www.youtube.com/embed/6l0aiY1NM2A"
+      }
+    ]
+  },
+  {
     "match": "Chelsea vs PSG",
     "date": "Sunday Jul 13, 2025",
     "competition": "FIFA Club World Cup",
