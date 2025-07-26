@@ -1,5 +1,24 @@
 [
   {
+    "match": "Manchester United vs Leeds",
+    "date": "Saturday Jul 19, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://ok.ru/videoembed/9913129372247"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://smoothpre.com/s/essfl1a7523q"
+      },
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://ok.ru/videoembed/9913134746199"
+      }
+    ]
+  },
+  {
     "match": "Fluminense vs Al Hilal",
     "date": "Friday Jul 4, 2025",
     "competition": "FIFA Club World Cup",
