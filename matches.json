@@ -1,5 +1,39 @@
 [
   {
+    "match": "Mexico vs Honduras",
+    "date": "Thursday Jul 3, 2025",
+    "competition": "Gold Cup",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://www.youtube.com/embed/XxwiXZe25ME"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://www.youtube.com/embed/BBP5bBZc8eU"
+      }
+    ]
+  },
+  {
+    "match": "USA vs Guatemala",
+    "date": "Wednesday Jul 2, 2025",
+    "competition": "Gold Cup",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://www.youtube.com/embed/iGXyoYBvbkk"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://gofile.io/d/f3TZFo"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://www.youtube.com/embed/BI2JFJu8R4E"
+      }
+    ]
+  },
+  {
     "match": "Manchester United vs Bournemouth",
     "date": "Thursday Jul 31, 2025",
     "competition": "Club Friendlies",
