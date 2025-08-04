@@ -1,5 +1,16 @@
 [
   {
+    "match": "Daegu vs Barcelona",
+    "date": "Monday Aug 4, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://www.youtube.com/embed/2KrS1i3OYs4"
+      }
+    ]
+  },
+  {
     "match": "Manchester United vs Everton",
     "date": "N/A",
     "competition": "Premier League",
