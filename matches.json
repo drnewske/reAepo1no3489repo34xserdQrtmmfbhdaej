@@ -1,5 +1,31 @@
 [
   {
+    "match": "Vissel Kobe vs Barcelona",
+    "date": "Sunday Jul 27, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://www.youtube.com/embed/"
+      }
+    ]
+  },
+  {
+    "match": "Preston vs Liverpool",
+    "date": "Sunday Jul 13, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10135331343085"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9mwzvc"
+      }
+    ]
+  },
+  {
     "match": "Arsenal vs Newcastle",
     "date": "Sunday May 18, 2025",
     "competition": "Premier League",
