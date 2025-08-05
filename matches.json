@@ -1,5 +1,28 @@
 [
   {
+    "match": "Liverpool vs Athletic Bilbao",
+    "date": "Monday Aug 4, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Match 1 - English",
+        "url": "http://ok.ru/videoembed/9957074471511"
+      },
+      {
+        "label": "Match 1 - English",
+        "url": "https://ok.ru/videoembed/9957074471511"
+      },
+      {
+        "label": "Match 2 - English",
+        "url": "http://ok.ru/videoembed/9957533682263"
+      },
+      {
+        "label": "Match 2 - English",
+        "url": "https://ok.ru/videoembed/9957533682263"
+      }
+    ]
+  },
+  {
     "match": "Daegu vs Barcelona",
     "date": "Monday Aug 4, 2025",
     "competition": "Club Friendlies",
