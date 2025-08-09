@@ -1,10 +1,4 @@
 {
-  "77d01fca1f8ecfaa7bf10f3f1c439fac": {
-    "match_title": "Palmeiras vs Chelsea",
-    "timestamp": "2025-08-02T12:37:43.150967",
-    "link_count": 3,
-    "last_updated": "2025-08-02T12:37:43.150967"
-  },
   "5d73bae0013558a8cd40f2bb0c6d4080": {
     "match_title": "Manchester United vs Leeds",
     "timestamp": "2025-08-02T18:27:19.811763",
@@ -178,5 +172,11 @@
     "timestamp": "2025-08-08T12:41:48.770352",
     "link_count": 1,
     "last_updated": "2025-08-08T12:41:48.770352"
+  },
+  "74c1e9ce2961f41f403dd04afe966786": {
+    "match_title": "Chelsea vs Bayer Leverkusen",
+    "timestamp": "2025-08-09T15:18:23.999938",
+    "link_count": 0,
+    "last_updated": "2025-08-09T15:18:23.999938"
   }
 }
