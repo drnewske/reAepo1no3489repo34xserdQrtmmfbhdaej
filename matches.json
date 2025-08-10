@@ -107,7 +107,12 @@
     "match": "Palermo vs Manchester City",
     "date": "Saturday Aug 9, 2025",
     "competition": "Club Friendlies",
-    "links": []
+    "links": [
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10240257362479"
+      }
+    ]
   },
   {
     "match": "Arsenal vs Athletic Bilbao",
