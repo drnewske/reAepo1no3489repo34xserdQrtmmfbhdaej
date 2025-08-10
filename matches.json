@@ -1,5 +1,37 @@
 [
   {
+    "match": "Leeds vs AC Milan",
+    "date": "Saturday Aug 9, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://gofile.io/d/XIEgqk"
+      }
+    ]
+  },
+  {
+    "match": "Palermo vs Manchester City",
+    "date": "Saturday Aug 9, 2025",
+    "competition": "Club Friendlies",
+    "links": []
+  },
+  {
+    "match": "Arsenal vs Athletic Bilbao",
+    "date": "Saturday Aug 9, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://ok.ru/videoembed/9973047036503"
+      },
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://geo.dailymotion.com/player.html?video=x9oh5bu"
+      }
+    ]
+  },
+  {
     "match": "Manchester United vs Leeds",
     "date": "Saturday Jul 19, 2025",
     "competition": "Club Friendlies",
