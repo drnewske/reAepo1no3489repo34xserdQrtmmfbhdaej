@@ -1,5 +1,50 @@
 [
   {
+    "match": "Barcelona vs Como",
+    "date": "Sunday Aug 10, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - Spanish",
+        "url": "https://www.youtube.com/embed/AWfthXX9NwE"
+      }
+    ]
+  },
+  {
+    "match": "Dortmund vs Juventus",
+    "date": "Sunday Aug 10, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://www.youtube.com/embed/WCaotTUwiWM"
+      }
+    ]
+  },
+  {
+    "match": "Chelsea vs AC Milan",
+    "date": "Sunday Aug 10, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://gofile.io/d/jlkYDO"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://gofile.io/d/TXrXTi"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://movearnpre.com/embed/7om66q13dcdg"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://filemoon.to/e/2zy89tlcegpt"
+      }
+    ]
+  },
+  {
     "match": "Crystal Palace vs Liverpool",
     "date": "N/A",
     "competition": "Premier League",
