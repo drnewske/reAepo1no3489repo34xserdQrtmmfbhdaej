@@ -1,5 +1,55 @@
 [
   {
+    "match": "Monza vs Inter",
+    "date": "Tuesday Aug 12, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - Norwegian",
+        "url": "https://geo.dailymotion.com/player.html?video=x9opqq"
+      },
+      {
+        "label": "Full Match - Norwegian",
+        "url": "https://geo.dailymotion.com/player.html?video=x9opqqw"
+      }
+    ]
+  },
+  {
+    "match": "PSG vs Tottenham",
+    "date": "Wednesday Aug 13, 2025",
+    "competition": "UEFA Super Cup",
+    "links": [
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://ok.ru/videoembed/9984720702039"
+      },
+      {
+        "label": "1st half - English",
+        "url": "https://ok.ru/videoembed/9730728397510"
+      },
+      {
+        "label": "2nd half - English",
+        "url": "https://ok.ru/videoembed/9730728331974"
+      },
+      {
+        "label": "Full Match - French",
+        "url": "https://ok.ru/videoembed/9984734071383"
+      },
+      {
+        "label": "ET & Pen (If Any) - English",
+        "url": "https://ok.ru/videoembed/9730728266438"
+      },
+      {
+        "label": "Post Match",
+        "url": "https://ok.ru/videoembed/9730728463046"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://mega.nz/embed/SoJHiQJJ#JKSIWTt28MtvTa8acMEItsOnvymACWTLvJvzLuRv_cg"
+      }
+    ]
+  },
+  {
     "match": "K-League Stars vs Newcastle",
     "date": "Wednesday Jul 30, 2025",
     "competition": "Club Friendlies",
