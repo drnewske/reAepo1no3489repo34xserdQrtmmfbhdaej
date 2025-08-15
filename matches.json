@@ -1,5 +1,35 @@
 [
   {
+    "match": "Sporting CP vs Benfica",
+    "date": "Thursday Jul 31, 2025",
+    "competition": "Portuguese Super Cup",
+    "links": [
+      {
+        "label": "Full Match - Portuguese",
+        "url": "https://ok.ru/videoembed/9946744949335"
+      },
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://ok.ru/videoembed/9946782894679"
+      }
+    ]
+  },
+  {
+    "match": "Perth Glory vs AC Milan",
+    "date": "Thursday Jul 31, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://gofile.io/d/m0PbxJ"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9ocv2a"
+      }
+    ]
+  },
+  {
     "match": "Newcastle vs Atletico Madrid",
     "date": "Saturday Aug 9, 2025",
     "competition": "Club Friendlies",
