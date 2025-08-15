@@ -1,5 +1,27 @@
 [
   {
+    "match": "Newcastle vs Atletico Madrid",
+    "date": "Saturday Aug 9, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9os030"
+      }
+    ]
+  },
+  {
+    "match": "Manchester United vs Fiorentina",
+    "date": "Saturday Aug 9, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9orxeq"
+      }
+    ]
+  },
+  {
     "match": "Arsenal vs Villarreal",
     "date": "Wednesday Aug 6, 2025",
     "competition": "Club Friendlies",
