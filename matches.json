@@ -1,5 +1,32 @@
 [
   {
+    "match": "Liverpool vs Bournemouth",
+    "date": "Friday Aug 15, 2025",
+    "competition": "Premier League",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://ok.ru/videoembed/9991151487575"
+      },
+      {
+        "label": "Full Match - German",
+        "url": "https://ok.ru/videoembed/9991144671831"
+      },
+      {
+        "label": "1st half - English",
+        "url": "https://ok.ru/videoembed/9737587526342"
+      },
+      {
+        "label": "Extended Highlight",
+        "url": "https://mivalyo.com/s/6ogplv1gg3xu"
+      },
+      {
+        "label": "2nd half - English",
+        "url": "https://ok.ru/videoembed/9737587591878"
+      }
+    ]
+  },
+  {
     "match": "Bayern Munich vs Tottenham",
     "date": "Thursday Aug 7, 2025",
     "competition": "Club Friendlies",
