@@ -1,5 +1,77 @@
 [
   {
+    "match": "Brighton vs Fulham",
+    "date": "Saturday Mar 8, 2025",
+    "competition": "Premier League",
+    "links": [
+      {
+        "label": "Full Match - Russian",
+        "url": "https://cybervynx.com/e/rbq3dhsqjxj3"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://smoothpre.com/s/qup5xyholato"
+      },
+      {
+        "label": "Full Match",
+        "url": "https://ok.ru/videoembed/9461352893159"
+      }
+    ]
+  },
+  {
+    "match": "Inter vs Olympiacos Piraeus",
+    "date": "Saturday Aug 16, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - Norwegian",
+        "url": "https://geo.dailymotion.com/player.html?video=x9owj5a"
+      }
+    ]
+  },
+  {
+    "match": "Atalanta vs Juventus",
+    "date": "N/A",
+    "competition": "Serie A",
+    "links": [
+      {
+        "label": "[RU] Full Match",
+        "url": "https://ok.ru/videoembed/9199160658450"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://dooodster.com/e/k4ss1ymuevnv"
+      },
+      {
+        "label": "Highlights",
+        "url": "https://ok.ru/videoembed/8593604414048"
+      },
+      {
+        "label": "Highlights",
+        "url": "https://dooodster.com/e/dvbyg3kpp887"
+      }
+    ]
+  },
+  {
+    "match": "Leeds vs AC Milan",
+    "date": "Saturday Aug 9, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://gofile.io/d/XIEgqk"
+      },
+      {
+        "label": "Full Match Part 1 - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9oinku"
+      },
+      {
+        "label": "Full Match Part 2 - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9oimju"
+      }
+    ]
+  },
+  {
     "match": "Stuttgart vs Bayern Munich",
     "date": "Friday Feb 28, 2025",
     "competition": "Bundesliga",
@@ -111,8 +183,28 @@
         "url": "https://ok.ru/videoembed/9994390211159"
       },
       {
+        "label": "1st half - English",
+        "url": "https://ok.ru/videoembed/9741299878598"
+      },
+      {
         "label": "Full Match - Arabic",
         "url": "https://ok.ru/videoembed/9994409544279"
+      },
+      {
+        "label": "2nd half - English",
+        "url": "https://ok.ru/videoembed/9741299944134"
+      },
+      {
+        "label": "Post Match",
+        "url": "https://ok.ru/videoembed/9741300075206"
+      },
+      {
+        "label": "Mini Match - English",
+        "url": "https://gofile.io/d/pVP5mc"
+      },
+      {
+        "label": "Mini Match - English",
+        "url": "https://filemoon.sx/e/izj4270uq3e9"
       }
     ]
   },
