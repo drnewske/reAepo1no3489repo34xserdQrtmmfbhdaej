@@ -1,5 +1,20 @@
 [
   {
+    "match": "Barcelona vs Como",
+    "date": "Sunday Aug 10, 2025",
+    "competition": "Club Friendlies",
+    "links": [
+      {
+        "label": "Full Match - Spanish",
+        "url": "https://www.youtube.com/embed/AWfthXX9NwE"
+      },
+      {
+        "label": "Full Match - English",
+        "url": "https://ups2up.fun/embed-4ujc6e1jy757.html"
+      }
+    ]
+  },
+  {
     "match": "Athletic Bilbao vs Sevilla",
     "date": "N/A",
     "competition": "La Liga",
