@@ -1,5 +1,28 @@
 [
   {
+    "match": "Al Nassr vs Al Ittihad",
+    "date": "Wednesday May 7, 2025",
+    "competition": "Saudi Professional League",
+    "links": [
+      {
+        "label": "1st half - Arabic",
+        "url": "https://geo.dailymotion.com/player/xaikw.html?video=x9j55ks"
+      },
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://geo.dailymotion.com/player.html?video=x9j5tc4"
+      },
+      {
+        "label": "2nd half - Arabic",
+        "url": "https://geo.dailymotion.com/player/xaimg.html?video=x9j55ku"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://www.youtube.com/embed/DHPQjhjsfWU"
+      }
+    ]
+  },
+  {
     "match": "Real Madrid vs Osasuna",
     "date": "N/A",
     "competition": "La Liga",
