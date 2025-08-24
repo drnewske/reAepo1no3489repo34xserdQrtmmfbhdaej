@@ -1,5 +1,28 @@
 [
   {
+    "match": "Valencia vs Real Sociedad",
+    "date": "N/A",
+    "competition": "La Liga",
+    "links": [
+      {
+        "label": "[RU] Full Match",
+        "url": "https://ok.ru/videoembed/9543318964908"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://dooodster.com/e/72e5kkpvcq1x"
+      },
+      {
+        "label": "[EN] Highlights",
+        "url": "https://ok.ru/videoembed/9361910008394"
+      },
+      {
+        "label": "[EN] Highlights",
+        "url": "https://dooodster.com/e/byzdefqgzstv"
+      }
+    ]
+  },
+  {
     "match": "DC United vs Inter Miami",
     "date": "Saturday Aug 23, 2025",
     "competition": "Major League Soccer (MLS)",
@@ -72,6 +95,10 @@
       {
         "label": "Extended Highlight",
         "url": "https://ok.ru/videoembed/9878468496072"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/9962890529511"
       }
     ]
   },
