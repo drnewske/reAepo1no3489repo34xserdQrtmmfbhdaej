@@ -1,10 +1,4 @@
 {
-  "70aae4514d6773838c3a9180290e4ab7": {
-    "match_title": "Monza vs Inter",
-    "timestamp": "2025-08-21T03:39:05.310684",
-    "link_count": 2,
-    "last_updated": "2025-08-21T03:39:05.310684"
-  },
   "f8ae383886b01eb12ad38efcad06f473": {
     "match_title": "Fenerbahce vs Benfica",
     "timestamp": "2025-08-21T06:37:05.886155",
@@ -214,5 +208,11 @@
     "timestamp": "2025-08-28T01:21:19.191441",
     "link_count": 3,
     "last_updated": "2025-08-28T01:21:19.191441"
+  },
+  "b70299ff4aa39c1372f3244e15d27562": {
+    "match_title": "Benfica vs Fenerbahce",
+    "timestamp": "2025-08-28T06:27:26.817043",
+    "link_count": 1,
+    "last_updated": "2025-08-28T06:27:26.817043"
   }
 }
