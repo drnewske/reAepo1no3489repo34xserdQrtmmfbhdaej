@@ -1,5 +1,37 @@
 [
   {
+    "match": "Liverpool vs Arsenal",
+    "date": "N/A",
+    "competition": "Club Friendlies",
+    "links": []
+  },
+  {
+    "match": "Nottingham vs West Ham",
+    "date": "Sunday Aug 31, 2025",
+    "competition": "Premier League",
+    "links": [
+      {
+        "label": "Full Match - Russian",
+        "url": "https://haxloppd.com/e/e8auewxvpftk"
+      }
+    ]
+  },
+  {
+    "match": "Brighton vs Manchester City",
+    "date": "Sunday Aug 31, 2025",
+    "competition": "Premier League",
+    "links": [
+      {
+        "label": "Full Match - Russian",
+        "url": "https://davioad.com/e/t6ds3yb0ldo3"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10310656133679"
+      }
+    ]
+  },
+  {
     "match": "Sporting CP vs FC Porto",
     "date": "Saturday Aug 30, 2025",
     "competition": "Liga Portugal",
