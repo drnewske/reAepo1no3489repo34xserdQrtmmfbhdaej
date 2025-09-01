@@ -1,5 +1,16 @@
 [
   {
+    "match": "Seattle Sounders vs Inter Miami",
+    "date": "Monday Sep 1, 2025",
+    "competition": "Leagues Cup",
+    "links": [
+      {
+        "label": "Highlight",
+        "url": "https://www.youtube.com/embed/PYfNULZJQGo"
+      }
+    ]
+  },
+  {
     "match": "Lyon vs Marseille",
     "date": "N/A",
     "competition": "Ligue 1",
