@@ -5,12 +5,6 @@
     "link_count": 4,
     "last_updated": "2025-08-28T09:18:58.063426"
   },
-  "b70299ff4aa39c1372f3244e15d27562": {
-    "match_title": "Benfica vs Fenerbahce",
-    "timestamp": "2025-08-28T06:27:26.817043",
-    "link_count": 1,
-    "last_updated": "2025-08-28T06:27:26.817043"
-  },
   "9c7cda55ca7b4bbabd66f1c7fa2ae4ac": {
     "match_title": "Inter Miami vs Tigres UANL",
     "timestamp": "2025-08-28T15:18:51.029037",
@@ -160,5 +154,11 @@
     "timestamp": "2025-09-01T12:37:59.441152",
     "link_count": 3,
     "last_updated": "2025-09-01T12:37:59.441152"
+  },
+  "b70299ff4aa39c1372f3244e15d27562": {
+    "match_title": "Benfica vs Fenerbahce",
+    "timestamp": "2025-09-04T09:18:12.551921",
+    "link_count": 1,
+    "last_updated": "2025-09-04T09:18:12.551921"
   }
 }
