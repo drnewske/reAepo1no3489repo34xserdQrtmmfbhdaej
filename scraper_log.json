@@ -163,14 +163,26 @@
   },
   "f2de765653ad163c9c87fb68a898d70f": {
     "match_title": "Brazil vs Chile",
-    "timestamp": "2025-09-05T03:29:44.790911",
-    "link_count": 1,
-    "last_updated": "2025-09-05T03:29:44.790911"
+    "timestamp": "2025-09-05T15:17:52.435760",
+    "link_count": 3,
+    "last_updated": "2025-09-05T15:17:52.435760"
   },
   "e66543659cad3f23205e2ee6707baf66": {
     "match_title": "Argentina vs Venezuela",
-    "timestamp": "2025-09-05T03:29:44.790911",
-    "link_count": 1,
-    "last_updated": "2025-09-05T03:29:44.790911"
+    "timestamp": "2025-09-05T15:17:52.435760",
+    "link_count": 3,
+    "last_updated": "2025-09-05T15:17:52.435760"
+  },
+  "04da9096165b946c670e0206d527374e": {
+    "match_title": "Paraguay vs Ecuador",
+    "timestamp": "2025-09-05T15:17:52.435760",
+    "link_count": 2,
+    "last_updated": "2025-09-05T15:17:52.435760"
+  },
+  "20acc95dd112eb8fc1024673fd2588bb": {
+    "match_title": "Colombia vs Bolivia",
+    "timestamp": "2025-09-05T15:17:52.435760",
+    "link_count": 2,
+    "last_updated": "2025-09-05T15:17:52.435760"
   }
 }
