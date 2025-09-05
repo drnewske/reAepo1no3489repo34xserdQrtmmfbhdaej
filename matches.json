@@ -1,5 +1,50 @@
 [
   {
+    "match": "Netherlands vs Poland",
+    "date": "Thursday Sep 4, 2025",
+    "competition": "Netherlands vs Poland",
+    "links": [
+      {
+        "label": "Full Match - Russian",
+        "url": "https://tryzendm.com/e/6kjl2jxsrwbx"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://ok.ru/videoembed/10324023642671"
+      }
+    ]
+  },
+  {
+    "match": "Bulgaria vs Spain",
+    "date": "Thursday Sep 4, 2025",
+    "competition": "Bulgaria vs Spain",
+    "links": [
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://ok.ru/videoembed/10058635479639"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://haxloppd.com/e/u6jkmmifilp2"
+      }
+    ]
+  },
+  {
+    "match": "Slovakia vs Germany",
+    "date": "Thursday Sep 4, 2025",
+    "competition": "Slovakia vs Germany",
+    "links": [
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://ok.ru/videoembed/10058638166615"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://davioad.com/e/yh57zzz0mq1c"
+      }
+    ]
+  },
+  {
     "match": "Benfica vs Fenerbahce",
     "date": "Wednesday Aug 27, 2025",
     "competition": "Champions League",
