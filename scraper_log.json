@@ -151,20 +151,32 @@
   },
   "8ce90e6bdec68310ce7048913ab2e7f1": {
     "match_title": "Netherlands vs Poland",
-    "timestamp": "2025-09-05T01:19:24.288673",
-    "link_count": 2,
-    "last_updated": "2025-09-05T01:19:24.288673"
+    "timestamp": "2025-09-05T03:29:44.790911",
+    "link_count": 3,
+    "last_updated": "2025-09-05T03:29:44.790911"
   },
   "f1369affa8968948fadda16276ca5d58": {
     "match_title": "Bulgaria vs Spain",
-    "timestamp": "2025-09-05T01:19:24.288673",
-    "link_count": 2,
-    "last_updated": "2025-09-05T01:19:24.288673"
+    "timestamp": "2025-09-05T03:29:44.790911",
+    "link_count": 3,
+    "last_updated": "2025-09-05T03:29:44.790911"
   },
   "f8d21ca8e7a746ecd2d0b5a909ddb3ac": {
     "match_title": "Slovakia vs Germany",
-    "timestamp": "2025-09-05T01:19:24.288673",
-    "link_count": 2,
-    "last_updated": "2025-09-05T01:19:24.288673"
+    "timestamp": "2025-09-05T03:29:44.790911",
+    "link_count": 3,
+    "last_updated": "2025-09-05T03:29:44.790911"
+  },
+  "f2de765653ad163c9c87fb68a898d70f": {
+    "match_title": "Brazil vs Chile",
+    "timestamp": "2025-09-05T03:29:44.790911",
+    "link_count": 1,
+    "last_updated": "2025-09-05T03:29:44.790911"
+  },
+  "e66543659cad3f23205e2ee6707baf66": {
+    "match_title": "Argentina vs Venezuela",
+    "timestamp": "2025-09-05T03:29:44.790911",
+    "link_count": 1,
+    "last_updated": "2025-09-05T03:29:44.790911"
   }
 }

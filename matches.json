@@ -1,5 +1,27 @@
 [
   {
+    "match": "Brazil vs Chile",
+    "date": "Friday Sep 5, 2025",
+    "competition": "Brazil vs Chile",
+    "links": [
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://ok.ru/videoembed/10058880387671"
+      }
+    ]
+  },
+  {
+    "match": "Argentina vs Venezuela",
+    "date": "Thursday Sep 4, 2025",
+    "competition": "Argentina vs Venezuela",
+    "links": [
+      {
+        "label": "Full Match - English",
+        "url": "https://ok.ru/videoembed/10058838772311"
+      }
+    ]
+  },
+  {
     "match": "Netherlands vs Poland",
     "date": "Thursday Sep 4, 2025",
     "competition": "Netherlands vs Poland",
@@ -11,6 +33,10 @@
       {
         "label": "Full Match - Russian",
         "url": "https://ok.ru/videoembed/10324023642671"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://davioad.com/e/0q1m0ccy6x2n"
       }
     ]
   },
@@ -26,6 +52,10 @@
       {
         "label": "Full Match - Russian",
         "url": "https://haxloppd.com/e/u6jkmmifilp2"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://kravaxxa.com/e/okhtf64wy9l0"
       }
     ]
   },
@@ -41,6 +71,10 @@
       {
         "label": "Full Match - Russian",
         "url": "https://davioad.com/e/yh57zzz0mq1c"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://haxloppd.com/e/5bx1yp1bzxkr"
       }
     ]
   },
