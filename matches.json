@@ -1,5 +1,35 @@
 [
   {
+    "match": "Denmark vs Scotland",
+    "date": "Friday Sep 5, 2025",
+    "competition": "Denmark vs Scotland",
+    "links": [
+      {
+        "label": "1st half - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9q2hmu"
+      },
+      {
+        "label": "2nd half - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9q2kcm"
+      }
+    ]
+  },
+  {
+    "match": "Faroe Islands vs Croatia",
+    "date": "Friday Sep 5, 2025",
+    "competition": "Faroe Islands vs Croatia",
+    "links": [
+      {
+        "label": "Full Match - Russian",
+        "url": "https://davioad.com/e/iin1qoasb6pb"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://dumbalag.com/e/a9chlpb5m0jw"
+      }
+    ]
+  },
+  {
     "match": "Uruguay vs Peru",
     "date": "Thursday Sep 4, 2025",
     "competition": "Uruguay vs Peru",
