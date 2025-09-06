@@ -1,5 +1,58 @@
 [
   {
+    "match": "Italy vs Estonia",
+    "date": "Friday Sep 5, 2025",
+    "competition": "Italy vs Estonia",
+    "links": [
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://ok.ru/videoembed/10061744441943"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://haxloppd.com/e/cczngmjr1lbs"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://kravaxxa.com/e/hzn6yavmod31"
+      }
+    ]
+  },
+  {
+    "match": "Liechtenstein vs Belgium",
+    "date": "Thursday Sep 4, 2025",
+    "competition": "Liechtenstein vs Belgium",
+    "links": [
+      {
+        "label": "Full Match - Russian",
+        "url": "https://kravaxxa.com/e/rdvadwiig7di"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://haxloppd.com/e/ln0sbj6tmkc0"
+      }
+    ]
+  },
+  {
+    "match": "Ukraine vs France",
+    "date": "Friday Sep 5, 2025",
+    "competition": "Ukraine vs France",
+    "links": [
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://ok.ru/videoembed/10061744376407"
+      },
+      {
+        "label": "Full Match - Russian",
+        "url": "https://davioad.com/e/tib8vr8x464a"
+      },
+      {
+        "label": "Highlight",
+        "url": "https://dumbalag.com/e/2mkfockr2uqo"
+      }
+    ]
+  },
+  {
     "match": "Paraguay vs Ecuador",
     "date": "Thursday Sep 4, 2025",
     "competition": "Paraguay vs Ecuador",
