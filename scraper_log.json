@@ -1,22 +1,4 @@
 {
-  "c071d5e9d39289b2992d111eeaf991a0": {
-    "match_title": "Nottingham vs West Ham",
-    "timestamp": "2025-08-31T21:14:49.222330",
-    "link_count": 2,
-    "last_updated": "2025-08-31T21:14:49.222330"
-  },
-  "aae236de01cfa4692230d5d4aa8db104": {
-    "match_title": "Brighton vs Manchester City",
-    "timestamp": "2025-08-31T21:14:49.222330",
-    "link_count": 4,
-    "last_updated": "2025-08-31T21:14:49.222330"
-  },
-  "159872596822462d767cb536d51614a5": {
-    "match_title": "Genoa vs Juventus",
-    "timestamp": "2025-08-31T21:14:49.222330",
-    "link_count": 9,
-    "last_updated": "2025-08-31T21:14:49.222330"
-  },
   "f4ae61ba9354211ba00c9c4e9a6ee4d3": {
     "match_title": "Lyon vs Marseille",
     "timestamp": "2025-09-01T01:42:30.696504",
@@ -154,5 +136,35 @@
     "timestamp": "2025-09-07T21:13:46.597511",
     "link_count": 0,
     "last_updated": "2025-09-07T21:13:46.597511"
+  },
+  "56cf1719ac08db44f9c62f0ac678de44": {
+    "match_title": "Poland vs Finland",
+    "timestamp": "2025-09-08T01:23:33.480941",
+    "link_count": 2,
+    "last_updated": "2025-09-08T01:23:33.480941"
+  },
+  "97a8d3a3943fa3ab03c06c9145d409e0": {
+    "match_title": "Belgium vs Kazakhstan",
+    "timestamp": "2025-09-08T01:23:33.480941",
+    "link_count": 2,
+    "last_updated": "2025-09-08T01:23:33.480941"
+  },
+  "6e70fa9396a2e4ce8b8f2938c9570792": {
+    "match_title": "Germany vs Northern Ireland",
+    "timestamp": "2025-09-08T01:23:33.480941",
+    "link_count": 3,
+    "last_updated": "2025-09-08T01:23:33.480941"
+  },
+  "7e91810b3a1944a192a4a5165c84226f": {
+    "match_title": "Turkey vs Spain",
+    "timestamp": "2025-09-08T01:23:33.480941",
+    "link_count": 4,
+    "last_updated": "2025-09-08T01:23:33.480941"
+  },
+  "a516f1c5a38681f166219b598cc90497": {
+    "match_title": "Lithuania vs Netherlands",
+    "timestamp": "2025-09-08T01:23:33.480941",
+    "link_count": 3,
+    "last_updated": "2025-09-08T01:23:33.480941"
   }
 }
