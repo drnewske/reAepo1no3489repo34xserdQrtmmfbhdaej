@@ -1,5 +1,31 @@
 [
   {
+    "match": "Mexico vs Japan",
+    "date": "Sunday Sep 7, 2025",
+    "competition": "International Friendlies",
+    "links": [
+      {
+        "label": "Full Match - Spanish",
+        "url": "https://geo.dailymotion.com/player.html?video=x9q8elw"
+      }
+    ]
+  },
+  {
+    "match": "USA vs South Korea",
+    "date": "Saturday Sep 6, 2025",
+    "competition": "International Friendlies",
+    "links": [
+      {
+        "label": "Full Match Part 1 - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9q8iqa"
+      },
+      {
+        "label": "Full Match Part 2 - English",
+        "url": "https://geo.dailymotion.com/player.html?video=x9q8hkq"
+      }
+    ]
+  },
+  {
     "match": "Israel vs Italy",
     "date": "N/A",
     "competition": "UEFA Nations League",

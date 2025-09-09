@@ -172,5 +172,17 @@
     "timestamp": "2025-09-09T01:20:57.646440",
     "link_count": 2,
     "last_updated": "2025-09-09T01:20:57.646440"
+  },
+  "45bb960fdcd6862070e23468974daf6c": {
+    "match_title": "Mexico vs Japan",
+    "timestamp": "2025-09-09T12:38:41.877503",
+    "link_count": 1,
+    "last_updated": "2025-09-09T12:38:41.877503"
+  },
+  "34632d1a34e8c438b78ff5bb77733c0d": {
+    "match_title": "USA vs South Korea",
+    "timestamp": "2025-09-09T12:38:41.877503",
+    "link_count": 2,
+    "last_updated": "2025-09-09T12:38:41.877503"
   }
 }
