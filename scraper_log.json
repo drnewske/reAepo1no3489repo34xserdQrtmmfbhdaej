@@ -187,9 +187,9 @@
   },
   "6996a7d4a4384143296a473c192a2922": {
     "match_title": "Norway vs Moldova",
-    "timestamp": "2025-09-10T01:18:25.801615",
-    "link_count": 2,
-    "last_updated": "2025-09-10T01:18:25.801615"
+    "timestamp": "2025-09-10T03:26:21.569893",
+    "link_count": 3,
+    "last_updated": "2025-09-10T03:26:21.569893"
   },
   "593eaf10c5c72e9d6c5e6e0dc4ee20f9": {
     "match_title": "France vs Iceland",
@@ -208,5 +208,17 @@
     "timestamp": "2025-09-10T01:18:25.801615",
     "link_count": 3,
     "last_updated": "2025-09-10T01:18:25.801615"
+  },
+  "12c7b5d9e3a99c089697b45333240185": {
+    "match_title": "Bolivia vs Brazil",
+    "timestamp": "2025-09-10T03:26:21.569893",
+    "link_count": 1,
+    "last_updated": "2025-09-10T03:26:21.569893"
+  },
+  "3e984e00082c3885e22e40b63bf4f575": {
+    "match_title": "Ecuador vs Argentina",
+    "timestamp": "2025-09-10T03:26:21.569893",
+    "link_count": 1,
+    "last_updated": "2025-09-10T03:26:21.569893"
   }
 }

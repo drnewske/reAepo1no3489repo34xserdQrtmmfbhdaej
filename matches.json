@@ -1,5 +1,27 @@
 [
   {
+    "match": "Bolivia vs Brazil",
+    "date": "Tuesday Sep 9, 2025",
+    "competition": "Bolivia vs Brazil",
+    "links": [
+      {
+        "label": "Full Match - Portuguese",
+        "url": "https://ok.ru/videoembed/10074958137943"
+      }
+    ]
+  },
+  {
+    "match": "Ecuador vs Argentina",
+    "date": "Tuesday Sep 9, 2025",
+    "competition": "Ecuador vs Argentina",
+    "links": [
+      {
+        "label": "Full Match - Arabic",
+        "url": "https://ok.ru/videoembed/10074907609687"
+      }
+    ]
+  },
+  {
     "match": "Norway vs Moldova",
     "date": "Tuesday Sep 9, 2025",
     "competition": "Norway vs Moldova",
@@ -7,6 +29,10 @@
       {
         "label": "Full Match - Russian",
         "url": "https://dumbalag.com/e/09phxtsu7t3k"
+      },
+      {
+        "label": "Full Match - Spanish",
+        "url": "https://ok.ru/videoembed/10074920782423"
       },
       {
         "label": "Highlight",
