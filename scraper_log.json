@@ -217,14 +217,26 @@
   },
   "3e984e00082c3885e22e40b63bf4f575": {
     "match_title": "Ecuador vs Argentina",
-    "timestamp": "2025-09-10T03:26:21.569893",
-    "link_count": 1,
-    "last_updated": "2025-09-10T03:26:21.569893"
+    "timestamp": "2025-09-10T15:18:06.125444",
+    "link_count": 3,
+    "last_updated": "2025-09-10T15:18:06.125444"
   },
   "9a04fa9d8f22b31cee3dfa83ccf19002": {
     "match_title": "USA vs Japan",
     "timestamp": "2025-09-10T09:18:31.294585",
     "link_count": 0,
     "last_updated": "2025-09-10T09:18:31.294585"
+  },
+  "b0c0138caa6952def1d00fc0a8aec6b6": {
+    "match_title": "Venezuela vs Colombia",
+    "timestamp": "2025-09-10T15:18:06.125444",
+    "link_count": 2,
+    "last_updated": "2025-09-10T15:18:06.125444"
+  },
+  "1c609b79575fae4bc0293faa1d0ea0a8": {
+    "match_title": "Chile vs Uruguay",
+    "timestamp": "2025-09-10T15:18:06.125444",
+    "link_count": 2,
+    "last_updated": "2025-09-10T15:18:06.125444"
   }
 }
