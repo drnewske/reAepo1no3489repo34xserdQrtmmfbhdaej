@@ -2,8 +2,8 @@ name: SoccerFull Scraper
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # Every hour, on the hour (UTC)
-  workflow_dispatch:  # Allow manual trigger from UI
+    - cron: '0 * * * *'  # Runs every hour, on the hour (UTC)
+  workflow_dispatch:  # Allows manual triggering from the GitHub UI
 
 jobs:
   scrape:
@@ -24,6 +24,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run scraper
+        # NOTE: Ensure your scraper script is named scraper.py
+        # or update the filename in the command below.
         run: |
           python scraper.py
 
@@ -32,6 +34,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add matches.json scraper_log.json
+          # The following lines will only commit if there are actual changes to the files
           git diff --staged --quiet || git commit -m "Update matches data - $(date -u)"
           git push || echo "Nothing to push"
         env:
