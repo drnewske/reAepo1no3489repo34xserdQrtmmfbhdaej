@@ -1,5 +1,12 @@
 [
   {
+    "match_id": "032f31b39dd6b8dd6976db56c3f1fb0e",
+    "match": "Manchester City vs Manchester United",
+    "date": "N/A",
+    "competition": "Premier League",
+    "links": []
+  },
+  {
     "match_id": "c1adf4ffe7bb915be8d258b3421e3c80",
     "match": "Atletico Madrid vs Villarreal",
     "date": "Saturday Sep 13, 2025",
@@ -25508,13 +25515,6 @@
       }
     ],
     "match_id": "30748f1c0923f842e9bb22304dc21e73"
-  },
-  {
-    "match": "Manchester City vs Manchester United",
-    "date": "N/A",
-    "competition": "Premier League",
-    "links": [],
-    "match_id": "032f31b39dd6b8dd6976db56c3f1fb0e"
   },
   {
     "match": "Union Berlin vs Bochum",
