@@ -4,7 +4,7 @@ import re
 import time
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime
 from urllib.parse import urljoin
 import hashlib
 
@@ -37,10 +37,19 @@ class SoccerFullScraper:
         with open(self.log_file, 'w', encoding='utf-8') as f:
             json.dump(self.log_data, f, indent=2, ensure_ascii=False)
 
-    def generate_match_id(self, match_title, date, competition):
-        """Generate a unique and deterministic ID for a match based on its core properties."""
+    # --- MODIFIED: ID GENERATION LOGIC ---
+    # This is the new, primary method for generating a unique ID.
+    # It uses the match's post URL, which is unique for each posting.
+    def generate_match_id(self, match_url):
+        """Generate a unique and deterministic ID for a match based on its unique post URL."""
+        return hashlib.md5(match_url.strip().encode('utf-8')).hexdigest()
+
+    # This method is kept only to handle very old entries in matches.json that might not have an ID.
+    def _generate_legacy_id(self, match_title, date, competition):
+        """Generate a legacy ID for old data based on content."""
         match_string = f"{match_title}|{date}|{competition}".lower().strip()
         return hashlib.md5(match_string.encode('utf-8')).hexdigest()
+    # --- END MODIFICATION ---
 
     def is_same_day(self, timestamp1, timestamp2):
         """Check if two timestamps are from the same day"""
@@ -64,14 +73,14 @@ class SoccerFullScraper:
             if self.is_same_day(current_timestamp, logged_timestamp):
                 return True, "same_day_update"
             
-            # If it's from a different day within 7 days, skip (duplicate)
+            # If it's from a different day within 7 days, skip (duplicate post)
             logged_date = datetime.fromisoformat(logged_timestamp)
             current_date = datetime.fromisoformat(current_timestamp)
             
             if (current_date - logged_date).days < 7:
                 return False, "duplicate"
         
-        # New match
+        # New match (we haven't seen this URL recently)
         return True, "new_match"
 
     def log_match(self, match_id, match_title, timestamp, link_count=0):
@@ -89,8 +98,12 @@ class SoccerFullScraper:
         to_remove = []
         
         for match_id, data in self.log_data.items():
-            logged_date = datetime.fromisoformat(data['timestamp'])
-            if (current_time - logged_date).days >= 7:
+            try:
+                logged_date = datetime.fromisoformat(data['timestamp'])
+                if (current_time - logged_date).days >= 7:
+                    to_remove.append(match_id)
+            except (ValueError, TypeError):
+                # Handle potential malformed timestamps in the log
                 to_remove.append(match_id)
         
         for match_id in to_remove:
@@ -288,22 +301,19 @@ class SoccerFullScraper:
             
             match_details = self.extract_match_details(match['url'])
             if match_details:
-                # Generate ID for duplicate detection and unique identification
-                match_id = self.generate_match_id(
-                    match['title'], 
-                    match_details['date'], 
-                    match_details['competition']
-                )
+                # --- MODIFIED: Use the new URL-based ID generation ---
+                match_id = self.generate_match_id(match['url'])
                 
                 should_update, reason = self.should_update_match(match_id, current_timestamp)
                 
                 if not should_update and reason == "duplicate":
-                    print(f"Skipping duplicate match: {match['title']}")
+                    print(f"Skipping duplicate match post: {match['title']}")
                     continue
                 
-                # Create match info object, now including the unique match_id
+                # --- MODIFIED: Add the 'url' field to the saved data ---
                 match_info = {
                     'match_id': match_id,
+                    'url': match['url'], # Save the URL for future reference
                     'match': match['title'],
                     'date': match_details['date'],
                     'competition': match_details['competition'],
@@ -322,7 +332,7 @@ class SoccerFullScraper:
                         print(f"⏭️  Same-day match has same or fewer links, skipping: {match['title']} ({new_link_count} links)")
                         continue
                 else: # New match
-                    print(f"✅ New match: {match['title']}")
+                    print(f"✅ New match post: {match['title']}")
                     self.all_matches.append(match_info)
                     self.log_match(match_id, match['title'], current_timestamp, len(match_details['links']))
                 
@@ -355,7 +365,6 @@ class SoccerFullScraper:
         Save all scraped data to a JSON file, merging with existing data,
         adding unique IDs, and removing all duplicates.
         """
-        # Load existing matches from the file
         existing_matches = self.load_existing_matches()
 
         # Combine matches with a clear priority:
@@ -368,12 +377,12 @@ class SoccerFullScraper:
         seen_ids = set()
         
         for match in combined_matches:
-            # Get the match_id. If it's a legacy entry without one, generate it.
             match_id = match.get('match_id')
             if not match_id:
+                # --- MODIFIED: Handle legacy items from JSON file that have no ID ---
+                # These won't have a URL, so we must use the old content-based method.
                 try:
-                    # Generate and add the ID to the match object for future runs
-                    match_id = self.generate_match_id(match['match'], match['date'], match['competition'])
+                    match_id = self._generate_legacy_id(match['match'], match['date'], match['competition'])
                     match['match_id'] = match_id
                 except KeyError:
                     print(f"Warning: Skipping malformed legacy match object: {match}")
@@ -395,7 +404,7 @@ class SoccerFullScraper:
 
     def run(self):
         """Main execution function"""
-        print("SoccerFull.net Match Data Scraper (Homepage Only) - With Unique IDs & De-duplication")
+        print("SoccerFull.net Match Data Scraper (Homepage Only) - With Unique URL-Based IDs")
         print("=" * 80)
         
         success = self.scrape_homepage()
@@ -403,7 +412,7 @@ class SoccerFullScraper:
         if success and (self.all_matches or self.updated_matches):
             self.save_to_json()
         elif success:
-            print("\nNo new matches found and no updates needed.")
+            print("\nNo new or updated match posts found.")
             # Ensure the file exists even if no new matches are found
             if not os.path.exists(self.output_file):
                  with open(self.output_file, 'w', encoding='utf-8') as f:
