@@ -5,7 +5,12 @@
     "match": "Inter Miami vs Seattle Sounders",
     "date": "Tuesday Sep 16, 2025",
     "competition": "Major League Soccer (MLS)",
-    "links": []
+    "links": [
+      {
+        "label": "Highlight",
+        "url": "https://www.youtube.com/embed/ewSjMbKgtaA"
+      }
+    ]
   },
   {
     "match_id": "3f81d66efb6d92c665487226e42e2a80",
