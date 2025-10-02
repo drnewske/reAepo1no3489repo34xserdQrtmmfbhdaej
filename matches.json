@@ -1,5 +1,218 @@
 [
   {
+    "match_id": "2ec2d77ec57a1ea5458c4c1c8b7bbcdd",
+    "url": "https://soccerfull.net/bayer-leverkusen-vs-psv-2249.html",
+    "match": "Bayer Leverkusen vs PSV",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "b5b4e9cc0d4b40a7765ec896794654af",
+    "url": "https://soccerfull.net/as-monaco-vs-manchester-city-2248.html",
+    "match": "AS Monaco vs Manchester City",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "57bb7f59b1c0edaf1cb00ff05d4c3063",
+    "url": "https://soccerfull.net/arsenal-vs-olympiacos-piraeus-2247.html",
+    "match": "Arsenal vs Olympiacos Piraeus",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "7a2888dfcfcc22121ebb5df706c8debf",
+    "url": "https://soccerfull.net/villarreal-vs-juventus-2246.html",
+    "match": "Villarreal vs Juventus",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "ecddcc495cc4083945b3bfcb95165d97",
+    "url": "https://soccerfull.net/borussia-dortmund-vs-athletic-bilbao-2245.html",
+    "match": "Borussia Dortmund vs Athletic Bilbao",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "bb7774d38184424beba98afda2c840bb",
+    "url": "https://soccerfull.net/napoli-vs-sporting-lisbon-2244.html",
+    "match": "Napoli vs Sporting Lisbon",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "b63b3070329aba0d885a5b1b1ca19407",
+    "url": "https://soccerfull.net/barcelona-vs-psg-2243.html",
+    "match": "Barcelona vs PSG",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "18ff04b2515064f7f6967ad0db2f308d",
+    "url": "https://soccerfull.net/qarabag-vs-copenhagen-2242.html",
+    "match": "Qarabag vs Copenhagen",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "d130670dc682ae1135ba80e95cf5165f",
+    "url": "https://soccerfull.net/royale-union-sg-vs-newcastle-united-2241.html",
+    "match": "Royale Union SG vs Newcastle United",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "f2d836b16eb719ee305feadc7b1f8ba5",
+    "url": "https://soccerfull.net/galatasaray-vs-liverpool-2240.html",
+    "match": "Galatasaray vs Liverpool",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "20d5787f50d785ba8cbaa18536e3b727",
+    "url": "https://soccerfull.net/atletico-madrid-vs-eintracht-frankfurt-2239.html",
+    "match": "Atletico Madrid vs Eintracht Frankfurt",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "15f31fec719ad86115e1ab29dbf00bb3",
+    "url": "https://soccerfull.net/pafos-vs-bayern-munich-2238.html",
+    "match": "Pafos vs Bayern Munich",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "6d2c24ee8ab3266ac39a5e7d0206fe66",
+    "url": "https://soccerfull.net/chelsea-vs-benfica-2237.html",
+    "match": "Chelsea vs Benfica",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "5f2d1f2b80b167b79cabd4acb3e59508",
+    "url": "https://soccerfull.net/inter-vs-slavia-prague-2236.html",
+    "match": "Inter vs Slavia Prague",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "4113e8d81010dac765bca13c12c9cbdc",
+    "url": "https://soccerfull.net/olympique-marseille-vs-ajax-2235.html",
+    "match": "Olympique Marseille vs Ajax",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": [
+      {
+        "label": "[RU] Full Match",
+        "url": "https://ok.ru/videoembed/10415584184879"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://cavanhabg.com/e/e83oyb2ggsb2"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://ok.ru/videoembed/11073845856784"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://kravaxxa.com/e/i61mosvyj9bb"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://dingtezuni.com/embed/twfch76kw56q"
+      }
+    ]
+  },
+  {
+    "match_id": "b341e5616129744bdc2eb00eeb094645",
+    "url": "https://soccerfull.net/atalanta-vs-club-brugge-2234.html",
+    "match": "Atalanta vs Club Brugge",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "7008bfd971ad5bdda7ca969278610eee",
+    "url": "https://soccerfull.net/kairat-almaty-vs-real-madrid-2233.html",
+    "match": "Kairat Almaty vs Real Madrid",
+    "date": "N/A",
+    "competition": "Champions League",
+    "links": []
+  },
+  {
+    "match_id": "555a0c4d8867d59d2ac80e188170130a",
+    "url": "https://soccerfull.net/ac-milan-vs-napoli-2232.html",
+    "match": "AC Milan vs Napoli",
+    "date": "N/A",
+    "competition": "Serie A",
+    "links": []
+  },
+  {
+    "match_id": "5c36e2e270ee2cc605d5ac3151c4880f",
+    "url": "https://soccerfull.net/barcelona-vs-real-sociedad-2231.html",
+    "match": "Barcelona vs Real Sociedad",
+    "date": "N/A",
+    "competition": "La Liga",
+    "links": []
+  },
+  {
+    "match_id": "44425275450a9744cc2757bb47280af7",
+    "url": "https://soccerfull.net/newcastle-united-vs-arsenal-2230.html",
+    "match": "Newcastle United vs Arsenal",
+    "date": "N/A",
+    "competition": "Premier League",
+    "links": []
+  },
+  {
+    "match_id": "50044af742a2de5db8d74dced9fd6eb1",
+    "url": "https://soccerfull.net/as-roma-vs-hellas-verona-2229.html",
+    "match": "AS Roma vs Hellas Verona",
+    "date": "N/A",
+    "competition": "Serie A",
+    "links": []
+  },
+  {
+    "match_id": "8c0f5285a78bb2c8d15db7661cfb0411",
+    "url": "https://soccerfull.net/aston-villa-vs-fulham-2228.html",
+    "match": "Aston Villa vs Fulham",
+    "date": "N/A",
+    "competition": "Premier League",
+    "links": []
+  },
+  {
+    "match_id": "12ef6a61e5aeed6524150a910b05125e",
+    "url": "https://soccerfull.net/rayo-vallecano-vs-sevilla-2227.html",
+    "match": "Rayo Vallecano vs Sevilla",
+    "date": "N/A",
+    "competition": "LaLiga",
+    "links": []
+  },
+  {
+    "match_id": "02824f0382f3ba5a9f4320aacec65ccd",
+    "url": "https://soccerfull.net/psg-vs-auxerre-2226.html",
+    "match": "PSG vs Auxerre",
+    "date": "N/A",
+    "competition": "Ligue 1",
+    "links": []
+  },
+  {
     "match_id": "b8d1598dc0ad2f0c568a0a6ba4e8b50d",
     "url": "https://soccerfull.net/bayern-munich-vs-werder-bremen-2178.html",
     "match": "Bayern Munich vs Werder Bremen",
