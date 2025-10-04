@@ -286,5 +286,35 @@
     "timestamp": "2025-10-02T22:08:43.703131",
     "link_count": 0,
     "last_updated": "2025-10-02T22:08:43.703131"
+  },
+  "8e64d5e438986b06d6db8897f6120d09": {
+    "match_title": "Leeds United vs Tottenham Hotspur",
+    "timestamp": "2025-10-04T16:10:16.647026",
+    "link_count": 3,
+    "last_updated": "2025-10-04T16:10:16.647026"
+  },
+  "df8ae6970b468d4bc5a72caeebf6db98": {
+    "match_title": "AFC Bournemouth vs Fulham",
+    "timestamp": "2025-10-04T16:10:16.647026",
+    "link_count": 3,
+    "last_updated": "2025-10-04T16:10:16.647026"
+  },
+  "7ac63a38874b5c34ebd9958ef3d770a7": {
+    "match_title": "Osasuna vs Getafe",
+    "timestamp": "2025-10-04T16:10:16.647026",
+    "link_count": 2,
+    "last_updated": "2025-10-04T16:10:16.647026"
+  },
+  "7db6e6325e98751e4152724054c34e19": {
+    "match_title": "Hellas Verona vs Sassuolo",
+    "timestamp": "2025-10-04T16:10:16.647026",
+    "link_count": 2,
+    "last_updated": "2025-10-04T16:10:16.647026"
+  },
+  "50e7bb5dbab520ce27ca3f8930e84ff1": {
+    "match_title": "Hoffenheim vs FC Koln",
+    "timestamp": "2025-10-04T16:10:16.647026",
+    "link_count": 2,
+    "last_updated": "2025-10-04T16:10:16.647026"
   }
 }
