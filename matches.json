@@ -1,5 +1,26 @@
 [
   {
+    "match_id": "d0843121937a1c2aba3775092fbda9b7",
+    "url": "https://soccerfull.net/lens-vs-olympique-marseille-2396.html",
+    "match": "Lens vs Olympique Marseille",
+    "date": "N/A",
+    "competition": "Ligue 1",
+    "links": []
+  },
+  {
+    "match_id": "a9376d1ee7ffd9815f3e9e12131dbf57",
+    "url": "https://soccerfull.net/augsburg-vs-rb-leipzig-2395.html",
+    "match": "Augsburg vs RB Leipzig",
+    "date": "N/A",
+    "competition": "Bundesliga",
+    "links": [
+      {
+        "label": "[EN] Full Match",
+        "url": "https://dhcplay.com/e/lczj51lywuwk"
+      }
+    ]
+  },
+  {
     "match_id": "da196f1041659c9679d7293eb9e1f923",
     "url": "https://soccerfull.net/brentford-vs-liverpool-2394.html",
     "match": "Brentford vs Liverpool",
