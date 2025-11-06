@@ -1,5 +1,214 @@
 [
   {
+    "match_id": "ee30a9df911601f9fcbba293aca33819",
+    "url": "https://soccerfull.net/olympique-marseille-vs-atalanta-2483.html",
+    "match": "Olympique Marseille vs Atalanta",
+    "date": "N/A",
+    "competition": "UEFA Champions League",
+    "links": [
+      {
+        "label": "[RU] Full Match",
+        "url": "https://ok.ru/videoembed/10038226062019"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://dhcplay.com/e/5b31p11ceir6"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://ok.ru/videoembed/11266873362960"
+      }
+    ]
+  },
+  {
+    "match_id": "f04d89fcd4d719f42d2edfa5f35019f3",
+    "url": "https://soccerfull.net/club-brugge-vs-barcelona-2482.html",
+    "match": "Club Brugge vs Barcelona",
+    "date": "N/A",
+    "competition": "UEFA Champions League",
+    "links": [
+      {
+        "label": "[EN] Full Match",
+        "url": "https://ok.ru/videoembed/10308237527783"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://ok.ru/videoembed/10038240348867"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://dhcplay.com/e/co7litbx83ih"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://ok.ru/videoembed/11266895907344"
+      }
+    ]
+  },
+  {
+    "match_id": "37833124d8d2d8a224f90deca5fceb85",
+    "url": "https://soccerfull.net/manchester-city-vs-borussia-dortmund-2481.html",
+    "match": "Manchester City vs Borussia Dortmund",
+    "date": "N/A",
+    "competition": "UEFA Champions League",
+    "links": [
+      {
+        "label": "[EN] First Half",
+        "url": "https://ok.ru/videoembed/10038080113347"
+      },
+      {
+        "label": "[EN] Second Half",
+        "url": "https://ok.ru/videoembed/10038185560771"
+      },
+      {
+        "label": "[EN] First Half",
+        "url": "https://dhcplay.com/e/4m7rwapk2bxr"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://ok.ru/videoembed/11266872117776"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://dhcplay.com/e/mqx1jicsnfq1"
+      }
+    ]
+  },
+  {
+    "match_id": "a203e583d9bea0c8240d8f4adc46dcd1",
+    "url": "https://soccerfull.net/benfica-vs-bayer-leverkusen-2480.html",
+    "match": "Benfica vs Bayer Leverkusen",
+    "date": "N/A",
+    "competition": "UEFA Champions League",
+    "links": [
+      {
+        "label": "[RU] Full Match",
+        "url": "https://ok.ru/videoembed/10038229273283"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://dhcplay.com/e/6t6k22dr33yd"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://ok.ru/videoembed/11266895841808"
+      }
+    ]
+  },
+  {
+    "match_id": "95c7071e9470cb2f71b95c20def9285e",
+    "url": "https://soccerfull.net/ajax-vs-galatasaray-2479.html",
+    "match": "Ajax vs Galatasaray",
+    "date": "N/A",
+    "competition": "UEFA Champions League",
+    "links": [
+      {
+        "label": "[RU] Full Match",
+        "url": "https://ok.ru/videoembed/10038227110595"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://dhcplay.com/e/s53m614ee8v0"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://ok.ru/videoembed/11266873231888"
+      }
+    ]
+  },
+  {
+    "match_id": "8f5390d95824cf1c0e385b02e1b371a0",
+    "url": "https://soccerfull.net/inter-vs-kairat-almaty-2478.html",
+    "match": "Inter vs Kairat Almaty",
+    "date": "N/A",
+    "competition": "UEFA Champions League",
+    "links": [
+      {
+        "label": "[RU] Full Match",
+        "url": "https://ok.ru/videoembed/10038239234755"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://dhcplay.com/e/rg1z44alg20a"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://ok.ru/videoembed/11266872183312"
+      }
+    ]
+  },
+  {
+    "match_id": "1e7a5f4c9be6f1b1a81e0eac8ca23c77",
+    "url": "https://soccerfull.net/newcastle-united-vs-ath-bilbao-2477.html",
+    "match": "Newcastle United vs Ath Bilbao",
+    "date": "N/A",
+    "competition": "UEFA Champions League",
+    "links": [
+      {
+        "label": "[RU] Full Match",
+        "url": "https://ok.ru/videoembed/10038225865411"
+      },
+      {
+        "label": "[RU] Full Match",
+        "url": "https://dhcplay.com/e/fiy0jxo60j5l"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://ok.ru/videoembed/11266872248848"
+      }
+    ]
+  },
+  {
+    "match_id": "535cc3dbd2cd35236c07b8b77f31387f",
+    "url": "https://soccerfull.net/pafos-vs-villarreal-2476.html",
+    "match": "Pafos vs Villarreal",
+    "date": "N/A",
+    "competition": "UEFA Champions League",
+    "links": [
+      {
+        "label": "[RU] Full Match",
+        "url": "https://dhcplay.com/e/vre079kazwu6"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://ok.ru/videoembed/11266763852304"
+      }
+    ]
+  },
+  {
+    "match_id": "062242d70c773e4efb7b1be431a0f2b0",
+    "url": "https://soccerfull.net/qarabag-vs-chelsea-2475.html",
+    "match": "Qarabag vs Chelsea",
+    "date": "N/A",
+    "competition": "UEFA Champions League",
+    "links": [
+      {
+        "label": "[EN] First Half",
+        "url": "https://ok.ru/videoembed/10036662241987"
+      },
+      {
+        "label": "[EN] Second Half",
+        "url": "https://ok.ru/videoembed/10037844708035"
+      },
+      {
+        "label": "[EN] First Half",
+        "url": "https://dhcplay.com/e/bflwcek5divp"
+      },
+      {
+        "label": "[EN] Second Half",
+        "url": "https://dhcplay.com/e/8fa5q916jf6n"
+      },
+      {
+        "label": "[EN] Extended Highlights",
+        "url": "https://ok.ru/videoembed/11266763917840"
+      },
+      {
+        "label": "[EN] Highlights",
+        "url": "https://dhcplay.com/e/1zi99jidb8t3"
+      }
+    ]
+  },
+  {
     "match_id": "e9a71f8591d17d5d3ad40ccee64bd7a1",
     "url": "https://soccerfull.net/psg-vs-bayern-munich-2474.html",
     "match": "PSG vs Bayern Munich",
