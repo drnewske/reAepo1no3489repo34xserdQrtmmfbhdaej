@@ -5,12 +5,17 @@ import time
 import json
 import os
 import hashlib
+from urllib.parse import urljoin
+from datetime import datetime
 
 class FootballOrginScraper:
     def __init__(self):
         self.base_url = "https://www.footballorgin.com"
-        self.all_new_matches = [] 
+        self.all_new_matches = []
+        self.updated_matches = []
         self.output_file = "matches.json"
+        self.log_file = "scraper_log.json" # Restored dedicated log file
+        self.log_data = self.load_log()
         self.browser = None
         self.context = None
         self.page = None
@@ -19,53 +24,90 @@ class FootballOrginScraper:
         """Generate a unique and deterministic ID for a match based on its unique post URL."""
         return hashlib.md5(match_url.strip().encode('utf-8')).hexdigest()
 
+    # --- LOG FILE MANAGEMENT ---
+
+    def load_log(self):
+        """Load existing log data for tracking links and updates."""
+        if os.path.exists(self.log_file):
+            try:
+                with open(self.log_file, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except (json.JSONDecodeError, FileNotFoundError):
+                return {}
+        return {}
+
+    def save_log(self):
+        """Save log data to file."""
+        with open(self.log_file, 'w', encoding='utf-8') as f:
+            json.dump(self.log_data, f, indent=2, ensure_ascii=False)
+
+    def log_match(self, match_id, match_title, link_count):
+        """Log a match to track link count and last update."""
+        current_time = datetime.now().isoformat()
+        self.log_data[match_id] = {
+            'match_title': match_title,
+            'link_count': link_count,
+            'last_updated': current_time
+        }
+
+    def should_update_match(self, match_id, current_link_count):
+        """Determine if a match needs updating based on current link count."""
+        if match_id not in self.log_data:
+            return True, "new_match"
+        
+        logged_link_count = self.log_data[match_id].get('link_count', 0)
+        
+        if current_link_count > logged_link_count:
+            return True, "link_count_increase"
+            
+        return False, "no_change"
+
+    # --- DATA & BROWSER MANAGEMENT ---
+
     def load_existing_matches(self):
-        """Load existing matches from JSON file for merging and deduplication."""
+        """Load existing matches from final output file."""
         if os.path.exists(self.output_file):
             try:
                 with open(self.output_file, 'r', encoding='utf-8') as f:
                     existing_matches = json.load(f)
                     return existing_matches if isinstance(existing_matches, list) else []
             except (json.JSONDecodeError, FileNotFoundError):
-                print(f"Warning: Could not read or decode {self.output_file}. Starting fresh data merge.")
                 return []
         return []
 
     def init_browser(self, playwright):
-        """Initialize browser with stealth settings"""
+        """Initialize browser with necessary settings."""
         self.browser = playwright.chromium.launch(headless=True)
+        # Use an explicit referer/origin on the context level for better stealth
         self.context = self.browser.new_context(
             viewport={'width': 1920, 'height': 1080},
-            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            extra_http_headers={
+                'Referer': 'https://www.footballorgin.com/',
+                'Accept-Encoding': 'gzip, deflate, br'
+            }
         )
         self.page = self.context.new_page()
 
     def get_page_content(self, url):
-        """Get page content using Playwright"""
+        """Get page content using Playwright."""
         try:
-            self.page.goto(url, wait_until='domcontentloaded', timeout=30000)
-            time.sleep(2)  # Wait for any dynamic content
+            # We explicitly wait for the network to be idle to ensure dynamic content loads
+            self.page.goto(url, wait_until='networkidle', timeout=30000)
+            time.sleep(2)  # Additional wait to let all JavaScript execute
             return self.page.content()
         except Exception as e:
             print(f"Error fetching {url}: {e}")
             return None
 
-    def get_page_matches(self, page_url):
-        """
-        Fetches and extracts match data from a single listing page.
-        Returns None on error or if zero matches are found.
-        """
-        html_content = self.get_page_content(page_url)
-        
-        if not html_content:
-            print(f"  --> Cannot scrape page.")
-            return None
+    # --- EXTRACTION LOGIC (Same as V6, but running on Playwright content) ---
 
+    def extract_page_matches(self, html_content):
+        """Extracts initial metadata from the listing page HTML."""
         soup = BeautifulSoup(html_content, 'html.parser')
         match_items = soup.find_all('article', class_=re.compile(r'post-item'))
         
         if not match_items:
-            print("No articles found on the base page URL. Content may be lazy-loaded.")
             return None
 
         matches = []
@@ -77,6 +119,7 @@ class FootballOrginScraper:
                 
                 match_url = link_tag.get('href')
                 match_title = link_tag.text.strip()
+                match_id = self.generate_match_id(match_url) # Generate ID now
                 
                 img_tag = item.find('img', class_='blog-picture')
                 preview_image = img_tag.get('data-src') or img_tag.get('src') if img_tag else 'N/A'
@@ -97,7 +140,7 @@ class FootballOrginScraper:
                     'competition_list': competition_list,
                     'duration': duration,
                     'date': date_text, 
-                    'match_id': self.generate_match_id(match_url)
+                    'match_id': match_id
                 })
             except Exception:
                 continue
@@ -105,9 +148,7 @@ class FootballOrginScraper:
         return matches
 
     def extract_single_video_link(self, page_html):
-        """
-        Extracts the primary video link from the embedded JavaScript object.
-        """
+        """Extracts the primary video link from the embedded JavaScript object."""
         match = re.search(r'var vidorev_jav_js_object=({.*?});', page_html, re.DOTALL)
         
         if match:
@@ -125,7 +166,6 @@ class FootballOrginScraper:
                     iframe_src_match = re.search(r'src=\\\"(.*?)\\\"', raw_url_value)
                     if iframe_src_match:
                         video_src = iframe_src_match.group(1).replace('\\', '')
-                        from urllib.parse import urljoin
                         return urljoin('https:', video_src)
                         
         return None
@@ -136,21 +176,24 @@ class FootballOrginScraper:
         primary_url = match_data['url']
         final_links = []
         
+        # Use Playwright to get the page content
         page_html = self.get_page_content(primary_url)
         if not page_html:
             return {'links': []}
         
-        soup = BeautifulSoup(page_html, 'html.parser')
-        
+        # 1. Get the Primary Video Link
         primary_link = self.extract_single_video_link(page_html)
         
         if primary_link:
             primary_label = 'Full Match' if 'full-match' in primary_url else match_data['match']
             final_links.append({'label': primary_label, 'url': primary_link})
 
+        # 2. Find and scrape Multi-Links
+        soup = BeautifulSoup(page_html, 'html.parser')
         multi_links_div = soup.find('div', class_='series-listing')
         
         if multi_links_div:
+            # We must use Playwright for each sub-link to get the dynamically loaded content
             for link_tag in multi_links_div.find_all('a'):
                 href = link_tag.get('href')
                 label = link_tag.text.strip()
@@ -158,71 +201,93 @@ class FootballOrginScraper:
                 if href == primary_url:
                     continue
                     
+                # Use Playwright for sub-link content
                 multi_html = self.get_page_content(href)
                 if not multi_html:
                     continue
-                    
+                        
                 current_link = self.extract_single_video_link(multi_html)
                         
                 if current_link and current_link not in [l['url'] for l in final_links]:
                     clean_label = label.replace(match_data['match'], '').strip(':- ')
                     final_links.append({'label': clean_label, 'url': current_link})
 
+        # Clean up generic primary link label
         if final_links and len(final_links) > 1 and final_links[0]['label'] == final_links[0]['match']:
             final_links[0]['label'] = ''
              
         return {'links': final_links}
 
     def scrape_category(self, category_path):
-        """
-        Crawl only the base category page, as requested, with no pagination.
-        """
+        """Crawl only the base category page and apply update logic."""
         base_url = f"{self.base_url}/{category_path}/"
-        print(f"--- Fetching: {base_url} (The only required page) ---")
+        print(f"--- Fetching: {base_url} (First page content) ---")
         
-        match_list = self.get_page_matches(base_url)
+        html_content = self.get_page_content(base_url)
         
-        if match_list is None:
+        if not html_content:
             return [] 
             
-        new_matches = []
-        existing_urls = {match.get('url') for match in self.load_existing_matches() if match.get('url')}
+        match_list = self.extract_page_matches(html_content)
         
-        for match in match_list:
-            if match['url'] not in existing_urls:
-                new_matches.append(match)
-        
-        return new_matches
+        if not match_list:
+             return []
+            
+        return match_list
 
     def run(self):
-        """Main execution function to scrape all defined categories (first page only)."""
-        print("FootballOrgin.com Scraper (V7 - Playwright)")
+        """Main execution function."""
+        print("FootballOrgin.com Scraper (V8 - Playwright & Full Logging)")
         print("=" * 80)
+        
+        categories = [
+            'full-match-replay', 
+            'tv-show',
+            'news-and-interviews' 
+        ]
+        
+        existing_matches = self.load_existing_matches()
+        scraped_data_list = []
         
         with sync_playwright() as playwright:
             self.init_browser(playwright)
             
-            categories = [
-                'full-match-replay', 
-                'tv-show',
-                'news-and-interviews' 
-            ]
-            
-            existing_matches = self.load_existing_matches()
-            scraped_data_list = []
+            # 1. Identify ALL posts and determine if they need scraping/updating
+            posts_to_process = []
             
             for category in categories:
-                print(f"\n--- Starting Crawl for Category: {category} ---")
-                new_matches_list = self.scrape_category(category)
-                self.all_new_matches.extend(new_matches_list)
+                all_posts_on_page = self.scrape_category(category)
                 
-            print(f"\nTotal unique NEW posts found across first pages: {len(self.all_new_matches)}")
+                for post in all_posts_on_page:
+                    post_id = post['match_id']
+                    
+                    # Check if this post needs detailed scraping
+                    needs_update, reason = self.should_update_match(post_id, 999) # Use arbitrary high count for initial check
+                    
+                    if reason == "new_match":
+                        posts_to_process.append((post, reason))
+                    
+                    elif reason == "link_count_increase":
+                        # We must scrape details to know the real link count, so we flag it
+                        posts_to_process.append((post, reason))
+                    
+                    else:
+                        # For existing matches that haven't changed, append the old data immediately to the final list
+                        # This skips the time-consuming detail scrape for known posts
+                        existing_post = next((m for m in existing_matches if m['match_id'] == post_id), None)
+                        if existing_post:
+                            scraped_data_list.append(existing_post)
+
+
+            print(f"\nFound {len(posts_to_process)} posts needing detailed scrape (new/update).")
             
-            for i, match in enumerate(self.all_new_matches, 1):
-                print(f"Processing details {i}/{len(self.all_new_matches)}: {match['match']}")
+            # 2. Extract detailed data for NEW and UPDATED posts
+            for i, (match, reason) in enumerate(posts_to_process, 1):
+                print(f"[{reason.upper()}] Processing details {i}/{len(posts_to_process)}: {match['match']}")
                 
                 details = self.extract_match_details(match)
-                
+                link_count = len(details['links'])
+
                 match_info = {
                     "match_id": match['match_id'],
                     "url": match['url'],
@@ -234,31 +299,45 @@ class FootballOrginScraper:
                     "links": details['links']
                 }
                 
-                scraped_data_list.append(match_info)
+                if link_count > 0:
+                    scraped_data_list.append(match_info)
+                    self.log_match(match['match_id'], match['match'], link_count)
+                else:
+                    print(f"-> WARNING: Skipped post {match['match']} due to zero links found on detail page.")
             
             self.browser.close()
-        
-        # Deduplicate: newer data (scraped_data_list) takes precedence
-        final_matches_map = {}
-        
-        # Add existing matches first (they go to the map)
-        for match in existing_matches:
-            final_matches_map[match['match_id']] = match
-        
-        # Add new matches (overwrites any duplicates with fresh data)
-        for match in scraped_data_list:
-            final_matches_map[match['match_id']] = match
-        
-        # Put NEW matches on TOP, then existing matches below
-        final_matches = scraped_data_list + [m for m in existing_matches if m['match_id'] not in {n['match_id'] for n in scraped_data_list}]
-        
-        with open(self.output_file, 'w', encoding='utf-8') as f:
-            json.dump(final_matches, f, indent=2, ensure_ascii=False)
-        
-        print("-" * 80)
-        print(f"\n✓ Data processing complete. Saved to {self.output_file}")
-        print(f"  - New posts added this run: {len(scraped_data_list)}")
-        print(f"  - Total unique posts in final file: {len(final_matches)}")
+            
+            # 3. Merge, Deduplicate, and Save
+            
+            # Final deduplication: ensures newly scraped posts and previously added existing posts are unique.
+            final_matches_map = {}
+            
+            # 1. Add all new/updated posts first
+            for match in scraped_data_list:
+                final_matches_map[match['match_id']] = match
+            
+            # 2. Add remaining older/existing posts
+            for match in existing_matches:
+                 if match['match_id'] not in final_matches_map:
+                     final_matches_map[match['match_id']] = match
+
+            final_matches = list(final_matches_map.values())
+            
+            # Reorder: Ensure new content is at the top
+            new_ids = {m['match_id'] for m in scraped_data_list}
+            new_list = [m for m in final_matches if m['match_id'] in new_ids]
+            old_list = [m for m in final_matches if m['match_id'] not in new_ids]
+            final_matches_ordered = new_list + old_list
+
+            with open(self.output_file, 'w', encoding='utf-8') as f:
+                json.dump(final_matches_ordered, f, indent=2, ensure_ascii=False)
+            
+            self.save_log() # Save the link count log
+
+            print("-" * 80)
+            print(f"\n✓ Data processing complete. Saved to {self.output_file}")
+            print(f"  - Posts scraped in detail this run (new/updated): {len(posts_to_process)}")
+            print(f"  - Total unique posts in final file: {len(final_matches_ordered)}")
 
 if __name__ == "__main__":
     scraper = FootballOrginScraper()
