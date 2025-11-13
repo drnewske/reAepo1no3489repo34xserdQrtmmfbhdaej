@@ -106,13 +106,13 @@ class FootballOrginScraper:
         
         match_items_container = soup.find('div', class_='blog-items')
         if not match_items_container:
-            print("  --> No 'blog-items' container found on the page.")
+            print(f"  --> No 'blog-items' container found on page: {page_url}")
             return []
             
         match_items = match_items_container.find_all('article', class_=re.compile(r'post-item'))
         
         if not match_items:
-            print("  --> No articles found on the page.")
+            print(f"  --> No articles found on page: {page_url}")
             return []
 
         matches = []
@@ -348,17 +348,22 @@ class FootballOrginScraper:
     def run(self):
         """Main execution function"""
         print("=" * 80)
-        print("FootballOrgin.com Scraper (V11 - Resilient Patterns)")
+        print("FootballOrgin.com Scraper (V12 - Updated Categories)")
         print("=" * 80)
         
         # We need to load the log for the full run
         self.log_data = self.load_log()
         
+        # --- THIS IS THE UPDATED LIST ---
+        # It uses the paths from the URLs you provided
         categories = [
-            'full-match-replay',  
+            'full-match-replay',
             'tv-show',
-            'news-and-interviews'  
+            'news-and-interviews',
+            'review-show',
+            'tv-show/bbc-match-of-the-day-motd'
         ]
+        # ---------------------------------
         
         existing_matches = self.load_existing_matches()
         scraped_data_list = []
@@ -369,10 +374,11 @@ class FootballOrginScraper:
             all_posts_found.extend(posts_found)
         
         # De-duplicate posts found in multiple categories
+        # This handles your exact concern about a post being in multiple categories
         unique_posts_map = {post['match_id']: post for post in all_posts_found}
         all_posts_unique = list(unique_posts_map.values())
 
-        # Process only NEW posts
+        # Process only NEW posts (checks the "earmark" log)
         posts_to_process = []
         for post in all_posts_unique:
             post_id = post['match_id']
@@ -380,7 +386,7 @@ class FootballOrginScraper:
                 posts_to_process.append(post)
         
         print(f"\n{'='*80}") 
-        print(f"Summary: Found {len(all_posts_unique)} unique posts")
+        print(f"Summary: Found {len(all_posts_unique)} unique posts across {len(categories)} categories")
         print(f"         {len(posts_to_process)} NEW posts need detailed scraping")
         print(f"{'='*80}\n")
         
