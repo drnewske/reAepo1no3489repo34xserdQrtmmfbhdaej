@@ -839,5 +839,41 @@
     "link_count": 1,
     "last_updated": "2025-11-23T13:10:54.219548",
     "source": "footballorgin"
+  },
+  "39ff6b2475f3f640000a696770f75f23": {
+    "match_title": "Cremonese vs AS Roma",
+    "link_count": 2,
+    "last_updated": "2025-11-25T04:17:27.248456",
+    "source": "soccerfull"
+  },
+  "bc7fcaf80c4d3deb2765592536117a82": {
+    "match_title": "Leeds United vs Aston Villa",
+    "link_count": 4,
+    "last_updated": "2025-11-25T04:17:29.616313",
+    "source": "soccerfull"
+  },
+  "cbf0c980c20152acfa6760593450deca": {
+    "match_title": "Getafe vs Atletico Madrid",
+    "link_count": 3,
+    "last_updated": "2025-11-25T04:17:33.378459",
+    "source": "soccerfull"
+  },
+  "db9aa23515ffeca87c6354969afd70ae": {
+    "match_title": "Inter vs AC Milan",
+    "link_count": 2,
+    "last_updated": "2025-11-25T04:17:36.354512",
+    "source": "soccerfull"
+  },
+  "ed33a2d651bb82e59ce890341339817d": {
+    "match_title": "Elche vs Real Madrid",
+    "link_count": 4,
+    "last_updated": "2025-11-25T04:17:38.550936",
+    "source": "soccerfull"
+  },
+  "271e7373af858f444d0ac5ee7c0f1e4d": {
+    "match_title": "Arsenal vs Tottenham Hotspur",
+    "link_count": 7,
+    "last_updated": "2025-11-25T04:17:42.352992",
+    "source": "soccerfull"
   }
 }
