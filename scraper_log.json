@@ -1559,5 +1559,41 @@
     "link_count": 1,
     "last_updated": "2025-11-30T22:10:31.758459",
     "source": "footballorgin"
+  },
+  "1e3043dac993acebceecb2b893a13768": {
+    "match_title": "Atalanta vs Fiorentina",
+    "link_count": 1,
+    "last_updated": "2025-12-01T03:08:55.059862",
+    "source": "soccerfull"
+  },
+  "7d045478b1c45b4e85ef0f11abc6faf0": {
+    "match_title": "Freiburg vs Mainz",
+    "link_count": 1,
+    "last_updated": "2025-12-01T03:08:56.452131",
+    "source": "soccerfull"
+  },
+  "d42647576acf9acb8a0bcb4050e04aab": {
+    "match_title": "Celta Vigo vs Espanyol",
+    "link_count": 1,
+    "last_updated": "2025-12-01T03:08:57.728676",
+    "source": "soccerfull"
+  },
+  "c1f6d1a3b764be60f032e59693413e82": {
+    "match_title": "Nottingham Forest vs Brighton & Hove Albion",
+    "link_count": 2,
+    "last_updated": "2025-12-01T03:08:58.989410",
+    "source": "soccerfull"
+  },
+  "7d27571c1c6c5be73713e36bca4fb38b": {
+    "match_title": "Aston Villa vs Wolverhampton Wanderers",
+    "link_count": 3,
+    "last_updated": "2025-12-01T03:09:00.990493",
+    "source": "soccerfull"
+  },
+  "0138b6dc88983666eee127529b5d8865": {
+    "match_title": "Pisa vs Inter",
+    "link_count": 2,
+    "last_updated": "2025-12-01T03:09:03.830927",
+    "source": "soccerfull"
   }
 }
