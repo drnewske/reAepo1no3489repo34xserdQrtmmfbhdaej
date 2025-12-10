@@ -1,5 +1,212 @@
 [
   {
+    "match_id": "fdb3b6be7827994f3b480a4af338063c",
+    "url": "https://soccerfull.net/kairat-almaty-vs-olympiacos-piraeus-2718.html",
+    "match": "Kairat Almaty vs Olympiacos Piraeus",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpW7lEPIXjQlTOtTOyeUZoJBur4VAH4-rhGA&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]First Half",
+        "url": "/play/11594"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/11595"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11596"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11597"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11598"
+      }
+    ]
+  },
+  {
+    "match_id": "a80778051924df99678aad049b533a3b",
+    "url": "https://soccerfull.net/royale-union-sg-vs-olympique-marseille-2717.html",
+    "match": "Royale Union SG vs Olympique Marseille",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://sportshub.cbsistatic.com/i/2025/12/02/c203f853-7fef-4087-b56d-f34ef9bd63a3/image-1764707435188.jpg",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11591"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11592"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11593"
+      }
+    ]
+  },
+  {
+    "match_id": "fbc4263f5761ecc4b10be6152cd65738",
+    "url": "https://soccerfull.net/psv-vs-atletico-madrid-2716.html",
+    "match": "PSV vs Atletico Madrid",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://i.ytimg.com/vi/Uew0TE4N8Cw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCUBB1l9q8svHiqVxpVqxMypXx_XA",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11588"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11589"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11590"
+      }
+    ]
+  },
+  {
+    "match_id": "37323ee6d906275ac46992ccac6c3fe7",
+    "url": "https://soccerfull.net/as-monaco-vs-galatasaray-2715.html",
+    "match": "AS Monaco vs Galatasaray",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/131/2025/12/09/Picsart_25-12-08_10-34-37-610-2446978515.png",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11586"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11587"
+      }
+    ]
+  },
+  {
+    "match_id": "995de08b9971c85a304970cbfff295d7",
+    "url": "https://soccerfull.net/tottenham-hotspur-vs-slavia-prague-2714.html",
+    "match": "Tottenham Hotspur vs Slavia Prague",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://sportshub.cbsistatic.com/i/2025/12/02/069d02d0-998a-4d55-9826-17572cd74ec6/image-1764707667432.jpg?crop=16:9&width=640&format=webp&quality=75",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11583"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11584"
+      }
+    ]
+  },
+  {
+    "match_id": "5567ca92e78882bbf2e3f2da9c734567",
+    "url": "https://soccerfull.net/atalanta-vs-chelsea-2713.html",
+    "match": "Atalanta vs Chelsea",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/15b8ffb4vhfj4ndqhnmuginvk_image-header_pUs_1757348020000/fill/center/top/none/85/1176/677/webp/image",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11580"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/11581"
+      }
+    ]
+  },
+  {
+    "match_id": "a88272d89b761ae50ee00757055c135c",
+    "url": "https://soccerfull.net/bayern-munich-vs-sporting-cp-2712.html",
+    "match": "Bayern Munich vs Sporting CP",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a8890ace-d0a9-4489-9d14-e613672e9483/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_.png",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11577"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/11578"
+      }
+    ]
+  },
+  {
+    "match_id": "64f4c3db0e0c7816fbd44cf636b8fc64",
+    "url": "https://soccerfull.net/barcelona-vs-eintracht-frankfurt-2711.html",
+    "match": "Barcelona vs Eintracht Frankfurt",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxTDJVw18hZEbyd_UUKUoodn17ECxrnEonDQ&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]First Half",
+        "url": "/play/11569"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/11570"
+      },
+      {
+        "label": "[EN]First Half",
+        "url": "/play/11571"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/11572"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/11575"
+      }
+    ]
+  },
+  {
+    "match_id": "32b54814633cb6b1078a4d08f36cbcfa",
+    "url": "https://soccerfull.net/inter-vs-liverpool-2710.html",
+    "match": "Inter vs Liverpool",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d147/live/791df230-5c1f-11ec-9428-1d981ebd996a.png",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11567"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11566"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11568"
+      }
+    ]
+  },
+  {
     "match_id": "35fefd834c564b36c5e342931e1edcf7",
     "url": "https://www.footballorgin.com/inter-u19-v-liverpool-u19-9-december-2025/",
     "match": "Inter U19 v Liverpool U19 Full Match | 9 December 2025",
