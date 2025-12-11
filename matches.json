@@ -1,5 +1,240 @@
 [
   {
+    "match_id": "301491320ea56649a1c4d5a95f39ffca",
+    "url": "https://soccerfull.net/villarreal-vs-fc-copenhagen-2727.html",
+    "match": "Villarreal vs FC Copenhagen",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7L8Y0DuflZ_exa16VsNqdIG2sN9R6hxCGg&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]First Half",
+        "url": "/play/11627"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/11628"
+      },
+      {
+        "label": "First Half",
+        "url": "/play/11629"
+      },
+      {
+        "label": "Second Half",
+        "url": "/play/11630"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11631"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11632"
+      }
+    ]
+  },
+  {
+    "match_id": "673682767a078357e9079811fa7d4c06",
+    "url": "https://soccerfull.net/qarabag-vs-ajax-2726.html",
+    "match": "Qarabag vs Ajax",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgswt2p_PfyQTUte9jkUXhOjfHJzdCcgHhyg&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11624"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11625"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11626"
+      }
+    ]
+  },
+  {
+    "match_id": "c61d503c45d5dd24d513807e234218e2",
+    "url": "https://soccerfull.net/bayer-leverkusen-vs-newcastle-united-2725.html",
+    "match": "Bayer Leverkusen vs Newcastle United",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVsqCv_Y8gJIMkalg7JnUoE3ECPk7_z6jbsw&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "Full Match",
+        "url": "/play/11619"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11620"
+      },
+      {
+        "label": "[EN]First Half",
+        "url": "/play/11621"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/11622"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/11623"
+      }
+    ]
+  },
+  {
+    "match_id": "5d172f4925ccacb44bb060cf19061a84",
+    "url": "https://soccerfull.net/borussia-dortmund-vs-bodo-glimt-2724.html",
+    "match": "Borussia Dortmund vs Bodo/Glimt",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4588ffe4-e6bd-4c68-a3ea-c6c42386ed30/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+    "duration": "",
+    "links": [
+      {
+        "label": "Full Match",
+        "url": "/play/11616"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11617"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11618"
+      }
+    ]
+  },
+  {
+    "match_id": "947482b7fe28a3bb21611e1e8a3e979f",
+    "url": "https://soccerfull.net/benfica-vs-napoli-2723.html",
+    "match": "Benfica vs Napoli",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejYnd9uMPrzBl-vw_s9psuZnJ4cPUqNo3Uw&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "Full Match",
+        "url": "/play/11613"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11614"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11615"
+      }
+    ]
+  },
+  {
+    "match_id": "f01a934e57e94f53c4b3a6f670293206",
+    "url": "https://soccerfull.net/juventus-vs-pafos-2722.html",
+    "match": "Juventus vs Pafos",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/131/2025/12/10/Picsart_25-12-09_14-33-18-066-3402987204.png",
+    "duration": "",
+    "links": [
+      {
+        "label": "Full Match",
+        "url": "/play/11610"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11611"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11612"
+      }
+    ]
+  },
+  {
+    "match_id": "f0f00097942078fed9b23c989c6d89f6",
+    "url": "https://soccerfull.net/athletic-bilbao-vs-psg-2721.html",
+    "match": "Athletic Bilbao vs PSG",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03e91dd7-5486-4c6a-a7a4-e1d2708f6b10/2/BOXART-16X9/en-US._UR1920,1080_SX500_FMjpg_.jpeg",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11607"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11608"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11609"
+      }
+    ]
+  },
+  {
+    "match_id": "ad35e705f364945975667620f16ca523",
+    "url": "https://soccerfull.net/club-brugge-kv-vs-arsenal-2720.html",
+    "match": "Club Brugge KV vs Arsenal",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/9lkp5lrb19kayzcxpa7y4rsgj_image-header_pUs_1757342622000/fill/none/top/none/85/876/490/webp/image",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]Full Match",
+        "url": "/play/11604"
+      },
+      {
+        "label": "[EN]Full Match",
+        "url": "/play/11605"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11606"
+      }
+    ]
+  },
+  {
+    "match_id": "37f551b74370564530737bc1ed5d0c40",
+    "url": "https://soccerfull.net/real-madrid-vs-manchester-city-2719.html",
+    "match": "Real Madrid vs Manchester City",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/dqkwwo0nu1c6gu11mlfyrpmcy_image-header_pUs_1757334686000/fill/center/top/none/85/1176/677/webp/image",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RO]First Half",
+        "url": "/play/11599"
+      },
+      {
+        "label": "[RO]Second Half",
+        "url": "/play/11600"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11601"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/11602"
+      },
+      {
+        "label": "Highlights",
+        "url": "/play/11603"
+      }
+    ]
+  },
+  {
     "match_id": "2221c64d3b016674e594f1ec21800cfb",
     "url": "https://www.footballorgin.com/inter-vs-liverpool-prague-full-match-9-december-2025/",
     "match": "Inter vs Liverpool Prague Full Match | 9 December 2025",
