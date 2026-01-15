@@ -1,5 +1,177 @@
 [
   {
+    "match_id": "5f7fe2ffa920ce33f95ab4536f952ca1",
+    "url": "https://soccerfull.net/fc-porto-vs-benfica-2903.html",
+    "match": "FC Porto vs Benfica",
+    "date": "",
+    "competition": "Taca de Portugal",
+    "preview_image": "https://images.daznservices.com/di/library/DAZN_News/d2/8e/porto-benfica_tysg3t2g4ru0zhmdabj8ok3c.jpg?t=-136569229",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12122"
+      }
+    ]
+  },
+  {
+    "match_id": "05047b24a5c548269acffead5212d02b",
+    "url": "https://soccerfull.net/real-betis-vs-elche-2902.html",
+    "match": "Real Betis vs Elche",
+    "date": "",
+    "competition": "Copa del Rey",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TC0uNCWWR7hIqmMzPT7Pxr4a2z97GzxqEw&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12121"
+      }
+    ]
+  },
+  {
+    "match_id": "bce21ea8a9f6c054d5461ec8f9cdf5d8",
+    "url": "https://soccerfull.net/nigeria-vs-morocco-2901.html",
+    "match": "Nigeria vs Morocco",
+    "date": "",
+    "competition": "Africa Cup of Nations",
+    "preview_image": "https://cdn.foot-africa.com/20260114/8d1c2ca779406f77baf0600b88b74ff11c3b2b79855f623afbb6ef7291513822-1200-675.webp",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12119"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12120"
+      }
+    ]
+  },
+  {
+    "match_id": "3a42d0174cb964ce9aa6f08a24ff3cbb",
+    "url": "https://soccerfull.net/chelsea-vs-arsenal-2900.html",
+    "match": "Chelsea vs Arsenal",
+    "date": "",
+    "competition": "EFL Cup",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRdAgQZHla73lqDzL-2Nx-IS7c31PEV4tSMA&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12114"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12115"
+      },
+      {
+        "label": "[EN]Highlight",
+        "url": "/play/12116"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12117"
+      },
+      {
+        "label": "[EN]Full Match",
+        "url": "/play/12118"
+      }
+    ]
+  },
+  {
+    "match_id": "99f116d32358f04382c0d9a52dcc0569",
+    "url": "https://soccerfull.net/albacete-vs-real-madrid-2899.html",
+    "match": "Albacete vs Real Madrid",
+    "date": "",
+    "competition": "Copa del Rey",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1jxhqlqsvbfvod0rbr285w42g_image-header_pRow_1768222125000",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12110"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12111"
+      },
+      {
+        "label": "[EN]Highlight",
+        "url": "/play/12112"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12113"
+      }
+    ]
+  },
+  {
+    "match_id": "d56816230d7b969650a44847d674e880",
+    "url": "https://soccerfull.net/inter-vs-lecce-2898.html",
+    "match": "Inter vs Lecce",
+    "date": "",
+    "competition": "Serie A",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/8i6s7a2bt6huplg4mljkrahsi_image-header_pUs_1763021800000/fill/center/top/none/85/1176/677/webp/image",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12106"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12107"
+      },
+      {
+        "label": "[EN]Full Match",
+        "url": "/play/12108"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12109"
+      }
+    ]
+  },
+  {
+    "match_id": "8f2a77675a566c2c6a491d55ffcafc3d",
+    "url": "https://soccerfull.net/fc-koln-vs-bayern-munich-2897.html",
+    "match": "FC Koln vs Bayern Munich",
+    "date": "",
+    "competition": "Bundesliga",
+    "preview_image": "https://artwork.espncdn.com/events/401818326/16x9/1280x720_20250927154340.jpg",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12104"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12105"
+      }
+    ]
+  },
+  {
+    "match_id": "f476b217ae50667d524bdd72eb12446b",
+    "url": "https://soccerfull.net/napoli-vs-parma-2896.html",
+    "match": "Napoli vs Parma",
+    "date": "",
+    "competition": "Serie A",
+    "preview_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1b7d4d27-eac3-4268-8db4-a0818cef0f21/1/BOXART-16X9/en-US._UR1920,1080_.jpg",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12102"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12103"
+      }
+    ]
+  },
+  {
     "match_id": "815613b20c541dfeb6792d7f6da7d441",
     "url": "https://soccerfull.net/dep-la-coruna-vs-atletico-madrid-2895.html",
     "match": "Dep. La Coruna vs Atletico Madrid",
