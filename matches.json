@@ -1,5 +1,104 @@
 [
   {
+    "match_id": "2553e6f5f350121e17eeb613ec367f3b",
+    "url": "https://soccerfull.net/benfica-vs-real-madrid-2967.html",
+    "match": "Benfica vs Real Madrid",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://s.yimg.com/os/en/foot_africa_articles_352/3ac047e9fdc58ebc0200a9236062f0c6",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12331"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12332"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12333"
+      }
+    ]
+  },
+  {
+    "match_id": "c5b6dbe52d597057001428efcd3dbb40",
+    "url": "https://soccerfull.net/ajax-vs-olympiacos-piraeus-2966.html",
+    "match": "Ajax vs Olympiacos Piraeus",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=bx6nrttcvirybksmj5b4k4t8o_image-header_pRow_1766169052000&quality=70",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12329"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12330"
+      }
+    ]
+  },
+  {
+    "match_id": "8951ab4e525f055f12a8a7eed4c4d6df",
+    "url": "https://soccerfull.net/club-brugge-kv-vs-olympique-marseille-2965.html",
+    "match": "Club Brugge KV vs Olympique Marseille",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=ej2k964dkx2r67vlsqaeol7aq_image-header_pRow_1766575105000&quality=70",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12327"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12328"
+      }
+    ]
+  },
+  {
+    "match_id": "d297f266dd2e0cac660814756b8ec5c3",
+    "url": "https://soccerfull.net/bayer-leverkusen-vs-villarreal-2964.html",
+    "match": "Bayer Leverkusen vs Villarreal",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=4bvqewa16jei46lhul8vt8c9u_image-header_pDach_1761043546000",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12325"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12326"
+      }
+    ]
+  },
+  {
+    "match_id": "0560e4952eb7b6561bf328359fa81072",
+    "url": "https://soccerfull.net/arsenal-vs-kairat-almaty-2963.html",
+    "match": "Arsenal vs Kairat Almaty",
+    "date": "",
+    "competition": "UEFA Champions League",
+    "preview_image": "https://icdn.justarsenal.com/wp-content/uploads/2026/01/Arsenal-v-Kairat-Almaty-770x433.jpg",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12323"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12324"
+      }
+    ]
+  },
+  {
     "match_id": "6f26a1a6ef284bbdf2b55481961b3bba",
     "url": "https://soccerfull.net/hellas-verona-vs-udinese-2962.html",
     "match": "Hellas Verona vs Udinese",
