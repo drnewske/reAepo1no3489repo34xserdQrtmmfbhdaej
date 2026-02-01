@@ -1,5 +1,263 @@
 [
   {
+    "match_id": "50fe035313398a71a5204276844ae8b6",
+    "url": "https://soccerfull.net/brighton-amp-hove-albion-vs-everton-2992.html",
+    "match": "Brighton & Hove Albion vs Everton",
+    "date": "",
+    "competition": "Premier League",
+    "preview_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dfed7d05-f296-4108-b424-5bd7f824d193/1/BOXART-16X9/en-US/1920x1080._UR1920,1080_.png",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12398"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12395"
+      }
+    ]
+  },
+  {
+    "match_id": "a035e6676519a23bace4fd4bae4c40c6",
+    "url": "https://soccerfull.net/wolverhampton-wanderers-vs-afc-bournemouth-2991.html",
+    "match": "Wolverhampton Wanderers vs AFC Bournemouth",
+    "date": "",
+    "competition": "Premier League",
+    "preview_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fd2c3bfe-7002-4398-b9a7-f0b6cbc69288/1/BOXART-4X3/de-DE/2560x1920.png",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12394"
+      }
+    ]
+  },
+  {
+    "match_id": "01e1a79eaa8a411e97430f10f86b909c",
+    "url": "https://soccerfull.net/levante-vs-atletico-madrid-2990.html",
+    "match": "Levante vs Atletico Madrid",
+    "date": "",
+    "competition": "La Liga",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09z_Bv6CL6gPhkLHxFMGsABonbVgCD0MXmA&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12392"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12393"
+      }
+    ]
+  },
+  {
+    "match_id": "1cf0331abd13fe945e118e42c25bae50",
+    "url": "https://soccerfull.net/hamburger-sv-vs-bayern-munich-2989.html",
+    "match": "Hamburger SV vs Bayern Munich",
+    "date": "",
+    "competition": "Bundesliga",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRflqXl2bKKxFLGWlZwailDM7QKkGoLl7x7pA&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12397"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12390"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12391"
+      }
+    ]
+  },
+  {
+    "match_id": "3ee211b696ecf1ab5b77233955ec177e",
+    "url": "https://soccerfull.net/napoli-vs-fiorentina-2988.html",
+    "match": "Napoli vs Fiorentina",
+    "date": "",
+    "competition": "Serie A",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/8jwtuvqr0h5txkhnv0dsmkkzi_image-header_pUs_1764532854000/fill/center/top/none/85/1176/677/webp/image",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12396"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12388"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12389"
+      }
+    ]
+  },
+  {
+    "match_id": "0fa7d4c06a023f2215f5348b02de1ed3",
+    "url": "https://soccerfull.net/liverpool-vs-newcastle-united-2987.html",
+    "match": "Liverpool vs Newcastle United",
+    "date": "",
+    "competition": "Premier League",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bYCpN7MOqRBJujn0adJIqSnk_DMWKybtDA&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12384"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12385"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12386"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12387"
+      }
+    ]
+  },
+  {
+    "match_id": "d7bdfb740ff03c17adaeb36b08d3efb3",
+    "url": "https://soccerfull.net/elche-vs-barcelona-2986.html",
+    "match": "Elche vs Barcelona",
+    "date": "",
+    "competition": "La Liga",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStitQDkSyLQ74bW1Km2EB85KXlJEOelQ0Y7w&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]First Half",
+        "url": "/play/12377"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/12378"
+      },
+      {
+        "label": "[EN]First Half",
+        "url": "/play/12379"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/12380"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12381"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12382"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12383"
+      }
+    ]
+  },
+  {
+    "match_id": "9d21377acc33a6be7ae177d10840046f",
+    "url": "https://soccerfull.net/chelsea-vs-west-ham-united-2985.html",
+    "match": "Chelsea vs West Ham United",
+    "date": "",
+    "competition": "Premier League",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAAeqLcBmsFDftB4w_XwP6XTYth2sQpd4ZUQ&s",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]First Half",
+        "url": "/play/12370"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/12371"
+      },
+      {
+        "label": "[EN]First Half",
+        "url": "/play/12372"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/12373"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12374"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12375"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12376"
+      }
+    ]
+  },
+  {
+    "match_id": "7c4cd5f6f67366486bc6bb089391853d",
+    "url": "https://soccerfull.net/leeds-united-vs-arsenal-2984.html",
+    "match": "Leeds United vs Arsenal",
+    "date": "",
+    "competition": "Premier League",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=a8ja20gfwcwkd975q2bge0hm3_image-header_pEs_1767638516000&quality=70",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]First Half",
+        "url": "/play/12363"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/12364"
+      },
+      {
+        "label": "[EN]First Half",
+        "url": "/play/12365"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "/play/12366"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12367"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12368"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "/play/12369"
+      }
+    ]
+  },
+  {
+    "match_id": "698b6419db395801e45d712ecbc4d787",
+    "url": "https://soccerfull.net/sturm-graz-vs-brann-2983.html",
+    "match": "Sturm Graz vs Brann",
+    "date": "",
+    "competition": "UEFA Europa League",
+    "preview_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f22e53b7-b9e6-4b87-b3bb-350f464fc82d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "/play/12362"
+      }
+    ]
+  },
+  {
     "match_id": "2bb64e7b6d360ccf12690e20755ee81d",
     "url": "https://www.footballorgin.com/leeds-united-v-arsenal-full-match-31-january-2026/",
     "match": "Leeds United v Arsenal Full Match | 31 January 2026",
