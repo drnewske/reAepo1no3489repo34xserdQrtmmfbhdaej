@@ -1,5 +1,99 @@
 [
   {
+    "match_id": "7594a52e2691cf2af8540b0106fcbedf",
+    "source_id": 2,
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "url": "https://www.footreplays.com/england/premier-league/manchester-united-vs-crystal-palace-2-01-03-2026/",
+    "match": "Manchester United vs Crystal Palace",
+    "date": "2026-03-01T15:01:27+00:00",
+    "competition": "Premier League, Crystal Palace, Manchester United",
+    "preview_image": "https://i0.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Manchester-United-vs-Crystal-Palace.webp?ssl=1",
+    "duration": "",
+    "links": [
+      {
+        "label": "1st Half | English | HGlink",
+        "url": "https://hgcloud.to/32bc8wnaw37r",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      }
+    ],
+    "categories": [
+      "Premier League",
+      "Crystal Palace",
+      "Manchester United"
+    ],
+    "published_raw": "2026-03-01T15:01:27+00:00",
+    "published_at": "2026-03-01T15:01:27+00:00",
+    "updated_at": "2026-03-01T15:01:32+00:00",
+    "scraped_at": "2026-03-01T15:12:37.974031+00:00",
+    "metadata": {
+      "source_id": 2,
+      "source_tag": "source_2",
+      "source_name": "footreplays.com",
+      "source_url": "https://www.footreplays.com",
+      "scraped_at": "2026-03-01T15:12:37.974031+00:00",
+      "published_raw": "2026-03-01T15:01:27+00:00",
+      "published_at": "2026-03-01T15:01:27+00:00",
+      "updated_at": "2026-03-01T15:01:32+00:00",
+      "categories": [
+        "Premier League",
+        "Crystal Palace",
+        "Manchester United"
+      ],
+      "listing_date_raw": "01/03/2026",
+      "published_is_estimated": false
+    }
+  },
+  {
+    "match_id": "0462101ab1bfe93c496f67a03c4c683d",
+    "source_id": 2,
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "url": "https://www.footreplays.com/italy/serie-a/cremonese-vs-ac-milan-01-03-2026/",
+    "match": "Cremonese vs AC Milan",
+    "date": "2026-03-01T14:58:26+00:00",
+    "competition": "Serie A, AC Milan, Cremonese",
+    "preview_image": "https://i1.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Cremonese-vs-AC-Milan.webp?ssl=1",
+    "duration": "",
+    "links": [
+      {
+        "label": "Full Match | Russian | HGlink",
+        "url": "https://hgcloud.to/aq1cibi4lde6",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      }
+    ],
+    "categories": [
+      "Serie A",
+      "AC Milan",
+      "Cremonese"
+    ],
+    "published_raw": "2026-03-01T14:58:26+00:00",
+    "published_at": "2026-03-01T14:58:26+00:00",
+    "updated_at": "2026-03-01T14:58:31+00:00",
+    "scraped_at": "2026-03-01T15:12:37.974031+00:00",
+    "metadata": {
+      "source_id": 2,
+      "source_tag": "source_2",
+      "source_name": "footreplays.com",
+      "source_url": "https://www.footreplays.com",
+      "scraped_at": "2026-03-01T15:12:37.974031+00:00",
+      "published_raw": "2026-03-01T14:58:26+00:00",
+      "published_at": "2026-03-01T14:58:26+00:00",
+      "updated_at": "2026-03-01T14:58:31+00:00",
+      "categories": [
+        "Serie A",
+        "AC Milan",
+        "Cremonese"
+      ],
+      "listing_date_raw": "01/03/2026",
+      "published_is_estimated": false
+    }
+  },
+  {
     "match_id": "8570fe5276d034b8a80234a726d4947e",
     "source_id": 4,
     "source_tag": "source_4",
