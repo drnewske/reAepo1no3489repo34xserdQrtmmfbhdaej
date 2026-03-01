@@ -15,6 +15,8 @@ LOG_FILE = "scraper_log.json"
 OUTPUT_FILE = "matches.json"
 MAX_POSTS_PER_SOURCE = int(os.getenv("MAX_POSTS_PER_SOURCE", "12"))
 REQUEST_TIMEOUT = int(os.getenv("REQUEST_TIMEOUT", "30"))
+STRICT_SKIP_ALREADY_SCRAPED = os.getenv("STRICT_SKIP_ALREADY_SCRAPED", "1") == "1"
+RECHECK_AFTER_HOURS = float(os.getenv("RECHECK_AFTER_HOURS", "0"))
 UA = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -61,6 +63,11 @@ def now_utc():
 
 def clean(x):
     return re.sub(r"\s+", " ", str(x or "")).strip()
+
+
+def is_relative_date_text(text):
+    t = clean(text).lower()
+    return "ago" in t or "just now" in t or "yesterday" in t
 
 
 def nurl(url, base=""):
@@ -414,11 +421,65 @@ class BaseScraper:
             return None, ""
         return BeautifulSoup(r.text, "html.parser"), r.text
 
-    def update_log(self, match):
+    def _parse_log_datetime(self, value):
+        text = clean(value)
+        if not text:
+            return None
+        try:
+            return datetime.fromisoformat(text.replace("Z", "+00:00"))
+        except Exception:
+            return None
+
+    def listing_stamp(self, title="", listing_date_raw="", preview="", cats=None):
+        stable_date = "" if is_relative_date_text(listing_date_raw) else clean(listing_date_raw)
+        payload = "|".join(
+            [
+                clean(title),
+                stable_date,
+                clean(preview),
+                ",".join(dedupe_text(cats or [])),
+            ]
+        )
+        return hashlib.md5(payload.encode("utf-8")).hexdigest()
+
+    def should_scrape(self, match_id, listing_stamp="", listing_date_raw=""):
+        if not STRICT_SKIP_ALREADY_SCRAPED:
+            return True, "strict_skip_disabled"
+
+        row = self.log_data.get(match_id)
+        if not isinstance(row, dict):
+            return True, "new_match"
+
+        prev_stamp = clean(row.get("listing_stamp"))
+        prev_date = clean(row.get("listing_date_raw"))
+        cur_date = clean(listing_date_raw)
+
+        if not prev_stamp and not prev_date:
+            return True, "missing_listing_fingerprint"
+
+        if cur_date and prev_date and not is_relative_date_text(cur_date) and cur_date != prev_date:
+            return True, "listing_date_changed"
+        if listing_stamp and prev_stamp and listing_stamp != prev_stamp:
+            return True, "listing_stamp_changed"
+
+        if RECHECK_AFTER_HOURS > 0:
+            last_updated = self._parse_log_datetime(row.get("last_updated"))
+            if not last_updated:
+                return True, "stale_no_last_updated"
+            age = now_utc() - last_updated.astimezone(timezone.utc)
+            if age.total_seconds() >= RECHECK_AFTER_HOURS * 3600:
+                return True, "stale_recheck_window"
+
+        return False, "already_scraped"
+
+    def update_log(self, match, listing_date_raw="", listing_stamp=""):
         self.log_data[match["match_id"]] = {
             "match_title": match["match"],
+            "url": match.get("url", ""),
             "source_id": self.source_id,
             "source_name": self.source_name,
+            "listing_date_raw": clean(listing_date_raw),
+            "listing_stamp": clean(listing_stamp),
             "link_count": len(match.get("links", [])),
             "last_updated": now_utc().isoformat(),
         }
@@ -448,10 +509,10 @@ class SoccerFull(BaseScraper):
         if not soup:
             return []
         results, seen = [], set()
+        skipped = 0
+        inspected = 0
         scraped_at = now_utc().isoformat()
         for item in soup.select("li.item-movie"):
-            if len(results) >= MAX_POSTS_PER_SOURCE:
-                break
             ttag = item.select_one(".title-movie h3")
             atag = item.select_one("a[href]")
             if not ttag or not atag:
@@ -460,8 +521,17 @@ class SoccerFull(BaseScraper):
             if not url or url in seen:
                 continue
             seen.add(url)
+            inspected += 1
+            if inspected > MAX_POSTS_PER_SOURCE:
+                break
             title = clean(ttag.get_text(" ", strip=True))
             preview = img_url(item.select_one("img.movie-thumbnail"))
+            match_id = gen_id(url)
+            listing_stamp = self.listing_stamp(title=title, listing_date_raw="", preview=preview, cats=[])
+            go, _reason = self.should_scrape(match_id, listing_stamp=listing_stamp, listing_date_raw="")
+            if not go:
+                skipped += 1
+                continue
 
             ds, _ = self.get_soup(url)
             if not ds:
@@ -511,8 +581,8 @@ class SoccerFull(BaseScraper):
             match = build_match(1, self.source_name, self.base_url, url, title, preview, cats, links, scraped_at,
                                 published_raw=pub_raw, published_iso=pub_iso, extra={"description_text": info_text})
             results.append(match)
-            self.update_log(match)
-        print(f"[SOURCE_1] Collected: {len(results)}")
+            self.update_log(match, listing_date_raw="", listing_stamp=listing_stamp)
+        print(f"[SOURCE_1] Collected: {len(results)} (skipped: {skipped})")
         return results
 
 
@@ -561,10 +631,10 @@ class FootReplays(BaseScraper):
         if not soup:
             return []
         results, seen = [], set()
+        skipped = 0
+        inspected = 0
         scraped_at = now_utc().isoformat()
         for card in soup.select("div.p-wrap"):
-            if len(results) >= MAX_POSTS_PER_SOURCE:
-                break
             a = card.select_one("h3.entry-title a[href], h2.entry-title a[href]")
             if not a:
                 continue
@@ -572,11 +642,25 @@ class FootReplays(BaseScraper):
             if not url or url in seen:
                 continue
             seen.add(url)
+            inspected += 1
+            if inspected > MAX_POSTS_PER_SOURCE:
+                break
             title = clean(a.get_text(" ", strip=True))
             preview = img_url(card.select_one("img"))
             listing_cats = [x.get_text(" ", strip=True) for x in card.select(".p-categories a")]
             dnode = card.select_one("time.date, .meta-date")
             listing_raw = clean(dnode.get_text(" ", strip=True)) if dnode else ""
+            match_id = gen_id(url)
+            listing_stamp = self.listing_stamp(
+                title=title,
+                listing_date_raw=listing_raw,
+                preview=preview,
+                cats=listing_cats,
+            )
+            go, _reason = self.should_scrape(match_id, listing_stamp=listing_stamp, listing_date_raw=listing_raw)
+            if not go:
+                skipped += 1
+                continue
 
             ds, _ = self.get_soup(url)
             if not ds:
@@ -602,8 +686,8 @@ class FootReplays(BaseScraper):
                                 published_raw=pub_raw, published_iso=iso(pub_dt), updated_iso=iso(upd_dt),
                                 extra={"listing_date_raw": listing_raw, "published_is_estimated": pub_est})
             results.append(match)
-            self.update_log(match)
-        print(f"[SOURCE_2] Collected: {len(results)}")
+            self.update_log(match, listing_date_raw=listing_raw, listing_stamp=listing_stamp)
+        print(f"[SOURCE_2] Collected: {len(results)} (skipped: {skipped})")
         return results
 
 
@@ -638,10 +722,10 @@ class TimeSoccerTV(BaseScraper):
         if not soup:
             return []
         results, seen = [], set()
+        skipped = 0
+        inspected = 0
         scraped_at = now_utc().isoformat()
         for card in soup.select(".td_module_wrap"):
-            if len(results) >= MAX_POSTS_PER_SOURCE:
-                break
             a = card.select_one("h3.entry-title a[href], h2.entry-title a[href], .entry-title a[href]")
             if not a:
                 continue
@@ -649,11 +733,25 @@ class TimeSoccerTV(BaseScraper):
             if not url or url in seen:
                 continue
             seen.add(url)
+            inspected += 1
+            if inspected > MAX_POSTS_PER_SOURCE:
+                break
             title = clean(a.get_text(" ", strip=True))
             preview = img_url(card.select_one("img.entry-thumb, img"))
             dnode = card.select_one("time.entry-date, .entry-date")
             listing_raw = clean(dnode.get_text(" ", strip=True)) if dnode else ""
             listing_cats = [x.get_text(" ", strip=True) for x in card.select(".td-post-category")]
+            match_id = gen_id(url)
+            listing_stamp = self.listing_stamp(
+                title=title,
+                listing_date_raw=listing_raw,
+                preview=preview,
+                cats=listing_cats,
+            )
+            go, _reason = self.should_scrape(match_id, listing_stamp=listing_stamp, listing_date_raw=listing_raw)
+            if not go:
+                skipped += 1
+                continue
 
             ds, _ = self.get_soup(url)
             if not ds:
@@ -684,8 +782,8 @@ class TimeSoccerTV(BaseScraper):
                                 published_raw=pub_raw, published_iso=iso(pub_dt or list_dt), updated_iso=iso(upd_dt),
                                 extra={"listing_date_raw": listing_raw, "listing_date_at": iso(list_dt), "listing_date_is_estimated": list_est, "published_is_estimated": pub_est})
             results.append(match)
-            self.update_log(match)
-        print(f"[SOURCE_3] Collected: {len(results)}")
+            self.update_log(match, listing_date_raw=listing_raw, listing_stamp=listing_stamp)
+        print(f"[SOURCE_3] Collected: {len(results)} (skipped: {skipped})")
         return results
 
 
@@ -794,7 +892,23 @@ class FootballOrgin(BaseScraper):
                 break
 
         results, scraped_at = [], now_utc().isoformat()
+        skipped = 0
         for item in cand[:MAX_POSTS_PER_SOURCE]:
+            match_id = gen_id(item["url"])
+            listing_stamp = self.listing_stamp(
+                title=item["title"],
+                listing_date_raw=item["listing_date"],
+                preview=item["preview"],
+                cats=item["listing_categories"],
+            )
+            go, _reason = self.should_scrape(
+                match_id,
+                listing_stamp=listing_stamp,
+                listing_date_raw=item["listing_date"],
+            )
+            if not go:
+                skipped += 1
+                continue
             links, dcats, date_raw, pub_raw, upd_raw, dpreview, html = self.detail(item["url"])
             if not links:
                 continue
@@ -808,8 +922,8 @@ class FootballOrgin(BaseScraper):
                                 published_raw=pub_raw or item["listing_date"], published_iso=iso(pub_dt or list_dt), updated_iso=iso(upd_dt),
                                 extra={"listing_date_raw": item["listing_date"], "listing_date_at": iso(list_dt), "listing_date_is_estimated": list_est, "published_is_estimated": pub_est, "html_has_single_video_url": '"single_video_url"' in html})
             results.append(match)
-            self.update_log(match)
-        print(f"[SOURCE_4] Collected: {len(results)}")
+            self.update_log(match, listing_date_raw=item["listing_date"], listing_stamp=listing_stamp)
+        print(f"[SOURCE_4] Collected: {len(results)} (skipped: {skipped})")
         return results
 
 
