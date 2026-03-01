@@ -1,5 +1,396 @@
 [
   {
+    "match_id": "822749982845bba57179f83c750bd941",
+    "source_id": 2,
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "url": "https://www.footreplays.com/england/premier-league/arsenal-vs-chelsea-3-01-03-2026/",
+    "match": "Arsenal vs Chelsea",
+    "date": "2026-03-01T17:44:13+00:00",
+    "competition": "Premier League, Arsenal, Chelsea",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/02/Arsenal-vs-Chelsea.webp?ssl=1",
+    "duration": "",
+    "links": [
+      {
+        "label": "1st Half | English | HGlink",
+        "url": "https://hgcloud.to/op6xs9a5c2aq",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      }
+    ],
+    "categories": [
+      "Premier League",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "published_raw": "2026-03-01T17:44:13+00:00",
+    "published_at": "2026-03-01T17:44:13+00:00",
+    "updated_at": "2026-03-01T17:44:16+00:00",
+    "scraped_at": "2026-03-01T18:18:42.813288+00:00",
+    "metadata": {
+      "source_id": 2,
+      "source_tag": "source_2",
+      "source_name": "footreplays.com",
+      "source_url": "https://www.footreplays.com",
+      "scraped_at": "2026-03-01T18:18:42.813288+00:00",
+      "published_raw": "2026-03-01T17:44:13+00:00",
+      "published_at": "2026-03-01T17:44:13+00:00",
+      "updated_at": "2026-03-01T17:44:16+00:00",
+      "categories": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ],
+      "listing_date_raw": "01/03/2026",
+      "published_is_estimated": false
+    }
+  },
+  {
+    "match_id": "8a1a4c990fdb5e55447c8ae56d657c74",
+    "source_id": 2,
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "url": "https://www.footreplays.com/england/premier-league/fulham-vs-tottenham-2-01-03-2026/",
+    "match": "Fulham vs Tottenham",
+    "date": "2026-03-01T17:43:13+00:00",
+    "competition": "Premier League, Fulham, Tottenham",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Fulham-vs-Tottenham.webp?ssl=1",
+    "duration": "",
+    "links": [
+      {
+        "label": "Full Match | Russian | HGlink",
+        "url": "https://hgcloud.to/m9gh3ri1q8w3",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      },
+      {
+        "label": "Highlight | English | HGlink",
+        "url": "https://hgcloud.to/3pzjsibsblv6",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      }
+    ],
+    "categories": [
+      "Premier League",
+      "Fulham",
+      "Tottenham"
+    ],
+    "published_raw": "2026-03-01T17:43:13+00:00",
+    "published_at": "2026-03-01T17:43:13+00:00",
+    "updated_at": "2026-03-01T17:51:33+00:00",
+    "scraped_at": "2026-03-01T18:18:42.813288+00:00",
+    "metadata": {
+      "source_id": 2,
+      "source_tag": "source_2",
+      "source_name": "footreplays.com",
+      "source_url": "https://www.footreplays.com",
+      "scraped_at": "2026-03-01T18:18:42.813288+00:00",
+      "published_raw": "2026-03-01T17:43:13+00:00",
+      "published_at": "2026-03-01T17:43:13+00:00",
+      "updated_at": "2026-03-01T17:51:33+00:00",
+      "categories": [
+        "Premier League",
+        "Fulham",
+        "Tottenham"
+      ],
+      "listing_date_raw": "01/03/2026",
+      "published_is_estimated": false
+    }
+  },
+  {
+    "match_id": "0bfe41c5d4da87bfd7e4c4b78b2bd057",
+    "source_id": 2,
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "url": "https://www.footreplays.com/england/premier-league/brighton-vs-nottingham-2-01-03-2026/",
+    "match": "Brighton vs Nottingham",
+    "date": "2026-03-01T17:42:08+00:00",
+    "competition": "Premier League, Brighton, Nottingham",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Brighton-vs-Nottingham.webp?ssl=1",
+    "duration": "",
+    "links": [
+      {
+        "label": "Full Match | Russian | HGlink",
+        "url": "https://hgcloud.to/wuqlr5cgltno",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      },
+      {
+        "label": "Highlight | English | HGlink",
+        "url": "https://hgcloud.to/bh23o2vxu7i3",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      }
+    ],
+    "categories": [
+      "Premier League",
+      "Brighton",
+      "Nottingham"
+    ],
+    "published_raw": "2026-03-01T17:42:08+00:00",
+    "published_at": "2026-03-01T17:42:08+00:00",
+    "updated_at": "2026-03-01T17:50:59+00:00",
+    "scraped_at": "2026-03-01T18:18:42.813288+00:00",
+    "metadata": {
+      "source_id": 2,
+      "source_tag": "source_2",
+      "source_name": "footreplays.com",
+      "source_url": "https://www.footreplays.com",
+      "scraped_at": "2026-03-01T18:18:42.813288+00:00",
+      "published_raw": "2026-03-01T17:42:08+00:00",
+      "published_at": "2026-03-01T17:42:08+00:00",
+      "updated_at": "2026-03-01T17:50:59+00:00",
+      "categories": [
+        "Premier League",
+        "Brighton",
+        "Nottingham"
+      ],
+      "listing_date_raw": "01/03/2026",
+      "published_is_estimated": false
+    }
+  },
+  {
+    "match_id": "5be71ee062c5abecde4ceff9efe48938",
+    "source_id": 3,
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "url": "https://timesoccertv.com/arsenal-highlights/",
+    "match": "Arsenal vs Chelsea Full Match Replay and Highlights",
+    "date": "2026-03-01T17:00:00+00:00",
+    "competition": "Video, Arsenal",
+    "preview_image": "https://media.gettyimages.com/id/2264231601/photo/london-england-joao-pedro-of-chelsea-has-a-shot-whilst-under-pressure-from-david-raya-and.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=VNHbwXx2PeVXF3P00bUpFeJ8QZ2JLP4mJpl0SGzGo7E=",
+    "duration": "",
+    "links": [
+      {
+        "label": "1st Half",
+        "url": "https://hgcloud.to/e/op6xs9a5c2aq",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      },
+      {
+        "label": "Highlights",
+        "url": "https://soccertims.vortexvisionworks.com/embed/VxTbbrocO5mCu",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay"
+      },
+      {
+        "label": "ITV English Football League Highlights: EFL Championships 28/02/2026",
+        "url": "https://timesoccertv.com/inter-milan-live-stream/",
+        "host": "timesoccertv.com",
+        "kind": "replay"
+      },
+      {
+        "label": "ITV English Football League Highlights: EFL Championships 28/02/2026",
+        "url": "https://timesoccertv.com/liverpool-live-stream/",
+        "host": "timesoccertv.com",
+        "kind": "replay"
+      },
+      {
+        "label": "ITV English Football League Highlights: EFL Championships 28/02/2026",
+        "url": "https://timesoccertv.com/everton-live-stream/",
+        "host": "timesoccertv.com",
+        "kind": "replay"
+      }
+    ],
+    "categories": [
+      "Video",
+      "Arsenal"
+    ],
+    "published_raw": "2026-03-01T17:00:00+00:00",
+    "published_at": "2026-03-01T17:00:00+00:00",
+    "updated_at": "2026-03-01T17:55:13+00:00",
+    "scraped_at": "2026-03-01T18:18:46.604016+00:00",
+    "metadata": {
+      "source_id": 3,
+      "source_tag": "source_3",
+      "source_name": "timesoccertv.com",
+      "source_url": "https://timesoccertv.com",
+      "scraped_at": "2026-03-01T18:18:46.604016+00:00",
+      "published_raw": "2026-03-01T17:00:00+00:00",
+      "published_at": "2026-03-01T17:00:00+00:00",
+      "updated_at": "2026-03-01T17:55:13+00:00",
+      "categories": [
+        "Video",
+        "Arsenal"
+      ],
+      "listing_date_raw": "1 hour ago",
+      "listing_date_at": "2026-03-01T17:18:47.766398+00:00",
+      "listing_date_is_estimated": true,
+      "published_is_estimated": false
+    }
+  },
+  {
+    "match_id": "a85183c67afd1d59075ad9e82f79134d",
+    "source_id": 3,
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "url": "https://timesoccertv.com/tottenham-hotspur-highlights/",
+    "match": "Fulham vs Tottenham Hotspur Full Match & Highlights",
+    "date": "2026-03-01T15:00:00+00:00",
+    "competition": "Video, Tottenham Hotspur",
+    "preview_image": "https://media.gettyimages.com/id/2264215667/photo/london-england-richarlison-of-tottenham-hotspur-ties-to-take-the-ball-away-from-calvin-bassey.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=h9jHj1eeQKucKgCnvQNL7C9WB-4nG_GKEFDhkml91MA=",
+    "duration": "",
+    "links": [
+      {
+        "label": "Fulham vs Tottenham Hotspur Full Match",
+        "url": "https://hgcloud.to/e/m9gh3ri1q8w3",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      },
+      {
+        "label": "Highlights",
+        "url": "https://soccertims.vortexvisionworks.com/embed/HyyHrRj2gxGkg",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay"
+      },
+      {
+        "label": "ITV English Football League Highlights: EFL Championships 28/02/2026",
+        "url": "https://timesoccertv.com/inter-milan-live-stream/",
+        "host": "timesoccertv.com",
+        "kind": "replay"
+      },
+      {
+        "label": "ITV English Football League Highlights: EFL Championships 28/02/2026",
+        "url": "https://timesoccertv.com/liverpool-live-stream/",
+        "host": "timesoccertv.com",
+        "kind": "replay"
+      },
+      {
+        "label": "ITV English Football League Highlights: EFL Championships 28/02/2026",
+        "url": "https://timesoccertv.com/everton-live-stream/",
+        "host": "timesoccertv.com",
+        "kind": "replay"
+      }
+    ],
+    "categories": [
+      "Video",
+      "Tottenham Hotspur"
+    ],
+    "published_raw": "2026-03-01T15:00:00+00:00",
+    "published_at": "2026-03-01T15:00:00+00:00",
+    "updated_at": "2026-03-01T17:50:55+00:00",
+    "scraped_at": "2026-03-01T18:18:46.604016+00:00",
+    "metadata": {
+      "source_id": 3,
+      "source_tag": "source_3",
+      "source_name": "timesoccertv.com",
+      "source_url": "https://timesoccertv.com",
+      "scraped_at": "2026-03-01T18:18:46.604016+00:00",
+      "published_raw": "2026-03-01T15:00:00+00:00",
+      "published_at": "2026-03-01T15:00:00+00:00",
+      "updated_at": "2026-03-01T17:50:55+00:00",
+      "categories": [
+        "Video",
+        "Tottenham Hotspur"
+      ],
+      "listing_date_raw": "3 hours ago",
+      "listing_date_at": "2026-03-01T15:18:48.927465+00:00",
+      "listing_date_is_estimated": true,
+      "published_is_estimated": false
+    }
+  },
+  {
+    "match_id": "1a272666ff591e44f6a707e7f6aebc77",
+    "source_id": 4,
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "url": "https://www.footballorgin.com/james-milners-journey-to-breaking-the-premier-league-appearances-record/",
+    "match": "James Milners journey to breaking the Premier League appearances record",
+    "date": "2026-03-01T17:44:23+00:00",
+    "competition": "Premier League, TV Show",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2026/03/james-milners-journey-to-breakin.jpg",
+    "duration": "",
+    "links": [
+      {
+        "label": "Replay",
+        "url": "https://www.youtube.com/watch?v=ISOEJOUJV1g",
+        "host": "youtube.com",
+        "kind": "replay"
+      }
+    ],
+    "categories": [
+      "Premier League",
+      "TV Show"
+    ],
+    "published_raw": "2026-03-01T17:44:23+00:00",
+    "published_at": "2026-03-01T17:44:23+00:00",
+    "updated_at": "",
+    "scraped_at": "2026-03-01T18:18:50.033544+00:00",
+    "metadata": {
+      "source_id": 4,
+      "source_tag": "source_4",
+      "source_name": "footballorgin.com",
+      "source_url": "https://www.footballorgin.com",
+      "scraped_at": "2026-03-01T18:18:50.033544+00:00",
+      "published_raw": "2026-03-01T17:44:23+00:00",
+      "published_at": "2026-03-01T17:44:23+00:00",
+      "updated_at": "",
+      "categories": [
+        "Premier League",
+        "TV Show"
+      ],
+      "listing_date_raw": "",
+      "listing_date_at": "",
+      "listing_date_is_estimated": false,
+      "published_is_estimated": false,
+      "html_has_single_video_url": true
+    }
+  },
+  {
+    "match_id": "5790ff664a70725e6197841317f10083",
+    "source_id": 4,
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "url": "https://www.footballorgin.com/derby-county-vs-blackburn-rovers-full-match-28-february-2026/",
+    "match": "Derby County vs Blackburn Rovers Full Match | 28 February 2026",
+    "date": "2026-03-01T17:31:42+00:00",
+    "competition": "Championship, Full Match Replay",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/02/efl-championship-236x133.jpg",
+    "duration": "",
+    "links": [
+      {
+        "label": "Disclaimer: This video is hosted on an external server. Footballorgin does not h",
+        "url": "https://mixdrop.top/e/el0jo3d8a1kzej",
+        "host": "mixdrop.top",
+        "kind": "replay"
+      }
+    ],
+    "categories": [
+      "Championship",
+      "Full Match Replay"
+    ],
+    "published_raw": "2026-03-01T17:31:42+00:00",
+    "published_at": "2026-03-01T17:31:42+00:00",
+    "updated_at": "",
+    "scraped_at": "2026-03-01T18:18:50.033544+00:00",
+    "metadata": {
+      "source_id": 4,
+      "source_tag": "source_4",
+      "source_name": "footballorgin.com",
+      "source_url": "https://www.footballorgin.com",
+      "scraped_at": "2026-03-01T18:18:50.033544+00:00",
+      "published_raw": "2026-03-01T17:31:42+00:00",
+      "published_at": "2026-03-01T17:31:42+00:00",
+      "updated_at": "",
+      "categories": [
+        "Championship",
+        "Full Match Replay"
+      ],
+      "listing_date_raw": "",
+      "listing_date_at": "",
+      "listing_date_is_estimated": false,
+      "published_is_estimated": false,
+      "html_has_single_video_url": true
+    }
+  },
+  {
     "match_id": "53b9aa85cfd623680ba671c21ab1776b",
     "source_id": 4,
     "source_tag": "source_4",
