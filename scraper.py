@@ -548,7 +548,8 @@ class SoccerFull(BaseScraper):
             pub_raw, pub_iso = "", ""
             if km:
                 pub_raw = f"{km.group(2)} {km.group(1)} UTC"
-                d = parse_abs(f"{re.sub(r'(\d+)(st|nd|rd|th)', r'\1', km.group(2), flags=re.I)} {km.group(1)}")
+                kickoff_day = re.sub(r"(\d+)(st|nd|rd|th)", r"\1", km.group(2), flags=re.I)
+                d = parse_abs(f"{kickoff_day} {km.group(1)}")
                 pub_iso = iso(d.replace(tzinfo=timezone.utc) if d else None)
 
             links = []
