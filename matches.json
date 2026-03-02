@@ -1,5 +1,58 @@
 [
   {
+    "match_id": "6f60d4f30cce3697a3711b49bf019648",
+    "source_id": 2,
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "url": "https://www.footreplays.com/italy/serie-a/as-roma-vs-juventus-2-01-03-2026/",
+    "match": "AS Roma vs Juventus",
+    "date": "2026-03-01T17:42:00+00:00",
+    "competition": "Serie A, AS Roma, Juventus",
+    "preview_image": "https://i3.wp.com/www.footreplays.com/wp-content/uploads/2026/03/AS-Roma-vs-Juventus.webp?ssl=1",
+    "duration": "",
+    "links": [
+      {
+        "label": "Full Match | Russian | HGlink",
+        "url": "https://hgcloud.to/o2r1cdqssjc1",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      },
+      {
+        "label": "Highlight | English | HGlink",
+        "url": "https://hgcloud.to/mv0i55v3fxjy",
+        "host": "hgcloud.to",
+        "kind": "replay"
+      }
+    ],
+    "categories": [
+      "Serie A",
+      "AS Roma",
+      "Juventus"
+    ],
+    "published_raw": "2026-03-01T17:42:00+00:00",
+    "published_at": "2026-03-01T17:42:00+00:00",
+    "updated_at": "2026-03-01T23:33:04+00:00",
+    "scraped_at": "2026-03-02T01:05:28.654961+00:00",
+    "metadata": {
+      "source_id": 2,
+      "source_tag": "source_2",
+      "source_name": "footreplays.com",
+      "source_url": "https://www.footreplays.com",
+      "scraped_at": "2026-03-02T01:05:28.654961+00:00",
+      "published_raw": "2026-03-01T17:42:00+00:00",
+      "published_at": "2026-03-01T17:42:00+00:00",
+      "updated_at": "2026-03-01T23:33:04+00:00",
+      "categories": [
+        "Serie A",
+        "AS Roma",
+        "Juventus"
+      ],
+      "listing_date_raw": "01/03/2026",
+      "published_is_estimated": false
+    }
+  },
+  {
     "match_id": "2d8890f4eaf058f91cd5faede409c5ae",
     "source_id": 4,
     "source_tag": "source_4",
