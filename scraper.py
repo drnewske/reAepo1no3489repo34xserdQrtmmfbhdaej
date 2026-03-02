@@ -5,7 +5,7 @@ import re
 import time
 from datetime import datetime, timedelta, timezone
 from html import unescape
-from urllib.parse import urljoin, urlparse
+from urllib.parse import parse_qs, urljoin, urlparse
 
 import cloudscraper
 import requests
@@ -30,6 +30,8 @@ VIDEO_HINTS = (
 BAD_HINTS = (
     "facebook.com/plugins", "googletagmanager.com", "doubleclick.net", "googlesyndication.com", "adservice", "about:blank", "javascript:",
 )
+DIRECT_MEDIA_EXTS = (".m3u8", ".mp4", ".m4v", ".mov", ".webm", ".mkv", ".avi", ".ts")
+DIRECT_MEDIA_HINTS = ("/hls/", "master.m3u8", "playlist.m3u8", "index.m3u8")
 SOURCE_INFO = {
     1: {"name": "soccerfull.net", "url": "https://soccerfull.net"},
     2: {"name": "footreplays.com", "url": "https://www.footreplays.com"},
@@ -140,9 +142,96 @@ def is_video(url):
     return any(h in l for h in VIDEO_HINTS)
 
 
+def is_direct_media(url):
+    l = clean(url).lower()
+    if not l:
+        return False
+    if any(h in l for h in DIRECT_MEDIA_HINTS):
+        return True
+    if re.match(r"^[a-z0-9+/=_-]+\.m3u8(?:[?#].*)?$", l):
+        return True
+    return any(l.endswith(ext) or f"{ext}?" in l or f"{ext}#" in l for ext in DIRECT_MEDIA_EXTS)
+
+
 def is_bad(url):
     l = (url or "").lower()
     return any(h in l for h in BAD_HINTS)
+
+
+def youtube_id(url):
+    u = nurl(url)
+    if not u:
+        return ""
+    p = urlparse(u)
+    h = p.netloc.lower()
+    seg = [x for x in p.path.split("/") if x]
+    if "youtu.be" in h and seg:
+        return seg[0]
+    if "youtube.com" in h or "youtube-nocookie.com" in h:
+        q = parse_qs(p.query or "")
+        if q.get("v"):
+            return clean(q["v"][0])
+        if "embed" in seg:
+            i = seg.index("embed")
+            if i + 1 < len(seg):
+                return seg[i + 1]
+        if seg and seg[0] in {"shorts", "live"} and len(seg) > 1:
+            return seg[1]
+    return ""
+
+
+def prefer_embed_url(url, base=""):
+    u = nurl(url, base)
+    if not u:
+        return ""
+    p = urlparse(u)
+    h = p.netloc.lower().lstrip("www.")
+    path = p.path or ""
+
+    if "soccerfull.net" in h:
+        m = re.search(r"/hls/(\d+)\.m3u8\b", path, re.I)
+        if m:
+            return f"https://soccerfull.net/play/{m.group(1)}"
+
+    if "ok.ru" in h:
+        if "/videoembed/" in path:
+            return u
+        m = re.search(r"/video/(\d+)", path)
+        if m:
+            return f"https://ok.ru/videoembed/{m.group(1)}"
+
+    if "mega.nz" in h:
+        if path.startswith("/embed/"):
+            return u
+        m = re.match(r"^/file/([^/]+)$", path)
+        if m and p.fragment:
+            return f"https://mega.nz/embed/{m.group(1)}#{p.fragment}"
+
+    if "dailymotion.com" in h or h == "dai.ly":
+        if "geo.dailymotion.com" in h and "player.html" in path and "video=" in (p.query or ""):
+            return u
+        vid = ""
+        if h == "dai.ly":
+            seg = [x for x in path.split("/") if x]
+            if seg:
+                vid = seg[0]
+        else:
+            m = re.search(r"/(?:video|embed/video)/([a-zA-Z0-9]+)", path)
+            if m:
+                vid = m.group(1)
+        if vid:
+            return f"https://geo.dailymotion.com/player.html?video={vid}"
+
+    if "vimeo.com" in h and "player.vimeo.com" not in h:
+        m = re.search(r"/(\d+)", path)
+        if m:
+            return f"https://player.vimeo.com/video/{m.group(1)}"
+
+    yt = youtube_id(u)
+    if yt:
+        return f"https://www.youtube-nocookie.com/embed/{yt}"
+
+    return u
 
 
 def iso(dt):
@@ -327,9 +416,14 @@ def inline_single_video_urls(html):
     return list(urls)
 
 
-def mk_link(label, url, base="", kind="replay"):
-    u = nurl(url, base)
-    if not u:
+def mk_link(label, url, base="", kind="replay", reject_direct=True):
+    raw = nurl(url, base)
+    if not raw:
+        return None
+    u = prefer_embed_url(raw)
+    if not u or is_bad(u):
+        return None
+    if reject_direct and is_direct_media(u):
         return None
     return {"label": clean(label) or "Replay", "url": u, "host": host(u), "kind": kind}
 
@@ -345,6 +439,154 @@ def uniq_links(links):
             continue
         seen.add(k)
         out.append(x)
+    return out
+
+
+def normalize_link_entry(link, page_url=""):
+    if not isinstance(link, dict):
+        return None
+    raw_url = clean(link.get("url"))
+    if not raw_url:
+        return None
+
+    final_url = prefer_embed_url(raw_url, page_url)
+    if not final_url:
+        return None
+
+    if is_direct_media(final_url):
+        for alt_key in ("player_url", "embed_url", "embed", "src", "href"):
+            alt_raw = clean(link.get(alt_key))
+            if not alt_raw:
+                continue
+            alt_url = prefer_embed_url(alt_raw, page_url)
+            if alt_url and not is_direct_media(alt_url):
+                final_url = alt_url
+                break
+
+    if is_bad(final_url) or is_direct_media(final_url):
+        return None
+
+    out = dict(link)
+    out["label"] = clean(out.get("label")) or "Replay"
+    out["url"] = final_url
+    out["host"] = host(final_url)
+    out["kind"] = clean(out.get("kind")) or "replay"
+
+    for k in ("player_url", "embed_url", "stream_url"):
+        if k in out:
+            v = nurl(out.get(k), page_url)
+            if v:
+                out[k] = v
+            else:
+                out.pop(k, None)
+    return out
+
+
+def normalize_match_links(match):
+    if not isinstance(match, dict):
+        return match
+    page_url = clean(match.get("url"))
+    links = match.get("links") if isinstance(match.get("links"), list) else []
+    norm = []
+    for lk in links:
+        x = normalize_link_entry(lk, page_url)
+        if x:
+            norm.append(x)
+    norm = uniq_links(norm)
+    if not norm and page_url:
+        fb = mk_link("Match Page", page_url, base=page_url, kind="page")
+        if fb:
+            norm = [fb]
+    match["links"] = norm
+    return match
+
+
+def public_link(link):
+    if not isinstance(link, dict):
+        return None
+    url = clean(link.get("url"))
+    if not url:
+        return None
+    label = clean(link.get("label")) or "Replay"
+    return {"label": label, "url": url}
+
+
+def public_match(match):
+    if not isinstance(match, dict):
+        return None
+
+    metadata = match.get("metadata") if isinstance(match.get("metadata"), dict) else {}
+    title = clean(match.get("match"))
+    if not title:
+        title = clean(match.get("title"))
+    if not title:
+        return None
+
+    categories = match.get("categories")
+    if not isinstance(categories, list):
+        categories = metadata.get("categories") if isinstance(metadata.get("categories"), list) else []
+    categories = dedupe_text(categories)
+    competition = clean(match.get("competition"))
+    if not competition and categories:
+        competition = ", ".join(categories)
+    if not competition:
+        competition = "Football"
+
+    date_value = clean(match.get("date"))
+    if not date_value:
+        date_value = clean(match.get("published_at"))
+    if not date_value:
+        date_value = clean(match.get("published_raw"))
+    if not date_value:
+        date_value = clean(
+            metadata.get("published_at")
+            or metadata.get("published_raw")
+            or metadata.get("listing_date_at")
+            or metadata.get("listing_date_raw")
+            or metadata.get("datePublished")
+            or metadata.get("date")
+        )
+
+    description = clean(
+        match.get("description")
+        or metadata.get("description_text")
+        or metadata.get("description")
+        or metadata.get("summary")
+    )
+
+    links_src = match.get("links") if isinstance(match.get("links"), list) else []
+    links = []
+    for lk in links_src:
+        pl = public_link(lk)
+        if pl:
+            links.append(pl)
+    links = uniq_links(links)
+    if not links:
+        page_url = clean(match.get("url"))
+        if page_url:
+            links = [{"label": "Match Page", "url": page_url}]
+    if not links:
+        return None
+
+    out = {
+        "match_id": clean(match.get("match_id")) or gen_id(title + "|" + links[0]["url"]),
+        "match": title,
+        "competition": competition,
+        "date": date_value,
+        "preview_image": clean(match.get("preview_image")),
+        "links": links,
+    }
+    if description:
+        out["description"] = description
+    return out
+
+
+def to_public_rows(rows):
+    out = []
+    for row in rows:
+        p = public_match(row)
+        if p:
+            out.append(p)
     return out
 
 
@@ -500,8 +742,8 @@ class SoccerFull(BaseScraper):
         if not play:
             return "", ""
         m = re.search(r"/play/(\d+)", play)
-        stream = f"{self.base_url}/hls/{m.group(1)}.m3u8" if m else play
-        return stream, play
+        stream = f"{self.base_url}/hls/{m.group(1)}.m3u8" if m else ""
+        return play, stream
 
     def run(self):
         print("--- Source 1: soccerfull.net ---")
@@ -555,28 +797,33 @@ class SoccerFull(BaseScraper):
             links = []
             for a in ds.select("a.video-server[href]"):
                 lbl = clean(a.get_text(" ", strip=True)) or "Replay"
-                stream, play = self.resolve_sid(nurl(a.get("href"), url))
-                if not stream:
+                play, stream = self.resolve_sid(nurl(a.get("href"), url))
+                target = play or stream
+                if not target:
                     continue
-                lk = mk_link(lbl, stream, self.base_url)
+                lk = mk_link(lbl, target, self.base_url)
                 if lk:
-                    if play and play != stream:
-                        lk["player_url"] = play
+                    if stream and stream != lk["url"]:
+                        lk["stream_url"] = stream
                     links.append(lk)
                 time.sleep(0.2)
 
             if not links:
                 f = ds.select_one("iframe[src]")
                 if f:
-                    stream, play = self.resolve_sid(nurl(f.get("src"), self.base_url))
-                    fb = stream or play
+                    play, stream = self.resolve_sid(nurl(f.get("src"), self.base_url))
+                    fb = play or stream
                     lk = mk_link("Replay", fb, self.base_url)
                     if lk:
-                        if play and play != fb:
-                            lk["player_url"] = play
+                        if stream and stream != lk["url"]:
+                            lk["stream_url"] = stream
                         links.append(lk)
 
             links = uniq_links(links)
+            if not links:
+                lk = mk_link("Match Page", url, self.base_url, kind="page")
+                if lk:
+                    links = [lk]
             if not links:
                 continue
             match = build_match(1, self.source_name, self.base_url, url, title, preview, cats, links, scraped_at,
@@ -912,6 +1159,10 @@ class FootballOrgin(BaseScraper):
                 continue
             links, dcats, date_raw, pub_raw, upd_raw, dpreview, html = self.detail(item["url"])
             if not links:
+                lk = mk_link("Match Page", item["url"], self.base_url, kind="page")
+                if lk:
+                    links = [lk]
+            if not links:
                 continue
             preview = item["preview"] or dpreview
             cats = dedupe_text(item["listing_categories"] + dcats)
@@ -932,11 +1183,11 @@ def merge(existing, new):
     mp = {}
     for x in existing:
         if isinstance(x, dict) and x.get("match_id"):
-            mp[x["match_id"]] = ensure_source_fields(x)
+            mp[x["match_id"]] = normalize_match_links(ensure_source_fields(x))
     for m in new:
-        mp[m["match_id"]] = ensure_source_fields(m)
-    merged = [ensure_source_fields(m) for m in mp.values()]
-    merged = [m for m in merged if m.get("source_id") in SOURCE_INFO and m.get("url")]
+        mp[m["match_id"]] = normalize_match_links(ensure_source_fields(m))
+    merged = [normalize_match_links(ensure_source_fields(m)) for m in mp.values()]
+    merged = [m for m in merged if m.get("match_id") and isinstance(m.get("links"), list) and m.get("links")]
     new_ids = {m["match_id"] for m in new}
     return [m for m in merged if m["match_id"] in new_ids] + [m for m in merged if m["match_id"] not in new_ids]
 
@@ -964,7 +1215,8 @@ def main():
         return
 
     merged = merge(existing, fresh)
-    save_json_file(OUTPUT_FILE, merged)
+    public_rows = to_public_rows(merged)
+    save_json_file(OUTPUT_FILE, public_rows)
     save_json_file(LOG_FILE, log_data)
 
     by_src = {}
@@ -976,7 +1228,7 @@ def main():
     print("New records this run:")
     for tag, cnt in sorted(by_src.items()):
         print(f"  - {tag}: {cnt}")
-    print(f"Total records in {OUTPUT_FILE}: {len(merged)}")
+    print(f"Total records in {OUTPUT_FILE}: {len(public_rows)}")
     print(f"Log updated: {LOG_FILE}")
     print("----------------------------------------")
 
