@@ -1,5 +1,336 @@
 [
   {
+    "match_id": "f65d34bdf3b4e07b92e07e0d48be9f43",
+    "source_id": 1,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "url": "https://soccerfull.net/as-roma-vs-juventus-3121.html",
+    "match": "AS Roma vs Juventus",
+    "date": "1st March 2026 19:45 UTC",
+    "competition": "Serie A, AS Roma, Juventus",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdMr6M7QWDpH2uMt3yNiWPdPErNI-Q2LIGS8SJyyYojucHybnR4ahE3A&s=10",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "https://soccerfull.net/hls/12692.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12692"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "https://soccerfull.net/hls/12693.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12693"
+      }
+    ],
+    "categories": [
+      "Serie A",
+      "AS Roma",
+      "Juventus"
+    ],
+    "published_raw": "1st March 2026 19:45 UTC",
+    "published_at": "2026-03-01T19:45:00+00:00",
+    "updated_at": "",
+    "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+    "metadata": {
+      "source_id": 1,
+      "source_tag": "source_1",
+      "source_name": "soccerfull.net",
+      "source_url": "https://soccerfull.net",
+      "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+      "published_raw": "1st March 2026 19:45 UTC",
+      "published_at": "2026-03-01T19:45:00+00:00",
+      "updated_at": "",
+      "categories": [
+        "Serie A",
+        "AS Roma",
+        "Juventus"
+      ],
+      "description_text": "[RU]Full Match [EN]Highlights AS Roma vs Juventus Watch and download AS Roma vs Juventus full match replay. KICK-OFF at 19:45 (UTC) on 1st March 2026 The referee for this match is Sozza S. Game played at Stadio Olimpico This is a match in Italy – Serie A 2026, Round 27 League: Serie A Team: AS Roma Juventus"
+    }
+  },
+  {
+    "match_id": "12c0778523ef5a0e9c02fbb36d2a8461",
+    "source_id": 1,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "url": "https://soccerfull.net/brighton-amp-hove-albion-vs-nottingham-forest-3120.html",
+    "match": "Brighton & Hove Albion vs Nottingham Forest",
+    "date": "1st March 2026 14:00 UTC",
+    "competition": "Premier League, Brighton & Hove Albion, Nottingham Forest",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT1__5khu3FVIdjoRXG0b43jsPv29lJHwkh9b1bFu4AoR224oy063XlBk&s=10",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "https://soccerfull.net/hls/12690.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12690"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "https://soccerfull.net/hls/12691.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12691"
+      }
+    ],
+    "categories": [
+      "Premier League",
+      "Brighton & Hove Albion",
+      "Nottingham Forest"
+    ],
+    "published_raw": "1st March 2026 14:00 UTC",
+    "published_at": "2026-03-01T14:00:00+00:00",
+    "updated_at": "",
+    "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+    "metadata": {
+      "source_id": 1,
+      "source_tag": "source_1",
+      "source_name": "soccerfull.net",
+      "source_url": "https://soccerfull.net",
+      "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+      "published_raw": "1st March 2026 14:00 UTC",
+      "published_at": "2026-03-01T14:00:00+00:00",
+      "updated_at": "",
+      "categories": [
+        "Premier League",
+        "Brighton & Hove Albion",
+        "Nottingham Forest"
+      ],
+      "description_text": "[RU]Full Match [EN]Highlights Brighton & Hove Albion vs Nottingham Forest Watch and download Brighton & Hove Albion vs Nottingham Forest full match replay. KICK-OFF at 14:00 (UTC) on 1st March 2026 The referee for this match is Madley A. Game played at Amex Stadium This is a match in England – Premier League 2026, Round 28 League: Premier League Team: Brighton & Hove Albion Nottingham Forest"
+    }
+  },
+  {
+    "match_id": "b058c376d4c9fc83f771f95561eb2353",
+    "source_id": 1,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "url": "https://soccerfull.net/fulham-vs-tottenham-hotspur-3119.html",
+    "match": "Fulham vs Tottenham Hotspur",
+    "date": "1st March 2026 14:00 UTC",
+    "competition": "Premier League, Fulham, Tottenham Hotspur",
+    "preview_image": "https://images.daznservices.com/di/library/DAZN_News/7e/cc/fulham-x-totthenham_4yonacegs3xq1jvuhvu8mu7yi.png?t=1138202590",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "https://soccerfull.net/hls/12688.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12688"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "https://soccerfull.net/hls/12689.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12689"
+      }
+    ],
+    "categories": [
+      "Premier League",
+      "Fulham",
+      "Tottenham Hotspur"
+    ],
+    "published_raw": "1st March 2026 14:00 UTC",
+    "published_at": "2026-03-01T14:00:00+00:00",
+    "updated_at": "",
+    "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+    "metadata": {
+      "source_id": 1,
+      "source_tag": "source_1",
+      "source_name": "soccerfull.net",
+      "source_url": "https://soccerfull.net",
+      "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+      "published_raw": "1st March 2026 14:00 UTC",
+      "published_at": "2026-03-01T14:00:00+00:00",
+      "updated_at": "",
+      "categories": [
+        "Premier League",
+        "Fulham",
+        "Tottenham Hotspur"
+      ],
+      "description_text": "[RU]Full Match [EN]Highlights Fulham vs Tottenham Hotspur Watch and download Fulham vs Tottenham Hotspur full match replay. KICK-OFF at 14:00 (UTC) on 1st March 2026 The referee for this match is Bramall T. Game played at Craven Cottage This is a match in England – Premier League 2026, Round 28 League: Premier League Team: Fulham Tottenham Hotspur"
+    }
+  },
+  {
+    "match_id": "60bf5762b92c87d8f7f05fd4aefe6d92",
+    "source_id": 1,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "url": "https://soccerfull.net/arsenal-vs-chelsea-3118.html",
+    "match": "Arsenal vs Chelsea",
+    "date": "1st March 2026 16:30 UTC",
+    "competition": "Premier League, Arsenal, Chelsea",
+    "preview_image": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c6a6/live/7caff210-fcc0-11ee-a9f7-4d961743aa47.png",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]First Half",
+        "url": "https://soccerfull.net/hls/12684.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12684"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "https://soccerfull.net/hls/12685.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12685"
+      },
+      {
+        "label": "[RU]Full Match",
+        "url": "https://soccerfull.net/hls/12686.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12686"
+      },
+      {
+        "label": "[EN]Highlights",
+        "url": "https://soccerfull.net/hls/12687.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12687"
+      }
+    ],
+    "categories": [
+      "Premier League",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "published_raw": "1st March 2026 16:30 UTC",
+    "published_at": "2026-03-01T16:30:00+00:00",
+    "updated_at": "",
+    "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+    "metadata": {
+      "source_id": 1,
+      "source_tag": "source_1",
+      "source_name": "soccerfull.net",
+      "source_url": "https://soccerfull.net",
+      "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+      "published_raw": "1st March 2026 16:30 UTC",
+      "published_at": "2026-03-01T16:30:00+00:00",
+      "updated_at": "",
+      "categories": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ],
+      "description_text": "[EN]First Half [EN]Second Half [RU]Full Match [EN]Highlights Arsenal vs Chelsea Watch and download Arsenal vs Chelsea full match replay. KICK-OFF at 16:30 (UTC) on 1st March 2026 The referee for this match is England D. Game played at Emirates Stadium This is a match in England – Premier League 2026, Round 28 League: Premier League Team: Arsenal Chelsea"
+    }
+  },
+  {
+    "match_id": "eb588869c3cbad590b51a4813dcf7866",
+    "source_id": 1,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "url": "https://soccerfull.net/cremonese-vs-ac-milan-3117.html",
+    "match": "Cremonese vs AC Milan",
+    "date": "1st March 2026 11:30 UTC",
+    "competition": "Serie A, Cremonese, AC Milan",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/a1syh6hv6qg91ck72kejvj051_image-header_pUs_1766503379000/fill/center/top/none/80/1176/677/webp/image",
+    "duration": "",
+    "links": [
+      {
+        "label": "[RU]Full Match",
+        "url": "https://soccerfull.net/hls/12682.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12682"
+      }
+    ],
+    "categories": [
+      "Serie A",
+      "Cremonese",
+      "AC Milan"
+    ],
+    "published_raw": "1st March 2026 11:30 UTC",
+    "published_at": "2026-03-01T11:30:00+00:00",
+    "updated_at": "",
+    "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+    "metadata": {
+      "source_id": 1,
+      "source_tag": "source_1",
+      "source_name": "soccerfull.net",
+      "source_url": "https://soccerfull.net",
+      "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+      "published_raw": "1st March 2026 11:30 UTC",
+      "published_at": "2026-03-01T11:30:00+00:00",
+      "updated_at": "",
+      "categories": [
+        "Serie A",
+        "Cremonese",
+        "AC Milan"
+      ],
+      "description_text": "[RU]Full Match Cremonese vs AC Milan Watch and download Cremonese vs AC Milan full match replay. KICK-OFF at 11:30 (UTC) on 1st March 2026 The referee for this match is Massa D. Game played at Stadio Giovanni Zini This is a match in Italy – Serie A 2026, Round 27 League: Serie A Team: Cremonese AC Milan"
+    }
+  },
+  {
+    "match_id": "453793faf92209f0b82d9f608f6ed5fe",
+    "source_id": 1,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "url": "https://soccerfull.net/manchester-united-vs-crystal-palace-3116.html",
+    "match": "Manchester United vs Crystal Palace",
+    "date": "1st March 2026 14:00 UTC",
+    "competition": "Premier League, Manchester United, Crystal Palace",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=5x21wnj1exstk14udc38z2tyf_image-header_pEs_1770642429000&quality=70",
+    "duration": "",
+    "links": [
+      {
+        "label": "[EN]First Half",
+        "url": "https://soccerfull.net/hls/12681.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12681"
+      },
+      {
+        "label": "[EN]Second Half",
+        "url": "https://soccerfull.net/hls/12683.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "player_url": "https://soccerfull.net/play/12683"
+      }
+    ],
+    "categories": [
+      "Premier League",
+      "Manchester United",
+      "Crystal Palace"
+    ],
+    "published_raw": "1st March 2026 14:00 UTC",
+    "published_at": "2026-03-01T14:00:00+00:00",
+    "updated_at": "",
+    "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+    "metadata": {
+      "source_id": 1,
+      "source_tag": "source_1",
+      "source_name": "soccerfull.net",
+      "source_url": "https://soccerfull.net",
+      "scraped_at": "2026-03-02T04:02:57.668359+00:00",
+      "published_raw": "1st March 2026 14:00 UTC",
+      "published_at": "2026-03-01T14:00:00+00:00",
+      "updated_at": "",
+      "categories": [
+        "Premier League",
+        "Manchester United",
+        "Crystal Palace"
+      ],
+      "description_text": "[EN]First Half [EN]Second Half Manchester United vs Crystal Palace Watch and download Manchester United vs Crystal Palace full match replay. KICK-OFF at 14:00 (UTC) on 1st March 2026 The referee for this match is Kavanagh C. Game played at Old Trafford This is a match in England – Premier League 2026, Round 28 League: Premier League Team: Manchester United Crystal Palace"
+    }
+  },
+  {
     "match_id": "6f60d4f30cce3697a3711b49bf019648",
     "source_id": 2,
     "source_tag": "source_2",
