@@ -618,6 +618,10 @@ def public_match(match, log_data=None):
             metadata.get("published_at"),
             metadata.get("published_raw"),
             metadata.get("datePublished"),
+            match.get("date"),
+            metadata.get("date"),
+            metadata.get("listing_date_at"),
+            metadata.get("listing_date_raw"),
         ]
     )
     date_value = first_normalized_dt(
