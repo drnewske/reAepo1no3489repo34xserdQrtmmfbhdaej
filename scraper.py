@@ -38,6 +38,7 @@ SOURCE_INFO = {
     3: {"name": "timesoccertv.com", "url": "https://timesoccertv.com"},
     4: {"name": "footballorgin.com", "url": "https://www.footballorgin.com"},
 }
+MISSING_TEXT_VALUES = {"", "null", "none", "n/a", "na", "unknown", "tbd", "-"}
 
 
 def load_json_file(path):
@@ -121,6 +122,38 @@ def ensure_source_fields(match):
     meta.setdefault("source_url", match.get("source_url", ""))
     match["metadata"] = meta
     return match
+
+
+def parse_source_id(value):
+    try:
+        sid = int(value)
+    except (TypeError, ValueError):
+        return None
+    return sid if sid in SOURCE_INFO else None
+
+
+def parse_source_id_from_tag(tag):
+    text = clean(tag).lower()
+    m = re.search(r"source[\s_-]*(\d+)", text)
+    if not m:
+        return None
+    return parse_source_id(m.group(1))
+
+
+def infer_source_from_links(links):
+    for lk in links or []:
+        if not isinstance(lk, dict):
+            continue
+        sid = infer_source_from_url(clean(lk.get("url")))
+        if sid:
+            return sid
+    return None
+
+
+def text_key(value):
+    text = clean(value).lower()
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def dedupe_text(values):
@@ -344,6 +377,48 @@ def parse_dt(text, ref=None):
     return None, False
 
 
+def normalize_dt_value(value, ref=None):
+    ref = ref or now_utc()
+    if isinstance(value, datetime):
+        dt = value
+    else:
+        text = clean(value)
+        if text.lower() in MISSING_TEXT_VALUES or is_relative_date_text(text):
+            return None
+        dt, _ = parse_dt(text, ref)
+    if not dt:
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    dt = dt.astimezone(timezone.utc).replace(microsecond=0)
+    return dt.isoformat()
+
+
+def first_normalized_dt(values, ref=None):
+    for v in values:
+        iso_value = normalize_dt_value(v, ref=ref)
+        if iso_value:
+            return iso_value
+    return None
+
+
+def dt_unix(value):
+    text = clean(value)
+    if text.lower() in MISSING_TEXT_VALUES:
+        return 0
+    try:
+        return int(datetime.fromisoformat(text.replace("Z", "+00:00")).timestamp())
+    except Exception:
+        pass
+    iso_value = normalize_dt_value(text)
+    if not iso_value:
+        return 0
+    try:
+        return int(datetime.fromisoformat(iso_value.replace("Z", "+00:00")).timestamp())
+    except Exception:
+        return 0
+
+
 def jsonld_objs(soup):
     out = []
     for s in soup.select('script[type="application/ld+json"]'):
@@ -511,11 +586,15 @@ def public_link(link):
     return {"label": label, "url": url}
 
 
-def public_match(match):
+def public_match(match, log_data=None):
     if not isinstance(match, dict):
         return None
+    log_data = log_data if isinstance(log_data, dict) else {}
 
     metadata = match.get("metadata") if isinstance(match.get("metadata"), dict) else {}
+    match_id = clean(match.get("match_id") or metadata.get("match_id"))
+    log_row = log_data.get(match_id) if match_id and isinstance(log_data.get(match_id), dict) else {}
+
     title = clean(match.get("match"))
     if not title:
         title = clean(match.get("title"))
@@ -532,20 +611,28 @@ def public_match(match):
     if not competition:
         competition = "Football"
 
-    date_value = clean(match.get("date"))
+    published_at = first_normalized_dt(
+        [
+            match.get("published_at"),
+            match.get("published_raw"),
+            metadata.get("published_at"),
+            metadata.get("published_raw"),
+            metadata.get("datePublished"),
+        ]
+    )
+    date_value = first_normalized_dt(
+        [
+            match.get("date"),
+            metadata.get("date"),
+            metadata.get("listing_date_at"),
+            metadata.get("listing_date_raw"),
+            metadata.get("datePublished"),
+            metadata.get("published_at"),
+            metadata.get("published_raw"),
+        ]
+    )
     if not date_value:
-        date_value = clean(match.get("published_at"))
-    if not date_value:
-        date_value = clean(match.get("published_raw"))
-    if not date_value:
-        date_value = clean(
-            metadata.get("published_at")
-            or metadata.get("published_raw")
-            or metadata.get("listing_date_at")
-            or metadata.get("listing_date_raw")
-            or metadata.get("datePublished")
-            or metadata.get("date")
-        )
+        date_value = published_at
 
     description = clean(
         match.get("description")
@@ -568,12 +655,42 @@ def public_match(match):
     if not links:
         return None
 
+    sid = parse_source_id(match.get("source_id")) or parse_source_id(metadata.get("source_id")) or parse_source_id(log_row.get("source_id"))
+    source_tag = clean(match.get("source_tag") or metadata.get("source_tag"))
+    source_name = clean(match.get("source_name") or metadata.get("source_name") or log_row.get("source_name"))
+    if not sid:
+        sid = parse_source_id_from_tag(source_tag)
+    if not sid:
+        sid = infer_source_from_url(clean(match.get("url") or metadata.get("url") or log_row.get("url")))
+    if not sid:
+        sid = infer_source_from_url(clean(match.get("preview_image") or metadata.get("preview_image")))
+    if not sid:
+        sid = infer_source_from_links(match.get("links") if isinstance(match.get("links"), list) else [])
+    if sid:
+        info = SOURCE_INFO.get(sid, {})
+        if not source_tag:
+            source_tag = f"source_{sid}"
+        if not source_name:
+            source_name = info.get("name", "")
+    if not source_tag:
+        source_tag = "source_1"
+
+    preview_image = clean(
+        match.get("preview_image")
+        or metadata.get("preview_image")
+        or metadata.get("thumbnail")
+        or metadata.get("image")
+    )
+
     out = {
-        "match_id": clean(match.get("match_id")) or gen_id(title + "|" + links[0]["url"]),
+        "match_id": match_id or gen_id(title + "|" + links[0]["url"]),
         "match": title,
         "competition": competition,
         "date": date_value,
-        "preview_image": clean(match.get("preview_image")),
+        "published_at": published_at,
+        "source_tag": source_tag,
+        "source_name": source_name or None,
+        "preview_image": preview_image or None,
         "links": links,
     }
     if description:
@@ -581,13 +698,93 @@ def public_match(match):
     return out
 
 
-def to_public_rows(rows):
+def to_public_rows(rows, log_data=None):
     out = []
     for row in rows:
-        p = public_match(row)
+        p = public_match(row, log_data=log_data)
         if p:
             out.append(p)
     return out
+
+
+def public_row_signature(row):
+    title_key = text_key(row.get("match"))
+    competition_key = text_key(row.get("competition"))
+    date_key = ""
+    if row.get("date"):
+        date_key = clean(row["date"])[:10]
+    elif row.get("published_at"):
+        date_key = clean(row["published_at"])[:10]
+
+    if date_key:
+        return f"{title_key}|{competition_key}|{date_key}"
+
+    first_url = ""
+    links = row.get("links") if isinstance(row.get("links"), list) else []
+    if links and isinstance(links[0], dict):
+        first_url = clean(links[0].get("url"))
+    return f"{title_key}|{competition_key}|{host(first_url)}|{first_url.lower()}"
+
+
+def public_row_score(row):
+    links = row.get("links") if isinstance(row.get("links"), list) else []
+    return (
+        1 if clean(row.get("published_at")) else 0,
+        1 if clean(row.get("date")) else 0,
+        len(links),
+        1 if clean(row.get("preview_image")) else 0,
+        1 if clean(row.get("description")) else 0,
+        1 if clean(row.get("source_tag")) else 0,
+        dt_unix(row.get("published_at") or row.get("date")),
+    )
+
+
+def choose_better_public_row(current, candidate):
+    return candidate if public_row_score(candidate) > public_row_score(current) else current
+
+
+def dedupe_public_rows(rows):
+    deduped = []
+    by_id = {}
+    by_sig = {}
+
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        links = row.get("links") if isinstance(row.get("links"), list) else []
+        links = uniq_links([lk for lk in links if public_link(lk)])
+        if not links:
+            continue
+        row["links"] = links
+
+        match_id = clean(row.get("match_id")) or gen_id(clean(row.get("match")) + "|" + links[0]["url"])
+        row["match_id"] = match_id
+        signature = public_row_signature(row)
+
+        idx = None
+        if match_id in by_id:
+            idx = by_id[match_id]
+        if signature in by_sig:
+            idx = by_sig[signature] if idx is None else idx
+
+        if idx is None:
+            idx = len(deduped)
+            deduped.append(row)
+        else:
+            deduped[idx] = choose_better_public_row(deduped[idx], row)
+
+        best = deduped[idx]
+        best_id = clean(best.get("match_id"))
+        best_sig = public_row_signature(best)
+        if best_id:
+            by_id[best_id] = idx
+        if best_sig:
+            by_sig[best_sig] = idx
+        by_id[match_id] = idx
+        by_sig[signature] = idx
+
+    deduped.sort(key=lambda x: dt_unix(x.get("published_at") or x.get("date")), reverse=True)
+    return deduped
 
 
 def ctx_label(node):
@@ -1210,24 +1407,23 @@ def main():
             print(f"[ERROR] {s.source_name} failed: {e}")
 
     fresh = [m for m in fresh if m.get("links")]
-    if not fresh:
-        print("\nNo new matches found from any source.")
-        return
-
     merged = merge(existing, fresh)
-    public_rows = to_public_rows(merged)
+    public_rows = dedupe_public_rows(to_public_rows(merged, log_data=log_data))
     save_json_file(OUTPUT_FILE, public_rows)
     save_json_file(LOG_FILE, log_data)
 
     by_src = {}
     for m in fresh:
-        by_src[m["source_tag"]] = by_src.get(m["source_tag"], 0) + 1
+        by_src[m.get("source_tag", "source_1")] = by_src.get(m.get("source_tag", "source_1"), 0) + 1
 
     print("\n----------------------------------------")
-    print("SUCCESS!")
-    print("New records this run:")
-    for tag, cnt in sorted(by_src.items()):
-        print(f"  - {tag}: {cnt}")
+    print("SUCCESS!" if fresh else "No new matches found from any source.")
+    if fresh:
+        print("New records this run:")
+        for tag, cnt in sorted(by_src.items()):
+            print(f"  - {tag}: {cnt}")
+    else:
+        print("Existing records were normalized + deduplicated.")
     print(f"Total records in {OUTPUT_FILE}: {len(public_rows)}")
     print(f"Log updated: {LOG_FILE}")
     print("----------------------------------------")
