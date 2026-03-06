@@ -5,7 +5,7 @@ import re
 import time
 from datetime import datetime, timedelta, timezone
 from html import unescape
-from urllib.parse import parse_qs, urljoin, urlparse
+from urllib.parse import parse_qs, unquote, urljoin, urlparse
 
 import cloudscraper
 import requests
@@ -39,6 +39,44 @@ SOURCE_INFO = {
     4: {"name": "footballorgin.com", "url": "https://www.footballorgin.com"},
 }
 MISSING_TEXT_VALUES = {"", "null", "none", "n/a", "na", "unknown", "tbd", "-"}
+BAD_LABEL_HINTS = (
+    "disclaimer",
+    "ad warning",
+    "external server",
+    "does not host",
+    "watch and download",
+    "kick-off at",
+    "the referee",
+    "game played at",
+    "this is a match in",
+    "available on",
+    "watch the full show",
+)
+LABEL_PATTERNS = (
+    ("first half", "First Half"),
+    ("1st half", "First Half"),
+    ("second half", "Second Half"),
+    ("2nd half", "Second Half"),
+    ("full match", "Full Match"),
+    ("highlights", "Highlights"),
+    ("highlight", "Highlights"),
+    ("penalties", "Penalties"),
+    ("extra time", "Extra Time"),
+    ("post-match", "Post-match"),
+    ("post match", "Post-match"),
+    ("pre-match", "Pre-match"),
+    ("pre match", "Pre-match"),
+)
+GENERIC_EMBED_HOST_BASES = {
+    "vidhideplus.com": "https://vidhideplus.com/embed/",
+    "vidhidehub.com": "https://vidhidehub.com/embed/",
+    "dood.li": "https://dood.li/e/",
+    "dhtpre.com": "https://dhtpre.com/embed/",
+    "hglink.to": "https://hglink.to/e/",
+    "hgcloud.to": "https://hgcloud.to/e/",
+    "dhcplay.com": "https://dhcplay.com/e/",
+    "cybervynx.com": "https://cybervynx.com/e/",
+}
 
 
 def load_json_file(path):
@@ -82,6 +120,107 @@ def nurl(url, base=""):
     if base and (url.startswith("/") or url.startswith("?")):
         return urljoin(base, url)
     return url
+
+
+def extract_iframe_src(raw, base=""):
+    text = clean(unescape(raw))
+    if not text:
+        return ""
+    decoded = unquote(text)
+    if "<iframe" not in decoded.lower():
+        return ""
+    m = re.search(r"""src\s*=\s*(['"])(.*?)\1""", decoded, re.I)
+    if not m:
+        return ""
+    return nurl(m.group(2), base)
+
+
+def normalize_embed_html(raw, base=""):
+    text = clean(unescape(raw or ""))
+    if not text:
+        return ""
+    decoded = unquote(text)
+    src = extract_iframe_src(decoded, base)
+    if not src:
+        return ""
+    return build_embed_html(src)
+
+
+def can_inline_embed_url(url):
+    u = nurl(url)
+    if not u:
+        return False
+    p = urlparse(u)
+    h = p.netloc.lower().lstrip("www.")
+    path = (p.path or "").lower()
+    if not h:
+        return False
+    if youtube_id(u):
+        return True
+    if any(
+        hint in h
+        for hint in (
+            "ok.ru",
+            "mega.nz",
+            "mixdrop",
+            "filemoon",
+            "voe",
+            "dood.",
+            "hgcloud.to",
+            "hglink.to",
+            "dailymotion.com",
+            "dai.ly",
+            "vimeo.com",
+            "p2pplay.online",
+            "vortexvisionworks.com",
+        )
+    ):
+        return True
+    if "soccerfull.net" in h and path.startswith("/play/"):
+        return True
+    return (
+        "/embed/" in path
+        or "/videoembed/" in path
+        or path.startswith("/e/")
+        or "player.html" in path
+    )
+
+
+def build_embed_html(url):
+    u = nurl(url)
+    if not u:
+        return ""
+    safe = u.replace("&", "&amp;").replace('"', "&quot;").replace("'", "&#39;")
+    return (
+        f'<iframe src="{safe}" '
+        'allow="autoplay; fullscreen; picture-in-picture; encrypted-media" '
+        'allowfullscreen="true" frameborder="0" scrolling="no"></iframe>'
+    )
+
+
+def is_same_site_page(url, base=""):
+    u = nurl(url, base)
+    b = nurl(base)
+    if not u or not b:
+        return False
+    up = urlparse(u)
+    bp = urlparse(b)
+    if not up.netloc or not bp.netloc:
+        return False
+    if up.netloc.lower().lstrip("www.") != bp.netloc.lower().lstrip("www."):
+        return False
+    path = (up.path or "").lower()
+    if is_direct_media(u):
+        return False
+    if youtube_id(u):
+        return False
+    return not (
+        "/embed/" in path
+        or "/videoembed/" in path
+        or path.startswith("/e/")
+        or path.startswith("/play/")
+        or "player.html" in path
+    )
 
 
 def host(url):
@@ -170,6 +309,59 @@ def dedupe_text(values):
     return out
 
 
+def infer_canonical_label(text):
+    raw = clean(unescape(text))
+    if not raw:
+        return ""
+    lower = raw.lower()
+    language = ""
+    m = re.search(r"\[([a-z]{2,3})\]", raw, re.I)
+    if m:
+        language = f"[{m.group(1).upper()}] "
+    for needle, canonical in LABEL_PATTERNS:
+        if needle in lower:
+            return f"{language}{canonical}".strip()
+    return ""
+
+
+def normalize_link_label(label, fallback="", fallback_index=None):
+    text = clean(unescape(label or ""))
+    fallback_text = clean(unescape(fallback or ""))
+
+    if text:
+        lower = text.lower()
+        if any(hint in lower for hint in BAD_LABEL_HINTS):
+            text = ""
+        else:
+            canonical = infer_canonical_label(text)
+            looks_compact = (
+                len(text) <= 42
+                or any(token in text for token in ("|", "[", "]", "/", " - "))
+            )
+            looks_like_match_title = " vs " in lower or re.search(r"\b[a-z0-9]+\s+v\s+[a-z0-9]+\b", lower)
+            if looks_like_match_title and canonical:
+                text = canonical
+            elif len(text) > 80 and canonical:
+                text = canonical
+            elif len(text) > 80 and not looks_compact:
+                text = ""
+
+    if not text and fallback_text and fallback_text.lower() not in {"replay", "match page"}:
+        text = normalize_link_label(fallback_text)
+
+    if not text and fallback_index is not None:
+        return str(fallback_index)
+
+    return text[:80]
+
+
+def label_needs_replacement(label):
+    normalized = normalize_link_label(label)
+    if not normalized:
+        return True
+    return normalized.lower() in {"replay", "match page"}
+
+
 def is_video(url):
     l = (url or "").lower()
     return any(h in l for h in VIDEO_HINTS)
@@ -214,6 +406,9 @@ def youtube_id(url):
 
 
 def prefer_embed_url(url, base=""):
+    iframe_src = extract_iframe_src(url, base)
+    if iframe_src:
+        return prefer_embed_url(iframe_src, base)
     u = nurl(url, base)
     if not u:
         return ""
@@ -260,11 +455,42 @@ def prefer_embed_url(url, base=""):
         if m:
             return f"https://player.vimeo.com/video/{m.group(1)}"
 
+    embed_base = GENERIC_EMBED_HOST_BASES.get(h)
+    if embed_base:
+        seg = [x for x in path.split("/") if x]
+        if seg:
+            last = seg[-1]
+            if h in {"vidhideplus.com", "vidhidehub.com", "dhtpre.com"} and path.startswith("/embed/"):
+                return u
+            if h in {"dood.li", "hglink.to", "hgcloud.to", "dhcplay.com", "cybervynx.com"} and path.startswith("/e/"):
+                return u
+            return f"{embed_base}{last}"
+
     yt = youtube_id(u)
     if yt:
         return f"https://www.youtube-nocookie.com/embed/{yt}"
 
     return u
+
+
+def is_page_style_replay_url(url):
+    u = nurl(url)
+    if not u:
+        return False
+    p = urlparse(u)
+    h = p.netloc.lower().lstrip("www.")
+    path = (p.path or "").lower()
+    if not h or is_direct_media(u) or youtube_id(u) or can_inline_embed_url(u):
+        return False
+    return any(
+        site in h
+        for site in (
+            "soccerfull.net",
+            "footreplays.com",
+            "timesoccertv.com",
+            "footballorgin.com",
+        )
+    ) and path not in {"", "/"}
 
 
 def iso(dt):
@@ -471,36 +697,310 @@ def jsonld_img(article, objs):
 
 def inline_single_video_urls(html):
     urls = set()
-    m = re.search(r'"single_video_url"\s*:\s*"((?:\\.|[^"])*)"', html)
-    if not m:
-        return []
-    raw = m.group(1)
-    try:
-        val = json.loads(f'"{raw}"')
-    except Exception:
-        val = raw.replace('\\"', '"').replace("\\/", "/")
-    val = nurl(val)
-    if "<iframe" in val.lower():
-        s = BeautifulSoup(val, "html.parser")
-        for f in s.select("iframe[src]"):
-            u = nurl(f.get("src"))
-            if u:
-                urls.add(u)
-    elif val:
-        urls.add(val)
+    for m in re.finditer(r'"single_video_url"\s*:\s*"((?:\\.|[^"])*)"', html):
+        raw = m.group(1)
+        try:
+            val = json.loads(f'"{raw}"')
+        except Exception:
+            val = raw.replace('\\"', '"').replace("\\/", "/")
+        val = nurl(val)
+        if "<iframe" in val.lower():
+            s = BeautifulSoup(val, "html.parser")
+            for f in s.select("iframe[src]"):
+                u = nurl(f.get("src"))
+                if u:
+                    urls.add(u)
+        elif val:
+            urls.add(val)
     return list(urls)
 
 
+def node_text(node):
+    if not node:
+        return ""
+    return clean(node.get_text(" ", strip=True))
+
+
+def node_time_value(node, ref=None):
+    ref = ref or now_utc()
+    raw_text = node_text(node)
+    attr_candidates = []
+    if node:
+        for attr in ("datetime", "dateTime", "content", "title", "data-datetime", "data-time"):
+            value = clean(node.get(attr))
+            if value:
+                attr_candidates.append(value)
+    exact_iso = first_normalized_dt(attr_candidates, ref=ref)
+    if exact_iso:
+        return {
+            "display": raw_text,
+            "raw": clean(attr_candidates[0]),
+            "iso": exact_iso,
+            "estimated": False,
+        }
+    parsed_dt, estimated = parse_dt(raw_text, ref)
+    return {
+        "display": raw_text,
+        "raw": raw_text,
+        "iso": iso(parsed_dt),
+        "estimated": estimated if parsed_dt else False,
+    }
+
+
+FOOTBALLORGIN_PLAYER_IFRAME_SELECTORS = (
+    ".player-api iframe[src]",
+    ".single-player-video-wrapper iframe[src]",
+    ".video-player-content iframe[src]",
+    ".video-player-wrap iframe[src]",
+    ".plyr__video-embed iframe[src]",
+)
+FOOTBALLORGIN_PLAYER_LINK_SELECTORS = (
+    ".player-api a[href]",
+)
+
+
+def footballorgin_series_variants(soup, page_url):
+    variants = []
+    seen = set()
+    for i, anchor in enumerate(soup.select(".series-listing a[href]"), start=1):
+        href = nurl(anchor.get("href"), page_url)
+        if not href:
+            continue
+        key = href.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        raw_label = anchor.get("title") or anchor.get_text(" ", strip=True)
+        label = infer_canonical_label(raw_label) or normalize_link_label(raw_label, fallback_index=i)
+        variants.append({"url": href, "label": label or str(i)})
+    return variants
+
+
+def footballorgin_player_links(html, page_url, fallback_label=""):
+    out = []
+    primary_label = infer_canonical_label(fallback_label) or normalize_link_label(fallback_label)
+    primary_containers = []
+    soup = BeautifulSoup(html, "html.parser")
+    for selector in (".single-player-video-wrapper", ".video-player-wrap", ".video-player-content"):
+        primary_containers.extend(soup.select(selector))
+
+    for raw_url in inline_single_video_urls(html):
+        lk = mk_link(primary_label or "Replay", raw_url, page_url)
+        if not lk:
+            continue
+        lk["label"] = primary_label
+        out.append(lk)
+
+    for container in primary_containers or [soup]:
+        for selector in FOOTBALLORGIN_PLAYER_IFRAME_SELECTORS:
+            for frame in container.select(selector):
+                raw_url = nurl(frame.get("src"), page_url)
+                if not raw_url or is_bad(raw_url) or not is_video(raw_url):
+                    continue
+                lk = mk_link(primary_label or "Replay", raw_url, page_url)
+                if not lk:
+                    continue
+                if label_needs_replacement(lk.get("label")) or not primary_label:
+                    lk["label"] = primary_label
+                out.append(lk)
+        for selector in FOOTBALLORGIN_PLAYER_LINK_SELECTORS:
+            for anchor in container.select(selector):
+                raw_url = nurl(anchor.get("href"), page_url)
+                if not raw_url or is_bad(raw_url) or is_same_site_page(raw_url, page_url) or not is_video(raw_url):
+                    continue
+                lk = mk_link(primary_label or "Replay", raw_url, page_url)
+                if not lk:
+                    continue
+                if label_needs_replacement(lk.get("label")) or not primary_label:
+                    lk["label"] = primary_label
+                out.append(lk)
+
+    return uniq_links(out)
+
+
+def soccerfull_sid_variants(soup, page_url):
+    info = soup.select_one("article.infobv") or soup
+    variants = []
+    seen = set()
+    for i, anchor in enumerate(info.select("a.video-server[href]"), start=1):
+        href = nurl(anchor.get("href"), page_url)
+        if not href:
+            continue
+        key = href.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        raw_label = anchor.get("title") or anchor.get_text(" ", strip=True)
+        label = infer_canonical_label(raw_label) or normalize_link_label(raw_label, fallback_index=i)
+        variants.append({"url": href, "label": label or str(i)})
+    return variants
+
+
+def soccerfull_play_targets(raw_url, base_url):
+    play = nurl(raw_url, base_url)
+    if not play:
+        return "", ""
+    m = re.search(r"/play/(\d+)", play)
+    stream = f"https://soccerfull.net/hls/{m.group(1)}.m3u8" if m else ""
+    return play, stream
+
+
+def footreplays_row_label(row, fallback_index=None):
+    row = row if getattr(row, "name", None) == "tr" else None
+    part = ""
+    if row:
+        cells = row.select("td")
+        if cells:
+            part = clean(cells[0].get_text(" ", strip=True))
+        if not part:
+            anchor = row.select_one("a.play-button[aria-label]")
+            if anchor:
+                part = re.sub(r"^\s*Watch\s+", "", clean(anchor.get("aria-label")), flags=re.I)
+    label = infer_canonical_label(part) or normalize_link_label(part)
+    if label:
+        return label
+    if row:
+        table = row.find_parent("table")
+        heading_node = table.select_one("thead tr th[colspan]") if table else None
+        heading = clean(heading_node.get_text(" ", strip=True)) if heading_node else ""
+        label = infer_canonical_label(heading) or normalize_link_label(heading)
+        if label:
+            return label
+    return str(fallback_index) if fallback_index is not None else ""
+
+
+def footreplays_table_links(soup, base_url):
+    out = []
+    fallback_index = 1
+    for anchor in soup.select('table.video-table a[onclick*="loadVideo"]'):
+        onclick = anchor.get("onclick", "")
+        match = re.search(r"loadVideo\((['\"])(.+?)\1\)", onclick)
+        if not match:
+            continue
+        raw_url = match.group(2)
+        row = anchor.find_parent("tr")
+        label = footreplays_row_label(row, fallback_index=fallback_index)
+        link = mk_link(label, raw_url, base_url)
+        if link:
+            out.append(link)
+            fallback_index += 1
+    return uniq_links(out)
+
+
+TIMESOCCERTV_LABEL_SELECTORS = ("h1", "h2", "h3", "h4", "h5", "h6", "span", "strong")
+TIMESOCCERTV_LABEL_QUERY = ", ".join(TIMESOCCERTV_LABEL_SELECTORS)
+
+
+def timesoccertv_label_nodes(node):
+    sibling = node.previous_sibling
+    yielded = 0
+    while sibling is not None and yielded < 12:
+        if getattr(sibling, "name", None):
+            if sibling.name == "iframe" and clean(sibling.get("src")):
+                return
+            candidates = []
+            if sibling.name in TIMESOCCERTV_LABEL_SELECTORS:
+                candidates.append(sibling)
+            candidates.extend(reversed(sibling.select(TIMESOCCERTV_LABEL_QUERY)))
+            for candidate in candidates:
+                yield candidate
+                yielded += 1
+                if yielded >= 12:
+                    return
+        sibling = sibling.previous_sibling
+
+
+def timesoccertv_variant_label(node, page_title=""):
+    page_title = clean(page_title)
+    page_lower = page_title.lower()
+    for candidate_node in timesoccertv_label_nodes(node):
+        raw = clean(candidate_node.get_text(" ", strip=True))
+        if not raw:
+            continue
+        canonical = infer_canonical_label(raw)
+        if canonical:
+            return canonical
+        raw_lower = raw.lower()
+        if re.fullmatch(r"(?:part|server|link)\s*\d+", raw_lower):
+            label = normalize_link_label(raw)
+            if label:
+                return label
+        if not page_lower:
+            continue
+        if raw_lower == page_lower or raw_lower in page_lower or page_lower in raw_lower:
+            continue
+    return ""
+
+
+def timesoccertv_links(soup, base_url, page_title=""):
+    out = []
+    container = soup.select_one(".td-post-content, .entry-content, article") or soup
+    fallback_index = 1
+
+    for iframe in container.select("iframe[src]"):
+        url = nurl(iframe.get("src"), base_url)
+        if not url or is_bad(url) or not is_video(url):
+            continue
+        label = timesoccertv_variant_label(iframe, page_title=page_title) or str(fallback_index)
+        link = mk_link(label, url, base_url)
+        if link:
+            out.append(link)
+            fallback_index += 1
+
+    for anchor in container.select("a[href]"):
+        url = nurl(anchor.get("href"), base_url)
+        if is_same_site_page(url, base_url):
+            continue
+        if not url or is_bad(url) or not is_video(url):
+            continue
+        raw_label = clean(anchor.get_text(" ", strip=True))
+        label = normalize_link_label(raw_label)
+        if label_needs_replacement(label):
+            label = timesoccertv_variant_label(anchor, page_title=page_title)
+        label = label or str(fallback_index)
+        link = mk_link(label, url, base_url)
+        if link:
+            out.append(link)
+            fallback_index += 1
+
+    return uniq_links(out)
+
+
 def mk_link(label, url, base="", kind="replay", reject_direct=True):
-    raw = nurl(url, base)
-    if not raw:
+    raw_input = clean(unescape(url))
+    if not raw_input:
         return None
-    u = prefer_embed_url(raw)
-    if not u or is_bad(u):
+    raw_player = nurl(extract_iframe_src(raw_input, base) or raw_input, base)
+    if not raw_player:
         return None
-    if reject_direct and is_direct_media(u):
+    embed_url = prefer_embed_url(raw_input, base)
+    if not embed_url or is_bad(embed_url):
         return None
-    return {"label": clean(label) or "Replay", "url": u, "host": host(u), "kind": kind}
+    chosen_url = embed_url if not is_direct_media(embed_url) else raw_player
+    if reject_direct and is_direct_media(chosen_url):
+        return None
+    if is_page_style_replay_url(chosen_url):
+        return None
+
+    out = {
+        "label": normalize_link_label(label) or "Replay",
+        "url": chosen_url,
+        "host": host(chosen_url),
+        "kind": kind,
+    }
+
+    if raw_player and raw_player != chosen_url:
+        out["player_url"] = raw_player
+    if embed_url and not is_direct_media(embed_url):
+        out["embed_url"] = embed_url
+
+    embed_html = normalize_embed_html(raw_input, base)
+    if not embed_html and can_inline_embed_url(embed_url):
+        embed_html = build_embed_html(embed_url)
+    if embed_html:
+        out["embed_html"] = embed_html
+
+    return out
 
 
 def uniq_links(links):
@@ -520,7 +1020,7 @@ def uniq_links(links):
 def normalize_link_entry(link, page_url=""):
     if not isinstance(link, dict):
         return None
-    raw_url = clean(link.get("url"))
+    raw_url = clean(link.get("url") or link.get("embed_url") or link.get("player_url"))
     if not raw_url:
         return None
 
@@ -540,27 +1040,40 @@ def normalize_link_entry(link, page_url=""):
 
     if is_bad(final_url) or is_direct_media(final_url):
         return None
+    if is_same_site_page(final_url, page_url) or is_page_style_replay_url(final_url):
+        return None
 
     out = dict(link)
-    out["label"] = clean(out.get("label")) or "Replay"
+    out["label"] = normalize_link_label(out.get("label"))
     out["url"] = final_url
-    out["host"] = host(final_url)
+    out["host"] = host(clean(out.get("embed_url")) or final_url)
     out["kind"] = clean(out.get("kind")) or "replay"
 
     for k in ("player_url", "embed_url", "stream_url"):
         if k in out:
             v = nurl(out.get(k), page_url)
             if v:
-                out[k] = v
+                out[k] = prefer_embed_url(v, page_url) if k == "embed_url" else v
             else:
                 out.pop(k, None)
+    embed_html = normalize_embed_html(out.get("embed_html"), page_url)
+    if not embed_html:
+        embed_url = clean(out.get("embed_url")) or final_url
+        if can_inline_embed_url(embed_url):
+            embed_html = build_embed_html(embed_url)
+            out.setdefault("embed_url", embed_url)
+    if embed_html:
+        out["embed_html"] = embed_html
+    else:
+        out.pop("embed_html", None)
     return out
 
 
 def normalize_match_links(match):
     if not isinstance(match, dict):
         return match
-    page_url = clean(match.get("url"))
+    metadata = match.get("metadata") if isinstance(match.get("metadata"), dict) else {}
+    page_url = clean(match.get("url") or match.get("page_url") or metadata.get("url") or metadata.get("page_url"))
     links = match.get("links") if isinstance(match.get("links"), list) else []
     norm = []
     for lk in links:
@@ -568,10 +1081,6 @@ def normalize_match_links(match):
         if x:
             norm.append(x)
     norm = uniq_links(norm)
-    if not norm and page_url:
-        fb = mk_link("Match Page", page_url, base=page_url, kind="page")
-        if fb:
-            norm = [fb]
     match["links"] = norm
     return match
 
@@ -582,8 +1091,25 @@ def public_link(link):
     url = clean(link.get("url"))
     if not url:
         return None
-    label = clean(link.get("label")) or "Replay"
-    return {"label": label, "url": url}
+    if is_page_style_replay_url(url):
+        return None
+    label = normalize_link_label(link.get("label"))
+    out = {"url": url}
+    if label:
+        out["label"] = label
+    for key in ("embed_url", "player_url", "stream_url", "host", "kind"):
+        value = clean(link.get(key))
+        if value:
+            out[key] = value
+    embed_html = normalize_embed_html(link.get("embed_html") or "", url)
+    if not embed_html:
+        embed_url = clean(out.get("embed_url")) or url
+        if can_inline_embed_url(embed_url):
+            embed_html = build_embed_html(embed_url)
+            out.setdefault("embed_url", embed_url)
+    if embed_html:
+        out["embed_html"] = embed_html
+    return out
 
 
 def public_match(match, log_data=None):
@@ -652,10 +1178,14 @@ def public_match(match, log_data=None):
         if pl:
             links.append(pl)
     links = uniq_links(links)
-    if not links:
-        page_url = clean(match.get("url"))
-        if page_url:
-            links = [{"label": "Match Page", "url": page_url}]
+    title_label = infer_canonical_label(title)
+    for i, lk in enumerate(links):
+        if clean(lk.get("label")):
+            continue
+        if len(links) == 1 and title_label:
+            lk["label"] = title_label
+        else:
+            lk["label"] = str(i + 1)
     if not links:
         return None
 
@@ -685,6 +1215,16 @@ def public_match(match, log_data=None):
         or metadata.get("thumbnail")
         or metadata.get("image")
     )
+    page_url = clean(match.get("url") or match.get("page_url") or metadata.get("url") or metadata.get("page_url"))
+    source_url = clean(match.get("source_url") or metadata.get("source_url"))
+    updated_at = first_normalized_dt(
+        [match.get("updated_at"), metadata.get("updated_at")]
+    )
+    scraped_at = clean(match.get("scraped_at") or metadata.get("scraped_at"))
+    listing_date_raw = clean(metadata.get("listing_date_raw"))
+    listing_date_at = first_normalized_dt(
+        [metadata.get("listing_date_at"), metadata.get("listing_date_raw")]
+    )
 
     out = {
         "match_id": match_id or gen_id(title + "|" + links[0]["url"]),
@@ -694,7 +1234,14 @@ def public_match(match, log_data=None):
         "published_at": published_at,
         "source_tag": source_tag,
         "source_name": source_name or None,
+        "source_url": source_url or None,
         "preview_image": preview_image or None,
+        "page_url": page_url or None,
+        "updated_at": updated_at or None,
+        "scraped_at": scraped_at or None,
+        "listing_date_raw": listing_date_raw or None,
+        "listing_date_at": listing_date_at or None,
+        "categories": categories,
         "links": links,
     }
     if description:
@@ -732,10 +1279,15 @@ def public_row_signature(row):
 
 def public_row_score(row):
     links = row.get("links") if isinstance(row.get("links"), list) else []
+    labeled_links = sum(
+        1 for lk in links
+        if normalize_link_label((lk or {}).get("label"))
+    )
     return (
         1 if clean(row.get("published_at")) else 0,
         1 if clean(row.get("date")) else 0,
         len(links),
+        labeled_links,
         1 if clean(row.get("preview_image")) else 0,
         1 if clean(row.get("description")) else 0,
         1 if clean(row.get("source_tag")) else 0,
@@ -792,13 +1344,11 @@ def dedupe_public_rows(rows):
 
 
 def ctx_label(node):
-    for p in node.find_all_previous(["h2", "h3", "h4", "strong", "p", "li"], limit=8):
-        t = clean(p.get_text(" ", strip=True))
-        if not t:
-            continue
-        l = t.lower()
-        if any(k in l for k in ("full match", "highlights", "1st", "2nd", "half", "server", "link")):
-            return t[:80]
+    selectors = ["h2", "h3", "h4", "strong", "button", "a", "p", "li"]
+    for p in node.find_all_previous(selectors, limit=12):
+        candidate = normalize_link_label(p.get_text(" ", strip=True))
+        if candidate:
+            return candidate
     return ""
 
 
@@ -939,12 +1489,7 @@ class SoccerFull(BaseScraper):
         f = soup.select_one("iframe[src]")
         if not f:
             return "", ""
-        play = nurl(f.get("src"), self.base_url)
-        if not play:
-            return "", ""
-        m = re.search(r"/play/(\d+)", play)
-        stream = f"{self.base_url}/hls/{m.group(1)}.m3u8" if m else ""
-        return play, stream
+        return soccerfull_play_targets(f.get("src"), self.base_url)
 
     def run(self):
         print("--- Source 1: soccerfull.net ---")
@@ -996,13 +1541,12 @@ class SoccerFull(BaseScraper):
                 pub_iso = iso(d.replace(tzinfo=timezone.utc) if d else None)
 
             links = []
-            for a in ds.select("a.video-server[href]"):
-                lbl = clean(a.get_text(" ", strip=True)) or "Replay"
-                play, stream = self.resolve_sid(nurl(a.get("href"), url))
+            for variant in soccerfull_sid_variants(ds, url):
+                play, stream = self.resolve_sid(variant.get("url"))
                 target = play or stream
                 if not target:
                     continue
-                lk = mk_link(lbl, target, self.base_url)
+                lk = mk_link(variant.get("label"), target, self.base_url)
                 if lk:
                     if stream and stream != lk["url"]:
                         lk["stream_url"] = stream
@@ -1010,11 +1554,16 @@ class SoccerFull(BaseScraper):
                 time.sleep(0.2)
 
             if not links:
-                f = ds.select_one("iframe[src]")
+                active_label = ""
+                active_button = ds.select_one("a.video-server.bt_active, a.video-server.active, a.video-server[href]")
+                if active_button:
+                    raw_label = active_button.get("title") or active_button.get_text(" ", strip=True)
+                    active_label = infer_canonical_label(raw_label) or normalize_link_label(raw_label)
+                f = ds.select_one("article.infobv iframe[src], iframe[src]")
                 if f:
-                    play, stream = self.resolve_sid(nurl(f.get("src"), self.base_url))
+                    play, stream = soccerfull_play_targets(f.get("src"), self.base_url)
                     fb = play or stream
-                    lk = mk_link("Replay", fb, self.base_url)
+                    lk = mk_link(active_label or "1", fb, self.base_url)
                     if lk:
                         if stream and stream != lk["url"]:
                             lk["stream_url"] = stream
@@ -1040,23 +1589,7 @@ class FootReplays(BaseScraper):
         super().__init__(log_data, 2, "footreplays.com", "https://www.footreplays.com")
 
     def links(self, soup):
-        out = []
-        for a in soup.select('a[onclick*="loadVideo"]'):
-            oc = a.get("onclick", "")
-            m = re.search(r"loadVideo\((['\"])(.+?)\1\)", oc)
-            if not m:
-                continue
-            raw = m.group(2)
-            row = a.find_parent("tr")
-            parts = []
-            if row:
-                for c in [clean(td.get_text(" ", strip=True)) for td in row.find_all("td")][:3]:
-                    if c and c != "▶️":
-                        parts.append(c)
-            lbl = " | ".join(parts) if parts else "Replay"
-            lk = mk_link(lbl, raw, self.base_url)
-            if lk:
-                out.append(lk)
+        out = footreplays_table_links(soup, self.base_url)
         c = soup.select_one(".entry-content, article, .post-content") or soup
         for f in c.select("iframe[src]"):
             u = nurl(f.get("src"), self.base_url)
@@ -1067,6 +1600,8 @@ class FootReplays(BaseScraper):
                 out.append(lk)
         for a in c.select("a[href]"):
             u = nurl(a.get("href"), self.base_url)
+            if is_same_site_page(u, self.base_url):
+                continue
             if not u or not is_video(u):
                 continue
             lk = mk_link(clean(a.get_text(" ", strip=True)) or ctx_label(a) or "Replay", u, self.base_url)
@@ -1144,26 +1679,8 @@ class TimeSoccerTV(BaseScraper):
     def __init__(self, log_data):
         super().__init__(log_data, 3, "timesoccertv.com", "https://timesoccertv.com")
 
-    def links(self, soup):
-        out = []
-        c = soup.select_one(".td-post-content, .entry-content, article") or soup
-        idx = 1
-        for f in c.select("iframe[src]"):
-            u = nurl(f.get("src"), self.base_url)
-            if not u or is_bad(u) or not is_video(u):
-                continue
-            lk = mk_link(ctx_label(f) or f"Replay {idx}", u, self.base_url)
-            if lk:
-                out.append(lk)
-                idx += 1
-        for a in c.select("a[href]"):
-            u = nurl(a.get("href"), self.base_url)
-            if not u or is_bad(u) or not is_video(u):
-                continue
-            lk = mk_link(clean(a.get_text(" ", strip=True)) or ctx_label(a) or "Replay", u, self.base_url)
-            if lk:
-                out.append(lk)
-        return uniq_links(out)
+    def links(self, soup, page_title=""):
+        return timesoccertv_links(soup, self.base_url, page_title=page_title)
 
     def run(self):
         print("--- Source 3: timesoccertv.com ---")
@@ -1205,7 +1722,7 @@ class TimeSoccerTV(BaseScraper):
             ds, _ = self.get_soup(url)
             if not ds:
                 continue
-            links = self.links(ds)
+            links = self.links(ds, page_title=title)
             if not links:
                 continue
 
@@ -1252,29 +1769,8 @@ class FootballOrgin(BaseScraper):
             time.sleep(1.2)
         return None
 
-    def extract_links_html(self, html, page_url):
-        out = []
-        for u in inline_single_video_urls(html):
-            lk = mk_link("Replay", u, page_url)
-            if lk and not is_bad(lk["url"]):
-                out.append(lk)
-        s = BeautifulSoup(html, "html.parser")
-        c = s.select_one(".entry-content, article, .single-content-inner") or s
-        for f in c.select("iframe[src]"):
-            u = nurl(f.get("src"), page_url)
-            if not u or is_bad(u) or not is_video(u):
-                continue
-            lk = mk_link(ctx_label(f) or "Replay", u, page_url)
-            if lk:
-                out.append(lk)
-        for a in c.select("a[href]"):
-            u = nurl(a.get("href"), page_url)
-            if not u or is_bad(u) or not is_video(u):
-                continue
-            lk = mk_link(clean(a.get_text(" ", strip=True)) or ctx_label(a) or "Replay", u, page_url)
-            if lk:
-                out.append(lk)
-        return uniq_links(out)
+    def extract_links_html(self, html, page_url, fallback_label=""):
+        return footballorgin_player_links(html, page_url, fallback_label=fallback_label)
 
     def detail(self, url):
         r = self.get(url)
@@ -1286,26 +1782,34 @@ class FootballOrgin(BaseScraper):
         vobj = jsonld_first(objs, {"VideoObject"})
         cats = [a.get_text(" ", strip=True) for a in s.select(".categories-wrap a")]
         dnode = s.select_one("time.entry-date, time")
-        date_raw = clean(dnode.get_text(" ", strip=True)) if dnode else ""
+        date_meta = node_time_value(dnode, ref=now_utc())
+        date_raw = clean(date_meta["raw"])
         upload_raw = clean(vobj.get("uploadDate"))
         preview = meta_img(s)
+        variants = footballorgin_series_variants(s, url)[:6]
 
-        links = self.extract_links_html(html, url)
-        for a in s.select(".series-listing a[href]")[:6]:
-            lbl = clean(a.get_text(" ", strip=True)) or "Replay"
-            su = nurl(a.get("href"), url)
-            if not su:
-                continue
-            sr = self.get(su)
-            if not sr:
-                continue
-            for lk in self.extract_links_html(sr.text, su):
-                if not lk.get("label") or lk["label"] == "Replay":
-                    lk["label"] = lbl
-                links.append(lk)
-            time.sleep(0.3)
+        links = []
+        if variants:
+            current_url = nurl(url, self.base_url)
+            for variant in variants:
+                variant_url = nurl(variant.get("url"), url)
+                label = normalize_link_label(variant.get("label")) or ""
+                if not variant_url:
+                    continue
+                if variant_url == current_url:
+                    variant_html = html
+                else:
+                    sr = self.get(variant_url)
+                    if not sr:
+                        continue
+                    variant_html = sr.text
+                    time.sleep(0.3)
+                links.extend(self.extract_links_html(variant_html, variant_url, fallback_label=label))
+        else:
+            links = self.extract_links_html(html, url)
 
-        return uniq_links(links), cats, date_raw, (upload_raw or date_raw), "", preview, html
+        published_raw = clean(upload_raw or date_raw)
+        return uniq_links(links), cats, date_raw, published_raw, "", preview, html, date_meta
 
     def run(self):
         print("--- Source 4: footballorgin.com ---")
@@ -1334,7 +1838,7 @@ class FootballOrgin(BaseScraper):
                     "title": clean(a.get_text(" ", strip=True)),
                     "url": url,
                     "preview": img_url(card.select_one("img")),
-                    "listing_date": clean(dnode.get_text(" ", strip=True)) if dnode else "",
+                    "listing_date_meta": node_time_value(dnode, ref=now_utc()),
                     "listing_categories": [x.get_text(" ", strip=True) for x in card.select(".categories-wrap a")],
                 })
             if len(cand) >= MAX_POSTS_PER_SOURCE:
@@ -1346,19 +1850,19 @@ class FootballOrgin(BaseScraper):
             match_id = gen_id(item["url"])
             listing_stamp = self.listing_stamp(
                 title=item["title"],
-                listing_date_raw=item["listing_date"],
+                listing_date_raw=clean(item["listing_date_meta"].get("raw")),
                 preview=item["preview"],
                 cats=item["listing_categories"],
             )
             go, _reason = self.should_scrape(
                 match_id,
                 listing_stamp=listing_stamp,
-                listing_date_raw=item["listing_date"],
+                listing_date_raw=clean(item["listing_date_meta"].get("raw")),
             )
             if not go:
                 skipped += 1
                 continue
-            links, dcats, date_raw, pub_raw, upd_raw, dpreview, html = self.detail(item["url"])
+            links, dcats, date_raw, pub_raw, upd_raw, dpreview, html, detail_date_meta = self.detail(item["url"])
             if not links:
                 lk = mk_link("Match Page", item["url"], self.base_url, kind="page")
                 if lk:
@@ -1367,15 +1871,31 @@ class FootballOrgin(BaseScraper):
                 continue
             preview = item["preview"] or dpreview
             cats = dedupe_text(item["listing_categories"] + dcats)
-            pub_raw = clean(pub_raw or item["listing_date"] or date_raw)
-            pub_dt, pub_est = parse_dt(pub_raw, now_utc())
-            list_dt, list_est = parse_dt(item["listing_date"], now_utc())
+            listing_raw = clean(item["listing_date_meta"].get("raw"))
+            listing_display = clean(item["listing_date_meta"].get("display"))
+            pub_raw = clean(pub_raw or listing_raw or date_raw)
+            pub_dt = first_normalized_dt([pub_raw, detail_date_meta.get("iso"), item["listing_date_meta"].get("iso")])
+            if pub_dt:
+                pub_est = False
+            else:
+                pub_parsed_dt, pub_est = parse_dt(pub_raw, now_utc())
+                pub_dt = iso(pub_parsed_dt)
+            list_dt = clean(item["listing_date_meta"].get("iso"))
+            list_est = bool(item["listing_date_meta"].get("estimated"))
             upd_dt, _ = parse_dt(upd_raw, now_utc())
             match = build_match(4, self.source_name, self.base_url, item["url"], item["title"], preview, cats, links, scraped_at,
-                                published_raw=pub_raw or item["listing_date"], published_iso=iso(pub_dt or list_dt), updated_iso=iso(upd_dt),
-                                extra={"listing_date_raw": item["listing_date"], "listing_date_at": iso(list_dt), "listing_date_is_estimated": list_est, "published_is_estimated": pub_est, "html_has_single_video_url": '"single_video_url"' in html})
+                                published_raw=pub_raw or listing_raw, published_iso=pub_dt or list_dt, updated_iso=iso(upd_dt),
+                                extra={
+                                    "listing_date_raw": listing_raw,
+                                    "listing_date_display": listing_display or listing_raw,
+                                    "listing_date_at": list_dt,
+                                    "listing_date_is_estimated": list_est,
+                                    "published_display": clean(detail_date_meta.get("display")) or clean(pub_raw),
+                                    "published_is_estimated": pub_est,
+                                    "html_has_single_video_url": '"single_video_url"' in html,
+                                })
             results.append(match)
-            self.update_log(match, listing_date_raw=item["listing_date"], listing_stamp=listing_stamp)
+            self.update_log(match, listing_date_raw=listing_raw, listing_stamp=listing_stamp)
         print(f"[SOURCE_4] Collected: {len(results)} (skipped: {skipped})")
         return results
 
