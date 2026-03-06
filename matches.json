@@ -1,5 +1,379 @@
 [
   {
+    "match_id": "1f8a8696b18c6f56d4b5ca35a16d0810",
+    "match": "Bayern Munich vs Borussia Monchengladbach Full Match | 6 March 2026",
+    "competition": "Bundesliga, Full Match Replay, Highlights",
+    "date": "2026-03-06T23:12:52+00:00",
+    "published_at": "2026-03-06T23:12:52+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/12/bundesliga-full-match-236x133.jpeg",
+    "page_url": "https://www.footballorgin.com/bayern-munich-vs-borussia-monchengladbach-full-match-5-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-06T23:18:11.461911+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Bundesliga",
+      "Full Match Replay",
+      "Highlights"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.top/e/ow9oeeo9tod69j",
+        "label": "Full Match",
+        "embed_url": "https://mixdrop.top/e/ow9oeeo9tod69j",
+        "host": "mixdrop.top",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/ow9oeeo9tod69j\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://www.youtube-nocookie.com/embed/ZE80PK7DarM",
+        "label": "Highlights",
+        "embed_url": "https://www.youtube-nocookie.com/embed/ZE80PK7DarM",
+        "player_url": "https://www.youtube.com/watch?v=ZE80PK7DarM&pp=ygUVYnVuZGVzbGlnYSBoaWdobGlnaHRz",
+        "host": "youtube-nocookie.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/ZE80PK7DarM\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "a55c1dda2e4a496b4742c0720f943dde",
+    "match": "Wolves v Liverpool Full Match | 6 March 2026",
+    "competition": "FA Cup, Full Match Replay, Highlights, Liverpool, Wolverhampton Wanderers",
+    "date": "2026-03-06T23:06:05+00:00",
+    "published_at": "2026-03-06T23:06:05+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/11/fa-cup-full-match-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/wolves-v-liverpool-full-match-6-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-06T23:18:11.461911+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "FA Cup",
+      "Full Match Replay",
+      "Highlights",
+      "Liverpool",
+      "Wolverhampton Wanderers"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.top/e/ow9oeeo9tod69j",
+        "label": "Original Video",
+        "embed_url": "https://mixdrop.top/e/ow9oeeo9tod69j",
+        "host": "mixdrop.top",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/ow9oeeo9tod69j\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://www.youtube-nocookie.com/embed/bEek934QOQ8",
+        "label": "Highlights",
+        "embed_url": "https://www.youtube-nocookie.com/embed/bEek934QOQ8",
+        "player_url": "https://www.youtube.com/watch?v=bEek934QOQ8&pp=ygUGZmEgY3Vw",
+        "host": "youtube-nocookie.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/bEek934QOQ8\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "1e117147d08e5d161890689431629a34",
+    "match": "Wolves vs Liverpool",
+    "competition": "FA Cup, Liverpool, Wolves",
+    "date": "2026-03-06T22:37:47+00:00",
+    "published_at": "2026-03-06T22:37:47+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Wolves-vs-Liverpool.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/england/fa-cup/wolves-vs-liverpool-2-06-03-2026/",
+    "updated_at": "2026-03-06T22:37:48+00:00",
+    "scraped_at": "2026-03-06T23:18:02.003740+00:00",
+    "listing_date_raw": "06/03/2026",
+    "listing_date_at": "2026-03-06T00:00:00+00:00",
+    "categories": [
+      "FA Cup",
+      "Liverpool",
+      "Wolves"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/8aactkuma7jl",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/8aactkuma7jl",
+        "player_url": "https://hgcloud.to/8aactkuma7jl",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/8aactkuma7jl\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "f32b2a89f52114bf565b3dc92dce83e6",
+    "match": "Celta Vigo vs Real Madrid",
+    "competition": "La Liga, Celta Vigo, Real Madrid",
+    "date": "2026-03-06T22:31:14+00:00",
+    "published_at": "2026-03-06T22:31:14+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i1.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Celta-Vigo-vs-Real-Madrid.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/spain/la-liga/celta-vigo-vs-real-madrid-06-03-2026/",
+    "updated_at": "2026-03-06T22:31:16+00:00",
+    "scraped_at": "2026-03-06T23:18:02.003740+00:00",
+    "listing_date_raw": "06/03/2026",
+    "listing_date_at": "2026-03-06T00:00:00+00:00",
+    "categories": [
+      "La Liga",
+      "Celta Vigo",
+      "Real Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/1v3k25bb6nca",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/1v3k25bb6nca",
+        "player_url": "https://hgcloud.to/1v3k25bb6nca",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/1v3k25bb6nca\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "96085576eb00f2779e2e5bd665344273",
+    "match": "PSG vs Monaco",
+    "competition": "Ligue 1, Monaco, PSG",
+    "date": "2026-03-06T22:30:21+00:00",
+    "published_at": "2026-03-06T22:30:21+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i3.wp.com/www.footreplays.com/wp-content/uploads/2026/02/PSG-vs-Monaco.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/france/ligue-1/psg-vs-monaco-4-06-03-2026/",
+    "updated_at": "2026-03-06T22:42:42+00:00",
+    "scraped_at": "2026-03-06T23:18:02.003740+00:00",
+    "listing_date_raw": "06/03/2026",
+    "listing_date_at": "2026-03-06T00:00:00+00:00",
+    "categories": [
+      "Ligue 1",
+      "Monaco",
+      "PSG"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/ez6k8mbtc8h1",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/ez6k8mbtc8h1",
+        "player_url": "https://hgcloud.to/ez6k8mbtc8h1",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ez6k8mbtc8h1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/zd8a3nibyq0s",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/zd8a3nibyq0s",
+        "player_url": "https://hgcloud.to/zd8a3nibyq0s",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/zd8a3nibyq0s\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "a29957c3f472064381c29a47a22b1390",
+    "match": "Napoli vs Torino",
+    "competition": "Serie A, Napoli, Torino",
+    "date": "2026-03-06T22:29:32+00:00",
+    "published_at": "2026-03-06T22:29:32+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i0.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Napoli-vs-Torino.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/italy/serie-a/napoli-vs-torino-06-03-2026/",
+    "updated_at": "2026-03-06T22:29:35+00:00",
+    "scraped_at": "2026-03-06T23:18:02.003740+00:00",
+    "listing_date_raw": "06/03/2026",
+    "listing_date_at": "2026-03-06T00:00:00+00:00",
+    "categories": [
+      "Serie A",
+      "Napoli",
+      "Torino"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/kszjysx72dos",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/kszjysx72dos",
+        "player_url": "https://hgcloud.to/kszjysx72dos",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/kszjysx72dos\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "a421bf41a887f4bc1579d1782bf61fa8",
+    "match": "Bayern Munich vs Monchengladbach",
+    "competition": "Bundesliga, Bayern Munich, Borussia Monchengladbach",
+    "date": "2026-03-06T22:22:48+00:00",
+    "published_at": "2026-03-06T22:22:48+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i3.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Bayern-Munich-vs-Borussia-Monchengladbach.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/germany/bundesliga/bayern-munich-vs-monchengladbach-06-03-2026/",
+    "updated_at": "2026-03-06T22:43:08+00:00",
+    "scraped_at": "2026-03-06T23:18:02.003740+00:00",
+    "listing_date_raw": "06/03/2026",
+    "listing_date_at": "2026-03-06T00:00:00+00:00",
+    "categories": [
+      "Bundesliga",
+      "Bayern Munich",
+      "Borussia Monchengladbach"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/keemzpvjq7bh",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/keemzpvjq7bh",
+        "player_url": "https://hgcloud.to/keemzpvjq7bh",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/keemzpvjq7bh\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/s42v3nc4ni21",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/s42v3nc4ni21",
+        "player_url": "https://hgcloud.to/s42v3nc4ni21",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/s42v3nc4ni21\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "ce682ec0145d78a1ba5e560c7d45673a",
+    "match": "Celta Vigo vs Real Madrid Full Match and Highlights",
+    "competition": "Video, Real Madrid",
+    "date": "2026-03-06T21:00:00+00:00",
+    "published_at": "2026-03-06T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265165514/photo/vigo-spain-cesar-palacios-of-real-madrid-cf-and-borja-iglesias-of-rc-celta-de-vigo-in-action.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=m_EGEg9SuCkUIKgDlkgXpCpWHbfaS1_vjgVAlnLb4O8=",
+    "page_url": "https://timesoccertv.com/real-madrid-full-match-replays/",
+    "updated_at": "2026-03-06T23:08:45+00:00",
+    "scraped_at": "2026-03-06T23:18:08.481654+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-06T21:18:08+00:00",
+    "categories": [
+      "Video",
+      "Real Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/1v3k25bb6nca",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/1v3k25bb6nca",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/1v3k25bb6nca\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/EyoAxglw7YLe1",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/EyoAxglw7YLe1",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/EyoAxglw7YLe1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "f39f0844241e8559e05aa353327c3360",
+    "match": "PSG vs Monaco Full Match & Highlights",
+    "competition": "Video, PSG",
+    "date": "2026-03-06T20:00:00+00:00",
+    "published_at": "2026-03-06T20:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265156590/photo/paris-france-wout-faes-of-as-monaco-passes-the-ball-during-the-ligue-1-mcdonalds-match.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=5oJlElLdDf552VCJ81mHyNtaXdcttSTUMXaZiKEzJeA=",
+    "page_url": "https://timesoccertv.com/paris-saint-germain-highlights/",
+    "updated_at": "2026-03-06T23:05:45+00:00",
+    "scraped_at": "2026-03-06T23:18:08.481654+00:00",
+    "listing_date_raw": "3 hours ago",
+    "listing_date_at": "2026-03-06T20:18:10+00:00",
+    "categories": [
+      "Video",
+      "PSG"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/ez6k8mbtc8h1",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/ez6k8mbtc8h1",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ez6k8mbtc8h1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/GbZtSMVs4fliO",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/GbZtSMVs4fliO",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/GbZtSMVs4fliO\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "288377f7bf450cce672d3e0582f879f6",
+    "match": "Bayern Munich vs Borussia M’gladbach Full Match and Highlights",
+    "competition": "Video, Bayern Munich",
+    "date": "2026-03-06T20:00:00+00:00",
+    "published_at": "2026-03-06T20:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265142548/photo/munich-germany-rocco-reitz-of-borussia-monchengladbach-is-challenged-by-jamal-musiala-of-fc.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=VQIFWiHt_eTfQFvmSWseUocyJUxjqzhVFswXaR5aWJg=",
+    "page_url": "https://timesoccertv.com/bayern-munich-highlights/",
+    "updated_at": "2026-03-06T23:02:55+00:00",
+    "scraped_at": "2026-03-06T23:18:08.481654+00:00",
+    "listing_date_raw": "3 hours ago",
+    "listing_date_at": "2026-03-06T20:18:09+00:00",
+    "categories": [
+      "Video",
+      "Bayern Munich"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/keemzpvjq7bh",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/keemzpvjq7bh",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/keemzpvjq7bh\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/LsLjXAUrfCmco",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/LsLjXAUrfCmco",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/LsLjXAUrfCmco\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "765fbca7cb46079d0b64c333bae2eb92",
     "match": "EVERY Midweek Goal | Matchweek 29 | 2025/26 Premier League Highlights",
     "competition": "Premier League, Review Show",
@@ -2366,49 +2740,6 @@
     ]
   },
   {
-    "match_id": "ce682ec0145d78a1ba5e560c7d45673a",
-    "match": "Real Madrid vs Getafe Full Match and Highlights",
-    "competition": "Video, Real Madrid",
-    "date": "2026-03-02T21:30:00+00:00",
-    "published_at": "2026-03-02T21:30:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": null,
-    "preview_image": "https://media.gettyimages.com/id/2264441142/photo/madrid-spain-vin%C3%ADcius-j%C3%BAnior-of-real-madrid-is-challenged-by-juan-iglesias-of-getafe-during.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=M8I3rAsYQvPLxPYMTBcKwacNrT2wGQpa3ryO-0guVDQ=",
-    "page_url": null,
-    "updated_at": null,
-    "scraped_at": null,
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/w458v5ynb0fx",
-        "label": "1st Half",
-        "embed_url": "https://hgcloud.to/e/w458v5ynb0fx",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/w458v5ynb0fx\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/c4p4nk72277b",
-        "label": "2nd Half",
-        "embed_url": "https://hgcloud.to/e/c4p4nk72277b",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/c4p4nk72277b\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/zjyyp7rUJZIy2",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/zjyyp7rUJZIy2",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/zjyyp7rUJZIy2\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "254c4d5baeac455f0ab5dd43cf98773c",
     "match": "Real Madrid vs Getafe",
     "competition": "La Liga, Getafe, Real Madrid",
@@ -3539,49 +3870,6 @@
     ]
   },
   {
-    "match_id": "f39f0844241e8559e05aa353327c3360",
-    "match": "Le Havre vs PSG Full Match & Highlights",
-    "competition": "Video, PSG",
-    "date": "2026-02-28T21:00:00+00:00",
-    "published_at": "2026-02-28T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": null,
-    "preview_image": "https://media.gettyimages.com/id/2263573344/photo/rassoul-ndiaye-of-le-havre-ac-during-the-ligue-1-mcdonalds-match-between-le-havre-and-paris.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=Du-5Zbqqzz2GjO2Q5qu2e_1ucbwhgC38-ap7SkjUz4U=",
-    "page_url": null,
-    "updated_at": null,
-    "scraped_at": null,
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12303262288621?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12303262288621?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12303262288621?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/kufvfa3i583h",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/kufvfa3i583h",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/kufvfa3i583h\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/id8GJuKjhIxUn",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/id8GJuKjhIxUn",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/id8GJuKjhIxUn\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "b2a3a9ae01eaf3c034873867571e47ad",
     "match": "Leeds vs Manchester City",
     "competition": "Premier League, Leeds, Manchester City",
@@ -3745,41 +4033,6 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/4rsg9vv5p289\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "288377f7bf450cce672d3e0582f879f6",
-    "match": "Borussia Dortmund vs Bayern Munich Full Match and Highlights",
-    "competition": "Video, Bayern Munich",
-    "date": "2026-02-28T20:00:00+00:00",
-    "published_at": "2026-02-28T20:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": null,
-    "preview_image": "https://media.gettyimages.com/id/2264064125/photo/dortmund-germany-nico-schlotterbeck-of-borussia-dortmund-scores-the-goal-1-0-during-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=CeMtTDz3Fs5n3hlzY92NosA5VReio3ENd6o9YOlWFow=",
-    "page_url": null,
-    "updated_at": null,
-    "scraped_at": null,
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12299796810477?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12299796810477?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12299796810477?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/Q0YnVAefX8qfg",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/Q0YnVAefX8qfg",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Q0YnVAefX8qfg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },

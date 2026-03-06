@@ -6851,24 +6851,24 @@
     "last_updated": "2026-03-06T19:49:07.550737+00:00"
   },
   "f39f0844241e8559e05aa353327c3360": {
-    "match_title": "Le Havre vs PSG Full Match & Highlights",
+    "match_title": "PSG vs Monaco Full Match & Highlights",
     "url": "https://timesoccertv.com/paris-saint-germain-highlights/",
     "source_id": 3,
     "source_name": "timesoccertv.com",
-    "listing_date_raw": "1 day ago",
-    "listing_stamp": "a067c94e359a2c78be33e4f3dbb26168",
-    "link_count": 6,
-    "last_updated": "2026-03-02T20:44:19.215666+00:00"
+    "listing_date_raw": "3 hours ago",
+    "listing_stamp": "103e4f3ffd30358186e55d8b53c58cc7",
+    "link_count": 2,
+    "last_updated": "2026-03-06T23:18:10.484801+00:00"
   },
   "288377f7bf450cce672d3e0582f879f6": {
-    "match_title": "Borussia Dortmund vs Bayern Munich Full Match and Highlights",
+    "match_title": "Bayern Munich vs Borussia M’gladbach Full Match and Highlights",
     "url": "https://timesoccertv.com/bayern-munich-highlights/",
     "source_id": 3,
     "source_name": "timesoccertv.com",
-    "listing_date_raw": "2 days ago",
-    "listing_stamp": "ba6e309f90a28e1f41380dd5363412e4",
-    "link_count": 5,
-    "last_updated": "2026-03-02T20:44:19.818372+00:00"
+    "listing_date_raw": "3 hours ago",
+    "listing_stamp": "b0b1e6d541d47395d5b1b4013330a98c",
+    "link_count": 2,
+    "last_updated": "2026-03-06T23:18:09.271807+00:00"
   },
   "cb4234a4661c8d0bfa0aeb30cef26316": {
     "match_title": "Como vs Inter Full Match and Highlights",
@@ -7311,14 +7311,14 @@
     "last_updated": "2026-03-06T19:48:41.351982+00:00"
   },
   "ce682ec0145d78a1ba5e560c7d45673a": {
-    "match_title": "Real Madrid vs Getafe Full Match and Highlights",
+    "match_title": "Celta Vigo vs Real Madrid Full Match and Highlights",
     "url": "https://timesoccertv.com/real-madrid-full-match-replays/",
     "source_id": 3,
     "source_name": "timesoccertv.com",
-    "listing_date_raw": "8 hours ago",
-    "listing_stamp": "9e73aa630c1ba4e314f1302fbc77eb73",
-    "link_count": 6,
-    "last_updated": "2026-03-03T05:41:00.116707+00:00"
+    "listing_date_raw": "2 hours ago",
+    "listing_stamp": "fd6ae156fe96f5b7caf2f37e85be3091",
+    "link_count": 2,
+    "last_updated": "2026-03-06T23:18:08.987430+00:00"
   },
   "f0e6de8cb87c06951bd4c7ab2947ec4e": {
     "match_title": "Udinese vs Fiorentina Full Match | 2 March 2026",
@@ -7879,5 +7879,75 @@
     "listing_stamp": "6e630d87822211557a960f3a07b2d48e",
     "link_count": 2,
     "last_updated": "2026-03-06T19:49:24.788276+00:00"
+  },
+  "1e117147d08e5d161890689431629a34": {
+    "match_title": "Wolves vs Liverpool",
+    "url": "https://www.footreplays.com/england/fa-cup/wolves-vs-liverpool-2-06-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "06/03/2026",
+    "listing_stamp": "af75da8496e22cbe7853b637ee563a24",
+    "link_count": 1,
+    "last_updated": "2026-03-06T23:18:03.278046+00:00"
+  },
+  "f32b2a89f52114bf565b3dc92dce83e6": {
+    "match_title": "Celta Vigo vs Real Madrid",
+    "url": "https://www.footreplays.com/spain/la-liga/celta-vigo-vs-real-madrid-06-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "06/03/2026",
+    "listing_stamp": "9a0bb8163852a9f672b548825992f4d1",
+    "link_count": 1,
+    "last_updated": "2026-03-06T23:18:04.727301+00:00"
+  },
+  "96085576eb00f2779e2e5bd665344273": {
+    "match_title": "PSG vs Monaco",
+    "url": "https://www.footreplays.com/france/ligue-1/psg-vs-monaco-4-06-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "06/03/2026",
+    "listing_stamp": "9ecbb4aeeaa557098e6149baaecaaa4b",
+    "link_count": 2,
+    "last_updated": "2026-03-06T23:18:05.753424+00:00"
+  },
+  "a29957c3f472064381c29a47a22b1390": {
+    "match_title": "Napoli vs Torino",
+    "url": "https://www.footreplays.com/italy/serie-a/napoli-vs-torino-06-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "06/03/2026",
+    "listing_stamp": "5f74cee801331811255332e174fc49bd",
+    "link_count": 1,
+    "last_updated": "2026-03-06T23:18:07.020234+00:00"
+  },
+  "a421bf41a887f4bc1579d1782bf61fa8": {
+    "match_title": "Bayern Munich vs Monchengladbach",
+    "url": "https://www.footreplays.com/germany/bundesliga/bayern-munich-vs-monchengladbach-06-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "06/03/2026",
+    "listing_stamp": "3b565721571bc176dcebebc1db32cfb1",
+    "link_count": 2,
+    "last_updated": "2026-03-06T23:18:08.059132+00:00"
+  },
+  "1f8a8696b18c6f56d4b5ca35a16d0810": {
+    "match_title": "Bayern Munich vs Borussia Monchengladbach Full Match | 6 March 2026",
+    "url": "https://www.footballorgin.com/bayern-munich-vs-borussia-monchengladbach-full-match-5-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "56d28d48de039843f2d429405513e93d",
+    "link_count": 2,
+    "last_updated": "2026-03-06T23:18:14.135852+00:00"
+  },
+  "a55c1dda2e4a496b4742c0720f943dde": {
+    "match_title": "Wolves v Liverpool Full Match | 6 March 2026",
+    "url": "https://www.footballorgin.com/wolves-v-liverpool-full-match-6-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "94a655fd2677ce96397d3be92e151488",
+    "link_count": 2,
+    "last_updated": "2026-03-06T23:18:17.398153+00:00"
   }
 }
