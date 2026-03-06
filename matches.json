@@ -12,8 +12,8 @@
     "page_url": "https://www.footballorgin.com/every-midweek-goal-matchweek-29-2025-26-premier-league-highlights/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:11.709625+00:00",
-    "listing_date_raw": "2026-03-06T09:53:14+00:00",
-    "listing_date_at": "2026-03-06T09:53:14+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Review Show"
@@ -21,12 +21,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/EErQjE8YGxs",
+        "label": "Highlights",
         "embed_url": "https://www.youtube-nocookie.com/embed/EErQjE8YGxs",
         "player_url": "https://www.youtube.com/watch?v=EErQjE8YGxs",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/EErQjE8YGxs\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Highlights"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/EErQjE8YGxs\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -83,8 +83,8 @@
     "page_url": "https://www.footballorgin.com/premier-league-review-matchday-29-6-march-2026/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:11.709625+00:00",
-    "listing_date_raw": "2026-03-06T09:32:32+00:00",
-    "listing_date_at": "2026-03-06T09:32:32+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Highlights",
       "Premier League",
@@ -93,11 +93,11 @@
     "links": [
       {
         "url": "https://ok.ru/videoembed/12430737672941?nochat=1&autoplay=1",
+        "label": "1",
         "embed_url": "https://ok.ru/videoembed/12430737672941?nochat=1&autoplay=1",
         "host": "ok.ru",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12430737672941?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12430737672941?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -164,8 +164,8 @@
     "page_url": "https://timesoccertv.com/tottenham-hotspur-highlights/",
     "updated_at": "2026-03-06T04:38:24+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "11 hours ago",
-    "listing_date_at": "2026-03-06T08:49:05+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Tottenham Hotspur"
@@ -208,11 +208,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/dkdvndlltvx0xe",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/dkdvndlltvx0xe",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/dkdvndlltvx0xe\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/dkdvndlltvx0xe\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -235,11 +235,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/mknov90nsl3m8",
+        "label": "1",
         "embed_url": "https://mixdrop.top/e/mknov90nsl3m8",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/mknov90nsl3m8\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/mknov90nsl3m8\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://www.youtube-nocookie.com/embed/Iqr-no6ySkU",
@@ -270,11 +270,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/dkd9xo6qcexjz1",
+        "label": "1",
         "embed_url": "https://mixdrop.top/e/dkd9xo6qcexjz1",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/dkd9xo6qcexjz1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/dkd9xo6qcexjz1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://www.youtube-nocookie.com/embed/C5h55gFNbQo",
@@ -305,11 +305,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/vkzdjwnkb7gnke",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/vkzdjwnkb7gnke",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/vkzdjwnkb7gnke\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/vkzdjwnkb7gnke\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -326,8 +326,8 @@
     "page_url": "https://www.footballorgin.com/bbc-match-of-the-day-motd-highlights-4-march-2026/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:11.709625+00:00",
-    "listing_date_raw": "2026-03-05T08:45:30+00:00",
-    "listing_date_at": "2026-03-05T08:45:30+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "BBC Match of the day MOTD",
       "Highlights",
@@ -366,8 +366,8 @@
     "page_url": "https://timesoccertv.com/bbc-match-of-the-day-motd/",
     "updated_at": "2026-03-05T06:35:44+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "Mar 5, 2026",
-    "listing_date_at": "2026-03-05T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Football on TV",
       "Video",
@@ -411,11 +411,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/vkzdwq6lfg0746",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/vkzdwq6lfg0746",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/vkzdwq6lfg0746\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/vkzdwq6lfg0746\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -438,11 +438,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/vkzdjjdkf38gnq",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/vkzdjjdkf38gnq",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/vkzdjjdkf38gnq\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/vkzdjjdkf38gnq\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -465,11 +465,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/9wqzgr0murnvnw",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/9wqzgr0murnvnw",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wqzgr0murnvnw\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wqzgr0murnvnw\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -486,8 +486,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/newcastle-vs-manchester-utd-04-03-2026/",
     "updated_at": "2026-03-05T00:06:12+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "04/03/2026",
-    "listing_date_at": "2026-03-04T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Manchester United",
@@ -545,8 +545,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/brighton-vs-arsenal-2-04-03-2026/",
     "updated_at": "2026-03-04T23:02:48+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "04/03/2026",
-    "listing_date_at": "2026-03-04T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Arsenal",
@@ -586,8 +586,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/manchester-city-vs-nottingham-04-03-2026/",
     "updated_at": "2026-03-05T00:05:45+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "04/03/2026",
-    "listing_date_at": "2026-03-04T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Manchester City",
@@ -627,8 +627,8 @@
     "page_url": "https://timesoccertv.com/arsenal-highlights/",
     "updated_at": "2026-03-05T04:51:36+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "1 day ago",
-    "listing_date_at": "2026-03-05T19:49:06+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Arsenal"
@@ -673,8 +673,8 @@
     "page_url": "https://timesoccertv.com/manchester-united-highlights/",
     "updated_at": "2026-03-05T04:56:45+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "1 day ago",
-    "listing_date_at": "2026-03-05T19:49:06+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Manchester United"
@@ -727,8 +727,8 @@
     "page_url": "https://timesoccertv.com/manchester-city-highlights/",
     "updated_at": "2026-03-05T04:46:24+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "1 day ago",
-    "listing_date_at": "2026-03-05T19:49:07+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Video",
@@ -774,8 +774,8 @@
     "page_url": "https://timesoccertv.com/aston-villa-highlights/",
     "updated_at": "2026-03-05T04:41:19+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "1 day ago",
-    "listing_date_at": "2026-03-05T19:49:08+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Aston Villa"
@@ -1102,11 +1102,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/wlm07984fnnz8n",
+        "label": "1",
         "embed_url": "https://mixdrop.top/e/wlm07984fnnz8n",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/wlm07984fnnz8n\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/wlm07984fnnz8n\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://www.youtube-nocookie.com/embed/932gc6WLUF8",
@@ -1137,11 +1137,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/jdz7wljvid43j3",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/jdz7wljvid43j3",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/jdz7wljvid43j3\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/jdz7wljvid43j3\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -1164,11 +1164,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/dkdv7odzckx8er",
+        "label": "1",
         "embed_url": "https://mixdrop.top/e/dkdv7odzckx8er",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/dkdv7odzckx8er\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/dkdv7odzckx8er\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://www.youtube-nocookie.com/embed/hS16K68EgII",
@@ -1199,11 +1199,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/mknwlpvohq74l4",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/mknwlpvohq74l4",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/mknwlpvohq74l4\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/mknwlpvohq74l4\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -1226,11 +1226,11 @@
     "links": [
       {
         "url": "https://mixdrop.ag/e/4dml6qm0twj8dg",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.ag/e/4dml6qm0twj8dg",
         "host": "mixdrop.ag",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.ag/e/4dml6qm0twj8dg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.ag/e/4dml6qm0twj8dg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -1253,11 +1253,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/l7ql1ok9hqqmm61",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/l7ql1ok9hqqmm61",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/l7ql1ok9hqqmm61\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/l7ql1ok9hqqmm61\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -1274,8 +1274,8 @@
     "page_url": "https://www.footreplays.com/spain/copa-del-rey/fc-barcelona-vs-atletico-madrid-3-03-03-2026/",
     "updated_at": "2026-03-03T22:50:06+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "03/03/2026",
-    "listing_date_at": "2026-03-03T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Copa del Rey",
       "Atletico Madrid",
@@ -1315,8 +1315,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/wolves-vs-liverpool-03-03-2026/",
     "updated_at": "2026-03-04T00:02:41+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "03/03/2026",
-    "listing_date_at": "2026-03-03T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Liverpool",
@@ -1356,8 +1356,8 @@
     "page_url": "https://www.footreplays.com/italy/coppa-italia/como-vs-inter-milan-03-03-2026/",
     "updated_at": "2026-03-04T00:00:23+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "03/03/2026",
-    "listing_date_at": "2026-03-03T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Coppa Italia",
       "Como",
@@ -1397,8 +1397,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/leeds-vs-sunderland-03-03-2026/",
     "updated_at": "2026-03-03T22:35:16+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "03/03/2026",
-    "listing_date_at": "2026-03-03T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Leeds",
@@ -1429,8 +1429,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/bournemouth-vs-brentford-03-03-2026/",
     "updated_at": "2026-03-03T22:34:48+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "03/03/2026",
-    "listing_date_at": "2026-03-03T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Bournemouth",
@@ -1461,8 +1461,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/everton-vs-burnley-03-03-2026/",
     "updated_at": "2026-03-03T22:31:59+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "03/03/2026",
-    "listing_date_at": "2026-03-03T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Burnley",
@@ -1493,8 +1493,8 @@
     "page_url": "https://timesoccertv.com/barcelona-highlights-7/",
     "updated_at": "2026-03-04T09:09:53+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "2 days ago",
-    "listing_date_at": "2026-03-04T19:49:09+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Barcelona"
@@ -1539,8 +1539,8 @@
     "page_url": "https://timesoccertv.com/liverpool-highlights/",
     "updated_at": "2026-03-04T09:09:10+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "2 days ago",
-    "listing_date_at": "2026-03-04T19:49:08+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Video",
@@ -1619,8 +1619,8 @@
     "page_url": "https://timesoccertv.com/inter-milan-highlights/",
     "updated_at": "2026-03-04T09:10:34+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "2 days ago",
-    "listing_date_at": "2026-03-04T19:49:09+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Inter"
@@ -1665,8 +1665,8 @@
     "page_url": "https://timesoccertv.com/everton-highlights/",
     "updated_at": "2026-03-04T04:05:23+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "2 days ago",
-    "listing_date_at": "2026-03-04T19:49:10+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Video",
@@ -2134,8 +2134,8 @@
     "page_url": "https://www.footballorgin.com/premier-league-all-goals-from-matchday-28/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:11.709625+00:00",
-    "listing_date_raw": "2026-03-03T14:22:57+00:00",
-    "listing_date_at": "2026-03-03T14:22:57+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Highlights",
       "Premier League",
@@ -2144,12 +2144,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/JuC_ECCMG4s",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/JuC_ECCMG4s",
         "player_url": "https://www.youtube.com/watch?v=JuC_ECCMG4s",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/JuC_ECCMG4s\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/JuC_ECCMG4s\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2166,8 +2166,8 @@
     "page_url": "https://www.footballorgin.com/serie-a-all-goals-from-matchday-27/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:11.709625+00:00",
-    "listing_date_raw": "2026-03-03T14:18:31+00:00",
-    "listing_date_at": "2026-03-03T14:18:31+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Highlights",
       "Review Show",
@@ -2176,12 +2176,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/wJZw24dxifE",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/wJZw24dxifE",
         "player_url": "https://www.youtube.com/watch?v=wJZw24dxifE",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/wJZw24dxifE\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/wJZw24dxifE\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2225,8 +2225,8 @@
     "page_url": "https://www.footballorgin.com/bundesliga-highlights-3-march-2026/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:11.709625+00:00",
-    "listing_date_raw": "2026-03-03T14:05:12+00:00",
-    "listing_date_at": "2026-03-03T14:05:12+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Bundesliga",
       "Highlights",
@@ -2235,12 +2235,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/i4bRKhYCB2k",
+        "label": "Highlights",
         "embed_url": "https://www.youtube-nocookie.com/embed/i4bRKhYCB2k",
         "player_url": "https://www.youtube.com/watch?v=i4bRKhYCB2k",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/i4bRKhYCB2k\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Highlights"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/i4bRKhYCB2k\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2257,8 +2257,8 @@
     "page_url": "https://www.footballorgin.com/bbc-sportscene-scottish-premiership-highlights-1-march-2026/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:11.709625+00:00",
-    "listing_date_raw": "2026-03-03T13:57:10+00:00",
-    "listing_date_at": "2026-03-03T13:57:10+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "BBC Sportscene",
       "Highlights",
@@ -2330,11 +2330,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/9wqz61nqf3q4jo8",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/9wqz61nqf3q4jo8",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wqz61nqf3q4jo8\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wqz61nqf3q4jo8\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2357,11 +2357,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/el0qw6k1i6x1gw",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/el0qw6k1i6x1gw",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/el0qw6k1i6x1gw\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/el0qw6k1i6x1gw\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2421,8 +2421,8 @@
     "page_url": "https://www.footreplays.com/spain/la-liga/real-madrid-vs-getafe-2-02-03-2026/",
     "updated_at": "2026-03-02T23:18:01+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "02/03/2026",
-    "listing_date_at": "2026-03-02T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "La Liga",
       "Getafe",
@@ -2540,8 +2540,8 @@
     "page_url": "https://www.footballorgin.com/premier-league-review-1-march-2026/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:11.709625+00:00",
-    "listing_date_raw": "2026-03-02T15:10:22+00:00",
-    "listing_date_at": "2026-03-02T15:10:22+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Highlights",
       "Premier League",
@@ -2550,11 +2550,11 @@
     "links": [
       {
         "url": "https://ok.ru/videoembed/12259899214394?nochat=1&autoplay=1",
+        "label": "1",
         "embed_url": "https://ok.ru/videoembed/12259899214394?nochat=1&autoplay=1",
         "host": "ok.ru",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12259899214394?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12259899214394?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2571,8 +2571,8 @@
     "page_url": "https://www.footballorgin.com/premier-league-the-weekend-wrap-1-march-2026/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:11.709625+00:00",
-    "listing_date_raw": "2026-03-02T15:08:22+00:00",
-    "listing_date_at": "2026-03-02T15:08:22+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Review Show",
@@ -2581,11 +2581,11 @@
     "links": [
       {
         "url": "https://ok.ru/videoembed/12244703316538?nochat=1&autoplay=1",
+        "label": "1",
         "embed_url": "https://ok.ru/videoembed/12244703316538?nochat=1&autoplay=1",
         "host": "ok.ru",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12244703316538?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12244703316538?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2608,11 +2608,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/dkdv18zeio804v",
+        "label": "1",
         "embed_url": "https://mixdrop.top/e/dkdv18zeio804v",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/dkdv18zeio804v\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/dkdv18zeio804v\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://www.youtube-nocookie.com/embed/jUZ6OKlgZ3g",
@@ -2643,11 +2643,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/nlxjxldeflwkvq6",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/nlxjxldeflwkvq6",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/nlxjxldeflwkvq6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/nlxjxldeflwkvq6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2670,11 +2670,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/9wqzq0l8bjzvdv",
+        "label": "1",
         "embed_url": "https://mixdrop.top/e/9wqzq0l8bjzvdv",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wqzq0l8bjzvdv\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wqzq0l8bjzvdv\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://www.youtube-nocookie.com/embed/YdXFCBOLVjQ",
@@ -2705,11 +2705,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/7kp1pgmqfdwnmmx",
+        "label": "1",
         "embed_url": "https://mixdrop.top/e/7kp1pgmqfdwnmmx",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/7kp1pgmqfdwnmmx\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/7kp1pgmqfdwnmmx\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://ok.ru/videoembed/12326039587565?nochat=1&autoplay=1",
@@ -2734,8 +2734,8 @@
     "page_url": "https://www.footballorgin.com/bbc-match-of-the-day-motd-highlights-1-march-2026/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:11.709625+00:00",
-    "listing_date_raw": "2026-03-02T07:21:26+00:00",
-    "listing_date_at": "2026-03-02T07:21:26+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "BBC Match of the day MOTD",
       "Highlights",
@@ -2745,11 +2745,11 @@
     "links": [
       {
         "url": "https://mega.nz/embed/z2QCCbYY#D_S5SYcFdbmB1wlOrXdyZClWUjUX2s_Wfnb8iZ78ges",
+        "label": "Highlights",
         "embed_url": "https://mega.nz/embed/z2QCCbYY#D_S5SYcFdbmB1wlOrXdyZClWUjUX2s_Wfnb8iZ78ges",
         "host": "mega.nz",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mega.nz/embed/z2QCCbYY#D_S5SYcFdbmB1wlOrXdyZClWUjUX2s_Wfnb8iZ78ges\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Highlights"
+        "embed_html": "<iframe src=\"https://mega.nz/embed/z2QCCbYY#D_S5SYcFdbmB1wlOrXdyZClWUjUX2s_Wfnb8iZ78ges\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2766,8 +2766,8 @@
     "page_url": "https://timesoccertv.com/watch-match-of-the-day-2-highlights/",
     "updated_at": null,
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "Mar 2, 2026",
-    "listing_date_at": "2026-03-02T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Football on TV"
     ],
@@ -2844,11 +2844,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/ow91p9djfljwozm",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/ow91p9djfljwozm",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/ow91p9djfljwozm\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/ow91p9djfljwozm\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2871,11 +2871,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/jdz7pqjzc6wv84",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/jdz7pqjzc6wv84",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/jdz7pqjzc6wv84\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/jdz7pqjzc6wv84\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2898,19 +2898,19 @@
     "links": [
       {
         "url": "https://hgcloud.to/e/op6xs9a5c2aq",
+        "label": "1",
         "embed_url": "https://hgcloud.to/e/op6xs9a5c2aq",
         "host": "hgcloud.to",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/op6xs9a5c2aq\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/op6xs9a5c2aq\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://hgcloud.to/e/hwp04lhm93ij",
+        "label": "2",
         "embed_url": "https://hgcloud.to/e/hwp04lhm93ij",
         "host": "hgcloud.to",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/hwp04lhm93ij\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "2"
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/hwp04lhm93ij\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2981,8 +2981,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/arsenal-vs-chelsea-3-01-03-2026/",
     "updated_at": "2026-03-01T21:34:16+00:00",
     "scraped_at": "2026-03-06T19:48:44.104073+00:00",
-    "listing_date_raw": "01/03/2026",
-    "listing_date_at": "2026-03-01T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Arsenal",
@@ -3202,11 +3202,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/el0jo3d8a1kzej",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/el0jo3d8a1kzej",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/el0jo3d8a1kzej\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/el0jo3d8a1kzej\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3229,19 +3229,19 @@
     "links": [
       {
         "url": "https://hgcloud.to/e/32bc8wnaw37r",
+        "label": "1",
         "embed_url": "https://hgcloud.to/e/32bc8wnaw37r",
         "host": "hgcloud.to",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/32bc8wnaw37r\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/32bc8wnaw37r\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://hgcloud.to/e/ayfeyi4lu3pd",
+        "label": "2",
         "embed_url": "https://hgcloud.to/e/ayfeyi4lu3pd",
         "host": "hgcloud.to",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/ayfeyi4lu3pd\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "2"
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ayfeyi4lu3pd\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3264,27 +3264,27 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/1n40p64zfx8olv",
+        "label": "1",
         "embed_url": "https://mixdrop.top/e/1n40p64zfx8olv",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/1n40p64zfx8olv\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/1n40p64zfx8olv\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://geo.dailymotion.com/player.html?video=xa0z2e6",
+        "label": "2",
         "embed_url": "https://geo.dailymotion.com/player.html?video=xa0z2e6",
         "host": "geo.dailymotion.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://geo.dailymotion.com/player.html?video=xa0z2e6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "2"
+        "embed_html": "<iframe src=\"https://geo.dailymotion.com/player.html?video=xa0z2e6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       },
       {
         "url": "https://geo.dailymotion.com/player.html?video=xa0z5sk",
+        "label": "3",
         "embed_url": "https://geo.dailymotion.com/player.html?video=xa0z5sk",
         "host": "geo.dailymotion.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://geo.dailymotion.com/player.html?video=xa0z5sk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "3"
+        "embed_html": "<iframe src=\"https://geo.dailymotion.com/player.html?video=xa0z5sk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3385,11 +3385,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/gjkx9377arlwqj",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/gjkx9377arlwqj",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/gjkx9377arlwqj\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/gjkx9377arlwqj\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3412,11 +3412,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/8lqdzkokt6omk0",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/8lqdzkokt6omk0",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/8lqdzkokt6omk0\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/8lqdzkokt6omk0\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3447,11 +3447,11 @@
       },
       {
         "url": "https://mixdrop.top/e/xwq7ee93cq14p0",
+        "label": "2",
         "embed_url": "https://mixdrop.top/e/xwq7ee93cq14p0",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/xwq7ee93cq14p0\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "2"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/xwq7ee93cq14p0\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3468,8 +3468,8 @@
     "page_url": "https://timesoccertv.com/english-football-league-highlights/",
     "updated_at": "2026-03-01T05:30:12+00:00",
     "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": "Mar 1, 2026",
-    "listing_date_at": "2026-03-01T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video"
     ],
@@ -41010,11 +41010,11 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/ImFy7sJ1wkw",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/ImFy7sJ1wkw",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/ImFy7sJ1wkw\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/ImFy7sJ1wkw\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
