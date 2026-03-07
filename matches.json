@@ -7092,6 +7092,174 @@
     ]
   },
   {
+    "match_id": "9e547451f12bcbf7681fb253ccd3b193",
+    "match": "Bayern Munich vs Monchengladbach",
+    "competition": "Bundesliga, Bayern Munich, Borussia Monchengladbach",
+    "date": null,
+    "published_at": null,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://blog.sportpesa.co.tz/wp-content/uploads/2024/02/Bayern-Munich-vs-Borussia-Monchengladbach.png",
+    "page_url": "https://soccerfull.net/bayern-munich-vs-monchengladbach-3139.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-07T04:53:54.513615+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Bundesliga",
+      "Bayern Munich",
+      "Borussia Monchengladbach"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12737",
+        "label": "Full Match",
+        "embed_url": "https://soccerfull.net/play/12737",
+        "stream_url": "https://soccerfull.net/hls/12737.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12737\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12741",
+        "label": "Highlights",
+        "embed_url": "https://soccerfull.net/play/12741",
+        "stream_url": "https://soccerfull.net/hls/12741.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12741\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "Full Match Highlight Bayern Munich vs Monchengladbach Watch Free Bayern Munich vs Borussia M’gladbach Full Match Replay and Highlights. This is a match of the Bundesliga 2025/2026 . Kick-off: 19:30 GMT, Friday, March 6, 2026 . Stadium: Allianz Arena, Munich . Capacity: 75,000 . League: Bundesliga Team: Bayern Munich Borussia Monchengladbach"
+  },
+  {
+    "match_id": "89944c8927f9452b97a69813bde9726f",
+    "match": "Napoli vs Torino",
+    "competition": "Serie A, Napoli, Torino",
+    "date": null,
+    "published_at": null,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=9299l5jc2go2t7rf46ddrr626_image-header_pDach_1745259952000&quality=70",
+    "page_url": "https://soccerfull.net/napoli-vs-torino-3138.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-07T04:53:54.513615+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Serie A",
+      "Napoli",
+      "Torino"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12739",
+        "label": "Full Match",
+        "embed_url": "https://soccerfull.net/play/12739",
+        "stream_url": "https://soccerfull.net/hls/12739.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12739\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12744",
+        "label": "Highlights",
+        "embed_url": "https://soccerfull.net/play/12744",
+        "stream_url": "https://soccerfull.net/hls/12744.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12744\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "Full Match Highlights Napoli vs Torino Watch Free Napoli vs Torino Full Match Replay and Highlights. This is a match of the Serie A 2025/2026 . Kick-off: 19:45 GMT, Friday, March 6, 2026 . Stadium: Stadio Diego Armando Maradona, Naples . Capacity: 54,726 . League: Serie A Team: Napoli Torino"
+  },
+  {
+    "match_id": "1c6c42b4745e95daa71dc6b6b91b8ce8",
+    "match": "PSG vs Monaco",
+    "competition": "Ligue 1, PSG, Monaco",
+    "date": null,
+    "published_at": null,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://images.daznservices.com/di/library/DAZN_News/eb/1e/psg-monaco_60drsl8xe67k17tawq9awm4aw.jpg?t=-719521422",
+    "page_url": "https://soccerfull.net/psg-vs-monaco-3137.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-07T04:53:54.513615+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Ligue 1",
+      "PSG",
+      "Monaco"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12733",
+        "label": "Full Match",
+        "embed_url": "https://soccerfull.net/play/12733",
+        "stream_url": "https://soccerfull.net/hls/12733.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12733\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12742",
+        "label": "Highlights",
+        "embed_url": "https://soccerfull.net/play/12742",
+        "stream_url": "https://soccerfull.net/hls/12742.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12742\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "Full Match Highlight PSG vs Monaco Watch Free PSG vs Monaco Full Match Replay and Highlights. This is a match of the Ligue 1 2025/2026 . Kick-off: 19:45 GMT, Friday, March 6, 2026 . Stadium: Parc des Princes, Paris . Capacity: 47,929 . League: Ligue 1 Team: PSG Monaco"
+  },
+  {
+    "match_id": "9b8432d2fd8d7f2e89f1149619e1ffc3",
+    "match": "Celta Vigo vs Real Madrid",
+    "competition": "La Liga, Celta Vigo, Real Madrid",
+    "date": null,
+    "published_at": null,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=dgvtfgxe8scanxpkbcvxo8115_image-header_pRow_1766572028000&quality=70",
+    "page_url": "https://soccerfull.net/celta-vigo-vs-real-madrid-3136.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-07T04:53:54.513615+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "La Liga",
+      "Celta Vigo",
+      "Real Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12731",
+        "label": "Full Match",
+        "embed_url": "https://soccerfull.net/play/12731",
+        "stream_url": "https://soccerfull.net/hls/12731.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12731\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12743",
+        "label": "Highlights",
+        "embed_url": "https://soccerfull.net/play/12743",
+        "stream_url": "https://soccerfull.net/hls/12743.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12743\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "Full Match Highlights Celta Vigo vs Real Madrid Watch Free Celta Vigo vs Real Madrid Full Match Replay and Highlights. This is a match of the La Liga 2025/2026 . Kick-off: 20:00 GMT, Friday, March 6, 2026 . Stadium: Abanca-Balaídos, Vigo . Capacity: 24,870 . League: La Liga Team: Celta Vigo Real Madrid"
+  },
+  {
     "match_id": "839c015716191c72c28fd98221a087b0",
     "match": "Wolves vs Liverpool",
     "competition": "FA Cup, Wolves, Liverpool",
