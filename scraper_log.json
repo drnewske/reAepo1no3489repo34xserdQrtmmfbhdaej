@@ -8139,5 +8139,45 @@
     "listing_stamp": "72d79a7eee3595b56fe8304a6b7b1ffd",
     "link_count": 2,
     "last_updated": "2026-03-07T22:12:25.113701+00:00"
+  },
+  "135db335fd9e72795df52b35ad974a6a": {
+    "match_title": "Juventus vs Pisa",
+    "url": "https://www.footreplays.com/italy/serie-a/juventus-vs-pisa-07-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "07/03/2026",
+    "listing_stamp": "7f8440295669d4db94ba2e8e156da7b1",
+    "link_count": 1,
+    "last_updated": "2026-03-07T23:12:46.550431+00:00"
+  },
+  "7ac76b081b00aae2c3b5825c0b63abf6": {
+    "match_title": "Newcastle vs Manchester City",
+    "url": "https://www.footreplays.com/england/fa-cup/newcastle-vs-manchester-city-3-07-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "07/03/2026",
+    "listing_stamp": "1b758335f78dc071b3c2078870c78711",
+    "link_count": 1,
+    "last_updated": "2026-03-07T23:12:47.339553+00:00"
+  },
+  "7eb2e574834950ca84878fb3a561e917": {
+    "match_title": "Athletic Club vs Barcelona Full Match | 7 March 2026",
+    "url": "https://www.footballorgin.com/athletic-club-vs-barcelona-full-match-7-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "58b7c0951c095c9ccc8c876abb8fa85b",
+    "link_count": 1,
+    "last_updated": "2026-03-07T23:12:50.049177+00:00"
+  },
+  "5e66c0b0ba3726b91997a23ef89f9d05": {
+    "match_title": "Newcastle United vs Manchester City Full Match | 7 March 2026",
+    "url": "https://www.footballorgin.com/newcastle-united-vs-manchester-city-full-match-7-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "7acf78f693628b0298a911263a657969",
+    "link_count": 2,
+    "last_updated": "2026-03-07T23:12:55.633366+00:00"
   }
 }
