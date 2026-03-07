@@ -22,11 +22,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/9wq3788qi99kxe",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/9wq3788qi99kxe",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wq3788qi99kxe\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wq3788qi99kxe\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -7090,6 +7090,48 @@
         "kind": "replay"
       }
     ]
+  },
+  {
+    "match_id": "839c015716191c72c28fd98221a087b0",
+    "match": "Wolves vs Liverpool",
+    "competition": "FA Cup, Wolves, Liverpool",
+    "date": null,
+    "published_at": null,
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/79/thumb_78106_default_news_size_5.jpeg",
+    "page_url": "https://soccerfull.net/wolves-vs-liverpool-3135.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-07T03:50:31.749446+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "FA Cup",
+      "Wolves",
+      "Liverpool"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12729",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12729",
+        "stream_url": "https://soccerfull.net/hls/12729.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12729\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12730",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12730",
+        "stream_url": "https://soccerfull.net/hls/12730.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12730\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Wolves vs Liverpool Watch Free Wolves vs Liverpool Full Match Replay and Highlights. This is a match of the FA Cup 2025/2026 . Kick-off: 20:00 GMT, Friday, March 6, 2026 . Stadium: Molineux Stadium, Wolverhampton . Capacity: 31,750 . League: FA Cup Team: Wolves Liverpool"
   },
   {
     "match_id": "f65d34bdf3b4e07b92e07e0d48be9f43",
