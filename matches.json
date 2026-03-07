@@ -1,5 +1,75 @@
 [
   {
+    "match_id": "fdfaa77292c74539664601e4a627a563",
+    "match": "Hull City vs Millwall Full Match | 7 March 2026",
+    "competition": "Leagues",
+    "date": "2026-03-07T22:03:16+00:00",
+    "published_at": "2026-03-07T22:03:16+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/02/efl-championship-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/hull-city-vs-millwall-full-match-7-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-07T22:12:20.765219+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Leagues"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.top/e/679zzvrnb6rg3x",
+        "embed_url": "https://mixdrop.top/e/679zzvrnb6rg3x",
+        "host": "mixdrop.top",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/679zzvrnb6rg3x\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+        "label": "Full Match"
+      }
+    ]
+  },
+  {
+    "match_id": "e5045b23a0b8ca58f38d5883b7c87c87",
+    "match": "Wrexham v Chelsea Full Match | 7 March 2026",
+    "competition": "FA Cup, Chelsea FC, Full Match Replay, Highlights",
+    "date": "2026-03-07T21:44:46+00:00",
+    "published_at": "2026-03-07T21:44:46+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/11/fa-cup-full-match-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/wrexham-v-chelsea-full-match-7-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-07T22:12:20.765219+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "FA Cup",
+      "Chelsea FC",
+      "Full Match Replay",
+      "Highlights"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.top/e/gjkq30j9cwwwzk9",
+        "label": "Full Match",
+        "embed_url": "https://mixdrop.top/e/gjkq30j9cwwwzk9",
+        "host": "mixdrop.top",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/gjkq30j9cwwwzk9\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://www.youtube-nocookie.com/embed/-zyQFHnT8TQ",
+        "label": "Highlights",
+        "embed_url": "https://www.youtube-nocookie.com/embed/-zyQFHnT8TQ",
+        "player_url": "https://www.youtube.com/watch?v=-zyQFHnT8TQ",
+        "host": "youtube-nocookie.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/-zyQFHnT8TQ\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "58044f3b2deed7ae40f6afa788d45ed3",
     "match": "Athletic Bilbao vs Barcelona",
     "competition": "La Liga, Athletic Bilbao, FC Barcelona",
@@ -12,8 +82,8 @@
     "page_url": "https://www.footreplays.com/spain/la-liga/athletic-bilbao-vs-barcelona-07-03-2026/",
     "updated_at": "2026-03-07T21:00:43+00:00",
     "scraped_at": "2026-03-07T21:11:49.830532+00:00",
-    "listing_date_raw": "07/03/2026",
-    "listing_date_at": "2026-03-07T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "La Liga",
       "Athletic Bilbao",
@@ -32,6 +102,44 @@
     ]
   },
   {
+    "match_id": "3785b1d262b11ca9fe940e9ad5d7c628",
+    "match": "Athletic Bilbao vs Barcelona Full Match and Highlights",
+    "competition": "Video, Barcelona",
+    "date": "2026-03-07T21:00:00+00:00",
+    "published_at": "2026-03-07T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265308812/photo/bilbao-spain-lamine-yamal-of-fc-barcelona-challenges-for-the-ball-with-robert-navarro-of.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=ij41K_MkJny2J4g4U4pFJ2cDjB77FPqiQ_OM6Q_sSE0=",
+    "page_url": "https://timesoccertv.com/barcelona-highlights-7/",
+    "updated_at": "2026-03-07T21:57:12+00:00",
+    "scraped_at": "2026-03-07T22:12:15.879539+00:00",
+    "listing_date_raw": "58 minutes ago",
+    "listing_date_at": "2026-03-07T21:14:16+00:00",
+    "categories": [
+      "Video",
+      "Barcelona"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/wttohgqfaymu",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/wttohgqfaymu",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/wttohgqfaymu\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/VnXChSI9Na48i",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/VnXChSI9Na48i",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/VnXChSI9Na48i\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "2c45c7df3e2bcd61202cbb5d2f595b2f",
     "match": "Atletico Madrid vs Real Sociedad",
     "competition": "La Liga, Atletico Madrid, Real Sociedad",
@@ -44,8 +152,8 @@
     "page_url": "https://www.footreplays.com/spain/la-liga/atletico-madrid-vs-real-sociedad-2-07-03-2026/",
     "updated_at": "2026-03-07T20:59:05+00:00",
     "scraped_at": "2026-03-07T21:11:49.830532+00:00",
-    "listing_date_raw": "07/03/2026",
-    "listing_date_at": "2026-03-07T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "La Liga",
       "Atletico Madrid",
@@ -76,8 +184,8 @@
     "page_url": "https://www.footreplays.com/germany/bundesliga/fc-koln-vs-dortmund-07-03-2026/",
     "updated_at": "2026-03-07T20:58:07+00:00",
     "scraped_at": "2026-03-07T21:11:49.830532+00:00",
-    "listing_date_raw": "07/03/2026",
-    "listing_date_at": "2026-03-07T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Bundesliga",
       "Dortmund",
@@ -92,6 +200,82 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/c0ae6jc7npch\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "5bf8a01de8a8b383212114f8073a6b5e",
+    "match": "Cologne vs Borussia Dortmund Full Match Replay and Highlights",
+    "competition": "Video, Borussia Dortmund",
+    "date": "2026-03-07T20:00:00+00:00",
+    "published_at": "2026-03-07T20:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265278751/photo/cologne-germany-kristoffer-lund-of-1-fc-koln-is-challenged-by-bvb20-during-the-bundesliga.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=3zHxdsYNgJDPiJinaJzQ_igaQ-Ivi9aLYBulXrdRDE4=",
+    "page_url": "https://timesoccertv.com/borussia-dortmund-highlights/",
+    "updated_at": "2026-03-07T21:25:12+00:00",
+    "scraped_at": "2026-03-07T22:12:15.879539+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-07T20:12:16+00:00",
+    "categories": [
+      "Video",
+      "Borussia Dortmund"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/c0ae6jc7npch",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/c0ae6jc7npch",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/c0ae6jc7npch\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/BCMR5aTpqfyBY",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/BCMR5aTpqfyBY",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/BCMR5aTpqfyBY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "6d0872e23ebc1e995c4ea6bef1cb53d1",
+    "match": "Atlético Madrid vs Real Sociedad Full Match and Highlights",
+    "competition": "Video, Atletico Madrid",
+    "date": "2026-03-07T20:00:00+00:00",
+    "published_at": "2026-03-07T20:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265298215/photo/madrid-spain-alexander-sorloth-of-atletico-de-madrid-and-yangel-herrera-of-real-sociedad.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=dmRj9xj9_l9IB4MEMzs3Ew9HIVayAvM0et1cXKYdfFo=",
+    "page_url": "https://timesoccertv.com/atletico-madrid-highlights-7/",
+    "updated_at": "2026-03-07T21:29:19+00:00",
+    "scraped_at": "2026-03-07T22:12:15.879539+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-07T20:12:17+00:00",
+    "categories": [
+      "Video",
+      "Atletico Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/r0nhr2ah83yl",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/r0nhr2ah83yl",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/r0nhr2ah83yl\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/bD6DCSVfUJbaQ",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/bD6DCSVfUJbaQ",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/bD6DCSVfUJbaQ\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2176,52 +2360,6 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/yn9kgta2unl2\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "3785b1d262b11ca9fe940e9ad5d7c628",
-    "match": "Barcelona vs Atlético Madrid Full Match and Highlights",
-    "competition": "Video, Barcelona",
-    "date": "2026-03-03T21:00:00+00:00",
-    "published_at": "2026-03-03T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2264637164/photo/barcelona-spain-marcus-rashford-of-fc-barcelona-runs-with-the-ball-whilst-under-pressure-from.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=L5_w7dPAumsVXyoAZijybY2eb3lvRL8Z6umrM0l4QMM=",
-    "page_url": "https://timesoccertv.com/barcelona-highlights-7/",
-    "updated_at": "2026-03-04T09:09:53+00:00",
-    "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Barcelona"
-    ],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12373053934317?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12373053934317?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12373053934317?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/uqdyow9v1vkp",
-        "label": "2",
-        "embed_url": "https://hgcloud.to/e/uqdyow9v1vkp",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/uqdyow9v1vkp\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/XkMCTPDJXchN8",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/XkMCTPDJXchN8",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/XkMCTPDJXchN8\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
