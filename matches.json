@@ -225,38 +225,6 @@
     ]
   },
   {
-    "match_id": "135db335fd9e72795df52b35ad974a6a",
-    "match": "Juventus vs Pisa",
-    "competition": "Serie A, Juventus, Pisa",
-    "date": "2026-03-07T23:11:54+00:00",
-    "published_at": "2026-03-07T23:11:54+00:00",
-    "source_tag": "source_2",
-    "source_name": "footreplays.com",
-    "source_url": "https://www.footreplays.com",
-    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Juventus-vs-Pisa.webp?ssl=1",
-    "page_url": "https://www.footreplays.com/italy/serie-a/juventus-vs-pisa-07-03-2026/",
-    "updated_at": "2026-03-07T23:11:58+00:00",
-    "scraped_at": "2026-03-07T23:12:45.831492+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Serie A",
-      "Juventus",
-      "Pisa"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/c82e2khqqbcz",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/c82e2khqqbcz",
-        "player_url": "https://hgcloud.to/c82e2khqqbcz",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/c82e2khqqbcz\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "7ac76b081b00aae2c3b5825c0b63abf6",
     "match": "Newcastle vs Manchester City",
     "competition": "FA Cup, Manchester City, Newcastle",
@@ -548,38 +516,6 @@
     ]
   },
   {
-    "match_id": "2c45c7df3e2bcd61202cbb5d2f595b2f",
-    "match": "Atletico Madrid vs Real Sociedad",
-    "competition": "La Liga, Atletico Madrid, Real Sociedad",
-    "date": "2026-03-07T20:59:02+00:00",
-    "published_at": "2026-03-07T20:59:02+00:00",
-    "source_tag": "source_2",
-    "source_name": "footreplays.com",
-    "source_url": "https://www.footreplays.com",
-    "preview_image": "https://i3.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Atletico-Madrid-vs-Real-Sociedad.webp?ssl=1",
-    "page_url": "https://www.footreplays.com/spain/la-liga/atletico-madrid-vs-real-sociedad-2-07-03-2026/",
-    "updated_at": "2026-03-07T20:59:05+00:00",
-    "scraped_at": "2026-03-07T21:11:49.830532+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "La Liga",
-      "Atletico Madrid",
-      "Real Sociedad"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/r0nhr2ah83yl",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/r0nhr2ah83yl",
-        "player_url": "https://hgcloud.to/r0nhr2ah83yl",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/r0nhr2ah83yl\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "24c50cf676a1040b68e99181e3fae503",
     "match": "FC Koln vs Dortmund",
     "competition": "Bundesliga, Dortmund, FC Köln",
@@ -610,6 +546,108 @@
         "embed_html": "<iframe src=\"https://hgcloud.to/e/c0ae6jc7npch\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "40c8f22ff2371e1e6c0e937ec3342454",
+    "match": "Newcastle United vs Manchester City",
+    "competition": "FA Cup, Newcastle United, Manchester City",
+    "date": "2026-03-07T20:00:00+00:00",
+    "published_at": "2026-03-07T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://i.ytimg.com/vi/QNpWe5Vyo58/maxresdefault.jpg",
+    "page_url": "https://soccerfull.net/newcastle-united-vs-manchester-city-3152.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-08T15:13:31.700017+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "FA Cup",
+      "Newcastle United",
+      "Manchester City"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12762",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12762",
+        "stream_url": "https://soccerfull.net/hls/12762.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12762\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12763",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12763",
+        "stream_url": "https://soccerfull.net/hls/12763.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12763\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Newcastle United vs Manchester City Watch and download Newcastle United vs Manchester City full match replay. KICK-OFF at 20:00 (UTC) on 7th March 2026 The referee for this match is Barrott S. Game played at St. James’ Park This is a match in England – FA Cup 2026, 1/8 Finals League: FA Cup Team: Newcastle United Manchester City"
+  },
+  {
+    "match_id": "b27585e52cbd15687be27831686f5153",
+    "match": "Athletic Bilbao vs Barcelona",
+    "competition": "La Liga, Athletic Bilbao, Barcelona",
+    "date": "2026-03-07T20:00:00+00:00",
+    "published_at": "2026-03-07T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUrv2GuRRtB31PcheaWSUPIpgfyn2B6QvdA&s",
+    "page_url": "https://soccerfull.net/athletic-bilbao-vs-barcelona-3151.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-08T15:13:31.700017+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "La Liga",
+      "Athletic Bilbao",
+      "Barcelona"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12758",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12758",
+        "stream_url": "https://soccerfull.net/hls/12758.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12758\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12759",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12759",
+        "stream_url": "https://soccerfull.net/hls/12759.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12759\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12760",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12760",
+        "stream_url": "https://soccerfull.net/hls/12760.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12760\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12761",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12761",
+        "stream_url": "https://soccerfull.net/hls/12761.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12761\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]First Half [EN]Second Half [RU]Full Match [EN]Highlights Athletic Bilbao vs Barcelona Watch and download Athletic Bilbao vs Barcelona full match replay. KICK-OFF at 20:00 (UTC) on 7th March 2026 The referee for this match is Munuera J. Game played at Estadio San Mamés This is a match in Spain – La Liga 2026, Round 27 League: La Liga Team: Athletic Bilbao Barcelona"
   },
   {
     "match_id": "436be380e48ab50f6322514e9c788558",
@@ -734,6 +772,48 @@
     ]
   },
   {
+    "match_id": "2b32a4e8910e90deef2b6fe90a71f560",
+    "match": "Juventus vs Pisa",
+    "competition": "Serie A, Juventus, Pisa",
+    "date": "2026-03-07T19:45:00+00:00",
+    "published_at": "2026-03-07T19:45:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/4it6tssntcremd41mu3ro86w4_image-header_pUs_1766509012000/fill/none/top/none/80/876/490/webp/image",
+    "page_url": "https://soccerfull.net/juventus-vs-pisa-3150.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-08T15:13:31.700017+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Serie A",
+      "Juventus",
+      "Pisa"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12756",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12756",
+        "stream_url": "https://soccerfull.net/hls/12756.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12756\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12757",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12757",
+        "stream_url": "https://soccerfull.net/hls/12757.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12757\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Juventus vs Pisa Watch and download Juventus vs Pisa full match replay. KICK-OFF at 19:45 (UTC) on 7th March 2026 The referee for this match is Sacchi J. L. Game played at Allianz Stadium This is a match in Italy – Serie A 2026, Round 28 League: Serie A Team: Juventus Pisa"
+  },
+  {
     "match_id": "25e59e60dd83c7f9f19fe515999b8dfb",
     "match": "Wrexham vs Chelsea",
     "competition": "FA Cup, Chelsea, Wrexham",
@@ -802,6 +882,123 @@
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/yypXgBp2I4HZn\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "66b481453901eece456b723cba59a73d",
+    "match": "Wrexham vs Chelsea",
+    "competition": "FA Cup, Wrexham, Chelsea",
+    "date": "2026-03-07T17:45:00+00:00",
+    "published_at": "2026-03-07T17:45:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1919,h_1079/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kk21mc0t1wnvnyytdv.jpg",
+    "page_url": "https://soccerfull.net/wrexham-vs-chelsea-3149.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-08T15:13:31.700017+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "FA Cup",
+      "Wrexham",
+      "Chelsea"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12754",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12754",
+        "stream_url": "https://soccerfull.net/hls/12754.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12754\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12755",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12755",
+        "stream_url": "https://soccerfull.net/hls/12755.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12755\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Wrexham vs Chelsea Watch and download Wrexham vs Chelsea full match replay. KICK-OFF at 17:45 (UTC) on 7th March 2026 The referee for this match is Bankes P. Game played at Racecourse Ground This is a match in England – FA Cup 2026, 1/8 Finals League: FA Cup Team: Wrexham Chelsea"
+  },
+  {
+    "match_id": "f4f7cbf3df2590ba724cd915933a3590",
+    "match": "Atletico Madrid vs Real Sociedad",
+    "competition": "La Liga, Atletico Madrid, Real Sociedad",
+    "date": "2026-03-07T17:30:00+00:00",
+    "published_at": "2026-03-07T17:30:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZUmVYbhOoFaCT57MmWq5m26m4Q2eN1q4Lg&s",
+    "page_url": "https://soccerfull.net/atletico-madrid-vs-real-sociedad-3148.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-08T15:13:31.700017+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "La Liga",
+      "Atletico Madrid",
+      "Real Sociedad"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12753",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12753",
+        "stream_url": "https://soccerfull.net/hls/12753.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12753\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match Atletico Madrid vs Real Sociedad Watch and download Atletico Madrid vs Real Sociedad full match replay. KICK-OFF at 17:30 (UTC) on 7th March 2026 The referee for this match is Cordero A. Game played at Metropolitano Stadium This is a match in Spain – La Liga 2026, Round 27 League: La Liga Team: Atletico Madrid Real Sociedad"
+  },
+  {
+    "match_id": "cb93fed54db50ce834259fad68d4e426",
+    "match": "FC Koln vs Borussia Dortmund",
+    "competition": "Bundesliga, FC Koln, Borussia Dortmund",
+    "date": "2026-03-07T17:30:00+00:00",
+    "published_at": "2026-03-07T17:30:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1mm2nm0p26cps1jhse6eji9vob_image-header_pDach_1770921832000&quality=70",
+    "page_url": "https://soccerfull.net/fc-koln-vs-borussia-dortmund-3147.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-08T15:13:31.700017+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Bundesliga",
+      "FC Koln",
+      "Borussia Dortmund"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12751",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12751",
+        "stream_url": "https://soccerfull.net/hls/12751.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12751\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12752",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12752",
+        "stream_url": "https://soccerfull.net/hls/12752.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12752\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights FC Koln vs Borussia Dortmund Watch and download FC Koln vs Borussia Dortmund full match replay. KICK-OFF at 17:30 (UTC) on 7th March 2026 The referee for this match is Siebert D. Game played at RheinEnergieStadion This is a match in Germany – Bundesliga 2026, Round 25 League: Bundesliga Team: FC Koln Borussia Dortmund"
   },
   {
     "match_id": "c95d8051dddd88c8255d9a411f5927a1",
@@ -914,6 +1111,48 @@
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Zc90eQNMyYd0z\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "b40d58ef9d0cc8ed33dcb36fa2d83be7",
+    "match": "Mansfield vs Arsenal",
+    "competition": "FA Cup, Mansfield, Arsenal",
+    "date": "2026-03-07T12:15:00+00:00",
+    "published_at": "2026-03-07T12:15:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=8sztlcyuhir9zxceqca0q6ii6_image-header_pRow_1771690815000&quality=50",
+    "page_url": "https://soccerfull.net/mansfield-vs-arsenal-3146.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-08T15:13:31.700017+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "FA Cup",
+      "Mansfield",
+      "Arsenal"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12749",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12749",
+        "stream_url": "https://soccerfull.net/hls/12749.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12749\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12750",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12750",
+        "stream_url": "https://soccerfull.net/hls/12750.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12750\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Mansfield vs Arsenal Watch and download Mansfield vs Arsenal full match replay. KICK-OFF at 12:15 (UTC) on 7th March 2026 The referee for this match is Bramall T. Game played at One Call Stadium This is a match in England – FA Cup 2026, 1/8 Finals League: FA Cup Team: Mansfield Arsenal"
   },
   {
     "match_id": "5a6de1e228f5b64735e5e72f5a1d414f",
