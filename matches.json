@@ -61,11 +61,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/9wq3dow0agm1g",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/9wq3dow0agm1g",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wq3dow0agm1g\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wq3dow0agm1g\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
