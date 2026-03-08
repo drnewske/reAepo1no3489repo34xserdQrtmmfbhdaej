@@ -12,8 +12,8 @@
     "page_url": "https://www.footreplays.com/italy/serie-a/ac-milan-vs-inter-milan-3-08-03-2026/",
     "updated_at": "2026-03-08T20:56:46+00:00",
     "scraped_at": "2026-03-08T21:13:51.189007+00:00",
-    "listing_date_raw": "08/03/2026",
-    "listing_date_at": "2026-03-08T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Serie A",
       "AC Milan",
@@ -53,11 +53,49 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/1n4lwnpphegqvl",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/1n4lwnpphegqvl",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/1n4lwnpphegqvl\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/1n4lwnpphegqvl\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "cb4234a4661c8d0bfa0aeb30cef26316",
+    "match": "Milan vs Inter Full Match and Highlights",
+    "competition": "Video, Inter",
+    "date": "2026-03-08T20:30:00+00:00",
+    "published_at": "2026-03-08T20:30:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265471106/photo/milan-italy-yann-bisseck-of-inter-competes-for-the-ball-with-pervis-estupinan-of-milan-nd.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=k7ROruqT4Sm1qGztwG-NW055uuY102ky3x3R9-Yhqfg=",
+    "page_url": "https://timesoccertv.com/inter-milan-highlights/",
+    "updated_at": "2026-03-08T22:11:08+00:00",
+    "scraped_at": "2026-03-08T22:13:08.985788+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-08T20:13:09+00:00",
+    "categories": [
+      "Video",
+      "Inter"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/d1m28auj3gj9",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/d1m28auj3gj9",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/d1m28auj3gj9\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3308,52 +3346,6 @@
       }
     ],
     "description": "[EN]Full Match Sporting CP vs FC Porto Watch and download Sporting CP vs FC Porto full match replay. KICK-OFF at 20:45 (UTC) on 3rd March 2026 The referee for this match is Pereira C. Game played at Estádio José Alvalade This is a match in Portugal – Taça de Portugal 2026, Semi Finals League: Taca de Portugal Team: Sporting CP FC Porto"
-  },
-  {
-    "match_id": "cb4234a4661c8d0bfa0aeb30cef26316",
-    "match": "Como vs Inter Full Match and Highlights",
-    "competition": "Video, Inter",
-    "date": "2026-03-03T20:30:00+00:00",
-    "published_at": "2026-03-03T20:30:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2264635608/photo/como-italy-assane-diao-of-como-1907-and-francesco-acerbi-of-fc-internazionale-jump-for-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=_F4EzgOgSwC1pPYiMIrC9nIdWgoJlhi0PaUlOI1uvM0=",
-    "page_url": "https://timesoccertv.com/inter-milan-highlights/",
-    "updated_at": "2026-03-04T09:10:34+00:00",
-    "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Inter"
-    ],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12373249362669?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12373249362669?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12373249362669?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/4ugr2aarbft2",
-        "label": "2",
-        "embed_url": "https://hgcloud.to/e/4ugr2aarbft2",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/4ugr2aarbft2\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/thWuFZVe7bLvr",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/thWuFZVe7bLvr",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/thWuFZVe7bLvr\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
   },
   {
     "match_id": "80aa2bb91ec7b24c8450cf7cc85f58d4",
