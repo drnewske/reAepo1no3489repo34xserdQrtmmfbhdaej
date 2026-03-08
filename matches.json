@@ -1,5 +1,75 @@
 [
   {
+    "match_id": "4b864e9daf1d77caff403739bf22303d",
+    "match": "Atalanta vs Udinese Full Match | 7 March 2026",
+    "competition": "Full Match Replay, Highlights, Serie A",
+    "date": "2026-03-07T23:36:16+00:00",
+    "published_at": "2026-03-07T23:36:16+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/11/Serie-A-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/atalanta-vs-udinese-full-match-7-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-08T01:06:06.844099+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Full Match Replay",
+      "Highlights",
+      "Serie A"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.top/e/9wq3l9ewcrj1o3",
+        "label": "Full Match",
+        "embed_url": "https://mixdrop.top/e/9wq3l9ewcrj1o3",
+        "host": "mixdrop.top",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wq3l9ewcrj1o3\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://www.youtube-nocookie.com/embed/LC95Zw3EVdw",
+        "label": "Highlights",
+        "embed_url": "https://www.youtube-nocookie.com/embed/LC95Zw3EVdw",
+        "player_url": "https://www.youtube.com/watch?v=LC95Zw3EVdw&pp=ygUHc2VyaWUgYQ%3D%3D",
+        "host": "youtube-nocookie.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/LC95Zw3EVdw\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "c71fa8de1d92d0a0787ec95f912e7179",
+    "match": "FSV Mainz 05 vs VfB Stuttgart Full Match | 7 March 2026",
+    "competition": "Bundesliga, Full Match Replay",
+    "date": "2026-03-07T23:31:41+00:00",
+    "published_at": "2026-03-07T23:31:41+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/12/bundesliga-full-match-236x133.jpeg",
+    "page_url": "https://www.footballorgin.com/fsv-mainz-05-vs-vfb-stuttgart-full-match-7-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-08T01:06:06.844099+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Bundesliga",
+      "Full Match Replay"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.top/e/9wq3dow0agm1g",
+        "embed_url": "https://mixdrop.top/e/9wq3dow0agm1g",
+        "host": "mixdrop.top",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/9wq3dow0agm1g\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+        "label": "Full Match"
+      }
+    ]
+  },
+  {
     "match_id": "135db335fd9e72795df52b35ad974a6a",
     "match": "Juventus vs Pisa",
     "competition": "Serie A, Juventus, Pisa",
@@ -12,8 +82,8 @@
     "page_url": "https://www.footreplays.com/italy/serie-a/juventus-vs-pisa-07-03-2026/",
     "updated_at": "2026-03-07T23:11:58+00:00",
     "scraped_at": "2026-03-07T23:12:45.831492+00:00",
-    "listing_date_raw": "07/03/2026",
-    "listing_date_at": "2026-03-07T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Serie A",
       "Juventus",
@@ -44,8 +114,8 @@
     "page_url": "https://www.footreplays.com/england/fa-cup/newcastle-vs-manchester-city-3-07-03-2026/",
     "updated_at": "2026-03-07T23:10:55+00:00",
     "scraped_at": "2026-03-07T23:12:45.831492+00:00",
-    "listing_date_raw": "07/03/2026",
-    "listing_date_at": "2026-03-07T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "FA Cup",
       "Manchester City",
@@ -86,11 +156,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/k0m9663kcv7p06",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/k0m9663kcv7p06",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/k0m9663kcv7p06\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/k0m9663kcv7p06\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
