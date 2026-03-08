@@ -338,6 +338,52 @@
     ]
   },
   {
+    "match_id": "042c4ba89907130d11ac0323e6597828",
+    "match": "Juventus vs Pisa Full Match and Highlights",
+    "competition": "Video, Juventus",
+    "date": "2026-03-07T21:00:00+00:00",
+    "published_at": "2026-03-07T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265298889/photo/turin-italy-rafiu-durosinmi-of-pisa-competes-for-the-ball-with-manuel-locatelli-of-juventus.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=DOdom8dbo2SoLvgT4dkIXjzOF1EYUsa9OOiwNuHYs2w=",
+    "page_url": "https://timesoccertv.com/juventus-highlights-1/",
+    "updated_at": "2026-03-08T08:53:32+00:00",
+    "scraped_at": "2026-03-08T09:18:51.528616+00:00",
+    "listing_date_raw": "12 hours ago",
+    "listing_date_at": "2026-03-07T21:18:52+00:00",
+    "categories": [
+      "Video",
+      "Juventus"
+    ],
+    "links": [
+      {
+        "url": "https://ok.ru/videoembed/12472889051885?nochat=1",
+        "label": "Full Match",
+        "embed_url": "https://ok.ru/videoembed/12472889051885?nochat=1",
+        "host": "ok.ru",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12472889051885?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/c82e2khqqbcz",
+        "label": "2",
+        "embed_url": "https://hgcloud.to/e/c82e2khqqbcz",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/c82e2khqqbcz\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/k64A1Jlb8nmW6",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/k64A1Jlb8nmW6",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/k64A1Jlb8nmW6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "3785b1d262b11ca9fe940e9ad5d7c628",
     "match": "Athletic Bilbao vs Barcelona Full Match and Highlights",
     "competition": "Video, Barcelona",
@@ -436,6 +482,52 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/c0ae6jc7npch\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "436be380e48ab50f6322514e9c788558",
+    "match": "Newcastle United vs Manchester City Full Match Replay and Highlights",
+    "competition": "Video, Newcastle",
+    "date": "2026-03-07T20:00:00+00:00",
+    "published_at": "2026-03-07T20:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265305164/photo/newcastle-upon-tyne-england-savio-of-manchester-city-scores-his-teams-first-goal-during-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=4FnLsonZeNTJLn-m6_lThvjUMOV44enHgrN3hSYa_ng=",
+    "page_url": "https://timesoccertv.com/newcastle-highlights/",
+    "updated_at": "2026-03-08T08:46:30+00:00",
+    "scraped_at": "2026-03-08T09:18:51.528616+00:00",
+    "listing_date_raw": "13 hours ago",
+    "listing_date_at": "2026-03-07T20:18:52+00:00",
+    "categories": [
+      "Video",
+      "Newcastle"
+    ],
+    "links": [
+      {
+        "url": "https://ok.ru/videoembed/12472880597741?nochat=1",
+        "label": "Full Match",
+        "embed_url": "https://ok.ru/videoembed/12472880597741?nochat=1",
+        "host": "ok.ru",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12472880597741?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/2u03cwa2vzye",
+        "label": "2",
+        "embed_url": "https://hgcloud.to/e/2u03cwa2vzye",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/2u03cwa2vzye\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/fUmmU8a2xJj88",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/fUmmU8a2xJj88",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/fUmmU8a2xJj88\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3813,49 +3905,6 @@
     ]
   },
   {
-    "match_id": "042c4ba89907130d11ac0323e6597828",
-    "match": "Roma vs Juventus Full Match and Highlights",
-    "competition": "Video, Juventus",
-    "date": "2026-03-01T21:00:00+00:00",
-    "published_at": "2026-03-01T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": null,
-    "preview_image": "https://media.gettyimages.com/id/2264260044/photo/rome-italy-donyell-malen-of-roma-scores-goal-during-the-serie-a-match-between-as-roma-and.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=FwXttYk01LRThbeD6d6Fe1d1REfXNfgDkbHqh45FqwU=",
-    "page_url": null,
-    "updated_at": null,
-    "scraped_at": null,
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12325242211053?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12325242211053?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12325242211053?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/o2r1cdqssjc1",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/o2r1cdqssjc1",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/o2r1cdqssjc1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/WIHLHFG2efZbA",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/WIHLHFG2efZbA",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/WIHLHFG2efZbA\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "2d8890f4eaf058f91cd5faede409c5ae",
     "match": "FC Twente vs Feyenoord Full Match | 1 March 2026",
     "competition": "Eredivisie, Full Match Replay",
@@ -4757,49 +4806,6 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/3m14ejpcvm0r\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "436be380e48ab50f6322514e9c788558",
-    "match": "Newcastle vs Everton Full Match Replay and Highlights",
-    "competition": "Video, Newcastle United",
-    "date": "2026-02-28T18:00:00+00:00",
-    "published_at": "2026-02-28T18:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": null,
-    "preview_image": "https://media.gettyimages.com/id/2264040834/photo/newcastle-upon-tyne-england-jacob-ramsey-of-newcastle-united-scores-his-teams-first-goal.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=QcJ4PPAZ0LHAyIH-CBBTghC7oJqtvBETbkmbeBAUoA0=",
-    "page_url": null,
-    "updated_at": null,
-    "scraped_at": null,
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12298301344493?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12298301344493?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12298301344493?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/RzhP031VjdGc6",
-        "label": "Full Match",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/RzhP031VjdGc6",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/RzhP031VjdGc6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/zDHvbsHBlJPze",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/zDHvbsHBlJPze",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/zDHvbsHBlJPze\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
