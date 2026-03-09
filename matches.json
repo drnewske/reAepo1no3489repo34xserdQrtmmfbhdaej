@@ -309,6 +309,57 @@
     ]
   },
   {
+    "match_id": "61869750adf3856a5ca463a42f9c26bc",
+    "match": "AC Milan vs Inter",
+    "competition": "Serie A, AC Milan, Inter",
+    "date": "2026-03-08T19:45:00+00:00",
+    "published_at": "2026-03-08T19:45:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://cms-images.acc.indazn.com/di/library/DAZN_News/71/35/inter-mailand-ac-milan-banner-29082022_1v90p6hto01qe1db5ub9kvjf3y.jpg?t=-374779678&quality=80&w=750&h=422",
+    "page_url": "https://soccerfull.net/ac-milan-vs-inter-3153.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-09T10:34:40.814669+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Serie A",
+      "AC Milan",
+      "Inter"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12764",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12764",
+        "stream_url": "https://soccerfull.net/hls/12764.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12764\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12765",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12765",
+        "stream_url": "https://soccerfull.net/hls/12765.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12765\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12766",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12766",
+        "stream_url": "https://soccerfull.net/hls/12766.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12766\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]First Half [EN]Second Half [EN]Highlights AC Milan vs Inter Watch and download AC Milan vs Inter full match replay. KICK-OFF at 19:45 (UTC) on 8th March 2026 The referee for this match is Doveri D. Game played at Stadio Giuseppe Meazza (San Siro) This is a match in Italy – Serie A 2026, Round 28 League: Serie A Team: AC Milan Inter"
+  },
+  {
     "match_id": "0f4ad6c84312daa1202edfb34571e073",
     "match": "Are Arsenal or Man City able to win the quadruple? | Sunday Supplement",
     "competition": "Arsenal, Manchester City, TV Show",
