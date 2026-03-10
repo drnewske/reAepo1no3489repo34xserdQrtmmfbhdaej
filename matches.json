@@ -1,5 +1,209 @@
 [
   {
+    "match_id": "229ba353b08dfd577dd48b14444e461e",
+    "match": "Atlético Madrid vs Tottenham",
+    "competition": "Champions League, Atletico Madrid, Tottenham",
+    "date": "2026-03-10T22:43:08+00:00",
+    "published_at": "2026-03-10T22:43:08+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i3.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Atletico-Madrid-vs-Tottenham.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/atletico-madrid-vs-tottenham-10-03-2026/",
+    "updated_at": "2026-03-10T22:57:48+00:00",
+    "scraped_at": "2026-03-10T23:17:25.364276+00:00",
+    "listing_date_raw": "10/03/2026",
+    "listing_date_at": "2026-03-10T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Atletico Madrid",
+      "Tottenham"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/favxsfa3493h",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/favxsfa3493h",
+        "player_url": "https://hgcloud.to/favxsfa3493h",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/favxsfa3493h\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/i5yni2h8ncsh",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/i5yni2h8ncsh",
+        "player_url": "https://hgcloud.to/i5yni2h8ncsh",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/i5yni2h8ncsh\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "d00f54a47254f9f7ca591f7699c5adee",
+    "match": "Atalanta vs Bayern Munich",
+    "competition": "Champions League, Atalanta, Bayern Munich",
+    "date": "2026-03-10T22:31:52+00:00",
+    "published_at": "2026-03-10T22:31:52+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Atalanta-vs-Bayern-Munich.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/atalanta-vs-bayern-munich-10-03-2026/",
+    "updated_at": "2026-03-10T22:46:28+00:00",
+    "scraped_at": "2026-03-10T23:17:25.364276+00:00",
+    "listing_date_raw": "10/03/2026",
+    "listing_date_at": "2026-03-10T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Atalanta",
+      "Bayern Munich"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/f2frm5oz1uss",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/f2frm5oz1uss",
+        "player_url": "https://hgcloud.to/f2frm5oz1uss",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/f2frm5oz1uss\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/rqq0as2i97wj",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/rqq0as2i97wj",
+        "player_url": "https://hgcloud.to/rqq0as2i97wj",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/rqq0as2i97wj\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "3785b1d262b11ca9fe940e9ad5d7c628",
+    "match": "Newcastle United vs Barcelona Full Match and Highlights",
+    "competition": "Video, Barcelona",
+    "date": "2026-03-10T21:00:00+00:00",
+    "published_at": "2026-03-10T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265846734/photo/newcastle-upon-tyne-england-lamine-yamal-of-barcelona-scores-his-teams-first-goal-from-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=YKirzdn4BysnHR3CSnyHLefJScpDZiM2WQ8effuzpDM=",
+    "page_url": "https://timesoccertv.com/barcelona-highlights-7/",
+    "updated_at": "2026-03-10T22:58:18+00:00",
+    "scraped_at": "2026-03-10T23:17:27.532925+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-10T21:17:27+00:00",
+    "categories": [
+      "Video",
+      "Barcelona"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/slp4werm209u",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/slp4werm209u",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/slp4werm209u\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/6w9x8prj2ca5",
+        "label": "Second Half",
+        "embed_url": "https://hgcloud.to/e/6w9x8prj2ca5",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/6w9x8prj2ca5\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/8s98UotfRTIWC",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/8s98UotfRTIWC",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/8s98UotfRTIWC\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "6d0872e23ebc1e995c4ea6bef1cb53d1",
+    "match": "Atlético Madrid vs Tottenham Hotspur Full Match and Highlights",
+    "competition": "Video, Atletico Madrid",
+    "date": "2026-03-10T21:00:00+00:00",
+    "published_at": "2026-03-10T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265846283/photo/madrid-spain-matteo-ruggeri-of-atletico-de-madrid-interacts-with-guglielmo-vicario-of.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=0115a3RVFH7_S_Ci3KGf1_eQxs0pU7PwfUMExHGvobc=",
+    "page_url": "https://timesoccertv.com/atletico-madrid-highlights-7/",
+    "updated_at": "2026-03-10T22:51:59+00:00",
+    "scraped_at": "2026-03-10T23:17:27.532925+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-10T21:17:27+00:00",
+    "categories": [
+      "Video",
+      "Atletico Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/favxsfa3493h",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/favxsfa3493h",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/favxsfa3493h\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/K5xSbniviCq1j",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/K5xSbniviCq1j",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/K5xSbniviCq1j\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "288377f7bf450cce672d3e0582f879f6",
+    "match": "Atalanta vs Bayern Munich Full Match and Highlights",
+    "competition": "Video, Bayern Munich",
+    "date": "2026-03-10T21:00:00+00:00",
+    "published_at": "2026-03-10T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265847793/photo/bergamo-italy-dayot-upamecano-of-bayern-monaco-competes-for-the-ball-with-nikola-krstovic-and.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=3GmKLFBYICqY5haygqm-p9g_OexAZBeM9SbeR4xSwcg=",
+    "page_url": "https://timesoccertv.com/bayern-munich-highlights/",
+    "updated_at": "2026-03-10T22:56:18+00:00",
+    "scraped_at": "2026-03-10T23:17:27.532925+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-10T21:17:27+00:00",
+    "categories": [
+      "Video",
+      "Bayern Munich"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/f2frm5oz1uss",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/f2frm5oz1uss",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/f2frm5oz1uss\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/OHBRNzIe8NwE6",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/OHBRNzIe8NwE6",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/OHBRNzIe8NwE6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "7ef683a4540944ff9e04f66eed442554",
     "match": "Newcastle vs FC Barcelona",
     "competition": "Champions League, FC Barcelona, Newcastle",
@@ -1274,44 +1478,6 @@
     ]
   },
   {
-    "match_id": "3785b1d262b11ca9fe940e9ad5d7c628",
-    "match": "Athletic Bilbao vs Barcelona Full Match and Highlights",
-    "competition": "Video, Barcelona",
-    "date": "2026-03-07T21:00:00+00:00",
-    "published_at": "2026-03-07T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265308812/photo/bilbao-spain-lamine-yamal-of-fc-barcelona-challenges-for-the-ball-with-robert-navarro-of.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=ij41K_MkJny2J4g4U4pFJ2cDjB77FPqiQ_OM6Q_sSE0=",
-    "page_url": "https://timesoccertv.com/barcelona-highlights-7/",
-    "updated_at": "2026-03-07T21:57:12+00:00",
-    "scraped_at": "2026-03-07T22:12:15.879539+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Barcelona"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/wttohgqfaymu",
-        "label": "First Half",
-        "embed_url": "https://hgcloud.to/e/wttohgqfaymu",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/wttohgqfaymu\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/VnXChSI9Na48i",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/VnXChSI9Na48i",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/VnXChSI9Na48i\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "24c50cf676a1040b68e99181e3fae503",
     "match": "FC Koln vs Dortmund",
     "competition": "Bundesliga, Dortmund, FC Köln",
@@ -1526,44 +1692,6 @@
         "host": "soccertims.vortexvisionworks.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/BCMR5aTpqfyBY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "6d0872e23ebc1e995c4ea6bef1cb53d1",
-    "match": "Atlético Madrid vs Real Sociedad Full Match and Highlights",
-    "competition": "Video, Atletico Madrid",
-    "date": "2026-03-07T20:00:00+00:00",
-    "published_at": "2026-03-07T20:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265298215/photo/madrid-spain-alexander-sorloth-of-atletico-de-madrid-and-yangel-herrera-of-real-sociedad.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=dmRj9xj9_l9IB4MEMzs3Ew9HIVayAvM0et1cXKYdfFo=",
-    "page_url": "https://timesoccertv.com/atletico-madrid-highlights-7/",
-    "updated_at": "2026-03-07T21:29:19+00:00",
-    "scraped_at": "2026-03-07T22:12:15.879539+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Atletico Madrid"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/r0nhr2ah83yl",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/r0nhr2ah83yl",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/r0nhr2ah83yl\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/bD6DCSVfUJbaQ",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/bD6DCSVfUJbaQ",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/bD6DCSVfUJbaQ\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2376,44 +2504,6 @@
         "host": "soccertims.vortexvisionworks.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/GbZtSMVs4fliO\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "288377f7bf450cce672d3e0582f879f6",
-    "match": "Bayern Munich vs Borussia M’gladbach Full Match and Highlights",
-    "competition": "Video, Bayern Munich",
-    "date": "2026-03-06T20:00:00+00:00",
-    "published_at": "2026-03-06T20:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265142548/photo/munich-germany-rocco-reitz-of-borussia-monchengladbach-is-challenged-by-jamal-musiala-of-fc.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=VQIFWiHt_eTfQFvmSWseUocyJUxjqzhVFswXaR5aWJg=",
-    "page_url": "https://timesoccertv.com/bayern-munich-highlights/",
-    "updated_at": "2026-03-06T23:02:55+00:00",
-    "scraped_at": "2026-03-06T23:18:08.481654+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Bayern Munich"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/keemzpvjq7bh",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/keemzpvjq7bh",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/keemzpvjq7bh\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/LsLjXAUrfCmco",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/LsLjXAUrfCmco",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/LsLjXAUrfCmco\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
