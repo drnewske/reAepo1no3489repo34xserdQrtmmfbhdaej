@@ -6901,14 +6901,14 @@
     "last_updated": "2026-03-07T22:12:16.628496+00:00"
   },
   "be453be918812d32040559c897abde50": {
-    "match_title": "Wolverhampton vs Liverpool Full Match and Highlights",
+    "match_title": "Galatasaray vs Liverpool Full Match and Highlights",
     "url": "https://timesoccertv.com/liverpool-highlights/",
     "source_id": 3,
     "source_name": "timesoccertv.com",
-    "listing_date_raw": "2 days ago",
-    "listing_stamp": "71a7020d649bbb1caa7f22227094c7d8",
+    "listing_date_raw": "1 hour ago",
+    "listing_stamp": "cec8e8e269d6e81aca9a0c70a8855852",
     "link_count": 3,
-    "last_updated": "2026-03-06T19:49:08.840635+00:00"
+    "last_updated": "2026-03-10T21:20:49.786556+00:00"
   },
   "436be380e48ab50f6322514e9c788558": {
     "match_title": "Newcastle United vs Manchester City Full Match Replay and Highlights",
@@ -8499,5 +8499,25 @@
     "listing_stamp": "dd1d7588aa60601b8a65ab20840b44a3",
     "link_count": 1,
     "last_updated": "2026-03-10T19:31:10.406809+00:00"
+  },
+  "7ef683a4540944ff9e04f66eed442554": {
+    "match_title": "Newcastle vs FC Barcelona",
+    "url": "https://www.footreplays.com/uefa/champions-league/newcastle-vs-fc-barcelona-2-10-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "10/03/2026",
+    "listing_stamp": "215f3fab8e8f3e41e2a6cc6ecf73edf5",
+    "link_count": 1,
+    "last_updated": "2026-03-10T21:20:49.154053+00:00"
+  },
+  "56c7cd6fc18f6950d9ccf596e8c767b9": {
+    "match_title": "Galatasaray v Liverpool Full Match | 10 March 2026",
+    "url": "https://www.footballorgin.com/galatasaray-v-liverpool-full-match-10-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "7884b7b8788d67dca100c56eb44ccfef",
+    "link_count": 1,
+    "last_updated": "2026-03-10T21:20:51.162418+00:00"
   }
 }

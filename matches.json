@@ -1,5 +1,115 @@
 [
   {
+    "match_id": "7ef683a4540944ff9e04f66eed442554",
+    "match": "Newcastle vs FC Barcelona",
+    "competition": "Champions League, FC Barcelona, Newcastle",
+    "date": "2026-03-10T20:51:58+00:00",
+    "published_at": "2026-03-10T20:51:58+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i1.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Newcastle-vs-FC-Barcelona.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/newcastle-vs-fc-barcelona-2-10-03-2026/",
+    "updated_at": "2026-03-10T20:52:01+00:00",
+    "scraped_at": "2026-03-10T21:20:48.257636+00:00",
+    "listing_date_raw": "10/03/2026",
+    "listing_date_at": "2026-03-10T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "FC Barcelona",
+      "Newcastle"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/slp4werm209u",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/slp4werm209u",
+        "player_url": "https://hgcloud.to/slp4werm209u",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/slp4werm209u\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "56c7cd6fc18f6950d9ccf596e8c767b9",
+    "match": "Galatasaray v Liverpool Full Match | 10 March 2026",
+    "competition": "UEFA Champions League - UCL, Full Match Replay, Liverpool",
+    "date": "2026-03-10T20:26:40+00:00",
+    "published_at": "2026-03-10T20:26:40+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/11/ucl-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/galatasaray-v-liverpool-full-match-10-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-10T21:20:50.759999+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League - UCL",
+      "Full Match Replay",
+      "Liverpool"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.top/e/03jgln37f7ed43",
+        "embed_url": "https://mixdrop.top/e/03jgln37f7ed43",
+        "host": "mixdrop.top",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/03jgln37f7ed43\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+        "label": "Full Match"
+      }
+    ]
+  },
+  {
+    "match_id": "be453be918812d32040559c897abde50",
+    "match": "Galatasaray vs Liverpool Full Match and Highlights",
+    "competition": "Premier League, Video, Liverpool",
+    "date": "2026-03-10T19:00:00+00:00",
+    "published_at": "2026-03-10T19:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265810586/photo/istanbul-turkey-mohamed-salah-of-liverpool-controls-the-ball-under-pressure-from-ismail.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=DICEylJNW5IuXNL4-P1peZYKUvjgE_DGlbA75DQH2rI=",
+    "page_url": "https://timesoccertv.com/liverpool-highlights/",
+    "updated_at": "2026-03-10T20:23:41+00:00",
+    "scraped_at": "2026-03-10T21:20:49.639518+00:00",
+    "listing_date_raw": "1 hour ago",
+    "listing_date_at": "2026-03-10T20:20:49+00:00",
+    "categories": [
+      "Premier League",
+      "Video",
+      "Liverpool"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/17dvvlfj3qv3",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/17dvvlfj3qv3",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/17dvvlfj3qv3\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/ec7sdbab1x6u",
+        "label": "Second Half",
+        "embed_url": "https://hgcloud.to/e/ec7sdbab1x6u",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ec7sdbab1x6u\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/mukETTXtUEjlq",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/mukETTXtUEjlq",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/mukETTXtUEjlq\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "6fd6b206c042696df3f34a1d6cb4b23b",
     "match": "Galatasaray vs Liverpool",
     "competition": "Champions League, Galatasaray, Liverpool",
@@ -3739,53 +3849,6 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/yn9kgta2unl2\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "be453be918812d32040559c897abde50",
-    "match": "Wolverhampton vs Liverpool Full Match and Highlights",
-    "competition": "Premier League, Video, Liverpool",
-    "date": "2026-03-03T21:00:00+00:00",
-    "published_at": "2026-03-03T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2264639120/photo/wolverhampton-england-mohamed-salah-of-liverpool-scores-his-teams-first-goal-during-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=OigpFlqwfe4TELsHVESGRf-6X80yNdXAly8eAW36_Zw=",
-    "page_url": "https://timesoccertv.com/liverpool-highlights/",
-    "updated_at": "2026-03-04T09:09:10+00:00",
-    "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Premier League",
-      "Video",
-      "Liverpool"
-    ],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12373002619629?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12373002619629?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12373002619629?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/pmfsnxheu86p",
-        "label": "2",
-        "embed_url": "https://hgcloud.to/e/pmfsnxheu86p",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/pmfsnxheu86p\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/5TDDHZQzOQ7Ts",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/5TDDHZQzOQ7Ts",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/5TDDHZQzOQ7Ts\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
