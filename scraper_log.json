@@ -7041,14 +7041,14 @@
     "last_updated": "2026-03-02T20:43:44.243645+00:00"
   },
   "5be71ee062c5abecde4ceff9efe48938": {
-    "match_title": "Mansfield Town vs Arsenal Full Match Replay and Highlights",
+    "match_title": "Bayer Leverkusen vs Arsenal Full Match Replay and Highlights",
     "url": "https://timesoccertv.com/arsenal-highlights/",
     "source_id": 3,
     "source_name": "timesoccertv.com",
-    "listing_date_raw": "25 minutes ago",
-    "listing_stamp": "ae30ce014daa4bb1da23d2842c7f2626",
-    "link_count": 1,
-    "last_updated": "2026-03-07T15:12:59.696960+00:00"
+    "listing_date_raw": "59 minutes ago",
+    "listing_stamp": "c0b5b366a0c102cbe6603d490a684c10",
+    "link_count": 3,
+    "last_updated": "2026-03-11T21:21:53.370643+00:00"
   },
   "a85183c67afd1d59075ad9e82f79134d": {
     "match_title": "Tottenham Hotspur vs Crystal Palace Full Match & Highlights",
@@ -8659,5 +8659,25 @@
     "listing_stamp": "de0cd0ae76961c185b530ae50d7e70ac",
     "link_count": 1,
     "last_updated": "2026-03-11T20:22:52.833250+00:00"
+  },
+  "c8795eb217857942021e9f19aedad692": {
+    "match_title": "Real Madrid vs Manchester City",
+    "url": "https://www.footreplays.com/uefa/champions-league/real-madrid-vs-manchester-city-3-11-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "11/03/2026",
+    "listing_stamp": "f0f146d7bc05e6adb51145e2b90ec05a",
+    "link_count": 1,
+    "last_updated": "2026-03-11T21:21:51.378987+00:00"
+  },
+  "f252e458ef1e1b3b65d46995c05f0c0b": {
+    "match_title": "Bayer Leverkusen vs Arsenal",
+    "url": "https://www.footreplays.com/uefa/champions-league/bayer-leverkusen-vs-arsenal-11-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "11/03/2026",
+    "listing_stamp": "7a055e121f16d3e54eab059b2c3278bd",
+    "link_count": 1,
+    "last_updated": "2026-03-11T21:21:52.569598+00:00"
   }
 }

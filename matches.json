@@ -1,5 +1,69 @@
 [
   {
+    "match_id": "c8795eb217857942021e9f19aedad692",
+    "match": "Real Madrid vs Manchester City",
+    "competition": "Champions League, Manchester City, Real Madrid",
+    "date": "2026-03-11T20:56:18+00:00",
+    "published_at": "2026-03-11T20:56:18+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i1.wp.com/www.footreplays.com/wp-content/uploads/2025/12/Real-Madrid-vs-Manchester-City.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/real-madrid-vs-manchester-city-3-11-03-2026/",
+    "updated_at": "2026-03-11T20:57:03+00:00",
+    "scraped_at": "2026-03-11T21:21:50.020828+00:00",
+    "listing_date_raw": "11/03/2026",
+    "listing_date_at": "2026-03-11T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Manchester City",
+      "Real Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/genx655x3ujp",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/genx655x3ujp",
+        "player_url": "https://hgcloud.to/genx655x3ujp",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/genx655x3ujp\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "f252e458ef1e1b3b65d46995c05f0c0b",
+    "match": "Bayer Leverkusen vs Arsenal",
+    "competition": "Champions League, Arsenal, Bayer Leverkusen",
+    "date": "2026-03-11T20:55:42+00:00",
+    "published_at": "2026-03-11T20:55:42+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i0.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Bayer-Leverkusen-vs-Arsenal.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/bayer-leverkusen-vs-arsenal-11-03-2026/",
+    "updated_at": "2026-03-11T20:55:45+00:00",
+    "scraped_at": "2026-03-11T21:21:50.020828+00:00",
+    "listing_date_raw": "11/03/2026",
+    "listing_date_at": "2026-03-11T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Arsenal",
+      "Bayer Leverkusen"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/turfqf6ohbr4",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/turfqf6ohbr4",
+        "player_url": "https://hgcloud.to/turfqf6ohbr4",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/turfqf6ohbr4\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "0772469877ec3bc69f3d945835c44114",
     "match": "Bayer Leverkusen v Arsenal Full Match | 11 March 2026",
     "competition": "UEFA Champions League - UCL, Arsenal, Full Match Replay",
@@ -22,11 +86,57 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/mknx0mgja98vgk",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/mknx0mgja98vgk",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/mknx0mgja98vgk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/mknx0mgja98vgk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "5be71ee062c5abecde4ceff9efe48938",
+    "match": "Bayer Leverkusen vs Arsenal Full Match Replay and Highlights",
+    "competition": "Video, Arsenal",
+    "date": "2026-03-11T20:00:00+00:00",
+    "published_at": "2026-03-11T20:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2265998893/photo/leverkusen-germany-robert-andrich-and-edmond-tapsoba-of-bayer-04-leverkusen-react-towards.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=swE79qAtn85Dg_PblsaqQjJDKgE-MkyLgHVKB_of5iw=",
+    "page_url": "https://timesoccertv.com/arsenal-highlights/",
+    "updated_at": "2026-03-11T20:58:31+00:00",
+    "scraped_at": "2026-03-11T21:21:53.154359+00:00",
+    "listing_date_raw": "59 minutes ago",
+    "listing_date_at": "2026-03-11T20:22:53+00:00",
+    "categories": [
+      "Video",
+      "Arsenal"
+    ],
+    "links": [
+      {
+        "url": "https://ok.ru/videoembed/12566442281709?nochat=1",
+        "label": "Full Match",
+        "embed_url": "https://ok.ru/videoembed/12566442281709?nochat=1",
+        "host": "ok.ru",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12566442281709?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/turfqf6ohbr4",
+        "label": "2",
+        "embed_url": "https://hgcloud.to/e/turfqf6ohbr4",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/turfqf6ohbr4\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2511,36 +2621,6 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/5d61mxnj3bzk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "5be71ee062c5abecde4ceff9efe48938",
-    "match": "Mansfield Town vs Arsenal Full Match Replay and Highlights",
-    "competition": "Video, Arsenal",
-    "date": "2026-03-07T14:00:00+00:00",
-    "published_at": "2026-03-07T14:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265247738/photo/mansfield-england-eberechi-eze-of-arsenal-scores-his-teams-second-goal-during-the-emirates-fa.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=8AngBkzsLFCpcaVH6y2AJCM_AY6qLIV_7QSdv5SrhUI=",
-    "page_url": "https://timesoccertv.com/arsenal-highlights/",
-    "updated_at": "2026-03-07T14:24:52+00:00",
-    "scraped_at": "2026-03-07T15:12:59.393172+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Arsenal"
-    ],
-    "links": [
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/Zc90eQNMyYd0z",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/Zc90eQNMyYd0z",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Zc90eQNMyYd0z\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
