@@ -1,5 +1,125 @@
 [
   {
+    "match_id": "3bc9c61d77ab2896ba132966f2cc453b",
+    "match": "PSG vs Chelsea",
+    "competition": "Champions League, Chelsea, PSG",
+    "date": "2026-03-11T22:25:45+00:00",
+    "published_at": "2026-03-11T22:25:45+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/PSG-vs-Chelsea.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/psg-vs-chelsea-11-03-2026/",
+    "updated_at": "2026-03-11T23:01:21+00:00",
+    "scraped_at": "2026-03-11T23:15:47.918139+00:00",
+    "listing_date_raw": "11/03/2026",
+    "listing_date_at": "2026-03-11T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Chelsea",
+      "PSG"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/4pejh0c1xfg4",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/4pejh0c1xfg4",
+        "player_url": "https://hgcloud.to/4pejh0c1xfg4",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/4pejh0c1xfg4\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/9mllc2zvzhia",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/9mllc2zvzhia",
+        "player_url": "https://hgcloud.to/9mllc2zvzhia",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/9mllc2zvzhia\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "572c91b8082f8bfbdbecb148b84fb2f6",
+    "match": "Bodo/Glimt vs Sporting CP",
+    "competition": "Champions League, Bodo/Glimt, Sporting",
+    "date": "2026-03-11T22:24:04+00:00",
+    "published_at": "2026-03-11T22:24:04+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Bodo-Glimt-vs-Sporting-CP.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/bodo-glimt-vs-sporting-cp-11-03-2026/",
+    "updated_at": "2026-03-11T23:00:23+00:00",
+    "scraped_at": "2026-03-11T23:15:47.918139+00:00",
+    "listing_date_raw": "11/03/2026",
+    "listing_date_at": "2026-03-11T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Bodo/Glimt",
+      "Sporting"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/5yujapkvoobo",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/5yujapkvoobo",
+        "player_url": "https://hgcloud.to/5yujapkvoobo",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/5yujapkvoobo\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/8t4o2paobjn1",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/8t4o2paobjn1",
+        "player_url": "https://hgcloud.to/8t4o2paobjn1",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/8t4o2paobjn1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "f39f0844241e8559e05aa353327c3360",
+    "match": "PSG vs Chelsea Full Match & Highlights",
+    "competition": "Video, PSG",
+    "date": "2026-03-11T21:00:00+00:00",
+    "published_at": "2026-03-11T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2266014926/photo/paris-france-khvicha-kvaratskhelia-of-paris-saint-germain-runs-with-the-ball-whilst-under.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=fEvAQdcCB2WyJ6z5Mkr4oabRq_m8VJcT0pTrQbEY_Qs=",
+    "page_url": "https://timesoccertv.com/paris-saint-germain-highlights/",
+    "updated_at": "2026-03-11T22:35:29+00:00",
+    "scraped_at": "2026-03-11T23:15:49.902219+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-11T21:15:50+00:00",
+    "categories": [
+      "Video",
+      "PSG"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/4pejh0c1xfg4",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/4pejh0c1xfg4",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/4pejh0c1xfg4\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/BigPqsaAwqyfS",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/BigPqsaAwqyfS",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/BigPqsaAwqyfS\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "ce682ec0145d78a1ba5e560c7d45673a",
     "match": "Real Madrid vs Manchester City Full Match and Highlights",
     "competition": "Video, Real Madrid",
@@ -12,8 +132,8 @@
     "page_url": "https://timesoccertv.com/real-madrid-full-match-replays/",
     "updated_at": "2026-03-11T22:07:46+00:00",
     "scraped_at": "2026-03-11T22:18:20.652879+00:00",
-    "listing_date_raw": "1 hour ago",
-    "listing_date_at": "2026-03-11T21:18:20+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Real Madrid"
@@ -3062,44 +3182,6 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/s42v3nc4ni21\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "f39f0844241e8559e05aa353327c3360",
-    "match": "PSG vs Monaco Full Match & Highlights",
-    "competition": "Video, PSG",
-    "date": "2026-03-06T20:00:00+00:00",
-    "published_at": "2026-03-06T20:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265156590/photo/paris-france-wout-faes-of-as-monaco-passes-the-ball-during-the-ligue-1-mcdonalds-match.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=5oJlElLdDf552VCJ81mHyNtaXdcttSTUMXaZiKEzJeA=",
-    "page_url": "https://timesoccertv.com/paris-saint-germain-highlights/",
-    "updated_at": "2026-03-06T23:05:45+00:00",
-    "scraped_at": "2026-03-06T23:18:08.481654+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "PSG"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/ez6k8mbtc8h1",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/ez6k8mbtc8h1",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/ez6k8mbtc8h1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/GbZtSMVs4fliO",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/GbZtSMVs4fliO",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/GbZtSMVs4fliO\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
