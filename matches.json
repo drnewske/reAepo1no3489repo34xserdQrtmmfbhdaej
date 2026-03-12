@@ -261,6 +261,141 @@
     ]
   },
   {
+    "match_id": "aeb723806751f5884373382ae896ffc6",
+    "match": "Bodo/Glimt vs Sporting CP",
+    "competition": "UEFA Champions League, Bodo/Glimt, Sporting CP",
+    "date": "2026-03-11T20:00:00+00:00",
+    "published_at": "2026-03-11T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2026/02/27/UCHPL_THMB_26_BodoGlimt_Main_Sporting_Main_u0m2v.jpg",
+    "page_url": "https://soccerfull.net/bodo-glimt-vs-sporting-cp-3161.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-12T03:31:14.534012+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Bodo/Glimt",
+      "Sporting CP"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12788",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12788",
+        "stream_url": "https://soccerfull.net/hls/12788.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12788\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12789",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12789",
+        "stream_url": "https://soccerfull.net/hls/12789.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12789\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Bodo/Glimt vs Sporting CP Watch and download Bodo/Glimt vs Sporting CP full match replay. KICK-OFF at 20:00 (UTC) on 11th March 2026 The referee for this match is Kruzliak I. Game played at Aspmyra Stadion This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Bodo/Glimt Sporting CP"
+  },
+  {
+    "match_id": "765c778a1c71f6751c35adfc5bd9c17b",
+    "match": "PSG vs Chelsea",
+    "competition": "UEFA Champions League, PSG, Chelsea",
+    "date": "2026-03-11T20:00:00+00:00",
+    "published_at": "2026-03-11T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1n8j9dgng7ul74cc96du75dix_image-header_pDach_1772463752000",
+    "page_url": "https://soccerfull.net/psg-vs-chelsea-3160.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-12T03:31:14.534012+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "PSG",
+      "Chelsea"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12786",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12786",
+        "stream_url": "https://soccerfull.net/hls/12786.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12786\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12787",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12787",
+        "stream_url": "https://soccerfull.net/hls/12787.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12787\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights PSG vs Chelsea Watch and download PSG vs Chelsea full match replay. KICK-OFF at 20:00 (UTC) on 11th March 2026 The referee for this match is Hernandez A. Game played at Parc des Princes This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: PSG Chelsea"
+  },
+  {
+    "match_id": "bcddaff08b7e0c7f4e2816926157c5fd",
+    "match": "Real Madrid vs Manchester City",
+    "competition": "UEFA Champions League, Real Madrid, Manchester City",
+    "date": "2026-03-11T20:00:00+00:00",
+    "published_at": "2026-03-11T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/d1boonsfsz18x99rcvpt2agjf_image-header_pUs_1772652326000/fill/center/top/none/80/1176/677/webp/image",
+    "page_url": "https://soccerfull.net/real-madrid-vs-manchester-city-3159.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-12T03:31:14.534012+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Real Madrid",
+      "Manchester City"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12783",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12783",
+        "stream_url": "https://soccerfull.net/hls/12783.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12783\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12784",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12784",
+        "stream_url": "https://soccerfull.net/hls/12784.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12784\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12785",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12785",
+        "stream_url": "https://soccerfull.net/hls/12785.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12785\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]First Half [EN]Second Half [EN]Highlights Real Madrid vs Manchester City Watch and download Real Madrid vs Manchester City full match replay. KICK-OFF at 20:00 (UTC) on 11th March 2026 The referee for this match is Mariani M. Game played at Estadio Santiago Bernabéu This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Real Madrid Manchester City"
+  },
+  {
     "match_id": "5be71ee062c5abecde4ceff9efe48938",
     "match": "Bayer Leverkusen vs Arsenal Full Match Replay and Highlights",
     "competition": "Video, Arsenal",
@@ -305,6 +440,48 @@
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "b2e7f1e364d93d807615024e90257799",
+    "match": "Bayer Leverkusen vs Arsenal",
+    "competition": "UEFA Champions League, Bayer Leverkusen, Arsenal",
+    "date": "2026-03-11T17:45:00+00:00",
+    "published_at": "2026-03-11T17:45:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://lh3.googleusercontent.com/1tQVOmzf2fqco5-iSgb0IJ9n70kiHdw48zR__itbilyZTTTSCdeOS1bakFudkW2jEOqEmBsfKBeB=w1280-h720",
+    "page_url": "https://soccerfull.net/bayer-leverkusen-vs-arsenal-3158.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-12T03:31:14.534012+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Bayer Leverkusen",
+      "Arsenal"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12781",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12781",
+        "stream_url": "https://soccerfull.net/hls/12781.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12781\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12782",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12782",
+        "stream_url": "https://soccerfull.net/hls/12782.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12782\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Bayer Leverkusen vs Arsenal Watch and download Bayer Leverkusen vs Arsenal full match replay. KICK-OFF at 17:45 (UTC) on 11th March 2026 The referee for this match is Meler H. U. Game played at BayArena This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Bayer Leverkusen Arsenal"
   },
   {
     "match_id": "dc1bba19b1967c477902622e09e4be26",
