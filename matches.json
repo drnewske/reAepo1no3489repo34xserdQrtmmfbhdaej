@@ -23,11 +23,11 @@
     "links": [
       {
         "url": "https://ok.ru/videoembed/13639667550950?nochat=1&autoplay=1",
+        "label": "Highlights",
         "embed_url": "https://ok.ru/videoembed/13639667550950?nochat=1&autoplay=1",
         "host": "ok.ru",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/13639667550950?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Highlights"
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/13639667550950?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -53,11 +53,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/pj9l0wd3bvzd4k",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/pj9l0wd3bvzd4k",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/pj9l0wd3bvzd4k\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/pj9l0wd3bvzd4k\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
