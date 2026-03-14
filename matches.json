@@ -1,5 +1,107 @@
 [
   {
+    "match_id": "5be71ee062c5abecde4ceff9efe48938",
+    "match": "Arsenal vs Everton Full Match Replay and Highlights",
+    "competition": "Video, Arsenal",
+    "date": "2026-03-14T19:00:00+00:00",
+    "published_at": "2026-03-14T19:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2266494192/photo/london-england-kai-havertz-of-arsenal-is-challenged-by-michael-keane-of-everton-during-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=yuDn0cRCvz0OkmmZgXIxW5TM0KNLNRa5g82lvq8bkBU=",
+    "page_url": "https://timesoccertv.com/arsenal-highlights/",
+    "updated_at": "2026-03-14T19:12:25+00:00",
+    "scraped_at": "2026-03-14T19:19:30.652255+00:00",
+    "listing_date_raw": "13 minutes ago",
+    "listing_date_at": "2026-03-14T19:06:30+00:00",
+    "categories": [
+      "Video",
+      "Arsenal"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/x5g7n4mey1tz",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/x5g7n4mey1tz",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/x5g7n4mey1tz\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "c962d37c72a5f51301764ce235779713",
+    "match": "Arsenal vs Everton",
+    "competition": "Premier League, Arsenal, Everton",
+    "date": "2026-03-14T18:33:39+00:00",
+    "published_at": "2026-03-14T18:33:39+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i0.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Arsenal-vs-Everton.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/england/premier-league/arsenal-vs-everton-2-14-03-2026/",
+    "updated_at": "2026-03-14T18:33:42+00:00",
+    "scraped_at": "2026-03-14T19:19:28.799120+00:00",
+    "listing_date_raw": "14/03/2026",
+    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "categories": [
+      "Premier League",
+      "Arsenal",
+      "Everton"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/x5g7n4mey1tz",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/x5g7n4mey1tz",
+        "player_url": "https://hgcloud.to/x5g7n4mey1tz",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/x5g7n4mey1tz\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "b6ca107091ac0756b5f66ffb78d48f05",
+    "match": "Burnley vs Bournemouth",
+    "competition": "Premier League, Bournemouth, Burnley",
+    "date": "2026-03-14T18:32:33+00:00",
+    "published_at": "2026-03-14T18:32:33+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i1.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Burnley-vs-Bournemouth.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/england/premier-league/burnley-vs-bournemouth-14-03-2026/",
+    "updated_at": "2026-03-14T18:32:36+00:00",
+    "scraped_at": "2026-03-14T19:19:28.799120+00:00",
+    "listing_date_raw": "14/03/2026",
+    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "categories": [
+      "Premier League",
+      "Bournemouth",
+      "Burnley"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/ocnjlpauhkbj",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/ocnjlpauhkbj",
+        "player_url": "https://hgcloud.to/ocnjlpauhkbj",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ocnjlpauhkbj\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "05ee4094554e4654e2d25fd1e0dc0267",
     "match": "Inter Milan vs Atalanta",
     "competition": "Serie A, Atalanta, Inter Milan",
@@ -12,8 +114,8 @@
     "page_url": "https://www.footreplays.com/italy/serie-a/inter-milan-vs-atalanta-2-14-03-2026/",
     "updated_at": "2026-03-14T17:38:11+00:00",
     "scraped_at": "2026-03-14T18:21:40.192088+00:00",
-    "listing_date_raw": "14/03/2026",
-    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Serie A",
       "Atalanta",
@@ -44,8 +146,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/sunderland-vs-brighton-14-03-2026/",
     "updated_at": "2026-03-14T17:37:13+00:00",
     "scraped_at": "2026-03-14T18:21:40.192088+00:00",
-    "listing_date_raw": "14/03/2026",
-    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Brighton",
@@ -76,8 +178,8 @@
     "page_url": "https://www.footreplays.com/germany/bundesliga/bayer-leverkusen-vs-bayern-munich-3-14-03-2026/",
     "updated_at": "2026-03-14T17:36:05+00:00",
     "scraped_at": "2026-03-14T18:21:40.192088+00:00",
-    "listing_date_raw": "14/03/2026",
-    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Bundesliga",
       "Bayer Leverkusen",
@@ -92,6 +194,158 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/aklfteaogatg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "cb4234a4661c8d0bfa0aeb30cef26316",
+    "match": "Inter vs Atalanta Full Match and Highlights",
+    "competition": "Video, Inter",
+    "date": "2026-03-14T17:30:00+00:00",
+    "published_at": "2026-03-14T17:30:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2266476025/photo/milan-italy-gianluca-manganiello-and-denzel-dumfries-of-inter-reacts-during-the-serie-a-match.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=UsmOvWHq0vOWPIXvAStLFsd74BC3LlBFZy5nhnsuqrY=",
+    "page_url": "https://timesoccertv.com/inter-milan-highlights/",
+    "updated_at": "2026-03-14T19:05:46+00:00",
+    "scraped_at": "2026-03-14T19:19:30.652255+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-14T17:19:30+00:00",
+    "categories": [
+      "Video",
+      "Inter"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/ap50zghmg4k7",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/ap50zghmg4k7",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ap50zghmg4k7\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "288377f7bf450cce672d3e0582f879f6",
+    "match": "Bayer Leverkusen vs Bayern Munich Full Match and Highlights",
+    "competition": "Video, Bayern Munich",
+    "date": "2026-03-14T17:00:00+00:00",
+    "published_at": "2026-03-14T17:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2266475283/photo/leverkusen-germany-harry-kane-of-fc-bayern-muenchen-looks-on-during-the-bundesliga-match.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=nesOaRh5Kbsoemsw7RLargTnAUIkiVygmecJMZluCS8=",
+    "page_url": "https://timesoccertv.com/bayern-munich-highlights/",
+    "updated_at": "2026-03-14T19:02:35+00:00",
+    "scraped_at": "2026-03-14T19:19:30.652255+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-14T17:19:31+00:00",
+    "categories": [
+      "Video",
+      "Bayern Munich"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/aklfteaogatg",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/aklfteaogatg",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/aklfteaogatg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/SHqUseGgYPdBB",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/SHqUseGgYPdBB",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/SHqUseGgYPdBB\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "ff77200f1a8284b59159bba4909f0fc9",
+    "match": "Burnley vs AFC Bournemouth Full Match Replay",
+    "competition": "Video, Bournemouth",
+    "date": "2026-03-14T17:00:00+00:00",
+    "published_at": "2026-03-14T17:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2266473068/photo/burnley-england-rayan-of-afc-bournemouth-is-challenged-by-james-ward-prowse-and-kyle-walker.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=m73qUgm3M9MnzBy4IzUtt-kvwriNGGMmDfvF3IqAsj8=",
+    "page_url": "https://timesoccertv.com/bournemouth-highlights-2/",
+    "updated_at": "2026-03-14T19:09:10+00:00",
+    "scraped_at": "2026-03-14T19:19:30.652255+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-14T17:19:31+00:00",
+    "categories": [
+      "Video",
+      "Bournemouth"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/ocnjlpauhkbj",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/ocnjlpauhkbj",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ocnjlpauhkbj\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/yu5ESD1dPkYNa",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/yu5ESD1dPkYNa",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/yu5ESD1dPkYNa\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "4528bcf31350515078459cc3d07e7956",
+    "match": "Sunderland vs Brighton Full Match Replay and Highlights",
+    "competition": "Video, Sunderland",
+    "date": "2026-03-14T16:25:00+00:00",
+    "published_at": "2026-03-14T16:25:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2266491649/photo/sunderland-england-daniel-ballard-of-sunderland-is-challenged-by-pascal-gross-of-brighton.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=AboDSEQnXPu7OFoWj1xPGtV66qnK2GJxDbWLBk7eX3U=",
+    "page_url": "https://timesoccertv.com/sunderland-full-match/",
+    "updated_at": "2026-03-14T19:01:21+00:00",
+    "scraped_at": "2026-03-14T19:19:30.652255+00:00",
+    "listing_date_raw": "3 hours ago",
+    "listing_date_at": "2026-03-14T16:19:32+00:00",
+    "categories": [
+      "Video",
+      "Sunderland"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/uk2c992u6440",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/uk2c992u6440",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/uk2c992u6440\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/vUaY0wzmbjpGq",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/vUaY0wzmbjpGq",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/vUaY0wzmbjpGq\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -1105,52 +1359,6 @@
     "description": "[EN]First Half [EN]Second Half [EN]Highlights Real Madrid vs Manchester City Watch and download Real Madrid vs Manchester City full match replay. KICK-OFF at 20:00 (UTC) on 11th March 2026 The referee for this match is Mariani M. Game played at Estadio Santiago Bernabéu This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Real Madrid Manchester City"
   },
   {
-    "match_id": "5be71ee062c5abecde4ceff9efe48938",
-    "match": "Bayer Leverkusen vs Arsenal Full Match Replay and Highlights",
-    "competition": "Video, Arsenal",
-    "date": "2026-03-11T20:00:00+00:00",
-    "published_at": "2026-03-11T20:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265998893/photo/leverkusen-germany-robert-andrich-and-edmond-tapsoba-of-bayer-04-leverkusen-react-towards.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=swE79qAtn85Dg_PblsaqQjJDKgE-MkyLgHVKB_of5iw=",
-    "page_url": "https://timesoccertv.com/arsenal-highlights/",
-    "updated_at": "2026-03-11T20:58:31+00:00",
-    "scraped_at": "2026-03-11T21:21:53.154359+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Arsenal"
-    ],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12566442281709?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12566442281709?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12566442281709?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/turfqf6ohbr4",
-        "label": "2",
-        "embed_url": "https://hgcloud.to/e/turfqf6ohbr4",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/turfqf6ohbr4\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "b2e7f1e364d93d807615024e90257799",
     "match": "Bayer Leverkusen vs Arsenal",
     "competition": "UEFA Champions League, Bayer Leverkusen, Arsenal",
@@ -1599,44 +1807,6 @@
         "host": "soccertims.vortexvisionworks.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/K5xSbniviCq1j\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "288377f7bf450cce672d3e0582f879f6",
-    "match": "Atalanta vs Bayern Munich Full Match and Highlights",
-    "competition": "Video, Bayern Munich",
-    "date": "2026-03-10T21:00:00+00:00",
-    "published_at": "2026-03-10T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265847793/photo/bergamo-italy-dayot-upamecano-of-bayern-monaco-competes-for-the-ball-with-nikola-krstovic-and.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=3GmKLFBYICqY5haygqm-p9g_OexAZBeM9SbeR4xSwcg=",
-    "page_url": "https://timesoccertv.com/bayern-munich-highlights/",
-    "updated_at": "2026-03-10T22:56:18+00:00",
-    "scraped_at": "2026-03-10T23:17:27.532925+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Bayern Munich"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/f2frm5oz1uss",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/f2frm5oz1uss",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/f2frm5oz1uss\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/OHBRNzIe8NwE6",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/OHBRNzIe8NwE6",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/OHBRNzIe8NwE6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2437,44 +2607,6 @@
         "host": "mixdrop.top",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://mixdrop.top/e/1n4lwnpphegqvl\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "cb4234a4661c8d0bfa0aeb30cef26316",
-    "match": "Milan vs Inter Full Match and Highlights",
-    "competition": "Video, Inter",
-    "date": "2026-03-08T20:30:00+00:00",
-    "published_at": "2026-03-08T20:30:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265471106/photo/milan-italy-yann-bisseck-of-inter-competes-for-the-ball-with-pervis-estupinan-of-milan-nd.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=k7ROruqT4Sm1qGztwG-NW055uuY102ky3x3R9-Yhqfg=",
-    "page_url": "https://timesoccertv.com/inter-milan-highlights/",
-    "updated_at": "2026-03-08T22:11:08+00:00",
-    "scraped_at": "2026-03-08T22:13:08.985788+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Inter"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/d1m28auj3gj9",
-        "label": "First Half",
-        "embed_url": "https://hgcloud.to/e/d1m28auj3gj9",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/d1m28auj3gj9\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -5550,41 +5682,6 @@
     ]
   },
   {
-    "match_id": "4528bcf31350515078459cc3d07e7956",
-    "match": "Leeds United vs Sunderland Full Match Replay and Highlights",
-    "competition": "Video, Sunderland",
-    "date": "2026-03-03T20:25:00+00:00",
-    "published_at": "2026-03-03T20:25:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": null,
-    "preview_image": "https://media.gettyimages.com/id/2264631848/photo/leeds-england-ethan-ampadu-of-leeds-united-handling-the-ball-inside-the-box-during-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=NIrZ73Qu3tIZqyHqlGVgW1b4alLKGYQR7IwSFPGXCbc=",
-    "page_url": null,
-    "updated_at": null,
-    "scraped_at": null,
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/3n8kxx2rp9ou",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/3n8kxx2rp9ou",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/3n8kxx2rp9ou\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/kx91zU1mCUTsp",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/kx91zU1mCUTsp",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/kx91zU1mCUTsp\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "f2713aaa5ce228cba773bdd2dca30651",
     "match": "Wolverhampton Wanderers vs Liverpool",
     "competition": "Premier League, Wolverhampton Wanderers, Liverpool",
@@ -5736,41 +5833,6 @@
       }
     ],
     "description": "[RU]Full Match [EN]Highlights Highlights Barcelona vs Atletico Madrid Watch and download Barcelona vs Atletico Madrid full match replay. KICK-OFF at 20:00 (UTC) on 3rd March 2026 The referee for this match is De Burgos R. Game played at Camp Nou This is a match in Spain – Copa del Rey 2026, Semi Finals League: Copa del Rey Team: Barcelona Atletico Madrid"
-  },
-  {
-    "match_id": "ff77200f1a8284b59159bba4909f0fc9",
-    "match": "AFC Bournemouth vs Brentford Full Match Replay",
-    "competition": "Video, Bournemouth",
-    "date": "2026-03-03T20:00:00+00:00",
-    "published_at": "2026-03-03T20:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": null,
-    "preview_image": "https://media.gettyimages.com/id/2264634515/photo/bournemouth-england-yehor-yarmolyuk-of-brentford-is-challenged-by-enes-unal-of-afc.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=b7bbJ91q4kUHYcV3XP0daLG9MO-m2bSgpg3z5axdjfo=",
-    "page_url": null,
-    "updated_at": null,
-    "scraped_at": null,
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/loya1ll7bwc0",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/loya1ll7bwc0",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/loya1ll7bwc0\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/xjj5GIZPXhO5B",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/xjj5GIZPXhO5B",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/xjj5GIZPXhO5B\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
   },
   {
     "match_id": "b4b4cc59643f37c66d614a268d5c7bb3",
