@@ -1,5 +1,201 @@
 [
   {
+    "match_id": "7f598bae81e52a7ffff62de8275a866e",
+    "match": "West Ham vs Manchester City",
+    "competition": "Premier League, Manchester City, West Ham",
+    "date": "2026-03-14T22:28:23+00:00",
+    "published_at": "2026-03-14T22:28:23+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i3.wp.com/www.footreplays.com/wp-content/uploads/2026/03/West-Ham-vs-Manchester-City.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/england/premier-league/west-ham-vs-manchester-city-14-03-2026/",
+    "updated_at": "2026-03-14T22:28:28+00:00",
+    "scraped_at": "2026-03-14T23:17:16.571973+00:00",
+    "listing_date_raw": "14/03/2026",
+    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "categories": [
+      "Premier League",
+      "Manchester City",
+      "West Ham"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/ft9wpt6dvovu",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/ft9wpt6dvovu",
+        "player_url": "https://hgcloud.to/ft9wpt6dvovu",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ft9wpt6dvovu\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "6488d5b5696ff4e09d6a464bf1fe4b5b",
+    "match": "Udinese vs Juventus",
+    "competition": "Serie A, Juventus, Udinese",
+    "date": "2026-03-14T22:27:26+00:00",
+    "published_at": "2026-03-14T22:27:26+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i1.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Udinese-vs-Juventus.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/italy/serie-a/udinese-vs-juventus-14-03-2026/",
+    "updated_at": "2026-03-14T22:43:30+00:00",
+    "scraped_at": "2026-03-14T23:17:16.571973+00:00",
+    "listing_date_raw": "14/03/2026",
+    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "categories": [
+      "Serie A",
+      "Juventus",
+      "Udinese"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/eszlqiwlftqr",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/eszlqiwlftqr",
+        "player_url": "https://hgcloud.to/eszlqiwlftqr",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/eszlqiwlftqr\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/etaculewa2je",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/etaculewa2je",
+        "player_url": "https://hgcloud.to/etaculewa2je",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/etaculewa2je\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "ce682ec0145d78a1ba5e560c7d45673a",
+    "match": "Real Madrid vs Elche Full Match and Highlights",
+    "competition": "Video, Real Madrid",
+    "date": "2026-03-14T21:00:00+00:00",
+    "published_at": "2026-03-14T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2266534794/photo/madrid-spain-federico-valverde-player-of-real-madrid-in-action-during-the-laliga-ea-sports.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=KmsXiN6xqFwwBHrL3hCwKgkSWzW5U79y0Ha7EwLkrw8=",
+    "page_url": "https://timesoccertv.com/real-madrid-full-match-replays/",
+    "updated_at": "2026-03-14T22:59:43+00:00",
+    "scraped_at": "2026-03-14T23:17:18.723296+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-14T21:17:21+00:00",
+    "categories": [
+      "Video",
+      "Real Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/bwb089q1si3g",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/bwb089q1si3g",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/bwb089q1si3g\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/bga4x47vwjrc",
+        "label": "Second Half",
+        "embed_url": "https://hgcloud.to/e/bga4x47vwjrc",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/bga4x47vwjrc\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/Rp4WequY0DjGY",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/Rp4WequY0DjGY",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Rp4WequY0DjGY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "042c4ba89907130d11ac0323e6597828",
+    "match": "Udinese vs Juventus Full Match and Highlights",
+    "competition": "Video, Juventus",
+    "date": "2026-03-14T21:00:00+00:00",
+    "published_at": "2026-03-14T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2266532128/photo/udine-italy-gleison-bremer-of-juventus-and-keinan-davis-of-udinese-contest-a-header-during.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=aLw1d4PDiNLRSZyK1o_CMH9X21UR7QkBccCikentIu8=",
+    "page_url": "https://timesoccertv.com/juventus-highlights-1/",
+    "updated_at": "2026-03-14T23:03:26+00:00",
+    "scraped_at": "2026-03-14T23:17:18.723296+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-14T21:17:20+00:00",
+    "categories": [
+      "Video",
+      "Juventus"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/eszlqiwlftqr",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/eszlqiwlftqr",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/eszlqiwlftqr\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/3hl9TOAtdSKTM",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/3hl9TOAtdSKTM",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/3hl9TOAtdSKTM\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "eb936513dd5f0e0fee9a7e814a874b7d",
+    "match": "West Ham United vs Manchester City Full Match and Highlights",
+    "competition": "Premier League, Video, Manchester City",
+    "date": "2026-03-14T21:00:00+00:00",
+    "published_at": "2026-03-14T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2266534029/photo/london-england-phil-foden-of-manchester-city-runs-with-the-ball-under-pressure-from.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=rP0Z0Lea4yYMJDLzT2cbp2j5wJMkdNy9IPpkIcQvb4M=",
+    "page_url": "https://timesoccertv.com/manchester-city-highlights/",
+    "updated_at": "2026-03-14T23:09:06+00:00",
+    "scraped_at": "2026-03-14T23:17:18.723296+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-14T21:17:18+00:00",
+    "categories": [
+      "Premier League",
+      "Video",
+      "Manchester City"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/ft9wpt6dvovu",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/ft9wpt6dvovu",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ft9wpt6dvovu\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/YkuvROakoZxwV",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/YkuvROakoZxwV",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/YkuvROakoZxwV\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "3e02b7c5a26b54f6419e06c0e9e444f3",
     "match": "Real Madrid vs Elche",
     "competition": "La Liga, Elche, Real Madrid",
@@ -1277,52 +1473,6 @@
         "host": "soccertims.vortexvisionworks.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/BigPqsaAwqyfS\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "ce682ec0145d78a1ba5e560c7d45673a",
-    "match": "Real Madrid vs Manchester City Full Match and Highlights",
-    "competition": "Video, Real Madrid",
-    "date": "2026-03-11T21:00:00+00:00",
-    "published_at": "2026-03-11T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266016165/photo/madrid-spain-federico-valverde-of-real-madrid-cf-and-bernardo-silva-of-manchester-city.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=DRmiMaohyZvzePJHdjAnb9Zl1A3ohC7CfbSSsKtyN0s=",
-    "page_url": "https://timesoccertv.com/real-madrid-full-match-replays/",
-    "updated_at": "2026-03-11T22:07:46+00:00",
-    "scraped_at": "2026-03-11T22:18:20.652879+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Real Madrid"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/genx655x3ujp",
-        "label": "First Half",
-        "embed_url": "https://hgcloud.to/e/genx655x3ujp",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/genx655x3ujp\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/ks3tmdi0dcsz",
-        "label": "Second Half",
-        "embed_url": "https://hgcloud.to/e/ks3tmdi0dcsz",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/ks3tmdi0dcsz\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/oLdOe3qdHmsvF",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/oLdOe3qdHmsvF",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/oLdOe3qdHmsvF\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3403,52 +3553,6 @@
     ]
   },
   {
-    "match_id": "042c4ba89907130d11ac0323e6597828",
-    "match": "Juventus vs Pisa Full Match and Highlights",
-    "competition": "Video, Juventus",
-    "date": "2026-03-07T21:00:00+00:00",
-    "published_at": "2026-03-07T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265298889/photo/turin-italy-rafiu-durosinmi-of-pisa-competes-for-the-ball-with-manuel-locatelli-of-juventus.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=DOdom8dbo2SoLvgT4dkIXjzOF1EYUsa9OOiwNuHYs2w=",
-    "page_url": "https://timesoccertv.com/juventus-highlights-1/",
-    "updated_at": "2026-03-08T08:53:32+00:00",
-    "scraped_at": "2026-03-08T09:18:51.528616+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Juventus"
-    ],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12472889051885?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12472889051885?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12472889051885?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/c82e2khqqbcz",
-        "label": "2",
-        "embed_url": "https://hgcloud.to/e/c82e2khqqbcz",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/c82e2khqqbcz\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/k64A1Jlb8nmW6",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/k64A1Jlb8nmW6",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/k64A1Jlb8nmW6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "24c50cf676a1040b68e99181e3fae503",
     "match": "FC Koln vs Dortmund",
     "competition": "Bundesliga, Dortmund, FC Köln",
@@ -5000,53 +5104,6 @@
         "host": "soccertims.vortexvisionworks.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/fM6Fofo8MmFTX\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "eb936513dd5f0e0fee9a7e814a874b7d",
-    "match": "Manchester City vs Nottingham Forest Full Match and Highlights",
-    "competition": "Premier League, Video, Manchester City",
-    "date": "2026-03-04T21:00:00+00:00",
-    "published_at": "2026-03-04T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2264800916/photo/manchester-england-elliot-anderson-of-nottingham-forest-is-challenged-by-bernardo-silva-and.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=INyFoB6YCKLfCM9jQTxtPNmGyq2lnk1Zr-Fnk3mAFhY=",
-    "page_url": "https://timesoccertv.com/manchester-city-highlights/",
-    "updated_at": "2026-03-05T04:46:24+00:00",
-    "scraped_at": "2026-03-06T19:49:03.459343+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Premier League",
-      "Video",
-      "Manchester City"
-    ],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12397947128557?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12397947128557?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12397947128557?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/mtc4s7r9texn",
-        "label": "2",
-        "embed_url": "https://hgcloud.to/e/mtc4s7r9texn",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/mtc4s7r9texn\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/4fHlThoMGdr0v",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/4fHlThoMGdr0v",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/4fHlThoMGdr0v\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
