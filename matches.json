@@ -61,12 +61,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/qk0Xt6BwxiY",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/qk0Xt6BwxiY",
         "player_url": "https://www.youtube.com/watch?v=qk0Xt6BwxiY",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/qk0Xt6BwxiY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/qk0Xt6BwxiY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
