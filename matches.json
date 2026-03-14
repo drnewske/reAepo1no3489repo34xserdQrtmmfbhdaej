@@ -1,7 +1,71 @@
 [
   {
+    "match_id": "3e02b7c5a26b54f6419e06c0e9e444f3",
+    "match": "Real Madrid vs Elche",
+    "competition": "La Liga, Elche, Real Madrid",
+    "date": "2026-03-14T20:59:30+00:00",
+    "published_at": "2026-03-14T20:59:30+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Real-Madrid-vs-Elche.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/spain/la-liga/real-madrid-vs-elche-14-03-2026/",
+    "updated_at": "2026-03-14T20:59:33+00:00",
+    "scraped_at": "2026-03-14T21:16:34.057316+00:00",
+    "listing_date_raw": "14/03/2026",
+    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "categories": [
+      "La Liga",
+      "Elche",
+      "Real Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/bwb089q1si3g",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/bwb089q1si3g",
+        "player_url": "https://hgcloud.to/bwb089q1si3g",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/bwb089q1si3g\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "563ac68a45e7cab1336fecd1828f6ea7",
+    "match": "Chelsea v Newcastle United Full Match | 14 March 2026",
+    "competition": "Chelsea FC, Full Match Replay, Newcastle United, Premier League",
+    "date": "2026-03-14T20:40:20+00:00",
+    "published_at": "2026-03-14T20:40:20+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/10/1_512x288-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/chelsea-v-newcastle-united-full-match-14-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-14T21:16:35.493557+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Chelsea FC",
+      "Full Match Replay",
+      "Newcastle United",
+      "Premier League"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.ag/e/nlx74qzlhj1nrq",
+        "embed_url": "https://mixdrop.ag/e/nlx74qzlhj1nrq",
+        "host": "mixdrop.ag",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.ag/e/nlx74qzlhj1nrq\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+        "label": "Full Match"
+      }
+    ]
+  },
+  {
     "match_id": "a66bf71fe6f939653b08a43b7504585c",
-    "match": "Arsenal vs Everton Full Match | 13 March 2026",
+    "match": "Arsenal vs Everton Full Match | 14 March 2026",
     "competition": "Arsenal, Everton FC, Full Match Replay, Premier League",
     "date": "2026-03-14T20:11:00+00:00",
     "published_at": "2026-03-14T20:11:00+00:00",
@@ -11,7 +75,7 @@
     "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/10/1_512x288-236x133.jpg",
     "page_url": "https://www.footballorgin.com/arsenal-vs-everton-full-match-13-march-2026/",
     "updated_at": null,
-    "scraped_at": "2026-03-14T20:15:47.821402+00:00",
+    "scraped_at": "2026-03-14T21:16:35.493557+00:00",
     "listing_date_raw": null,
     "listing_date_at": null,
     "categories": [
@@ -44,8 +108,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/chelsea-vs-newcastle-14-03-2026/",
     "updated_at": "2026-03-14T20:02:12+00:00",
     "scraped_at": "2026-03-14T20:15:44.980476+00:00",
-    "listing_date_raw": "14/03/2026",
-    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Chelsea",
@@ -60,6 +124,44 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/btqw6e2zg1nd\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "8b0ffb46f6adaef5c87c75c36f16db9b",
+    "match": "Chelsea vs Newcastle United Full Match and Highlights",
+    "competition": "Video, Chelsea",
+    "date": "2026-03-14T20:00:00+00:00",
+    "published_at": "2026-03-14T20:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2266502000/photo/london-england-wesley-fofana-of-chelsea-clears-the-ball-with-a-bicycle-kick-during-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=NnHECl5nGENYwXTY7fj5L_hYexU50bueyIh7ZILxrjE=",
+    "page_url": "https://timesoccertv.com/chelsea-highlights/",
+    "updated_at": "2026-03-14T21:03:29+00:00",
+    "scraped_at": "2026-03-14T21:16:34.968514+00:00",
+    "listing_date_raw": "1 hour ago",
+    "listing_date_at": "2026-03-14T20:16:35+00:00",
+    "categories": [
+      "Video",
+      "Chelsea"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/bhbm9avb4mho",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/bhbm9avb4mho",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/bhbm9avb4mho\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/5J74nG4v8dm2A",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/5J74nG4v8dm2A",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/5J74nG4v8dm2A\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -178,8 +280,8 @@
     "page_url": "https://www.footreplays.com/italy/serie-a/napoli-vs-lecce-14-03-2026/",
     "updated_at": "2026-03-14T20:03:28+00:00",
     "scraped_at": "2026-03-14T20:15:44.980476+00:00",
-    "listing_date_raw": "14/03/2026",
-    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Serie A",
       "Lecce",
@@ -3635,44 +3737,6 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/cjneaylq16b1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "8b0ffb46f6adaef5c87c75c36f16db9b",
-    "match": "Wrexham vs Chelsea Full Match and Highlights",
-    "competition": "Video, Chelsea",
-    "date": "2026-03-07T18:00:00+00:00",
-    "published_at": "2026-03-07T18:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265295625/photo/wrexham-wales-alejandro-garnacho-of-chelsea-is-challenged-by-george-dobson-of-wrexham-which.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=uElhZIjpbiHo5DFhkxVwPBfkMwDrkIKihjxfjRP3SF4=",
-    "page_url": "https://timesoccertv.com/chelsea-highlights/",
-    "updated_at": "2026-03-07T19:55:03+00:00",
-    "scraped_at": "2026-03-07T20:13:33.917855+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Chelsea"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/cjneaylq16b1",
-        "label": "First Half",
-        "embed_url": "https://hgcloud.to/e/cjneaylq16b1",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/cjneaylq16b1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/yypXgBp2I4HZn",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/yypXgBp2I4HZn",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/yypXgBp2I4HZn\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
