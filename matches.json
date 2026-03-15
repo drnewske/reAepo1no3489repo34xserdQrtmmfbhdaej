@@ -12,8 +12,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/west-ham-vs-manchester-city-14-03-2026/",
     "updated_at": "2026-03-14T22:28:28+00:00",
     "scraped_at": "2026-03-14T23:17:16.571973+00:00",
-    "listing_date_raw": "14/03/2026",
-    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Manchester City",
@@ -44,8 +44,8 @@
     "page_url": "https://www.footreplays.com/italy/serie-a/udinese-vs-juventus-14-03-2026/",
     "updated_at": "2026-03-14T22:43:30+00:00",
     "scraped_at": "2026-03-14T23:17:16.571973+00:00",
-    "listing_date_raw": "14/03/2026",
-    "listing_date_at": "2026-03-14T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Serie A",
       "Juventus",
@@ -85,8 +85,8 @@
     "page_url": "https://timesoccertv.com/real-madrid-full-match-replays/",
     "updated_at": "2026-03-14T22:59:43+00:00",
     "scraped_at": "2026-03-14T23:17:18.723296+00:00",
-    "listing_date_raw": "2 hours ago",
-    "listing_date_at": "2026-03-14T21:17:21+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Real Madrid"
@@ -131,8 +131,8 @@
     "page_url": "https://timesoccertv.com/juventus-highlights-1/",
     "updated_at": "2026-03-14T23:03:26+00:00",
     "scraped_at": "2026-03-14T23:17:18.723296+00:00",
-    "listing_date_raw": "2 hours ago",
-    "listing_date_at": "2026-03-14T21:17:20+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Juventus"
@@ -169,8 +169,8 @@
     "page_url": "https://timesoccertv.com/manchester-city-highlights/",
     "updated_at": "2026-03-14T23:09:06+00:00",
     "scraped_at": "2026-03-14T23:17:18.723296+00:00",
-    "listing_date_raw": "2 hours ago",
-    "listing_date_at": "2026-03-14T21:17:18+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Video",
@@ -324,6 +324,90 @@
     ]
   },
   {
+    "match_id": "f6cef17cecf0793498acfe6066d7fe51",
+    "match": "Real Madrid vs Elche",
+    "competition": "La Liga, Real Madrid, Elche",
+    "date": "2026-03-14T20:00:00+00:00",
+    "published_at": "2026-03-14T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://images.daznservices.com/di/library/DAZN_News/87/60/real-madrid-elche_1mrjyfmnaq39t1sv42psjlr2kc.png?t=992465694",
+    "page_url": "https://soccerfull.net/real-madrid-vs-elche-3166.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-15T01:15:08.806910+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "La Liga",
+      "Real Madrid",
+      "Elche"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12801",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12801",
+        "stream_url": "https://soccerfull.net/hls/12801.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12801\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12802",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12802",
+        "stream_url": "https://soccerfull.net/hls/12802.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12802\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12803",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12803",
+        "stream_url": "https://soccerfull.net/hls/12803.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12803\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]First Half [EN]Second Half [EN]Highlights Real Madrid vs Elche Watch and download Real Madrid vs Elche full match replay. KICK-OFF at 20:00 (UTC) on 14th March 2026 The referee for this match is Manzano J. Game played at Estadio Santiago Bernabéu This is a match in Spain – La Liga 2026, Round 28 League: La Liga Team: Real Madrid Elche"
+  },
+  {
+    "match_id": "292ebe9913451f4df1ca854c5de00f54",
+    "match": "West Ham United vs Manchester City",
+    "competition": "Premier League, West Ham United, Manchester City",
+    "date": "2026-03-14T20:00:00+00:00",
+    "published_at": "2026-03-14T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5h52u6_a5iZQBw--ZJUqX_iZbnhBQtBJArA&s",
+    "page_url": "https://soccerfull.net/west-ham-united-vs-manchester-city-3165.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-15T01:15:08.806910+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Premier League",
+      "West Ham United",
+      "Manchester City"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12800",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12800",
+        "stream_url": "https://soccerfull.net/hls/12800.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12800\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match West Ham United vs Manchester City Watch and download West Ham United vs Manchester City full match replay. KICK-OFF at 20:00 (UTC) on 14th March 2026 The referee for this match is Oliver M. Game played at London Stadium This is a match in England – Premier League 2026, Round 30 League: Premier League Team: West Ham United Manchester City"
+  },
+  {
     "match_id": "8b0ffb46f6adaef5c87c75c36f16db9b",
     "match": "Chelsea vs Newcastle United Full Match and Highlights",
     "competition": "Video, Chelsea",
@@ -362,6 +446,48 @@
     ]
   },
   {
+    "match_id": "2f5446d0de41512496dda2cf1e76c294",
+    "match": "Udinese vs Juventus",
+    "competition": "Serie A, Udinese, Juventus",
+    "date": "2026-03-14T19:45:00+00:00",
+    "published_at": "2026-03-14T19:45:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/bit0hwpvxo5tfoyio1yhy0as_image-header_pUs_1766509003000/fill/none/top/none/80/876/490/webp/image",
+    "page_url": "https://soccerfull.net/udinese-vs-juventus-3164.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-15T01:15:08.806910+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Serie A",
+      "Udinese",
+      "Juventus"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12798",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12798",
+        "stream_url": "https://soccerfull.net/hls/12798.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12798\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12799",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12799",
+        "stream_url": "https://soccerfull.net/hls/12799.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12799\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Udinese vs Juventus Watch and download Udinese vs Juventus full match replay. KICK-OFF at 19:45 (UTC) on 14th March 2026 The referee for this match is Mariani M. Game played at Bluenergy Stadium – Stadio Friuli This is a match in Italy – Serie A 2026, Round 29 League: Serie A Team: Udinese Juventus"
+  },
+  {
     "match_id": "5be71ee062c5abecde4ceff9efe48938",
     "match": "Arsenal vs Everton Full Match Replay and Highlights",
     "competition": "Video, Arsenal",
@@ -396,38 +522,6 @@
         "host": "soccertims.vortexvisionworks.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "c962d37c72a5f51301764ce235779713",
-    "match": "Arsenal vs Everton",
-    "competition": "Premier League, Arsenal, Everton",
-    "date": "2026-03-14T18:33:39+00:00",
-    "published_at": "2026-03-14T18:33:39+00:00",
-    "source_tag": "source_2",
-    "source_name": "footreplays.com",
-    "source_url": "https://www.footreplays.com",
-    "preview_image": "https://i0.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Arsenal-vs-Everton.webp?ssl=1",
-    "page_url": "https://www.footreplays.com/england/premier-league/arsenal-vs-everton-2-14-03-2026/",
-    "updated_at": "2026-03-14T18:33:42+00:00",
-    "scraped_at": "2026-03-14T19:19:28.799120+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Premier League",
-      "Arsenal",
-      "Everton"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/x5g7n4mey1tz",
-        "label": "First Half",
-        "embed_url": "https://hgcloud.to/e/x5g7n4mey1tz",
-        "player_url": "https://hgcloud.to/x5g7n4mey1tz",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/x5g7n4mey1tz\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -560,36 +654,88 @@
     ]
   },
   {
-    "match_id": "8cf9c7f70883e8ace97412224cc2d975",
-    "match": "Bayer Leverkusen vs Bayern Munich",
-    "competition": "Bundesliga, Bayer Leverkusen, Bayern Munich",
-    "date": "2026-03-14T17:36:01+00:00",
-    "published_at": "2026-03-14T17:36:01+00:00",
-    "source_tag": "source_2",
-    "source_name": "footreplays.com",
-    "source_url": "https://www.footreplays.com",
-    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Bayer-Leverkusen-vs-Bayern-Munich.webp?ssl=1",
-    "page_url": "https://www.footreplays.com/germany/bundesliga/bayer-leverkusen-vs-bayern-munich-3-14-03-2026/",
-    "updated_at": "2026-03-14T17:36:05+00:00",
-    "scraped_at": "2026-03-14T18:21:40.192088+00:00",
+    "match_id": "70fd5106db25422caa8f8a1dfe070401",
+    "match": "Arsenal vs Everton",
+    "competition": "Premier League, Arsenal, Everton",
+    "date": "2026-03-14T17:30:00+00:00",
+    "published_at": "2026-03-14T17:30:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmux1BdLJYBgOZr0zIuovhmLzwuiiLdzeHew&s",
+    "page_url": "https://soccerfull.net/arsenal-vs-everton-3163.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-15T01:15:08.806910+00:00",
     "listing_date_raw": null,
     "listing_date_at": null,
     "categories": [
-      "Bundesliga",
-      "Bayer Leverkusen",
-      "Bayern Munich"
+      "Premier League",
+      "Arsenal",
+      "Everton"
     ],
     "links": [
       {
-        "url": "https://hgcloud.to/e/aklfteaogatg",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/aklfteaogatg",
-        "player_url": "https://hgcloud.to/aklfteaogatg",
-        "host": "hgcloud.to",
+        "url": "https://soccerfull.net/play/12796",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12796",
+        "stream_url": "https://soccerfull.net/hls/12796.m3u8",
+        "host": "soccerfull.net",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/aklfteaogatg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12796\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12797",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12797",
+        "stream_url": "https://soccerfull.net/hls/12797.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12797\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
-    ]
+    ],
+    "description": "[RU]Full Match [EN]Highlights Arsenal vs Everton Watch and download Arsenal vs Everton full match replay. KICK-OFF at 17:30 (UTC) on 14th March 2026 The referee for this match is Madley A. Game played at Emirates Stadium This is a match in England – Premier League 2026, Round 30 League: Premier League Team: Arsenal Everton"
+  },
+  {
+    "match_id": "5ffc9fa9ed08f09f88c4ca37c8fd3e98",
+    "match": "Chelsea vs Newcastle United",
+    "competition": "Premier League, Chelsea, Newcastle United",
+    "date": "2026-03-14T17:30:00+00:00",
+    "published_at": "2026-03-14T17:30:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://images.daznservices.com/di/library/DAZN_News/ed/cb/chelsea-newcastle_1r0gsl8j36vxl15c21vnmej03t.png?t=581716334",
+    "page_url": "https://soccerfull.net/chelsea-vs-newcastle-united-3162.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-15T01:15:08.806910+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Premier League",
+      "Chelsea",
+      "Newcastle United"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12794",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12794",
+        "stream_url": "https://soccerfull.net/hls/12794.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12794\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12795",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12795",
+        "stream_url": "https://soccerfull.net/hls/12795.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12795\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Chelsea vs Newcastle United Watch and download Chelsea vs Newcastle United full match replay. KICK-OFF at 17:30 (UTC) on 14th March 2026 The referee for this match is Tierney P. Game played at Stamford Bridge This is a match in England – Premier League 2026, Round 30 League: Premier League Team: Chelsea Newcastle United"
   },
   {
     "match_id": "cb4234a4661c8d0bfa0aeb30cef26316",
@@ -628,6 +774,48 @@
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "a0b8421e7f52e99a2d415f8b12d4bd76",
+    "match": "Napoli vs Lecce",
+    "competition": "Serie A, Napoli, Lecce",
+    "date": "2026-03-14T17:00:00+00:00",
+    "published_at": "2026-03-14T17:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/50x1j22ur61todidnhkfbgamg_image-header_pUs_1766503038000/fill/center/top/none/80/1176/677/webp/image",
+    "page_url": "https://soccerfull.net/napoli-vs-lecce-3171.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-15T01:15:08.806910+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Serie A",
+      "Napoli",
+      "Lecce"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12810",
+        "label": "Highlights",
+        "embed_url": "https://soccerfull.net/play/12810",
+        "stream_url": "https://soccerfull.net/hls/12810.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12810\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12809",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12809",
+        "stream_url": "https://soccerfull.net/hls/12809.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12809\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "Highlights [RU]Full Match Napoli vs Lecce Watch and download Napoli vs Lecce full match replay. KICK-OFF at 17:00 (UTC) on 14th March 2026 The referee for this match is Abisso R. Game played at Stadio Diego Armando Maradona This is a match in Italy – Serie A 2026, Round 29 League: Serie A Team: Napoli Lecce"
   },
   {
     "match_id": "288377f7bf450cce672d3e0582f879f6",
@@ -742,6 +930,183 @@
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/vUaY0wzmbjpGq\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "461aef7cc1eb99d612bdd6f77c6aebb0",
+    "match": "Sunderland vs Brighton & Hove Albion",
+    "competition": "Premier League, Sunderland, Brighton & Hove Albion",
+    "date": "2026-03-14T15:00:00+00:00",
+    "published_at": "2026-03-14T15:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=b401hb8q1d47qu31lx51kq4ns_image-header_pCa_1770296553000&quality=70",
+    "page_url": "https://soccerfull.net/sunderland-vs-brighton-amp-hove-albion-3170.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-15T01:15:08.806910+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Premier League",
+      "Sunderland",
+      "Brighton & Hove Albion"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12811",
+        "label": "Highlights",
+        "embed_url": "https://soccerfull.net/play/12811",
+        "stream_url": "https://soccerfull.net/hls/12811.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12811\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12808",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12808",
+        "stream_url": "https://soccerfull.net/hls/12808.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12808\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "Highlights [RU]Full Match Sunderland vs Brighton & Hove Albion Watch and download Sunderland vs Brighton & Hove Albion full match replay. KICK-OFF at 15:00 (UTC) on 14th March 2026 The referee for this match is Kirk T. Game played at Stadium of Light This is a match in England – Premier League 2026, Round 30 League: Premier League Team: Sunderland Brighton & Hove Albion"
+  },
+  {
+    "match_id": "353340b3c7c31fd7bf8af1e3ee44fd5c",
+    "match": "Burnley vs AFC Bournemouth",
+    "competition": "Premier League, Burnley, AFC Bournemouth",
+    "date": "2026-03-14T15:00:00+00:00",
+    "published_at": "2026-03-14T15:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=9vccjczdds57bhe9a2srlebo9_image-header_pCa_1770293521000",
+    "page_url": "https://soccerfull.net/burnley-vs-afc-bournemouth-3169.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-15T01:15:08.806910+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Premier League",
+      "Burnley",
+      "AFC Bournemouth"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12812",
+        "label": "Highlights",
+        "embed_url": "https://soccerfull.net/play/12812",
+        "stream_url": "https://soccerfull.net/hls/12812.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12812\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12807",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12807",
+        "stream_url": "https://soccerfull.net/hls/12807.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12807\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "Highlights [RU]Full Match Burnley vs AFC Bournemouth Watch and download Burnley vs AFC Bournemouth full match replay. KICK-OFF at 15:00 (UTC) on 14th March 2026 The referee for this match is Bankes P. Game played at Turf Moor This is a match in England – Premier League 2026, Round 30 League: Premier League Team: Burnley AFC Bournemouth"
+  },
+  {
+    "match_id": "e8935de9def1494f631eb27f448bb1a6",
+    "match": "Bayer Leverkusen vs Bayern Munich",
+    "competition": "Bundesliga, Bayer Leverkusen, Bayern Munich",
+    "date": "2026-03-14T14:30:00+00:00",
+    "published_at": "2026-03-14T14:30:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPMeBbSqX967QOnTnHbyJT3jZIWa6fXh6iig&s",
+    "page_url": "https://soccerfull.net/bayer-leverkusen-vs-bayern-munich-3168.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-15T01:15:08.806910+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Bundesliga",
+      "Bayer Leverkusen",
+      "Bayern Munich"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12813",
+        "label": "Highlights",
+        "embed_url": "https://soccerfull.net/play/12813",
+        "stream_url": "https://soccerfull.net/hls/12813.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12813\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12805",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12805",
+        "stream_url": "https://soccerfull.net/hls/12805.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12805\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12806",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12806",
+        "stream_url": "https://soccerfull.net/hls/12806.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12806\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "Highlights [RU]Full Match [EN]Highlights Bayer Leverkusen vs Bayern Munich Watch and download Bayer Leverkusen vs Bayern Munich full match replay. KICK-OFF at 14:30 (UTC) on 14th March 2026 The referee for this match is Dingert C. Game played at BayArena This is a match in Germany – Bundesliga 2026, Round 26 League: Bundesliga Team: Bayer Leverkusen Bayern Munich"
+  },
+  {
+    "match_id": "706fd82afe0e090f0813abd81aa0cd5d",
+    "match": "Inter vs Atalanta",
+    "competition": "Serie A, Inter, Atalanta",
+    "date": "2026-03-14T14:00:00+00:00",
+    "published_at": "2026-03-14T14:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v3/ca/none/c9kplsvmpusggrof8fr4fjcoe_image-header_pUs_1764531487000/fill/center/top/none/80/1176/677/webp/image",
+    "page_url": "https://soccerfull.net/inter-vs-atalanta-3167.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-15T01:15:08.806910+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Serie A",
+      "Inter",
+      "Atalanta"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12814",
+        "label": "Highlights",
+        "embed_url": "https://soccerfull.net/play/12814",
+        "stream_url": "https://soccerfull.net/hls/12814.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12814\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12804",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12804",
+        "stream_url": "https://soccerfull.net/hls/12804.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12804\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "Highlights [RU]Full Match Inter vs Atalanta Watch and download Inter vs Atalanta full match replay. KICK-OFF at 14:00 (UTC) on 14th March 2026 The referee for this match is Manganiello G. Game played at Stadio Giuseppe Meazza (San Siro) This is a match in Italy – Serie A 2026, Round 29 League: Serie A Team: Inter Atalanta"
   },
   {
     "match_id": "83a06c204d59bb59d5771e9ee596564d",
