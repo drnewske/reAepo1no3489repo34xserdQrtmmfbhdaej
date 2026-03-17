@@ -9476,8 +9476,28 @@
     "source_id": 4,
     "source_name": "footballorgin.com",
     "listing_date_raw": "",
-    "listing_stamp": "25d2e33284eaee54bc47cfce167d221a",
+    "listing_stamp": "dd21f435af0ef4161c1099137dfaa858",
     "link_count": 1,
-    "last_updated": "2026-03-17T12:41:37.977993+00:00"
+    "last_updated": "2026-03-17T14:12:16.176550+00:00"
+  },
+  "1d80550ffcc73e32ba50e5214ee140a8": {
+    "match_title": "BBC Sportscene – 17 March 2026",
+    "url": "https://www.footballorgin.com/bbc-sportscene-17-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "2026-03-17T13:59:19+00:00",
+    "listing_stamp": "e4706709cfe4b29c62eb9758a82456e5",
+    "link_count": 2,
+    "last_updated": "2026-03-17T14:12:15.313657+00:00"
+  },
+  "1d776f78ec5ae2176674b4a84addecaa": {
+    "match_title": "Liam Rosenior explains Chelseas pre-match huddle and talks transfer ban and PSG",
+    "url": "https://www.footballorgin.com/liam-rosenior-explains-chelseas-pre-match-huddle-and-talks-transfer-ban-and-psg/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "e7d982e30d8d38420149a09848f66a55",
+    "link_count": 1,
+    "last_updated": "2026-03-17T14:12:15.831666+00:00"
   }
 }
