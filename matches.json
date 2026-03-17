@@ -1,5 +1,81 @@
 [
   {
+    "match_id": "5be71ee062c5abecde4ceff9efe48938",
+    "match": "Arsenal vs Bayer Leverkusen Full Match Replay and Highlights",
+    "competition": "Video, Arsenal",
+    "date": "2026-03-17T21:00:00+00:00",
+    "published_at": "2026-03-17T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267093315/photo/london-england-eberechi-eze-of-arsenal-scores-his-teams-first-goal-under-pressure-from-edmond.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=Ylm4ezZ16Zm9-OhseCY2M5mL-0r87CHNuggfSB34G0Q=",
+    "page_url": "https://timesoccertv.com/arsenal-highlights/",
+    "updated_at": "2026-03-17T23:01:53+00:00",
+    "scraped_at": "2026-03-17T23:21:45.485987+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-17T21:21:45+00:00",
+    "categories": [
+      "Video",
+      "Arsenal"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/def13xmshz39",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/def13xmshz39",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/def13xmshz39\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/RhtHVLCHjuHTn",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/RhtHVLCHjuHTn",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/RhtHVLCHjuHTn\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "f39f0844241e8559e05aa353327c3360",
+    "match": "Chelsea vs PSG Full Match & Highlights",
+    "competition": "Video, PSG",
+    "date": "2026-03-17T21:00:00+00:00",
+    "published_at": "2026-03-17T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267088305/photo/london-england-khvicha-kvaratskhelia-of-paris-saint-germain-scores-his-teams-first-goal.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=mLC2aNBK5Rt4-5L0Ywg0oCDFZT55lPBRw6fgv4onEIQ=",
+    "page_url": "https://timesoccertv.com/paris-saint-germain-highlights/",
+    "updated_at": "2026-03-17T23:05:11+00:00",
+    "scraped_at": "2026-03-17T23:21:45.485987+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-17T21:21:45+00:00",
+    "categories": [
+      "Video",
+      "PSG"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/dynww3pla87m",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/dynww3pla87m",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/dynww3pla87m\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/DSluNSCJYpjaz",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/DSluNSCJYpjaz",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/DSluNSCJYpjaz\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "eb936513dd5f0e0fee9a7e814a874b7d",
     "match": "Manchester City vs Real Madrid Full Match and Highlights",
     "competition": "Premier League, Video, Manchester City",
@@ -12,8 +88,8 @@
     "page_url": "https://timesoccertv.com/manchester-city-highlights/",
     "updated_at": "2026-03-17T22:21:23+00:00",
     "scraped_at": "2026-03-17T22:22:36.186078+00:00",
-    "listing_date_raw": "1 hour ago",
-    "listing_date_at": "2026-03-17T21:22:36+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Video",
@@ -75,6 +151,88 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/jcj2t5jdh3un\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "0ed813e944356a00f46820c377fa816d",
+    "match": "Chelsea vs PSG",
+    "competition": "Champions League, Chelsea, PSG",
+    "date": "2026-03-17T20:58:00+00:00",
+    "published_at": "2026-03-17T20:58:00+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Chelsea-vs-PSG.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/chelsea-vs-psg-2-17-03-2026/",
+    "updated_at": "2026-03-17T22:32:49+00:00",
+    "scraped_at": "2026-03-17T23:21:43.384660+00:00",
+    "listing_date_raw": "17/03/2026",
+    "listing_date_at": "2026-03-17T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Chelsea",
+      "PSG"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/dynww3pla87m",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/dynww3pla87m",
+        "player_url": "https://hgcloud.to/dynww3pla87m",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/dynww3pla87m\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/noe0e7t8ge2e",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/noe0e7t8ge2e",
+        "player_url": "https://hgcloud.to/noe0e7t8ge2e",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/noe0e7t8ge2e\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "adb006157b0b912e439391b4c3f8ea58",
+    "match": "Arsenal vs Bayer Leverkusen",
+    "competition": "Champions League, Arsenal, Bayer Leverkusen",
+    "date": "2026-03-17T20:57:00+00:00",
+    "published_at": "2026-03-17T20:57:00+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i3.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Arsenal-vs-Bayer-Leverkusen.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/arsenal-vs-bayer-leverkusen-17-03-2026/",
+    "updated_at": "2026-03-17T22:37:42+00:00",
+    "scraped_at": "2026-03-17T23:21:43.384660+00:00",
+    "listing_date_raw": "17/03/2026",
+    "listing_date_at": "2026-03-17T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Arsenal",
+      "Bayer Leverkusen"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/def13xmshz39",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/def13xmshz39",
+        "player_url": "https://hgcloud.to/def13xmshz39",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/def13xmshz39\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/nw8fo5fh77ac",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/nw8fo5fh77ac",
+        "player_url": "https://hgcloud.to/nw8fo5fh77ac",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/nw8fo5fh77ac\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2063,44 +2221,6 @@
     "description": "[RU]Full Match [EN]Highlights Udinese vs Juventus Watch and download Udinese vs Juventus full match replay. KICK-OFF at 19:45 (UTC) on 14th March 2026 The referee for this match is Mariani M. Game played at Bluenergy Stadium – Stadio Friuli This is a match in Italy – Serie A 2026, Round 29 League: Serie A Team: Udinese Juventus"
   },
   {
-    "match_id": "5be71ee062c5abecde4ceff9efe48938",
-    "match": "Arsenal vs Everton Full Match Replay and Highlights",
-    "competition": "Video, Arsenal",
-    "date": "2026-03-14T19:00:00+00:00",
-    "published_at": "2026-03-14T19:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266494192/photo/london-england-kai-havertz-of-arsenal-is-challenged-by-michael-keane-of-everton-during-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=yuDn0cRCvz0OkmmZgXIxW5TM0KNLNRa5g82lvq8bkBU=",
-    "page_url": "https://timesoccertv.com/arsenal-highlights/",
-    "updated_at": "2026-03-14T19:12:25+00:00",
-    "scraped_at": "2026-03-14T19:19:30.652255+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Arsenal"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/x5g7n4mey1tz",
-        "label": "First Half",
-        "embed_url": "https://hgcloud.to/e/x5g7n4mey1tz",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/x5g7n4mey1tz\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/LzgSl6xlCHMeP\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "b6ca107091ac0756b5f66ffb78d48f05",
     "match": "Burnley vs Bournemouth",
     "competition": "Premier League, Bournemouth, Burnley",
@@ -3375,44 +3495,6 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/8t4o2paobjn1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "f39f0844241e8559e05aa353327c3360",
-    "match": "PSG vs Chelsea Full Match & Highlights",
-    "competition": "Video, PSG",
-    "date": "2026-03-11T21:00:00+00:00",
-    "published_at": "2026-03-11T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266014926/photo/paris-france-khvicha-kvaratskhelia-of-paris-saint-germain-runs-with-the-ball-whilst-under.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=fEvAQdcCB2WyJ6z5Mkr4oabRq_m8VJcT0pTrQbEY_Qs=",
-    "page_url": "https://timesoccertv.com/paris-saint-germain-highlights/",
-    "updated_at": "2026-03-11T22:35:29+00:00",
-    "scraped_at": "2026-03-11T23:15:49.902219+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "PSG"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/4pejh0c1xfg4",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/4pejh0c1xfg4",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/4pejh0c1xfg4\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/BigPqsaAwqyfS",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/BigPqsaAwqyfS",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/BigPqsaAwqyfS\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
