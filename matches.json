@@ -1,5 +1,52 @@
 [
   {
+    "match_id": "eb936513dd5f0e0fee9a7e814a874b7d",
+    "match": "Manchester City vs Real Madrid Full Match and Highlights",
+    "competition": "Premier League, Video, Manchester City",
+    "date": "2026-03-17T21:00:00+00:00",
+    "published_at": "2026-03-17T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267105104/photo/manchester-england-vinicius-junior-of-real-madrid-gestures-after-celebrating-a-disallowed.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=vteNJDSgA7SJw9C61uUv-RoGQeJv1gL5U_2mY2wXMUU=",
+    "page_url": "https://timesoccertv.com/manchester-city-highlights/",
+    "updated_at": "2026-03-17T22:21:23+00:00",
+    "scraped_at": "2026-03-17T22:22:36.186078+00:00",
+    "listing_date_raw": "1 hour ago",
+    "listing_date_at": "2026-03-17T21:22:36+00:00",
+    "categories": [
+      "Premier League",
+      "Video",
+      "Manchester City"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/jcj2t5jdh3un",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/jcj2t5jdh3un",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/jcj2t5jdh3un\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/kvggkpse6qsy",
+        "label": "Second Half",
+        "embed_url": "https://hgcloud.to/e/kvggkpse6qsy",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/kvggkpse6qsy\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/2YIW85rqv9f9E",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/2YIW85rqv9f9E",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/2YIW85rqv9f9E\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "b888d4e0babf86fb4bafba0ec80cec5a",
     "match": "Manchester City vs Real Madrid",
     "competition": "Champions League, Manchester City, Real Madrid",
@@ -12,8 +59,8 @@
     "page_url": "https://www.footreplays.com/uefa/champions-league/manchester-city-vs-real-madrid-2-17-03-2026/",
     "updated_at": "2026-03-17T20:59:51+00:00",
     "scraped_at": "2026-03-17T21:27:04.847082+00:00",
-    "listing_date_raw": "17/03/2026",
-    "listing_date_at": "2026-03-17T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Champions League",
       "Manchester City",
@@ -44,8 +91,8 @@
     "page_url": "https://www.footreplays.com/uefa/champions-league/sporting-cp-vs-bodo-glimt-17-03-2026/",
     "updated_at": "2026-03-17T21:12:00+00:00",
     "scraped_at": "2026-03-17T21:27:04.847082+00:00",
-    "listing_date_raw": "17/03/2026",
-    "listing_date_at": "2026-03-17T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Champions League",
       "Bodo/Glimt",
@@ -1720,45 +1767,6 @@
         "host": "soccertims.vortexvisionworks.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/3hl9TOAtdSKTM\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "eb936513dd5f0e0fee9a7e814a874b7d",
-    "match": "West Ham United vs Manchester City Full Match and Highlights",
-    "competition": "Premier League, Video, Manchester City",
-    "date": "2026-03-14T21:00:00+00:00",
-    "published_at": "2026-03-14T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266534029/photo/london-england-phil-foden-of-manchester-city-runs-with-the-ball-under-pressure-from.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=rP0Z0Lea4yYMJDLzT2cbp2j5wJMkdNy9IPpkIcQvb4M=",
-    "page_url": "https://timesoccertv.com/manchester-city-highlights/",
-    "updated_at": "2026-03-14T23:09:06+00:00",
-    "scraped_at": "2026-03-14T23:17:18.723296+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Premier League",
-      "Video",
-      "Manchester City"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/ft9wpt6dvovu",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/ft9wpt6dvovu",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/ft9wpt6dvovu\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/YkuvROakoZxwV",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/YkuvROakoZxwV",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/YkuvROakoZxwV\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
