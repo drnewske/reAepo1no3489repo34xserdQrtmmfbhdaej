@@ -22,12 +22,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/GxqO-4Z9KeU",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/GxqO-4Z9KeU",
         "player_url": "https://youtu.be/GxqO-4Z9KeU?is=4kAMosexDTnPD4Bw",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/GxqO-4Z9KeU\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/GxqO-4Z9KeU\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
