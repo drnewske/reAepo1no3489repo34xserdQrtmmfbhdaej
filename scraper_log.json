@@ -9556,9 +9556,9 @@
     "source_id": 1,
     "source_name": "soccerfull.net",
     "listing_date_raw": "",
-    "listing_stamp": "0fdef2b05b63d66df8b04b305e11460d",
+    "listing_stamp": "29811c376024c9c6c83aada313b5b490",
     "link_count": 2,
-    "last_updated": "2026-03-18T05:56:09.496081+00:00"
+    "last_updated": "2026-03-18T06:50:57.762404+00:00"
   },
   "9cb3dae5d9e32cb03ad93f8722e6d1da": {
     "match_title": "Manchester City vs Real Madrid",
@@ -9566,9 +9566,9 @@
     "source_id": 1,
     "source_name": "soccerfull.net",
     "listing_date_raw": "",
-    "listing_stamp": "7ed968cba60d9220838b1308fd5e0340",
+    "listing_stamp": "4d71e322f5c6b705c886c8477f2aabc0",
     "link_count": 4,
-    "last_updated": "2026-03-18T05:56:11.212013+00:00"
+    "last_updated": "2026-03-18T06:50:59.553238+00:00"
   },
   "f35e1e29bc8d6a409a984bcff28670ac": {
     "match_title": "Sporting CP vs Bodo/Glimt",
@@ -9576,8 +9576,28 @@
     "source_id": 1,
     "source_name": "soccerfull.net",
     "listing_date_raw": "",
-    "listing_stamp": "5e088bac9676b4738446cec38fae3ba7",
+    "listing_stamp": "232eb373c06482cea635309fab5b3819",
     "link_count": 2,
-    "last_updated": "2026-03-18T05:56:12.165172+00:00"
+    "last_updated": "2026-03-18T06:51:00.544758+00:00"
+  },
+  "eaa232974869d82f04a5b53fa67b7e6b": {
+    "match_title": "Sporting CP v Bodo/Glimt Full Match | 17 March 2026",
+    "url": "https://www.footballorgin.com/sporting-cp-v-bodo-glimt-full-match-17-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "a52c5f5cc2cd00dc7a7d8e2d48fb1246",
+    "link_count": 1,
+    "last_updated": "2026-03-18T06:51:04.634471+00:00"
+  },
+  "54a9a07d23ca4eb1795c2e3fec0bddde": {
+    "match_title": "Chelsea v PSG Full Match | 17 March 2026",
+    "url": "https://www.footballorgin.com/chelsea-v-psg-full-match-17-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "b6fe7982def853ad951c4a6172f9fb54",
+    "link_count": 1,
+    "last_updated": "2026-03-18T06:51:04.951299+00:00"
   }
 }
