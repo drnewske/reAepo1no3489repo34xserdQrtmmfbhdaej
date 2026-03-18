@@ -1,5 +1,91 @@
 [
   {
+    "match_id": "74fdae290822c9a1d2513e48c8a7fa76",
+    "match": "Liverpool vs Galatasaray",
+    "competition": "Champions League, Galatasaray, Liverpool",
+    "date": "2026-03-18T20:58:33+00:00",
+    "published_at": "2026-03-18T20:58:33+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i0.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Liverpool-vs-Galatasaray.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/liverpool-vs-galatasaray-18-03-2026/",
+    "updated_at": "2026-03-18T20:58:36+00:00",
+    "scraped_at": "2026-03-18T21:25:02.365490+00:00",
+    "listing_date_raw": "18/03/2026",
+    "listing_date_at": "2026-03-18T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Galatasaray",
+      "Liverpool"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/iymr0ipg7gr6",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/iymr0ipg7gr6",
+        "player_url": "https://hgcloud.to/iymr0ipg7gr6",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/iymr0ipg7gr6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "3785b1d262b11ca9fe940e9ad5d7c628",
+    "match": "Barcelona vs Newcastle United Full Match and Highlights",
+    "competition": "Video, Barcelona",
+    "date": "2026-03-18T19:00:00+00:00",
+    "published_at": "2026-03-18T19:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267260746/photo/barcelona-spain-pedri-of-fc-barcelona-is-challenged-by-joe-willock-of-newcastle-united-during.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=fz_SaXnzhT5YpGdcrvpx2IaKaT98bNh0Yg0qqscEH3A=",
+    "page_url": "https://timesoccertv.com/barcelona-highlights-7/",
+    "updated_at": "2026-03-18T21:01:44+00:00",
+    "scraped_at": "2026-03-18T21:25:03.989991+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-18T19:25:04+00:00",
+    "categories": [
+      "Video",
+      "Barcelona"
+    ],
+    "links": [
+      {
+        "url": "https://ok.ru/videoembed/12739609889517?nochat=1",
+        "label": "Full Match",
+        "embed_url": "https://ok.ru/videoembed/12739609889517?nochat=1",
+        "host": "ok.ru",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12739609889517?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/plwjjilt58b6",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/plwjjilt58b6",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/plwjjilt58b6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/8x3lmxyiu29h",
+        "label": "Second Half",
+        "embed_url": "https://hgcloud.to/e/8x3lmxyiu29h",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/8x3lmxyiu29h\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/CCAEHd6R9FhDD",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/CCAEHd6R9FhDD",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/CCAEHd6R9FhDD\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "6b05bda7e2c1bd4bea7850dd0071c57d",
     "match": "FC Barcelona vs Newcastle",
     "competition": "Champions League, FC Barcelona, Newcastle",
@@ -1333,44 +1419,6 @@
         "host": "ok.ru",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://ok.ru/videoembed/12660827556589?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "3785b1d262b11ca9fe940e9ad5d7c628",
-    "match": "Barcelona vs Sevilla Full Match and Highlights",
-    "competition": "Video, Barcelona",
-    "date": "2026-03-15T17:00:00+00:00",
-    "published_at": "2026-03-15T17:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266646876/photo/barcelona-spain-joao-cancelo-of-fc-barcelona-scores-his-teams-fifth-goal-during-the-laliga-ea.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=9Ze9wSHr40HxcxvbvMucO-Ky0KjyqdawdjIvNMEW85Y=",
-    "page_url": "https://timesoccertv.com/barcelona-highlights-7/",
-    "updated_at": "2026-03-15T18:29:24+00:00",
-    "scraped_at": "2026-03-15T19:20:30.212748+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Barcelona"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/xqsf1z0dq7h2",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/xqsf1z0dq7h2",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/xqsf1z0dq7h2\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/Ps1zLrsxe8c77",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/Ps1zLrsxe8c77",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Ps1zLrsxe8c77\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },

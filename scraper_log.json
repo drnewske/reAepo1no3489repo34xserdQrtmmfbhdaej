@@ -6891,14 +6891,14 @@
     "last_updated": "2026-03-14T19:19:32.652431+00:00"
   },
   "3785b1d262b11ca9fe940e9ad5d7c628": {
-    "match_title": "Barcelona vs Sevilla Full Match and Highlights",
+    "match_title": "Barcelona vs Newcastle United Full Match and Highlights",
     "url": "https://timesoccertv.com/barcelona-highlights-7/",
     "source_id": 3,
     "source_name": "timesoccertv.com",
     "listing_date_raw": "2 hours ago",
-    "listing_stamp": "7e3d87594c7d5ad906ff0ccfd3fe69f7",
-    "link_count": 2,
-    "last_updated": "2026-03-15T19:20:30.366419+00:00"
+    "listing_stamp": "f6f2295e5e9fb5bee16381c3ba3f4887",
+    "link_count": 4,
+    "last_updated": "2026-03-18T21:25:04.211122+00:00"
   },
   "be453be918812d32040559c897abde50": {
     "match_title": "Galatasaray vs Liverpool Full Match and Highlights",
@@ -9639,5 +9639,15 @@
     "listing_stamp": "1269208ef1b2e35e521a5a2ed3e63b84",
     "link_count": 1,
     "last_updated": "2026-03-18T19:41:06.591403+00:00"
+  },
+  "74fdae290822c9a1d2513e48c8a7fa76": {
+    "match_title": "Liverpool vs Galatasaray",
+    "url": "https://www.footreplays.com/uefa/champions-league/liverpool-vs-galatasaray-18-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "18/03/2026",
+    "listing_stamp": "e11fb81f1ec2d11f02254867425f0cd6",
+    "link_count": 1,
+    "last_updated": "2026-03-18T21:25:03.412171+00:00"
   }
 }
