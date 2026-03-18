@@ -1,5 +1,87 @@
 [
   {
+    "match_id": "bf87b1b53ba5029d0d8663658416b5c7",
+    "match": "Bayern Munich vs Atalanta",
+    "competition": "Champions League, Atalanta, Bayern Munich",
+    "date": "2026-03-18T22:52:23+00:00",
+    "published_at": "2026-03-18T22:52:23+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i1.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Bayern-Munich-vs-Atalanta.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/bayern-munich-vs-atalanta-18-03-2026/",
+    "updated_at": "2026-03-18T22:56:39+00:00",
+    "scraped_at": "2026-03-18T23:36:44.863694+00:00",
+    "listing_date_raw": "18/03/2026",
+    "listing_date_at": "2026-03-18T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Atalanta",
+      "Bayern Munich"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/s2s66m7v9ftj",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/s2s66m7v9ftj",
+        "player_url": "https://hgcloud.to/s2s66m7v9ftj",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/s2s66m7v9ftj\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/faivydz2xbrk",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/faivydz2xbrk",
+        "player_url": "https://hgcloud.to/faivydz2xbrk",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/faivydz2xbrk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "5092d804c07447b0d465d2e4b4cd5a43",
+    "match": "Tottenham vs Atletico Madrid",
+    "competition": "Champions League, Atletico Madrid, Tottenham",
+    "date": "2026-03-18T22:51:17+00:00",
+    "published_at": "2026-03-18T22:51:17+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Tottenham-vs-Atletico-Madrid.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/tottenham-vs-atletico-madrid-18-03-2026/",
+    "updated_at": "2026-03-18T22:57:31+00:00",
+    "scraped_at": "2026-03-18T23:36:44.863694+00:00",
+    "listing_date_raw": "18/03/2026",
+    "listing_date_at": "2026-03-18T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "Atletico Madrid",
+      "Tottenham"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/ghffod11i57d",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/ghffod11i57d",
+        "player_url": "https://hgcloud.to/ghffod11i57d",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ghffod11i57d\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/uy3kus71mu11",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/uy3kus71mu11",
+        "player_url": "https://hgcloud.to/uy3kus71mu11",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/uy3kus71mu11\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "805336dbeabf545eddf477ad97e74c00",
     "match": "Ligue 1 – All goals from Matchday 26",
     "competition": "Ligue 1, Highlights, Review Show",
@@ -8,10 +90,10 @@
     "source_tag": "source_4",
     "source_name": "footballorgin.com",
     "source_url": "https://www.footballorgin.com",
-    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/02/ligue-1.png",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/02/ligue-1-100x100.png",
     "page_url": "https://www.footballorgin.com/ligue-1-all-goals-from-matchday-26/",
     "updated_at": null,
-    "scraped_at": "2026-03-18T22:28:23.885380+00:00",
+    "scraped_at": "2026-03-18T23:36:49.071108+00:00",
     "listing_date_raw": "2026-03-18T21:35:54+00:00",
     "listing_date_at": "2026-03-18T21:35:54+00:00",
     "categories": [
@@ -39,10 +121,10 @@
     "source_tag": "source_4",
     "source_name": "footballorgin.com",
     "source_url": "https://www.footballorgin.com",
-    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/10/laliga-full-match-225x203.png",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/10/laliga-full-match-100x100.png",
     "page_url": "https://www.footballorgin.com/laliga-highlights-matchday-28/",
     "updated_at": null,
-    "scraped_at": "2026-03-18T22:28:23.885380+00:00",
+    "scraped_at": "2026-03-18T23:36:49.071108+00:00",
     "listing_date_raw": "2026-03-18T21:35:40+00:00",
     "listing_date_at": "2026-03-18T21:35:40+00:00",
     "categories": [
@@ -58,6 +140,200 @@
         "kind": "replay",
         "embed_html": "<iframe src=\"https://ok.ru/videoembed/13802274491110?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
         "label": "Highlights"
+      }
+    ]
+  },
+  {
+    "match_id": "aa8b78997303ad213a13713ee167ac61",
+    "match": "Premier League Review – Matchday 30",
+    "competition": "Highlights, Premier League, Review Show",
+    "date": "2026-03-18T21:35:36+00:00",
+    "published_at": "2026-03-18T21:35:36+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/12/Premier-League-Review-100x100.jpg",
+    "page_url": "https://www.footballorgin.com/premier-league-review-matchday-30/",
+    "updated_at": null,
+    "scraped_at": "2026-03-18T23:36:49.071108+00:00",
+    "listing_date_raw": "2026-03-18T21:35:36+00:00",
+    "listing_date_at": "2026-03-18T21:35:36+00:00",
+    "categories": [
+      "Highlights",
+      "Premier League",
+      "Review Show"
+    ],
+    "links": [
+      {
+        "url": "https://ok.ru/videoembed/12697054874349?nochat=1",
+        "embed_url": "https://ok.ru/videoembed/12697054874349?nochat=1",
+        "host": "ok.ru",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12697054874349?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+        "label": "1"
+      }
+    ]
+  },
+  {
+    "match_id": "ff85ab437d114d4f864c8ce74b17abde",
+    "match": "Barcelona v Newcastle United Full Match | 18 March 2026",
+    "competition": "UEFA Champions League - UCL, Barcelona, Full Match Replay, Newcastle United",
+    "date": "2026-03-18T21:31:54+00:00",
+    "published_at": "2026-03-18T21:31:54+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/11/ucl-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/barcelona-v-newcastle-united-full-match-18-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-18T23:36:49.071108+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League - UCL",
+      "Barcelona",
+      "Full Match Replay",
+      "Newcastle United"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.top/e/r69z41rnivqnnlv",
+        "label": "Full Match",
+        "embed_url": "https://mixdrop.top/e/r69z41rnivqnnlv",
+        "host": "mixdrop.top",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/r69z41rnivqnnlv\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://ok.ru/videoembed/12739791489773?nochat=1&autoplay=1",
+        "label": "Full Match",
+        "embed_url": "https://ok.ru/videoembed/12739791489773?nochat=1&autoplay=1",
+        "host": "ok.ru",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12739791489773?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "a85183c67afd1d59075ad9e82f79134d",
+    "match": "Tottenham Hotspur vs Atlético Madrid Full Match & Highlights",
+    "competition": "Video, Tottenham Hotspur",
+    "date": "2026-03-18T21:00:00+00:00",
+    "published_at": "2026-03-18T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267277090/photo/london-england-pedro-porro-of-tottenham-hotspur-clashes-with-ademola-lookman-of-atletico-de.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=avBoLpuUPpkls6K7-9S5KmKmAtEtvZX69ZQW8PNcY40=",
+    "page_url": "https://timesoccertv.com/tottenham-hotspur-highlights/",
+    "updated_at": "2026-03-18T23:00:19+00:00",
+    "scraped_at": "2026-03-18T23:36:46.549240+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-18T21:36:46+00:00",
+    "categories": [
+      "Video",
+      "Tottenham Hotspur"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/ghffod11i57d",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/ghffod11i57d",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ghffod11i57d\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/VtEn9RPDjn2zS",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/VtEn9RPDjn2zS",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/VtEn9RPDjn2zS\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "288377f7bf450cce672d3e0582f879f6",
+    "match": "Bayern Munich vs Atalanta Full Match and Highlights",
+    "competition": "Video, Bayern Munich",
+    "date": "2026-03-18T21:00:00+00:00",
+    "published_at": "2026-03-18T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267279604/photo/munich-germany-luis-diaz-of-fc-bayern-munich-scores-his-teams-fourth-goal-during-the-uefa.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=cVJLWDsJfFWjsj220UqQ-mOlLOgd5VSbutmF7ckYgUA=",
+    "page_url": "https://timesoccertv.com/bayern-munich-highlights/",
+    "updated_at": "2026-03-18T23:03:13+00:00",
+    "scraped_at": "2026-03-18T23:36:46.549240+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-18T21:36:47+00:00",
+    "categories": [
+      "Video",
+      "Bayern Munich"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/s2s66m7v9ftj",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/s2s66m7v9ftj",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/s2s66m7v9ftj\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/IuryXzpEqgVI3",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/IuryXzpEqgVI3",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/IuryXzpEqgVI3\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "be453be918812d32040559c897abde50",
+    "match": "Liverpool vs Galatasaray Full Match and Highlights",
+    "competition": "Premier League, Video, Liverpool",
+    "date": "2026-03-18T21:00:00+00:00",
+    "published_at": "2026-03-18T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267279069/photo/liverpool-england-mohamed-salah-of-liverpool-scores-his-teams-fourth-goal-during-the-uefa.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=Ia2U2zDWUwx3rjxFORCsj_puXtS0fBRvxcssfp43xDA=",
+    "page_url": "https://timesoccertv.com/liverpool-highlights/",
+    "updated_at": "2026-03-18T23:06:31+00:00",
+    "scraped_at": "2026-03-18T23:36:46.549240+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-18T21:36:46+00:00",
+    "categories": [
+      "Premier League",
+      "Video",
+      "Liverpool"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/iymr0ipg7gr6",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/iymr0ipg7gr6",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/iymr0ipg7gr6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/z6faz7442a0i",
+        "label": "Second Half",
+        "embed_url": "https://hgcloud.to/e/z6faz7442a0i",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/z6faz7442a0i\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/Hw0rUnd6vwuiY",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/Hw0rUnd6vwuiY",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Hw0rUnd6vwuiY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -850,8 +1126,8 @@
     "page_url": "https://www.footballorgin.com/liam-rosenior-explains-chelseas-pre-match-huddle-and-talks-transfer-ban-and-psg/",
     "updated_at": null,
     "scraped_at": "2026-03-18T22:28:23.885380+00:00",
-    "listing_date_raw": "2026-03-17T13:55:22+00:00",
-    "listing_date_at": "2026-03-17T13:55:22+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Chelsea FC",
       "News and Interviews"
@@ -859,12 +1135,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/L4LKj60Yjys",
+        "label": "Pre-match",
         "embed_url": "https://www.youtube-nocookie.com/embed/L4LKj60Yjys",
         "player_url": "https://www.youtube.com/watch?v=L4LKj60Yjys",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/L4LKj60Yjys\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Pre-match"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/L4LKj60Yjys\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -1137,8 +1413,8 @@
     "page_url": "https://www.footballorgin.com/premier-league-relegation-battle-who-has-the-hardest-run-in/",
     "updated_at": null,
     "scraped_at": "2026-03-18T22:28:23.885380+00:00",
-    "listing_date_raw": "2026-03-16T09:31:53+00:00",
-    "listing_date_at": "2026-03-16T09:31:53+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "News and Interviews",
       "Premier League"
@@ -1146,12 +1422,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/ebcgtaLk7XM",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/ebcgtaLk7XM",
         "player_url": "https://www.youtube.com/watch?v=ebcgtaLk7XM",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/ebcgtaLk7XM\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/ebcgtaLk7XM\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -1512,44 +1788,6 @@
         "host": "ok.ru",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://ok.ru/videoembed/12660827556589?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "a85183c67afd1d59075ad9e82f79134d",
-    "match": "Liverpool vs Tottenham Hotspur Full Match & Highlights",
-    "competition": "Video, Tottenham Hotspur",
-    "date": "2026-03-15T17:00:00+00:00",
-    "published_at": "2026-03-15T17:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266656431/photo/liverpool-england-alexis-mac-allister-of-liverpool-controls-the-ball-whilst-under-pressure.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=yGa66bJp7P8qPHzgXMoYcVyxk2fQQG1vbcukPPwbr1A=",
-    "page_url": "https://timesoccertv.com/tottenham-hotspur-highlights/",
-    "updated_at": "2026-03-15T18:34:28+00:00",
-    "scraped_at": "2026-03-15T19:20:30.212748+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Tottenham Hotspur"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/0c9qq46md3gg",
-        "label": "First Half",
-        "embed_url": "https://hgcloud.to/e/0c9qq46md3gg",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/0c9qq46md3gg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/wgsLYxLfxuStL",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/wgsLYxLfxuStL",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/wgsLYxLfxuStL\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2116,8 +2354,8 @@
     "page_url": "https://www.footballorgin.com/arne-slot-reflects-on-100-games-as-liverpool-manager-inconsistent-form-and-more/",
     "updated_at": null,
     "scraped_at": "2026-03-18T22:28:23.885380+00:00",
-    "listing_date_raw": "2026-03-15T12:48:50+00:00",
-    "listing_date_at": "2026-03-15T12:48:50+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Liverpool",
       "News and Interviews"
@@ -2125,12 +2363,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/d6PW3QtChaI",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/d6PW3QtChaI",
         "player_url": "https://www.youtube.com/watch?v=d6PW3QtChaI",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/d6PW3QtChaI\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/d6PW3QtChaI\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3035,44 +3273,6 @@
     "description": "Highlights [RU]Full Match Napoli vs Lecce Watch and download Napoli vs Lecce full match replay. KICK-OFF at 17:00 (UTC) on 14th March 2026 The referee for this match is Abisso R. Game played at Stadio Diego Armando Maradona This is a match in Italy – Serie A 2026, Round 29 League: Serie A Team: Napoli Lecce"
   },
   {
-    "match_id": "288377f7bf450cce672d3e0582f879f6",
-    "match": "Bayer Leverkusen vs Bayern Munich Full Match and Highlights",
-    "competition": "Video, Bayern Munich",
-    "date": "2026-03-14T17:00:00+00:00",
-    "published_at": "2026-03-14T17:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266475283/photo/leverkusen-germany-harry-kane-of-fc-bayern-muenchen-looks-on-during-the-bundesliga-match.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=nesOaRh5Kbsoemsw7RLargTnAUIkiVygmecJMZluCS8=",
-    "page_url": "https://timesoccertv.com/bayern-munich-highlights/",
-    "updated_at": "2026-03-14T19:02:35+00:00",
-    "scraped_at": "2026-03-14T19:19:30.652255+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Bayern Munich"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/aklfteaogatg",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/aklfteaogatg",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/aklfteaogatg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/SHqUseGgYPdBB",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/SHqUseGgYPdBB",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/SHqUseGgYPdBB\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "ff77200f1a8284b59159bba4909f0fc9",
     "match": "Burnley vs AFC Bournemouth Full Match Replay",
     "competition": "Video, Bournemouth",
@@ -3595,8 +3795,8 @@
     "page_url": "https://www.footballorgin.com/champions-league-is-where-man-utd-want-to-be-michael-carrick-on-manchester-uniteds-run-in/",
     "updated_at": null,
     "scraped_at": "2026-03-18T22:28:23.885380+00:00",
-    "listing_date_raw": "2026-03-13T19:00:24+00:00",
-    "listing_date_at": "2026-03-13T19:00:24+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Manchester United",
       "News and Interviews"
@@ -3604,12 +3804,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/PJ0REFf_C50",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/PJ0REFf_C50",
         "player_url": "https://www.youtube.com/watch?v=PJ0REFf_C50",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/PJ0REFf_C50\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/PJ0REFf_C50\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -4336,8 +4536,8 @@
     "page_url": "https://www.footballorgin.com/world-cup-100-days-to-go-can-england-go-all-the-way-what-happens-if-iran-cant-compete/",
     "updated_at": null,
     "scraped_at": "2026-03-18T22:28:23.885380+00:00",
-    "listing_date_raw": "2026-03-11T14:21:51+00:00",
-    "listing_date_at": "2026-03-11T14:21:51+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "FIFA Club World Cup",
       "News and Interviews"
@@ -4345,12 +4545,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/yCV0h-elJeQ",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/yCV0h-elJeQ",
         "player_url": "https://www.youtube.com/watch?v=yCV0h-elJeQ",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/yCV0h-elJeQ\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/yCV0h-elJeQ\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -4895,53 +5095,6 @@
     "description": "[EN]First Half [EN]Second Half [RU]Full Match [EN]Highlights Newcastle United vs Barcelona Watch and download Newcastle United vs Barcelona full match replay. KICK-OFF at 20:00 (UTC) on 10th March 2026 The referee for this match is Guida M. Game played at St. James’ Park This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Newcastle United Barcelona"
   },
   {
-    "match_id": "be453be918812d32040559c897abde50",
-    "match": "Galatasaray vs Liverpool Full Match and Highlights",
-    "competition": "Premier League, Video, Liverpool",
-    "date": "2026-03-10T19:00:00+00:00",
-    "published_at": "2026-03-10T19:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2265810586/photo/istanbul-turkey-mohamed-salah-of-liverpool-controls-the-ball-under-pressure-from-ismail.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=DICEylJNW5IuXNL4-P1peZYKUvjgE_DGlbA75DQH2rI=",
-    "page_url": "https://timesoccertv.com/liverpool-highlights/",
-    "updated_at": "2026-03-10T20:23:41+00:00",
-    "scraped_at": "2026-03-10T21:20:49.639518+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Premier League",
-      "Video",
-      "Liverpool"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/17dvvlfj3qv3",
-        "label": "First Half",
-        "embed_url": "https://hgcloud.to/e/17dvvlfj3qv3",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/17dvvlfj3qv3\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/ec7sdbab1x6u",
-        "label": "Second Half",
-        "embed_url": "https://hgcloud.to/e/ec7sdbab1x6u",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/ec7sdbab1x6u\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/mukETTXtUEjlq",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/mukETTXtUEjlq",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/mukETTXtUEjlq\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "6fd6b206c042696df3f34a1d6cb4b23b",
     "match": "Galatasaray vs Liverpool",
     "competition": "Champions League, Galatasaray, Liverpool",
@@ -5076,8 +5229,8 @@
     "page_url": "https://www.footballorgin.com/fa-cup-quarter-finals-draw-2/",
     "updated_at": null,
     "scraped_at": "2026-03-18T22:28:23.885380+00:00",
-    "listing_date_raw": "2026-03-10T14:35:08+00:00",
-    "listing_date_at": "2026-03-10T14:35:08+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "FA Cup",
       "News and Interviews"
@@ -5085,12 +5238,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/6ojqx5sjZKs",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/6ojqx5sjZKs",
         "player_url": "https://www.youtube.com/watch?v=6ojqx5sjZKs&t=741s",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/6ojqx5sjZKs\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/6ojqx5sjZKs\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -6689,8 +6842,8 @@
     "page_url": "https://www.footballorgin.com/importance-of-arteta-learning-from-guardiola-title-run-in-between-arsenal-and-man-city-analysed/",
     "updated_at": null,
     "scraped_at": "2026-03-18T22:28:23.885380+00:00",
-    "listing_date_raw": "2026-03-07T11:00:26+00:00",
-    "listing_date_at": "2026-03-07T11:00:26+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Arsenal",
       "News and Interviews"
@@ -6698,12 +6851,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/cAKm4A31G_I",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/cAKm4A31G_I",
         "player_url": "https://www.youtube.com/watch?v=cAKm4A31G_I",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/cAKm4A31G_I\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/cAKm4A31G_I\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -6720,8 +6873,8 @@
     "page_url": "https://www.footballorgin.com/what-next-for-igor-tudor-spurs-after-three-straight-premier-league-losses/",
     "updated_at": null,
     "scraped_at": "2026-03-18T22:28:23.885380+00:00",
-    "listing_date_raw": "2026-03-07T10:39:09+00:00",
-    "listing_date_at": "2026-03-07T10:39:09+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "News and Interviews",
       "Tottenham Hotspur"
@@ -6729,12 +6882,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/FMD4_fzcQ_M",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/FMD4_fzcQ_M",
         "player_url": "https://www.youtube.com/watch?v=FMD4_fzcQ_M",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/FMD4_fzcQ_M\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/FMD4_fzcQ_M\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -7848,8 +8001,8 @@
     "page_url": "https://www.footballorgin.com/nico-oreilly-on-mentors-at-manchester-city-and-the-title-race-theyve-helped-me-out-so-much/",
     "updated_at": null,
     "scraped_at": "2026-03-18T22:28:23.885380+00:00",
-    "listing_date_raw": "2026-03-04T17:34:32+00:00",
-    "listing_date_at": "2026-03-04T17:34:32+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Manchester City",
       "News and Interviews"
@@ -7857,12 +8010,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/zWnRywU3cXs",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/zWnRywU3cXs",
         "player_url": "https://www.youtube.com/watch?v=zWnRywU3cXs",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/zWnRywU3cXs\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/zWnRywU3cXs\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -8681,8 +8834,8 @@
     "page_url": "https://www.footballorgin.com/the-importance-of-corners-in-the-premier-league-analysed-the-premier-league-show/",
     "updated_at": null,
     "scraped_at": "2026-03-18T22:28:23.885380+00:00",
-    "listing_date_raw": "2026-03-03T14:59:24+00:00",
-    "listing_date_at": "2026-03-03T14:59:24+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "News and Interviews",
       "Premier League"
@@ -8690,12 +8843,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/LTr-leH5eBk",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/LTr-leH5eBk",
         "player_url": "https://www.youtube.com/watch?v=LTr-leH5eBk",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/LTr-leH5eBk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/LTr-leH5eBk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
