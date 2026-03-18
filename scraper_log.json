@@ -9539,5 +9539,45 @@
     "listing_stamp": "f2bcc17c28b0cbe9dfd06e0f9e32cd01",
     "link_count": 2,
     "last_updated": "2026-03-17T23:21:45.018323+00:00"
+  },
+  "6c56078829864119507dbf1f31d0ab76": {
+    "match_title": "Arsenal vs Bayer Leverkusen",
+    "url": "https://soccerfull.net/arsenal-vs-bayer-leverkusen-3180.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "a9b27e1ab9f01402f8a647a8eec80972",
+    "link_count": 3,
+    "last_updated": "2026-03-18T05:56:08.540262+00:00"
+  },
+  "f32281b6ac3fd56448918609e2a4ee00": {
+    "match_title": "Chelsea vs PSG",
+    "url": "https://soccerfull.net/chelsea-vs-psg-3179.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "0fdef2b05b63d66df8b04b305e11460d",
+    "link_count": 2,
+    "last_updated": "2026-03-18T05:56:09.496081+00:00"
+  },
+  "9cb3dae5d9e32cb03ad93f8722e6d1da": {
+    "match_title": "Manchester City vs Real Madrid",
+    "url": "https://soccerfull.net/manchester-city-vs-real-madrid-3178.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "7ed968cba60d9220838b1308fd5e0340",
+    "link_count": 4,
+    "last_updated": "2026-03-18T05:56:11.212013+00:00"
+  },
+  "f35e1e29bc8d6a409a984bcff28670ac": {
+    "match_title": "Sporting CP vs Bodo/Glimt",
+    "url": "https://soccerfull.net/sporting-cp-vs-bodo-glimt-3177.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "5e088bac9676b4738446cec38fae3ba7",
+    "link_count": 2,
+    "last_updated": "2026-03-18T05:56:12.165172+00:00"
   }
 }

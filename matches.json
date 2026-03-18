@@ -269,6 +269,201 @@
     ]
   },
   {
+    "match_id": "6c56078829864119507dbf1f31d0ab76",
+    "match": "Arsenal vs Bayer Leverkusen",
+    "competition": "UEFA Champions League, Arsenal, Bayer Leverkusen",
+    "date": "2026-03-17T20:00:00+00:00",
+    "published_at": "2026-03-17T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=36ttybmmus2cirlsyefckrpyd_image-header_pCa_1772455593000&quality=70",
+    "page_url": "https://soccerfull.net/arsenal-vs-bayer-leverkusen-3180.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-18T05:56:07.192526+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Arsenal",
+      "Bayer Leverkusen"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12836",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12836",
+        "stream_url": "https://soccerfull.net/hls/12836.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12836\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12837",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12837",
+        "stream_url": "https://soccerfull.net/hls/12837.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12837\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12838",
+        "label": "[EN] Full Match",
+        "embed_url": "https://soccerfull.net/play/12838",
+        "stream_url": "https://soccerfull.net/hls/12838.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12838\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights [EN]Full Match Arsenal vs Bayer Leverkusen Watch and download Arsenal vs Bayer Leverkusen full match replay. KICK-OFF at 20:00 (UTC) on 17th March 2026 The referee for this match is Makkelie D. Game played at Emirates Stadium This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Arsenal Bayer Leverkusen"
+  },
+  {
+    "match_id": "f32281b6ac3fd56448918609e2a4ee00",
+    "match": "Chelsea vs PSG",
+    "competition": "UEFA Champions League, Chelsea, PSG",
+    "date": "2026-03-17T20:00:00+00:00",
+    "published_at": "2026-03-17T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/chelsea-vs-psg-3179.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-18T05:56:07.192526+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Chelsea",
+      "PSG"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12834",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12834",
+        "stream_url": "https://soccerfull.net/hls/12834.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12834\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12835",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12835",
+        "stream_url": "https://soccerfull.net/hls/12835.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12835\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Chelsea vs PSG Watch and download Chelsea vs PSG full match replay. KICK-OFF at 20:00 (UTC) on 17th March 2026 The referee for this match is Vincic S. Game played at Stamford Bridge This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Chelsea PSG"
+  },
+  {
+    "match_id": "9cb3dae5d9e32cb03ad93f8722e6d1da",
+    "match": "Manchester City vs Real Madrid",
+    "competition": "UEFA Champions League, Manchester City, Real Madrid",
+    "date": "2026-03-17T20:00:00+00:00",
+    "published_at": "2026-03-17T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/manchester-city-vs-real-madrid-3178.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-18T05:56:07.192526+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Manchester City",
+      "Real Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12830",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12830",
+        "stream_url": "https://soccerfull.net/hls/12830.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12830\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12831",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12831",
+        "stream_url": "https://soccerfull.net/hls/12831.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12831\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12832",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12832",
+        "stream_url": "https://soccerfull.net/hls/12832.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12832\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12833",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12833",
+        "stream_url": "https://soccerfull.net/hls/12833.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12833\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]First Half [EN]Second Half [RU]Full Match [EN]Highlights Manchester City vs Real Madrid Watch and download Manchester City vs Real Madrid full match replay. KICK-OFF at 20:00 (UTC) on 17th March 2026 The referee for this match is Turpin C. Game played at Etihad Stadium This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Manchester City Real Madrid"
+  },
+  {
+    "match_id": "f35e1e29bc8d6a409a984bcff28670ac",
+    "match": "Sporting CP vs Bodo/Glimt",
+    "competition": "UEFA Champions League, Sporting CP, Bodo/Glimt",
+    "date": "2026-03-17T17:45:00+00:00",
+    "published_at": "2026-03-17T17:45:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/sporting-cp-vs-bodo-glimt-3177.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-18T05:56:07.192526+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Sporting CP",
+      "Bodo/Glimt"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12828",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12828",
+        "stream_url": "https://soccerfull.net/hls/12828.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12828\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12829",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12829",
+        "stream_url": "https://soccerfull.net/hls/12829.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12829\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [EN]Highlights Sporting CP vs Bodo/Glimt Watch and download Sporting CP vs Bodo/Glimt full match replay. KICK-OFF at 17:45 (UTC) on 17th March 2026 The referee for this match is Scharer S. Game played at Estádio José Alvalade This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Sporting CP Bodo/Glimt"
+  },
+  {
     "match_id": "1d80550ffcc73e32ba50e5214ee140a8",
     "match": "BBC Sportscene – 17 March 2026",
     "competition": "Scottish Premiership, BBC Sportscene, Highlights, Review Show",
