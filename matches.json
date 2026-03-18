@@ -1,5 +1,37 @@
 [
   {
+    "match_id": "6b05bda7e2c1bd4bea7850dd0071c57d",
+    "match": "FC Barcelona vs Newcastle",
+    "competition": "Champions League, FC Barcelona, Newcastle",
+    "date": "2026-03-18T18:44:33+00:00",
+    "published_at": "2026-03-18T18:44:33+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/FC-Barcelona-vs-Newcastle.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/uefa/champions-league/fc-barcelona-vs-newcastle-18-03-2026/",
+    "updated_at": "2026-03-18T18:44:37+00:00",
+    "scraped_at": "2026-03-18T19:41:05.919795+00:00",
+    "listing_date_raw": "18/03/2026",
+    "listing_date_at": "2026-03-18T00:00:00+00:00",
+    "categories": [
+      "Champions League",
+      "FC Barcelona",
+      "Newcastle"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/plwjjilt58b6",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/plwjjilt58b6",
+        "player_url": "https://hgcloud.to/plwjjilt58b6",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/plwjjilt58b6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "f8e35df56350cceee1a3ebd400c08329",
     "match": "EVERY Weekend Goal | Matchweek 30 | 2025/26 Premier League Highlights",
     "competition": "Premier League, Review Show",
@@ -12,8 +44,8 @@
     "page_url": "https://www.footballorgin.com/every-weekend-goal-matchweek-30-2025-26-premier-league-highlights/",
     "updated_at": null,
     "scraped_at": "2026-03-18T18:42:23.465007+00:00",
-    "listing_date_raw": "2026-03-18T14:32:12+00:00",
-    "listing_date_at": "2026-03-18T14:32:12+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Review Show"
@@ -21,12 +53,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/L_9-t_1yRjg",
+        "label": "Highlights",
         "embed_url": "https://www.youtube-nocookie.com/embed/L_9-t_1yRjg",
         "player_url": "https://www.youtube.com/watch?v=L_9-t_1yRjg",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/L_9-t_1yRjg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Highlights"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/L_9-t_1yRjg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
