@@ -231,6 +231,35 @@
     ]
   },
   {
+    "match_id": "3d0fc3d7817e3952ac675204862a5d47",
+    "match": "UEFA Champions League Highlights Show 18/03/2026",
+    "competition": "Football on TV",
+    "date": "2026-03-19T00:00:00+00:00",
+    "published_at": "2026-03-19T00:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m5wskq.jpg",
+    "page_url": "https://timesoccertv.com/champions-league-highlights-show/",
+    "updated_at": null,
+    "scraped_at": "2026-03-19T18:40:30.315151+00:00",
+    "listing_date_raw": "Mar 19, 2026",
+    "listing_date_at": "2026-03-19T00:00:00+00:00",
+    "categories": [
+      "Football on TV"
+    ],
+    "links": [
+      {
+        "url": "https://mega.nz/embed/fhRQWSwQ#pJGTnxEnvoZpRBnVujiKCV4aPdafwwN1L70qmiGpghY",
+        "label": "1",
+        "embed_url": "https://mega.nz/embed/fhRQWSwQ#pJGTnxEnvoZpRBnVujiKCV4aPdafwwN1L70qmiGpghY",
+        "host": "mega.nz",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mega.nz/embed/fhRQWSwQ#pJGTnxEnvoZpRBnVujiKCV4aPdafwwN1L70qmiGpghY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "bf87b1b53ba5029d0d8663658416b5c7",
     "match": "Bayern Munich vs Atalanta",
     "competition": "Champions League, Atalanta, Bayern Munich",
@@ -4600,43 +4629,6 @@
         "host": "mixdrop.top",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://mixdrop.top/e/8lqkwxmwhrqnor\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "3d0fc3d7817e3952ac675204862a5d47",
-    "match": "UEFA Champions League Highlights Show 11/03/2026",
-    "competition": "Football on TV",
-    "date": "2026-03-12T00:00:00+00:00",
-    "published_at": "2026-03-12T00:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m5wskq.jpg",
-    "page_url": "https://timesoccertv.com/champions-league-highlights-show/",
-    "updated_at": null,
-    "scraped_at": "2026-03-12T08:29:53.264514+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Football on TV"
-    ],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12250009504411?nochat=1",
-        "label": "1",
-        "embed_url": "https://ok.ru/videoembed/12250009504411?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12250009504411?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://ok.ru/videoembed/12229186423451?nochat=1",
-        "label": "2",
-        "embed_url": "https://ok.ru/videoembed/12229186423451?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12229186423451?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
