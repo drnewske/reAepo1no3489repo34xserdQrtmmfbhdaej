@@ -21,11 +21,11 @@
     "links": [
       {
         "url": "https://mixdrop.ag/e/k0m7kr7wapqxmm",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.ag/e/k0m7kr7wapqxmm",
         "host": "mixdrop.ag",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.ag/e/k0m7kr7wapqxmm\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.ag/e/k0m7kr7wapqxmm\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
