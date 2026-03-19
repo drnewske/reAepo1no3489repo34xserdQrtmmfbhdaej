@@ -9749,5 +9749,65 @@
     "listing_stamp": "1adcb2d207262c7183fa2f1adb84fab0",
     "link_count": 2,
     "last_updated": "2026-03-18T23:36:58.860198+00:00"
+  },
+  "bbcb8404a74fa7192ede4fd5f6ce4ab4": {
+    "match_title": "Tottenham Hotspur vs Atletico Madrid",
+    "url": "https://soccerfull.net/tottenham-hotspur-vs-atletico-madrid-3184.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "5b52fa3757577ddc398b5a78e28bcc7a",
+    "link_count": 3,
+    "last_updated": "2026-03-19T05:50:50.656050+00:00"
+  },
+  "b678ed55456607daac8f1f3492e5fb0e": {
+    "match_title": "Bayern Munich vs Atalanta",
+    "url": "https://soccerfull.net/bayern-munich-vs-atalanta-3183.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "330b620aff3f5e9d4c344795798c561e",
+    "link_count": 3,
+    "last_updated": "2026-03-19T05:50:52.266751+00:00"
+  },
+  "d5548acdeb5e7d976fd0551a3bb23bb1": {
+    "match_title": "Liverpool vs Galatasaray",
+    "url": "https://soccerfull.net/liverpool-vs-galatasaray-3182.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "47494096ff8f7aea012f4a8243504462",
+    "link_count": 6,
+    "last_updated": "2026-03-19T05:50:55.210423+00:00"
+  },
+  "7e540702bc6c13c82534472ed20b4da6": {
+    "match_title": "Barcelona vs Newcastle United",
+    "url": "https://soccerfull.net/barcelona-vs-newcastle-united-3181.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "b5f13e9a62a43665dc8738e64f985f6c",
+    "link_count": 4,
+    "last_updated": "2026-03-19T05:50:57.256317+00:00"
+  },
+  "c4ed9b472d133e1f2f1bceee68ef5702": {
+    "match_title": "Bayern Munich v Atalanta Full Match | 18 March 2026",
+    "url": "https://www.footballorgin.com/bayern-munich-v-atalanta-full-match-18-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "64ae292f15c1bbbc62dc844a7f941cf7",
+    "link_count": 1,
+    "last_updated": "2026-03-19T05:51:01.157246+00:00"
+  },
+  "2ef48223449f997fa0555791ddd6d199": {
+    "match_title": "Tottenham Hotspur v Atletico Madrid Full Match | 18 March 2026",
+    "url": "https://www.footballorgin.com/tottenham-hotspur-v-atletico-madrid-full-match-18-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "17661bb57946d155872123892ebea084",
+    "link_count": 2,
+    "last_updated": "2026-03-19T05:51:04.610159+00:00"
   }
 }

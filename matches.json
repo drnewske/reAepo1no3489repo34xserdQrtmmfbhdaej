@@ -1,5 +1,74 @@
 [
   {
+    "match_id": "c4ed9b472d133e1f2f1bceee68ef5702",
+    "match": "Bayern Munich v Atalanta Full Match | 18 March 2026",
+    "competition": "UEFA Champions League - UCL, Full Match Replay",
+    "date": "2026-03-19T05:32:10+00:00",
+    "published_at": "2026-03-19T05:32:10+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/11/ucl-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/bayern-munich-v-atalanta-full-match-18-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-19T05:51:00.818384+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League - UCL",
+      "Full Match Replay"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.ag/e/k0m7kr7wapqxmm",
+        "embed_url": "https://mixdrop.ag/e/k0m7kr7wapqxmm",
+        "host": "mixdrop.ag",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.ag/e/k0m7kr7wapqxmm\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+        "label": "Full Match"
+      }
+    ]
+  },
+  {
+    "match_id": "2ef48223449f997fa0555791ddd6d199",
+    "match": "Tottenham Hotspur v Atletico Madrid Full Match | 18 March 2026",
+    "competition": "UEFA Champions League - UCL, Full Match Replay, Tottenham Hotspur",
+    "date": "2026-03-19T05:26:00+00:00",
+    "published_at": "2026-03-19T05:26:00+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/11/ucl-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/tottenham-hotspur-v-atletico-madrid-full-match-18-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-19T05:51:00.818384+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League - UCL",
+      "Full Match Replay",
+      "Tottenham Hotspur"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.ag/e/wlmv0o9rfrzqo6",
+        "label": "Full Match",
+        "embed_url": "https://mixdrop.ag/e/wlmv0o9rfrzqo6",
+        "host": "mixdrop.ag",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.ag/e/wlmv0o9rfrzqo6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://ok.ru/videoembed/12741588552429?nochat=1&autoplay=1",
+        "label": "Full Match",
+        "embed_url": "https://ok.ru/videoembed/12741588552429?nochat=1&autoplay=1",
+        "host": "ok.ru",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12741588552429?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "bf87b1b53ba5029d0d8663658416b5c7",
     "match": "Bayern Munich vs Atalanta",
     "competition": "Champions League, Atalanta, Bayern Munich",
@@ -370,6 +439,186 @@
     ]
   },
   {
+    "match_id": "bbcb8404a74fa7192ede4fd5f6ce4ab4",
+    "match": "Tottenham Hotspur vs Atletico Madrid",
+    "competition": "UEFA Champions League, Tottenham Hotspur, Atletico Madrid",
+    "date": "2026-03-18T20:00:00+00:00",
+    "published_at": "2026-03-18T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/tottenham-hotspur-vs-atletico-madrid-3184.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-19T05:50:49.020302+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Tottenham Hotspur",
+      "Atletico Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12853",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12853",
+        "stream_url": "https://soccerfull.net/hls/12853.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12853\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12854",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12854",
+        "stream_url": "https://soccerfull.net/hls/12854.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12854\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12855",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12855",
+        "stream_url": "https://soccerfull.net/hls/12855.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12855\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match [EN]Highlights Tottenham Hotspur vs Atletico Madrid Watch and download Tottenham Hotspur vs Atletico Madrid full match replay. KICK-OFF at 20:00 (UTC) on 18th March 2026 The referee for this match is Siebert D. Game played at Tottenham Hotspur Stadium This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Tottenham Hotspur Atletico Madrid"
+  },
+  {
+    "match_id": "b678ed55456607daac8f1f3492e5fb0e",
+    "match": "Bayern Munich vs Atalanta",
+    "competition": "UEFA Champions League, Bayern Munich, Atalanta",
+    "date": "2026-03-18T20:00:00+00:00",
+    "published_at": "2026-03-18T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/bayern-munich-vs-atalanta-3183.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-19T05:50:49.020302+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Bayern Munich",
+      "Atalanta"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12850",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12850",
+        "stream_url": "https://soccerfull.net/hls/12850.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12850\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12851",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12851",
+        "stream_url": "https://soccerfull.net/hls/12851.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12851\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12852",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12852",
+        "stream_url": "https://soccerfull.net/hls/12852.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12852\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match [EN]Highlights Bayern Munich vs Atalanta Watch and download Bayern Munich vs Atalanta full match replay. KICK-OFF at 20:00 (UTC) on 18th March 2026 The referee for this match is Bastien B. Game played at Allianz Arena This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Bayern Munich Atalanta"
+  },
+  {
+    "match_id": "d5548acdeb5e7d976fd0551a3bb23bb1",
+    "match": "Liverpool vs Galatasaray",
+    "competition": "UEFA Champions League, Liverpool, Galatasaray",
+    "date": "2026-03-18T20:00:00+00:00",
+    "published_at": "2026-03-18T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c4e81f59-a1d3-49d7-9bc9-46f5b3bd2757/2/BOXART-16X9/en-US._UR1920,1080_SX500_FMjpg_.jpeg",
+    "page_url": "https://soccerfull.net/liverpool-vs-galatasaray-3182.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-19T05:50:49.020302+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Liverpool",
+      "Galatasaray"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12844",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12844",
+        "stream_url": "https://soccerfull.net/hls/12844.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12844\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12845",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12845",
+        "stream_url": "https://soccerfull.net/hls/12845.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12845\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12846",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12846",
+        "stream_url": "https://soccerfull.net/hls/12846.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12846\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12847",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12847",
+        "stream_url": "https://soccerfull.net/hls/12847.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12847\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12848",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12848",
+        "stream_url": "https://soccerfull.net/hls/12848.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12848\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12849",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12849",
+        "stream_url": "https://soccerfull.net/hls/12849.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12849\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]First Half [EN]Second Half [EN]First Half [EN]Second Half [RU]Full Match [EN]Highlights Liverpool vs Galatasaray Watch and download Liverpool vs Galatasaray full match replay. KICK-OFF at 20:00 (UTC) on 18th March 2026 The referee for this match is Raczkowski P. Game played at Anfield This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Liverpool Galatasaray"
+  },
+  {
     "match_id": "3785b1d262b11ca9fe940e9ad5d7c628",
     "match": "Barcelona vs Newcastle United Full Match and Highlights",
     "competition": "Video, Barcelona",
@@ -454,6 +703,66 @@
         "embed_html": "<iframe src=\"https://hgcloud.to/e/plwjjilt58b6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "7e540702bc6c13c82534472ed20b4da6",
+    "match": "Barcelona vs Newcastle United",
+    "competition": "UEFA Champions League, Barcelona, Newcastle United",
+    "date": "2026-03-18T17:45:00+00:00",
+    "published_at": "2026-03-18T17:45:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=bfhn5uuq20ng9zdvgzkokrrr3_image-header_pDach_1772463752000",
+    "page_url": "https://soccerfull.net/barcelona-vs-newcastle-united-3181.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-19T05:50:49.020302+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "UEFA Champions League",
+      "Barcelona",
+      "Newcastle United"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12840",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12840",
+        "stream_url": "https://soccerfull.net/hls/12840.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12840\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12841",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12841",
+        "stream_url": "https://soccerfull.net/hls/12841.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12841\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12842",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12842",
+        "stream_url": "https://soccerfull.net/hls/12842.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12842\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12843",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12843",
+        "stream_url": "https://soccerfull.net/hls/12843.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12843\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]First Half [EN]Second Half [RU]Full Match [EN]Highlights Barcelona vs Newcastle United Watch and download Barcelona vs Newcastle United full match replay. KICK-OFF at 17:45 (UTC) on 18th March 2026 The referee for this match is Letexier F. Game played at Camp Nou This is a match in Europe – UEFA Champions League 2026, Play Offs League: UEFA Champions League Team: Barcelona Newcastle United"
   },
   {
     "match_id": "f8e35df56350cceee1a3ebd400c08329",
