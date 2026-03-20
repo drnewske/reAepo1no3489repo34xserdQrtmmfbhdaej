@@ -21,12 +21,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/_8elqu_qeTY",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/_8elqu_qeTY",
         "player_url": "https://www.youtube.com/watch?v=_8elqu_qeTY",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/_8elqu_qeTY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/_8elqu_qeTY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -52,11 +52,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/xwqnm0qma4w8gg",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/xwqnm0qma4w8gg",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/xwqnm0qma4w8gg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/xwqnm0qma4w8gg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
