@@ -1,5 +1,35 @@
 [
   {
+    "match_id": "2f76515d1a112bf387b81223a343b01f",
+    "match": "Lyon vs Celta Vigo Full Match | 19 March 2026",
+    "competition": "Europa League, Full Match Replay",
+    "date": "2026-03-20T06:23:15+00:00",
+    "published_at": "2026-03-20T06:23:15+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/03/europa-league-full-match-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/lyon-vs-celta-vigo-full-match-19-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-20T06:40:16.753096+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Europa League",
+      "Full Match Replay"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.ag/e/r69z10mdavv6j81",
+        "embed_url": "https://mixdrop.ag/e/r69z10mdavv6j81",
+        "host": "mixdrop.ag",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.ag/e/r69z10mdavv6j81\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+        "label": "Full Match"
+      }
+    ]
+  },
+  {
     "match_id": "5a0b270251c466da08df636cff375d71",
     "match": "Inter Miami vs Nashville SC Full Match | 18 March 2026",
     "competition": "Cup Games, Full Match Replay",
