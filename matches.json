@@ -12,8 +12,8 @@
     "page_url": "https://www.footballorgin.com/uefa-europa-league-conference-league-highlights-show-19-march-2026/",
     "updated_at": null,
     "scraped_at": "2026-03-20T12:32:57.156876+00:00",
-    "listing_date_raw": "2026-03-20T11:52:04+00:00",
-    "listing_date_at": "2026-03-20T11:52:04+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Europa Conference League",
       "Europa League",
@@ -23,11 +23,11 @@
     "links": [
       {
         "url": "https://ok.ru/videoembed/13867108666086?nochat=1&autoplay=1",
+        "label": "Highlights",
         "embed_url": "https://ok.ru/videoembed/13867108666086?nochat=1&autoplay=1",
         "host": "ok.ru",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/13867108666086?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Highlights"
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/13867108666086?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -54,12 +54,43 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/DhaN5yLYJgA",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/DhaN5yLYJgA",
         "player_url": "https://www.youtube.com/watch?v=DhaN5yLYJgA",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/DhaN5yLYJgA\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/DhaN5yLYJgA\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "d53d708c8d51d8dea6d723c043d38a15",
+    "match": "Aston Villa v Lille Full Match | 19 March 2026",
+    "competition": "Europa League, Aston Villa, Full Match Replay",
+    "date": "2026-03-20T07:12:26+00:00",
+    "published_at": "2026-03-20T07:12:26+00:00",
+    "source_tag": "source_4",
+    "source_name": "footballorgin.com",
+    "source_url": "https://www.footballorgin.com",
+    "preview_image": "https://www.footballorgin.com/wp-content/uploads/2025/03/europa-league-full-match-236x133.jpg",
+    "page_url": "https://www.footballorgin.com/aston-villa-v-lille-full-match-19-march-2026/",
+    "updated_at": null,
+    "scraped_at": "2026-03-20T13:53:37.338895+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Europa League",
+      "Aston Villa",
+      "Full Match Replay"
+    ],
+    "links": [
+      {
+        "url": "https://mixdrop.top/e/mknlmrljskjpjr",
+        "embed_url": "https://mixdrop.top/e/mknlmrljskjpjr",
+        "host": "mixdrop.top",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/mknlmrljskjpjr\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+        "label": "Full Match"
       }
     ]
   },
