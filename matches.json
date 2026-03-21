@@ -22,11 +22,11 @@
     "links": [
       {
         "url": "https://ok.ru/videoembed/13911996304102?nochat=1&autoplay=1",
+        "label": "1",
         "embed_url": "https://ok.ru/videoembed/13911996304102?nochat=1&autoplay=1",
         "host": "ok.ru",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/13911996304102?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/13911996304102?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -43,8 +43,8 @@
     "page_url": "https://www.footreplays.com/germany/bundesliga/bayern-munich-vs-union-berlin-21-03-2026/",
     "updated_at": "2026-03-21T17:49:29+00:00",
     "scraped_at": "2026-03-21T18:20:43.898127+00:00",
-    "listing_date_raw": "21/03/2026",
-    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Bundesliga",
       "Bayern Munich",
@@ -84,8 +84,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/fulham-vs-burnley-21-03-2026/",
     "updated_at": "2026-03-21T17:45:00+00:00",
     "scraped_at": "2026-03-21T18:20:43.898127+00:00",
-    "listing_date_raw": "21/03/2026",
-    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Burnley",
@@ -100,6 +100,82 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/ffeq6aua8wuk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "288377f7bf450cce672d3e0582f879f6",
+    "match": "Bayern Munich vs Union Berlin Full Match and Highlights",
+    "competition": "Video, Bayern Munich",
+    "date": "2026-03-21T17:00:00+00:00",
+    "published_at": "2026-03-21T17:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267694733/photo/munich-germany-harry-kane-of-fc-bayern-munich-scores-his-teams-third-goal-during-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=NA9sDsLXBHm8Bu1-C-tred_iOt4fKFm3WO_DMYFxb6w=",
+    "page_url": "https://timesoccertv.com/bayern-munich-highlights/",
+    "updated_at": "2026-03-21T18:54:51+00:00",
+    "scraped_at": "2026-03-21T19:15:43.693592+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-21T17:15:43+00:00",
+    "categories": [
+      "Video",
+      "Bayern Munich"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/v1l8k3ww57cg",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/v1l8k3ww57cg",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/v1l8k3ww57cg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/Dd2ckLKpBzUXH",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/Dd2ckLKpBzUXH",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Dd2ckLKpBzUXH\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "1d96919382d6e6269b982a58e43cd0ea",
+    "match": "Fulham vs Burnley Full Match Replay and Highlights",
+    "competition": "Video, Fulham",
+    "date": "2026-03-21T17:00:00+00:00",
+    "published_at": "2026-03-21T17:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267247785/photo/london-england-fulhams-timothy-castagne-is-chased-by-burnleys-jaidon-anthony-during-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=xWXh5jgt_c1b_lIy95GsMjKa0LtpgqLfvy2GL1AfeKQ=",
+    "page_url": "https://timesoccertv.com/fulham-highlights/",
+    "updated_at": "2026-03-21T18:49:56+00:00",
+    "scraped_at": "2026-03-21T19:15:43.693592+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-21T17:15:44+00:00",
+    "categories": [
+      "Video",
+      "Fulham"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/ffeq6aua8wuk",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/ffeq6aua8wuk",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ffeq6aua8wuk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/fjrnXftnIUbkT",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/fjrnXftnIUbkT",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/fjrnXftnIUbkT\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -1358,44 +1434,6 @@
         "host": "soccertims.vortexvisionworks.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/VtEn9RPDjn2zS\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "288377f7bf450cce672d3e0582f879f6",
-    "match": "Bayern Munich vs Atalanta Full Match and Highlights",
-    "competition": "Video, Bayern Munich",
-    "date": "2026-03-18T21:00:00+00:00",
-    "published_at": "2026-03-18T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2267279604/photo/munich-germany-luis-diaz-of-fc-bayern-munich-scores-his-teams-fourth-goal-during-the-uefa.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=cVJLWDsJfFWjsj220UqQ-mOlLOgd5VSbutmF7ckYgUA=",
-    "page_url": "https://timesoccertv.com/bayern-munich-highlights/",
-    "updated_at": "2026-03-18T23:03:13+00:00",
-    "scraped_at": "2026-03-18T23:36:46.549240+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Bayern Munich"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/s2s66m7v9ftj",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/s2s66m7v9ftj",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/s2s66m7v9ftj\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/IuryXzpEqgVI3",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/IuryXzpEqgVI3",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/IuryXzpEqgVI3\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -3285,44 +3323,6 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/i5lav1ig74ub\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "1d96919382d6e6269b982a58e43cd0ea",
-    "match": "Nottingham Forest vs Fulham Full Match Replay and Highlights",
-    "competition": "Video, Fulham",
-    "date": "2026-03-15T15:00:00+00:00",
-    "published_at": "2026-03-15T15:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266194415/photo/nottingham-england-nottingham-forests-elliot-anderson-breaks-during-the-premier-league-match.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=rwZgt-O5y0txKei0JvjLzm80w9YJLQ25zsqLrtkfHk4=",
-    "page_url": "https://timesoccertv.com/fulham-highlights/",
-    "updated_at": "2026-03-15T18:22:11+00:00",
-    "scraped_at": "2026-03-15T18:23:15.216094+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Fulham"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/cqs6y46s39fd",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/cqs6y46s39fd",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/cqs6y46s39fd\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/Pr6w15zVBrnmD",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/Pr6w15zVBrnmD",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Pr6w15zVBrnmD\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
