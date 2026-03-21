@@ -116,8 +116,8 @@
     "page_url": "https://timesoccertv.com/bayern-munich-highlights/",
     "updated_at": "2026-03-21T18:54:51+00:00",
     "scraped_at": "2026-03-21T19:15:43.693592+00:00",
-    "listing_date_raw": "2 hours ago",
-    "listing_date_at": "2026-03-21T17:15:43+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Bayern Munich"
@@ -154,8 +154,8 @@
     "page_url": "https://timesoccertv.com/fulham-highlights/",
     "updated_at": "2026-03-21T18:49:56+00:00",
     "scraped_at": "2026-03-21T19:15:43.693592+00:00",
-    "listing_date_raw": "2 hours ago",
-    "listing_date_at": "2026-03-21T17:15:44+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Fulham"
@@ -319,6 +319,48 @@
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/GHKSYFxOk1wQe\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "e1d315f1bce25b747ff1fb9667f3daad",
+    "match": "Brighton & Hove Albion vs Liverpool",
+    "competition": "Premier League, Brighton & Hove Albion, Liverpool",
+    "date": "2026-03-21T12:30:00+00:00",
+    "published_at": "2026-03-21T12:30:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1cc7/live/c077cb30-243c-11f1-b297-95b0a0a8331e.png",
+    "page_url": "https://soccerfull.net/brighton-amp-hove-albion-vs-liverpool-3188.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-21T20:14:07.301504+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Premier League",
+      "Brighton & Hove Albion",
+      "Liverpool"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12865",
+        "label": "[EN] Full Match",
+        "embed_url": "https://soccerfull.net/play/12865",
+        "stream_url": "https://soccerfull.net/hls/12865.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12865\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12866",
+        "label": "[EN] Full Match",
+        "embed_url": "https://soccerfull.net/play/12866",
+        "stream_url": "https://soccerfull.net/hls/12866.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12866\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]Full Match [EN]Full Match Brighton & Hove Albion vs Liverpool Watch and download Brighton & Hove Albion vs Liverpool full match replay. KICK-OFF at 12:30 (UTC) on 21st March 2026 The referee for this match is England D. Game played at Amex Stadium This is a match in England – Premier League 2026, Round 31 League: Premier League Team: Brighton & Hove Albion Liverpool"
   },
   {
     "match_id": "a058eeb5eb25b8fc9bdee41076262fe7",
