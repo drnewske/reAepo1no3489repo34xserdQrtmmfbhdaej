@@ -6901,14 +6901,14 @@
     "last_updated": "2026-03-18T21:25:04.211122+00:00"
   },
   "be453be918812d32040559c897abde50": {
-    "match_title": "Liverpool vs Galatasaray Full Match and Highlights",
+    "match_title": "Brighton vs Liverpool Full Match and Highlights",
     "url": "https://timesoccertv.com/liverpool-highlights/",
     "source_id": 3,
     "source_name": "timesoccertv.com",
     "listing_date_raw": "2 hours ago",
-    "listing_stamp": "eb8cb22a93f63721d743474390573715",
-    "link_count": 3,
-    "last_updated": "2026-03-18T23:36:46.770752+00:00"
+    "listing_stamp": "92bb7bc20352bf9e4df1a3134d00271f",
+    "link_count": 2,
+    "last_updated": "2026-03-21T17:16:44.018515+00:00"
   },
   "436be380e48ab50f6322514e9c788558": {
     "match_title": "Newcastle United vs Manchester City Full Match Replay and Highlights",
@@ -10049,5 +10049,15 @@
     "listing_stamp": "0767acba1fcfd3a25822c156b0225cb6",
     "link_count": 1,
     "last_updated": "2026-03-21T16:16:28.061803+00:00"
+  },
+  "a270049cb20e6b6ad59d3e4ee7048232": {
+    "match_title": "Brighton vs Liverpool",
+    "url": "https://www.footreplays.com/england/premier-league/brighton-vs-liverpool-2-21-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "21/03/2026",
+    "listing_stamp": "726ba89baa4478389862e51dc7dce7a0",
+    "link_count": 2,
+    "last_updated": "2026-03-21T17:16:43.281581+00:00"
   }
 }

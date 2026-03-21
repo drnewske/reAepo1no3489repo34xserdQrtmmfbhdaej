@@ -1,5 +1,46 @@
 [
   {
+    "match_id": "a270049cb20e6b6ad59d3e4ee7048232",
+    "match": "Brighton vs Liverpool",
+    "competition": "Premier League, Brighton, Liverpool",
+    "date": "2026-03-21T16:50:23+00:00",
+    "published_at": "2026-03-21T16:50:23+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i1.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Brighton-vs-Liverpool.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/england/premier-league/brighton-vs-liverpool-2-21-03-2026/",
+    "updated_at": "2026-03-21T16:58:23+00:00",
+    "scraped_at": "2026-03-21T17:16:42.338075+00:00",
+    "listing_date_raw": "21/03/2026",
+    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "categories": [
+      "Premier League",
+      "Brighton",
+      "Liverpool"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/apxgwso7wd7v",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/apxgwso7wd7v",
+        "player_url": "https://hgcloud.to/apxgwso7wd7v",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/apxgwso7wd7v\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/e7hkil6uefv6",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/e7hkil6uefv6",
+        "player_url": "https://hgcloud.to/e7hkil6uefv6",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/e7hkil6uefv6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "a8f6005ffe221d146d6fcfed47867dc8",
     "match": "Brighton and Hove Albion v Liverpool Full Match | 21 March 2026",
     "competition": "Brighton & Hove Albion, Full Match Replay, Premier League",
@@ -22,11 +63,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/el0k66zobmo978",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/el0k66zobmo978",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/el0k66zobmo978\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/el0k66zobmo978\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -52,11 +93,50 @@
     "links": [
       {
         "url": "https://ok.ru/videoembed/12843299899962?nochat=1&autoplay=1",
+        "label": "1",
         "embed_url": "https://ok.ru/videoembed/12843299899962?nochat=1&autoplay=1",
         "host": "ok.ru",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12843299899962?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12843299899962?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "be453be918812d32040559c897abde50",
+    "match": "Brighton vs Liverpool Full Match and Highlights",
+    "competition": "Premier League, Video, Liverpool",
+    "date": "2026-03-21T14:00:00+00:00",
+    "published_at": "2026-03-21T14:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267675242/photo/brighton-england-jeremie-frimpong-of-liverpool-passes-the-ball-during-the-premier-league.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=dbM1JP9qyfPld8kUKrIigYrTsBPy4KfFuvKnhUO5EiA=",
+    "page_url": "https://timesoccertv.com/liverpool-highlights/",
+    "updated_at": "2026-03-21T16:17:25+00:00",
+    "scraped_at": "2026-03-21T17:16:43.812674+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-21T15:16:44+00:00",
+    "categories": [
+      "Premier League",
+      "Video",
+      "Liverpool"
+    ],
+    "links": [
+      {
+        "url": "https://ok.ru/videoembed/12816780757741?nochat=1",
+        "label": "Full Match",
+        "embed_url": "https://ok.ru/videoembed/12816780757741?nochat=1",
+        "host": "ok.ru",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12816780757741?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/GHKSYFxOk1wQe",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/GHKSYFxOk1wQe",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/GHKSYFxOk1wQe\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -1212,53 +1292,6 @@
         "host": "soccertims.vortexvisionworks.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/IuryXzpEqgVI3\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "be453be918812d32040559c897abde50",
-    "match": "Liverpool vs Galatasaray Full Match and Highlights",
-    "competition": "Premier League, Video, Liverpool",
-    "date": "2026-03-18T21:00:00+00:00",
-    "published_at": "2026-03-18T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2267279069/photo/liverpool-england-mohamed-salah-of-liverpool-scores-his-teams-fourth-goal-during-the-uefa.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=Ia2U2zDWUwx3rjxFORCsj_puXtS0fBRvxcssfp43xDA=",
-    "page_url": "https://timesoccertv.com/liverpool-highlights/",
-    "updated_at": "2026-03-18T23:06:31+00:00",
-    "scraped_at": "2026-03-18T23:36:46.549240+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Premier League",
-      "Video",
-      "Liverpool"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/iymr0ipg7gr6",
-        "label": "First Half",
-        "embed_url": "https://hgcloud.to/e/iymr0ipg7gr6",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/iymr0ipg7gr6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/z6faz7442a0i",
-        "label": "Second Half",
-        "embed_url": "https://hgcloud.to/e/z6faz7442a0i",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/z6faz7442a0i\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/Hw0rUnd6vwuiY",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/Hw0rUnd6vwuiY",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Hw0rUnd6vwuiY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
