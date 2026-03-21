@@ -1,5 +1,119 @@
 [
   {
+    "match_id": "3523dfe6768cada29be4fef2aee3fcee",
+    "match": "Juventus vs Sassuolo",
+    "competition": "Serie A, Juventus, Sassuolo",
+    "date": "2026-03-21T23:07:26+00:00",
+    "published_at": "2026-03-21T23:07:26+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i1.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Juventus-vs-Sassuolo.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/italy/serie-a/juventus-vs-sassuolo-21-03-2026/",
+    "updated_at": "2026-03-21T23:10:36+00:00",
+    "scraped_at": "2026-03-21T23:14:38.627566+00:00",
+    "listing_date_raw": "21/03/2026",
+    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "categories": [
+      "Serie A",
+      "Juventus",
+      "Sassuolo"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/5xbiihmoxpfw",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/5xbiihmoxpfw",
+        "player_url": "https://hgcloud.to/5xbiihmoxpfw",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/5xbiihmoxpfw\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/sx83idggmpt9",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/sx83idggmpt9",
+        "player_url": "https://hgcloud.to/sx83idggmpt9",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/sx83idggmpt9\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "bcbca5c4d4572990569f6177772dda66",
+    "match": "Nice vs PSG",
+    "competition": "Ligue 1, Nice, PSG",
+    "date": "2026-03-21T23:06:05+00:00",
+    "published_at": "2026-03-21T23:06:05+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i0.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Nice-vs-PSG.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/france/ligue-1/nice-vs-psg-21-03-2026/",
+    "updated_at": "2026-03-21T23:10:47+00:00",
+    "scraped_at": "2026-03-21T23:14:38.627566+00:00",
+    "listing_date_raw": "21/03/2026",
+    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "categories": [
+      "Ligue 1",
+      "Nice",
+      "PSG"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/slgv9xf7kp9s",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/slgv9xf7kp9s",
+        "player_url": "https://hgcloud.to/slgv9xf7kp9s",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/slgv9xf7kp9s\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/3bab424nu13i",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/3bab424nu13i",
+        "player_url": "https://hgcloud.to/3bab424nu13i",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/3bab424nu13i\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "773211f675ac77eb607f4f763efaf4e5",
+    "match": "Leeds vs Brentford",
+    "competition": "Premier League, Brentford, Leeds",
+    "date": "2026-03-21T23:05:37+00:00",
+    "published_at": "2026-03-21T23:05:37+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Leeds-vs-Brentford.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/england/premier-league/leeds-vs-brentford-21-03-2026/",
+    "updated_at": "2026-03-21T23:05:40+00:00",
+    "scraped_at": "2026-03-21T23:14:38.627566+00:00",
+    "listing_date_raw": "21/03/2026",
+    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "categories": [
+      "Premier League",
+      "Brentford",
+      "Leeds"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/c67hib3wy918",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/c67hib3wy918",
+        "player_url": "https://hgcloud.to/c67hib3wy918",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/c67hib3wy918\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "14e893716ccc128d8d633cd728280048",
     "match": "Everton V Chelsea Full Match | 21 March 2026",
     "competition": "Chelsea FC, Everton FC, Full Match Replay, Premier League",
