@@ -1,5 +1,75 @@
 [
   {
+    "match_id": "0785a0eb41840a76b4ae38299bda2081",
+    "match": "Everton vs Chelsea",
+    "competition": "Premier League, Chelsea, Everton",
+    "date": "2026-03-21T20:26:18+00:00",
+    "published_at": "2026-03-21T20:26:18+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i3.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Everton-vs-Chelsea.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/england/premier-league/everton-vs-chelsea-2-21-03-2026/",
+    "updated_at": "2026-03-21T20:26:21+00:00",
+    "scraped_at": "2026-03-21T21:15:21.499636+00:00",
+    "listing_date_raw": "21/03/2026",
+    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "categories": [
+      "Premier League",
+      "Chelsea",
+      "Everton"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/xovd2zoernfh",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/xovd2zoernfh",
+        "player_url": "https://hgcloud.to/xovd2zoernfh",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/xovd2zoernfh\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "8b0ffb46f6adaef5c87c75c36f16db9b",
+    "match": "Everton vs Chelsea Full Match and Highlights",
+    "competition": "Video, Chelsea",
+    "date": "2026-03-21T20:00:00+00:00",
+    "published_at": "2026-03-21T20:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267712111/photo/liverpool-england-kiernan-dewsbury-hall-of-everton-is-challenged-by-cole-palmer-of-chelsea.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=M7C2rfb0h0TDs7W-1FC-0W8zHxaZnRDbONTgbopNy8g=",
+    "page_url": "https://timesoccertv.com/chelsea-highlights/",
+    "updated_at": "2026-03-21T20:47:22+00:00",
+    "scraped_at": "2026-03-21T21:15:23.734136+00:00",
+    "listing_date_raw": "48 minutes ago",
+    "listing_date_at": "2026-03-21T20:27:24+00:00",
+    "categories": [
+      "Video",
+      "Chelsea"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/xovd2zoernfh",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/xovd2zoernfh",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/xovd2zoernfh\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/RlE0AsqzvFRcv",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/RlE0AsqzvFRcv",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/RlE0AsqzvFRcv\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "fba5c975f3bc247c552a1884d7dddd3f",
     "match": "Football Focus – League Cup Final Preview | 21 March 2026",
     "competition": "Carabao Cup, Football Focus, TV Show",
@@ -72,6 +142,47 @@
     ]
   },
   {
+    "match_id": "8e3c96aa6594e2b60f493b7c2c1657fd",
+    "match": "AC Milan vs Torino",
+    "competition": "Serie A, AC Milan, Torino",
+    "date": "2026-03-21T17:45:00+00:00",
+    "published_at": "2026-03-21T17:45:00+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/AC-Milan-vs-Torino.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/italy/serie-a/ac-milan-vs-torino-21-03-2026/",
+    "updated_at": "2026-03-21T20:21:13+00:00",
+    "scraped_at": "2026-03-21T21:15:21.499636+00:00",
+    "listing_date_raw": "21/03/2026",
+    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "categories": [
+      "Serie A",
+      "AC Milan",
+      "Torino"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/hdne6tjj5x79",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/hdne6tjj5x79",
+        "player_url": "https://hgcloud.to/hdne6tjj5x79",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/hdne6tjj5x79\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/7ocodi2rgkxo",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/7ocodi2rgkxo",
+        "player_url": "https://hgcloud.to/7ocodi2rgkxo",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/7ocodi2rgkxo\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "e6a63502fb7b40ce8606dbcfc0bc17fc",
     "match": "Fulham vs Burnley",
     "competition": "Premier League, Burnley, Fulham",
@@ -100,6 +211,44 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/ffeq6aua8wuk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "1f6a01d7038df1edb93db8d47bc05bf4",
+    "match": "Milan vs Torino Full Match Replay and Highlights",
+    "competition": "Video, Milan",
+    "date": "2026-03-21T17:00:00+00:00",
+    "published_at": "2026-03-21T17:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267709734/photo/milan-italy-youssouf-fofana-of-ac-milan-competes-for-the-ball-with-gvidas-gineitis-of-torino.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=OwXXc-psYliEO9A4D3P-EcmkMEe055dF5n6O1pOgr18=",
+    "page_url": "https://timesoccertv.com/ac-milan-highlights-1/",
+    "updated_at": "2026-03-21T20:41:22+00:00",
+    "scraped_at": "2026-03-21T21:15:23.734136+00:00",
+    "listing_date_raw": "4 hours ago",
+    "listing_date_at": "2026-03-21T17:15:24+00:00",
+    "categories": [
+      "Video",
+      "Milan"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/hdne6tjj5x79",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/hdne6tjj5x79",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/hdne6tjj5x79\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/p9bIHjOv1mwYK",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/p9bIHjOv1mwYK",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/p9bIHjOv1mwYK\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -4197,44 +4346,6 @@
       }
     ],
     "description": "[RU]Full Match West Ham United vs Manchester City Watch and download West Ham United vs Manchester City full match replay. KICK-OFF at 20:00 (UTC) on 14th March 2026 The referee for this match is Oliver M. Game played at London Stadium This is a match in England – Premier League 2026, Round 30 League: Premier League Team: West Ham United Manchester City"
-  },
-  {
-    "match_id": "8b0ffb46f6adaef5c87c75c36f16db9b",
-    "match": "Chelsea vs Newcastle United Full Match and Highlights",
-    "competition": "Video, Chelsea",
-    "date": "2026-03-14T20:00:00+00:00",
-    "published_at": "2026-03-14T20:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266502000/photo/london-england-wesley-fofana-of-chelsea-clears-the-ball-with-a-bicycle-kick-during-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=NnHECl5nGENYwXTY7fj5L_hYexU50bueyIh7ZILxrjE=",
-    "page_url": "https://timesoccertv.com/chelsea-highlights/",
-    "updated_at": "2026-03-14T21:03:29+00:00",
-    "scraped_at": "2026-03-14T21:16:34.968514+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Chelsea"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/bhbm9avb4mho",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/bhbm9avb4mho",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/bhbm9avb4mho\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/5J74nG4v8dm2A",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/5J74nG4v8dm2A",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/5J74nG4v8dm2A\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
   },
   {
     "match_id": "2f5446d0de41512496dda2cf1e76c294",
@@ -11189,49 +11300,6 @@
         "host": "geo.dailymotion.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://geo.dailymotion.com/player.html?video=xa0z5sk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "1f6a01d7038df1edb93db8d47bc05bf4",
-    "match": "Cremonese vs Milan Full Match Replay and Highlights",
-    "competition": "Video, Milan",
-    "date": "2026-03-01T15:00:00+00:00",
-    "published_at": "2026-03-01T15:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": null,
-    "preview_image": "https://media.gettyimages.com/id/2264188316/photo/cremona-italy-alexis-saelemaekers-of-ac-milan-and-giuseppe-pezzella-of-us-cremonese-battle.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=A0GUhmXyYWacf81BVpkyeqBgR7jYkZ-6nO0B6Jm-shI=",
-    "page_url": null,
-    "updated_at": null,
-    "scraped_at": null,
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [],
-    "links": [
-      {
-        "url": "https://ok.ru/videoembed/12315172473581?nochat=1",
-        "label": "Full Match",
-        "embed_url": "https://ok.ru/videoembed/12315172473581?nochat=1",
-        "host": "ok.ru",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://ok.ru/videoembed/12315172473581?nochat=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/aq1cibi4lde6",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/aq1cibi4lde6",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/aq1cibi4lde6\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/6R3YCCDmugFxC",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/6R3YCCDmugFxC",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/6R3YCCDmugFxC\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
