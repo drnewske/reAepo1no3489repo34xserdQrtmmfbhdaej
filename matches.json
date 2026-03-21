@@ -21,12 +21,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/poP9Z9TtR6s",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/poP9Z9TtR6s",
         "player_url": "https://www.youtube.com/watch?v=poP9Z9TtR6s",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/poP9Z9TtR6s\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/poP9Z9TtR6s\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -52,12 +52,12 @@
     "links": [
       {
         "url": "https://www.youtube-nocookie.com/embed/Rw6M3ONjwwM",
+        "label": "1",
         "embed_url": "https://www.youtube-nocookie.com/embed/Rw6M3ONjwwM",
         "player_url": "https://www.youtube.com/watch?v=Rw6M3ONjwwM",
         "host": "youtube-nocookie.com",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/Rw6M3ONjwwM\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "1"
+        "embed_html": "<iframe src=\"https://www.youtube-nocookie.com/embed/Rw6M3ONjwwM\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
