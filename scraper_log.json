@@ -10489,5 +10489,55 @@
     "listing_stamp": "99dec8d7a86ab76610fd6ec135487da3",
     "link_count": 1,
     "last_updated": "2026-03-22T22:14:41.545855+00:00"
+  },
+  "bc0be2699a3963d0a76332e4eee4f8ef": {
+    "match_title": "Athletic Bilbao vs Real Betis",
+    "url": "https://soccerfull.net/athletic-bilbao-vs-real-betis-3206.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "dbb80607a966b514db0e6e14755f6316",
+    "link_count": 2,
+    "last_updated": "2026-03-22T23:17:22.157739+00:00"
+  },
+  "2506d84b69b153b0b062720ae71f60dd": {
+    "match_title": "AS Roma vs Lecce",
+    "url": "https://soccerfull.net/as-roma-vs-lecce-3205.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "6c954525c7e46e90dffc169a8bf2fa1c",
+    "link_count": 2,
+    "last_updated": "2026-03-22T23:17:23.229973+00:00"
+  },
+  "34867af4958285351f9181c868fa4784": {
+    "match_title": "Fiorentina vs Inter",
+    "url": "https://soccerfull.net/fiorentina-vs-inter-3204.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "ff0e501652152619cced6a598ca6daed",
+    "link_count": 3,
+    "last_updated": "2026-03-22T23:17:24.738507+00:00"
+  },
+  "e1e19eeffedd15071976afd55646563b": {
+    "match_title": "Arsenal vs Manchester City",
+    "url": "https://soccerfull.net/arsenal-vs-manchester-city-3203.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "d9861004a38ebbcaca68a5886cd83826",
+    "link_count": 4,
+    "last_updated": "2026-03-22T23:17:26.683166+00:00"
+  },
+  "1cbbeb505873529c7e4bf1057ceb8a12": {
+    "match_title": "Real Madrid vs Atletico Madrid",
+    "url": "https://soccerfull.net/real-madrid-vs-atletico-madrid-3202.html",
+    "source_id": 1,
+    "source_name": "soccerfull.net",
+    "listing_date_raw": "",
+    "listing_stamp": "211e7635cc703e11103e0f0bd89f9bb4",
+    "link_count": 7,
+    "last_updated": "2026-03-22T23:17:30.018618+00:00"
   }
 }
