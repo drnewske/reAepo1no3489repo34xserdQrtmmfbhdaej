@@ -12,8 +12,8 @@
     "page_url": "https://www.footreplays.com/italy/serie-a/juventus-vs-sassuolo-21-03-2026/",
     "updated_at": "2026-03-21T23:10:36+00:00",
     "scraped_at": "2026-03-21T23:14:38.627566+00:00",
-    "listing_date_raw": "21/03/2026",
-    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Serie A",
       "Juventus",
@@ -53,8 +53,8 @@
     "page_url": "https://www.footreplays.com/france/ligue-1/nice-vs-psg-21-03-2026/",
     "updated_at": "2026-03-21T23:10:47+00:00",
     "scraped_at": "2026-03-21T23:14:38.627566+00:00",
-    "listing_date_raw": "21/03/2026",
-    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Ligue 1",
       "Nice",
@@ -94,8 +94,8 @@
     "page_url": "https://www.footreplays.com/england/premier-league/leeds-vs-brentford-21-03-2026/",
     "updated_at": "2026-03-21T23:05:40+00:00",
     "scraped_at": "2026-03-21T23:14:38.627566+00:00",
-    "listing_date_raw": "21/03/2026",
-    "listing_date_at": "2026-03-21T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Premier League",
       "Brentford",
@@ -142,6 +142,82 @@
         "host": "ok.ru",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://ok.ru/videoembed/12821626489581?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "f39f0844241e8559e05aa353327c3360",
+    "match": "Nice vs PSG Full Match & Highlights",
+    "competition": "Video, PSG",
+    "date": "2026-03-21T21:00:00+00:00",
+    "published_at": "2026-03-21T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267319913/photo/warren-zaire-emery-of-paris-saint-germain-matvey-safonov-of-paris-saint-germain-and-lucas.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=dCSH6yAMd_WfxQjFqc0bG4fASVQ1pBU06qGWfA3KkTE=",
+    "page_url": "https://timesoccertv.com/paris-saint-germain-highlights/",
+    "updated_at": "2026-03-21T23:26:48+00:00",
+    "scraped_at": "2026-03-22T01:09:23.385844+00:00",
+    "listing_date_raw": "3 hours ago",
+    "listing_date_at": "2026-03-21T22:09:23+00:00",
+    "categories": [
+      "Video",
+      "PSG"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/slgv9xf7kp9s",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/slgv9xf7kp9s",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/slgv9xf7kp9s\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/XxZ5iGXC1fDhd",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/XxZ5iGXC1fDhd",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/XxZ5iGXC1fDhd\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "042c4ba89907130d11ac0323e6597828",
+    "match": "Juventus vs Sassuolo Full Match and Highlights",
+    "competition": "Video, Juventus",
+    "date": "2026-03-21T21:00:00+00:00",
+    "published_at": "2026-03-21T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267747133/photo/turin-italy-pierre-kalulu-of-juventus-battles-for-the-ball-with-luca-lipani-of-us-sassuolo.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=l0_xijNZoJKqqXmFjiwH2rXYjlqsAgD2yz-n2ZlIEQE=",
+    "page_url": "https://timesoccertv.com/juventus-highlights-1/",
+    "updated_at": "2026-03-21T23:29:24+00:00",
+    "scraped_at": "2026-03-22T01:09:23.385844+00:00",
+    "listing_date_raw": "3 hours ago",
+    "listing_date_at": "2026-03-21T22:09:23+00:00",
+    "categories": [
+      "Video",
+      "Juventus"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/5xbiihmoxpfw",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/5xbiihmoxpfw",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/5xbiihmoxpfw\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/DueXjlgS6QuLW",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/DueXjlgS6QuLW",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/DueXjlgS6QuLW\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -2325,44 +2401,6 @@
     ]
   },
   {
-    "match_id": "f39f0844241e8559e05aa353327c3360",
-    "match": "Chelsea vs PSG Full Match & Highlights",
-    "competition": "Video, PSG",
-    "date": "2026-03-17T21:00:00+00:00",
-    "published_at": "2026-03-17T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2267088305/photo/london-england-khvicha-kvaratskhelia-of-paris-saint-germain-scores-his-teams-first-goal.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=mLC2aNBK5Rt4-5L0Ywg0oCDFZT55lPBRw6fgv4onEIQ=",
-    "page_url": "https://timesoccertv.com/paris-saint-germain-highlights/",
-    "updated_at": "2026-03-17T23:05:11+00:00",
-    "scraped_at": "2026-03-17T23:21:45.485987+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "PSG"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/dynww3pla87m",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/dynww3pla87m",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/dynww3pla87m\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/DSluNSCJYpjaz",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/DSluNSCJYpjaz",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/DSluNSCJYpjaz\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "eb936513dd5f0e0fee9a7e814a874b7d",
     "match": "Manchester City vs Real Madrid Full Match and Highlights",
     "competition": "Premier League, Video, Manchester City",
@@ -4240,44 +4278,6 @@
         "host": "soccertims.vortexvisionworks.com",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Rp4WequY0DjGY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "042c4ba89907130d11ac0323e6597828",
-    "match": "Udinese vs Juventus Full Match and Highlights",
-    "competition": "Video, Juventus",
-    "date": "2026-03-14T21:00:00+00:00",
-    "published_at": "2026-03-14T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266532128/photo/udine-italy-gleison-bremer-of-juventus-and-keinan-davis-of-udinese-contest-a-header-during.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=aLw1d4PDiNLRSZyK1o_CMH9X21UR7QkBccCikentIu8=",
-    "page_url": "https://timesoccertv.com/juventus-highlights-1/",
-    "updated_at": "2026-03-14T23:03:26+00:00",
-    "scraped_at": "2026-03-14T23:17:18.723296+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Juventus"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/eszlqiwlftqr",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/eszlqiwlftqr",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/eszlqiwlftqr\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/3hl9TOAtdSKTM",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/3hl9TOAtdSKTM",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/3hl9TOAtdSKTM\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
