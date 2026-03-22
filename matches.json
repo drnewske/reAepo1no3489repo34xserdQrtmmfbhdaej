@@ -158,8 +158,8 @@
     "page_url": "https://timesoccertv.com/paris-saint-germain-highlights/",
     "updated_at": "2026-03-21T23:26:48+00:00",
     "scraped_at": "2026-03-22T01:09:23.385844+00:00",
-    "listing_date_raw": "3 hours ago",
-    "listing_date_at": "2026-03-21T22:09:23+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "PSG"
@@ -196,8 +196,8 @@
     "page_url": "https://timesoccertv.com/juventus-highlights-1/",
     "updated_at": "2026-03-21T23:29:24+00:00",
     "scraped_at": "2026-03-22T01:09:23.385844+00:00",
-    "listing_date_raw": "3 hours ago",
-    "listing_date_at": "2026-03-21T22:09:23+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Juventus"
@@ -252,6 +252,39 @@
         "embed_html": "<iframe src=\"https://hgcloud.to/e/xovd2zoernfh\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "79014626f788a5e53372b89c94d4596f",
+    "match": "Leeds United vs Brentford",
+    "competition": "Premier League, Leeds United, Brentford",
+    "date": "2026-03-21T20:00:00+00:00",
+    "published_at": "2026-03-21T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/leeds-united-vs-brentford-3191.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-22T04:09:03.718962+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Premier League",
+      "Leeds United",
+      "Brentford"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12873",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12873",
+        "stream_url": "https://soccerfull.net/hls/12873.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12873\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match Leeds United vs Brentford Watch and download Leeds United vs Brentford full match replay. KICK-OFF at 20:00 (UTC) on 21st March 2026 The referee for this match is Gillett J. Game played at Elland Road This is a match in England – Premier League 2026, Round 31 League: Premier League Team: Leeds United Brentford"
   },
   {
     "match_id": "8b0ffb46f6adaef5c87c75c36f16db9b",
@@ -323,88 +356,6 @@
     ]
   },
   {
-    "match_id": "9d5086596206a786e2bd5035c457b719",
-    "match": "Bayern Munich vs Union Berlin",
-    "competition": "Bundesliga, Bayern Munich, Union Berlin",
-    "date": "2026-03-21T17:45:24+00:00",
-    "published_at": "2026-03-21T17:45:24+00:00",
-    "source_tag": "source_2",
-    "source_name": "footreplays.com",
-    "source_url": "https://www.footreplays.com",
-    "preview_image": "https://i0.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Bayern-Munich-vs-Union-Berlin.webp?ssl=1",
-    "page_url": "https://www.footreplays.com/germany/bundesliga/bayern-munich-vs-union-berlin-21-03-2026/",
-    "updated_at": "2026-03-21T17:49:29+00:00",
-    "scraped_at": "2026-03-21T18:20:43.898127+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Bundesliga",
-      "Bayern Munich",
-      "Union Berlin"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/v1l8k3ww57cg",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/v1l8k3ww57cg",
-        "player_url": "https://hgcloud.to/v1l8k3ww57cg",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/v1l8k3ww57cg\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/ikn748d7s8kf",
-        "label": "Highlights",
-        "embed_url": "https://hgcloud.to/e/ikn748d7s8kf",
-        "player_url": "https://hgcloud.to/ikn748d7s8kf",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/ikn748d7s8kf\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
-    "match_id": "8e3c96aa6594e2b60f493b7c2c1657fd",
-    "match": "AC Milan vs Torino",
-    "competition": "Serie A, AC Milan, Torino",
-    "date": "2026-03-21T17:45:00+00:00",
-    "published_at": "2026-03-21T17:45:00+00:00",
-    "source_tag": "source_2",
-    "source_name": "footreplays.com",
-    "source_url": "https://www.footreplays.com",
-    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/AC-Milan-vs-Torino.webp?ssl=1",
-    "page_url": "https://www.footreplays.com/italy/serie-a/ac-milan-vs-torino-21-03-2026/",
-    "updated_at": "2026-03-21T20:21:13+00:00",
-    "scraped_at": "2026-03-21T21:15:21.499636+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Serie A",
-      "AC Milan",
-      "Torino"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/hdne6tjj5x79",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/hdne6tjj5x79",
-        "player_url": "https://hgcloud.to/hdne6tjj5x79",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/hdne6tjj5x79\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/7ocodi2rgkxo",
-        "label": "Highlights",
-        "embed_url": "https://hgcloud.to/e/7ocodi2rgkxo",
-        "player_url": "https://hgcloud.to/7ocodi2rgkxo",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/7ocodi2rgkxo\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "e6a63502fb7b40ce8606dbcfc0bc17fc",
     "match": "Fulham vs Burnley",
     "competition": "Premier League, Burnley, Fulham",
@@ -435,6 +386,201 @@
         "embed_html": "<iframe src=\"https://hgcloud.to/e/ffeq6aua8wuk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "3f8ae5c18d371da36d4f052f649fb584",
+    "match": "Borussia Dortmund vs Hamburger SV",
+    "competition": "Bundesliga, Borussia Dortmund, Hamburger SV",
+    "date": "2026-03-21T17:30:00+00:00",
+    "published_at": "2026-03-21T17:30:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/borussia-dortmund-vs-hamburger-sv-3197.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-22T04:09:03.718962+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Bundesliga",
+      "Borussia Dortmund",
+      "Hamburger SV"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12891",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12891",
+        "stream_url": "https://soccerfull.net/hls/12891.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12891\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match Borussia Dortmund vs Hamburger SV Watch and download Borussia Dortmund vs Hamburger SV full match replay. KICK-OFF at 17:30 (UTC) on 21st March 2026 The referee for this match is Jollenbeck M. Game played at Signal Iduna Park This is a match in Germany – Bundesliga 2026, Round 27 League: Bundesliga Team: Borussia Dortmund Hamburger SV"
+  },
+  {
+    "match_id": "1c1a7af39ce95083c9cdae66c3ec49de",
+    "match": "Levante vs Real Oviedo",
+    "competition": "La Liga, Levante, Real Oviedo",
+    "date": "2026-03-21T17:30:00+00:00",
+    "published_at": "2026-03-21T17:30:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/levante-vs-real-oviedo-3196.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-22T04:09:03.718962+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "La Liga",
+      "Levante",
+      "Real Oviedo"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12889",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12889",
+        "stream_url": "https://soccerfull.net/hls/12889.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12889\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12890",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12890",
+        "stream_url": "https://soccerfull.net/hls/12890.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12890\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match Levante vs Real Oviedo Watch and download Levante vs Real Oviedo full match replay. KICK-OFF at 17:30 (UTC) on 21st March 2026 The referee for this match is Manzano J. Game played at Estadi Ciutat de València This is a match in Spain – La Liga 2026, Round 29 League: La Liga Team: Levante Real Oviedo"
+  },
+  {
+    "match_id": "59ed75e3586bef78bedd1ec7e3f0c68a",
+    "match": "Everton vs Chelsea",
+    "competition": "Premier League, Everton, Chelsea",
+    "date": "2026-03-21T17:30:00+00:00",
+    "published_at": "2026-03-21T17:30:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/everton-vs-chelsea-3189.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-22T04:09:03.718962+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Premier League",
+      "Everton",
+      "Chelsea"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12867",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12867",
+        "stream_url": "https://soccerfull.net/hls/12867.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12867\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12868",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12868",
+        "stream_url": "https://soccerfull.net/hls/12868.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12868\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12869",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12869",
+        "stream_url": "https://soccerfull.net/hls/12869.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12869\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12870",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12870",
+        "stream_url": "https://soccerfull.net/hls/12870.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12870\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match [RU]Full Match [EN]Highlights Everton vs Chelsea Watch and download Everton vs Chelsea full match replay. KICK-OFF at 17:30 (UTC) on 21st March 2026 The referee for this match is Barrott S. Game played at Hill Dickinson Stadium This is a match in England – Premier League 2026, Round 31 League: Premier League Team: Everton Chelsea"
+  },
+  {
+    "match_id": "9cfb5f4dbca4c9a1a166302a88369971",
+    "match": "AC Milan vs Torino",
+    "competition": "Serie A, AC Milan, Torino",
+    "date": "2026-03-21T17:00:00+00:00",
+    "published_at": "2026-03-21T17:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/ac-milan-vs-torino-3194.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-22T04:09:03.718962+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Serie A",
+      "AC Milan",
+      "Torino"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12880",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12880",
+        "stream_url": "https://soccerfull.net/hls/12880.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12880\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12881",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12881",
+        "stream_url": "https://soccerfull.net/hls/12881.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12881\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12882",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12882",
+        "stream_url": "https://soccerfull.net/hls/12882.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12882\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12883",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12883",
+        "stream_url": "https://soccerfull.net/hls/12883.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12883\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match [RU]Full Match [EN]Highlights AC Milan vs Torino Watch and download AC Milan vs Torino full match replay. KICK-OFF at 17:00 (UTC) on 21st March 2026 The referee for this match is Fourneau F. Game played at Stadio Giuseppe Meazza (San Siro) This is a match in Italy – Serie A 2026, Round 30 League: Serie A Team: AC Milan Torino"
   },
   {
     "match_id": "1f6a01d7038df1edb93db8d47bc05bf4",
@@ -651,6 +797,135 @@
         "embed_html": "<iframe src=\"https://ok.ru/videoembed/12843299899962?nochat=1&amp;autoplay=1\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "b5835adb2b00327d8ea3f8d3cdfc9443",
+    "match": "Fulham vs Burnley",
+    "competition": "Premier League, Fulham, Burnley",
+    "date": "2026-03-21T15:00:00+00:00",
+    "published_at": "2026-03-21T15:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/fulham-vs-burnley-3195.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-22T04:09:03.718962+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Premier League",
+      "Fulham",
+      "Burnley"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12884",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12884",
+        "stream_url": "https://soccerfull.net/hls/12884.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12884\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12885",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12885",
+        "stream_url": "https://soccerfull.net/hls/12885.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12885\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12886",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12886",
+        "stream_url": "https://soccerfull.net/hls/12886.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12886\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12887",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12887",
+        "stream_url": "https://soccerfull.net/hls/12887.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12887\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12888",
+        "label": "[EN] Full Match",
+        "embed_url": "https://soccerfull.net/play/12888",
+        "stream_url": "https://soccerfull.net/hls/12888.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12888\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match [RU]Full Match [EN]Highlights [EN]Full Match Fulham vs Burnley Watch and download Fulham vs Burnley full match replay. KICK-OFF at 15:00 (UTC) on 21st March 2026 The referee for this match is Kavanagh C. Game played at Craven Cottage This is a match in England – Premier League 2026, Round 31 League: Premier League Team: Fulham Burnley"
+  },
+  {
+    "match_id": "6a0a203acaad9c929d847b54b417d5dc",
+    "match": "Bayern Munich vs Union Berlin",
+    "competition": "Bundesliga, Bayern Munich, Union Berlin",
+    "date": "2026-03-21T14:30:00+00:00",
+    "published_at": "2026-03-21T14:30:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/bayern-munich-vs-union-berlin-3193.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-22T04:09:03.718962+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Bundesliga",
+      "Bayern Munich",
+      "Union Berlin"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12876",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12876",
+        "stream_url": "https://soccerfull.net/hls/12876.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12876\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12877",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12877",
+        "stream_url": "https://soccerfull.net/hls/12877.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12877\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12878",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12878",
+        "stream_url": "https://soccerfull.net/hls/12878.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12878\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12879",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12879",
+        "stream_url": "https://soccerfull.net/hls/12879.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12879\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match [RU]Full Match [EN]Highlights Bayern Munich vs Union Berlin Watch and download Bayern Munich vs Union Berlin full match replay. KICK-OFF at 14:30 (UTC) on 21st March 2026 The referee for this match is Ittrich P. Game played at Allianz Arena This is a match in Germany – Bundesliga 2026, Round 27 League: Bundesliga Team: Bayern Munich Union Berlin"
   },
   {
     "match_id": "be453be918812d32040559c897abde50",
