@@ -6911,14 +6911,14 @@
     "last_updated": "2026-03-21T17:16:44.018515+00:00"
   },
   "436be380e48ab50f6322514e9c788558": {
-    "match_title": "Newcastle United vs Manchester City Full Match Replay and Highlights",
+    "match_title": "Newcastle United vs Sunderland Full Match Replay and Highlights",
     "url": "https://timesoccertv.com/newcastle-highlights/",
     "source_id": 3,
     "source_name": "timesoccertv.com",
-    "listing_date_raw": "13 hours ago",
-    "listing_stamp": "17647fa496893a5abf3b5420b3cf346b",
+    "listing_date_raw": "29 minutes ago",
+    "listing_stamp": "df48dc043d2d07dd6c2b237505f4bd41",
     "link_count": 3,
-    "last_updated": "2026-03-08T09:18:52.495582+00:00"
+    "last_updated": "2026-03-22T17:16:48.599610+00:00"
   },
   "58fb49bc47c05ab516b257fdfb97f37e": {
     "match_title": "Stuttgart vs Celtic Full Match Replay",
@@ -10329,5 +10329,25 @@
     "listing_stamp": "0c7cf8ec0aa9fde41ef3bde898b1da16",
     "link_count": 1,
     "last_updated": "2026-03-22T15:16:16.711920+00:00"
+  },
+  "007bd714bbb8b4acc04703e0be3c8555": {
+    "match_title": "Dundee United vs Celtic Full Match | 22 March 2026",
+    "url": "https://www.footballorgin.com/dundee-united-vs-celtic-full-match-22-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "bb49993d87a8035b4607035aeb5ae0ed",
+    "link_count": 1,
+    "last_updated": "2026-03-22T17:16:49.364557+00:00"
+  },
+  "ddafaf1f8a2b3dcf03adc85d41c8aa88": {
+    "match_title": "Newcastle United v Sunderland Full Match | 22 March 2026",
+    "url": "https://www.footballorgin.com/newcastle-united-v-sunderland-full-match-22-march-2026/",
+    "source_id": 4,
+    "source_name": "footballorgin.com",
+    "listing_date_raw": "",
+    "listing_stamp": "a9a42596494224d3c06d66e1c352829c",
+    "link_count": 1,
+    "last_updated": "2026-03-22T17:16:49.647821+00:00"
   }
 }
