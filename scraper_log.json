@@ -6891,14 +6891,14 @@
     "last_updated": "2026-03-14T19:19:32.652431+00:00"
   },
   "3785b1d262b11ca9fe940e9ad5d7c628": {
-    "match_title": "Barcelona vs Newcastle United Full Match and Highlights",
+    "match_title": "Barcelona vs Rayo Vallecano Full Match and Highlights",
     "url": "https://timesoccertv.com/barcelona-highlights-7/",
     "source_id": 3,
     "source_name": "timesoccertv.com",
-    "listing_date_raw": "2 hours ago",
-    "listing_stamp": "f6f2295e5e9fb5bee16381c3ba3f4887",
-    "link_count": 4,
-    "last_updated": "2026-03-18T21:25:04.211122+00:00"
+    "listing_date_raw": "5 minutes ago",
+    "listing_stamp": "f51829af25597999feef32360f15d441",
+    "link_count": 2,
+    "last_updated": "2026-03-22T15:16:17.501340+00:00"
   },
   "be453be918812d32040559c897abde50": {
     "match_title": "Brighton vs Liverpool Full Match and Highlights",
@@ -10319,5 +10319,15 @@
     "listing_stamp": "033d9cbe093653997a61e07834129f77",
     "link_count": 1,
     "last_updated": "2026-03-22T14:18:11.988805+00:00"
+  },
+  "60190dcab61fe37723b00554edeea822": {
+    "match_title": "Newcastle vs Sunderland",
+    "url": "https://www.footreplays.com/england/premier-league/newcastle-vs-sunderland-22-03-2026/",
+    "source_id": 2,
+    "source_name": "footreplays.com",
+    "listing_date_raw": "22/03/2026",
+    "listing_stamp": "0c7cf8ec0aa9fde41ef3bde898b1da16",
+    "link_count": 1,
+    "last_updated": "2026-03-22T15:16:16.711920+00:00"
   }
 }
