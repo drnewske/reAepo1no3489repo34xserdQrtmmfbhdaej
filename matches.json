@@ -12,8 +12,8 @@
     "page_url": "https://www.footreplays.com/spain/la-liga/real-madrid-vs-atletico-madrid-3-22-03-2026/",
     "updated_at": "2026-03-22T20:55:44+00:00",
     "scraped_at": "2026-03-22T21:16:20.367284+00:00",
-    "listing_date_raw": "22/03/2026",
-    "listing_date_at": "2026-03-22T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "La Liga",
       "Atletico Madrid",
@@ -221,6 +221,38 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/92yi87u9vbmw\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "84648b48aace98f3d8b0edc463f03b7f",
+    "match": "Fiorentina vs Inter Milan",
+    "competition": "Serie A, Fiorentina, Inter Milan",
+    "date": "2026-03-22T18:41:00+00:00",
+    "published_at": "2026-03-22T18:41:00+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i3.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Fiorentina-vs-Inter-Milan.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/italy/serie-a/fiorentina-vs-inter-milan-2-22-03-2026/",
+    "updated_at": "2026-03-22T22:14:15+00:00",
+    "scraped_at": "2026-03-22T22:14:40.897063+00:00",
+    "listing_date_raw": "22/03/2026",
+    "listing_date_at": "2026-03-22T00:00:00+00:00",
+    "categories": [
+      "Serie A",
+      "Fiorentina",
+      "Inter Milan"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/iwpp9o5ms0pj",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/iwpp9o5ms0pj",
+        "player_url": "https://hgcloud.to/iwpp9o5ms0pj",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/iwpp9o5ms0pj\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
