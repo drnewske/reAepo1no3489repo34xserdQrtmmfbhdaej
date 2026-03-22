@@ -22,11 +22,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/wlm7rvxlh9kx1q",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/wlm7rvxlh9kx1q",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/wlm7rvxlh9kx1q\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/wlm7rvxlh9kx1q\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -54,11 +54,11 @@
     "links": [
       {
         "url": "https://mixdrop.top/e/el0kjkdmc3mv8v",
+        "label": "Full Match",
         "embed_url": "https://mixdrop.top/e/el0kjkdmc3mv8v",
         "host": "mixdrop.top",
         "kind": "replay",
-        "embed_html": "<iframe src=\"https://mixdrop.top/e/el0kjkdmc3mv8v\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>",
-        "label": "Full Match"
+        "embed_html": "<iframe src=\"https://mixdrop.top/e/el0kjkdmc3mv8v\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -75,8 +75,8 @@
     "page_url": "https://timesoccertv.com/newcastle-highlights/",
     "updated_at": "2026-03-22T16:29:03+00:00",
     "scraped_at": "2026-03-22T17:16:48.399969+00:00",
-    "listing_date_raw": "29 minutes ago",
-    "listing_date_at": "2026-03-22T16:47:48+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "Video",
       "Newcastle"
@@ -209,6 +209,162 @@
         "embed_html": "<iframe src=\"https://hgcloud.to/e/t4mi07bxhaug\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "c2084dd17137f8203644cc0b7d82c05f",
+    "match": "Barcelona vs Rayo Vallecano",
+    "competition": "La Liga, Barcelona, Rayo Vallecano",
+    "date": "2026-03-22T13:00:00+00:00",
+    "published_at": "2026-03-22T13:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "/imgs/3198.png",
+    "page_url": "https://soccerfull.net/barcelona-vs-rayo-vallecano-3198.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-22T18:21:08.513349+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "La Liga",
+      "Barcelona",
+      "Rayo Vallecano"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12900",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12900",
+        "stream_url": "https://soccerfull.net/hls/12900.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12900\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12899",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12899",
+        "stream_url": "https://soccerfull.net/hls/12899.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12899\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12901",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12901",
+        "stream_url": "https://soccerfull.net/hls/12901.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12901\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12902",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12902",
+        "stream_url": "https://soccerfull.net/hls/12902.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12902\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12903",
+        "label": "[EN] Full Match",
+        "embed_url": "https://soccerfull.net/play/12903",
+        "stream_url": "https://soccerfull.net/hls/12903.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12903\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12904",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12904",
+        "stream_url": "https://soccerfull.net/hls/12904.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12904\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12905",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12905",
+        "stream_url": "https://soccerfull.net/hls/12905.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12905\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]First Half [EN]First Half [EN]Second Half [EN]Second Half [EN]Full Match [RU]Full Match [EN]Highlights Barcelona vs Rayo Vallecano Watch and download Barcelona vs Rayo Vallecano full match replay. KICK-OFF at 13:00 (UTC) on 22nd March 2026 The referee for this match is Cordero A. Game played at Camp Nou This is a match in Spain – La Liga 2026, Round 29 League: La Liga Team: Barcelona Rayo Vallecano"
+  },
+  {
+    "match_id": "570e6f9862844e9762d1f783232e1073",
+    "match": "Newcastle United vs Sunderland",
+    "competition": "Premier League, Newcastle United, Sunderland",
+    "date": "2026-03-22T12:00:00+00:00",
+    "published_at": "2026-03-22T12:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "/imgs/3199.png",
+    "page_url": "https://soccerfull.net/newcastle-united-vs-sunderland-3199.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-22T18:21:08.513349+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Premier League",
+      "Newcastle United",
+      "Sunderland"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12906",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12906",
+        "stream_url": "https://soccerfull.net/hls/12906.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12906\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12907",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12907",
+        "stream_url": "https://soccerfull.net/hls/12907.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12907\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12908",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12908",
+        "stream_url": "https://soccerfull.net/hls/12908.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12908\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12909",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12909",
+        "stream_url": "https://soccerfull.net/hls/12909.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12909\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12910",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12910",
+        "stream_url": "https://soccerfull.net/hls/12910.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12910\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match [EN]Highlights [EN]First Half [EN]Second Half Newcastle United vs Sunderland Watch and download Newcastle United vs Sunderland full match replay. KICK-OFF at 12:00 (UTC) on 22nd March 2026 The referee for this match is Taylor A. Game played at St. James’ Park This is a match in England – Premier League 2026, Round 31 League: Premier League Team: Newcastle United Sunderland"
   },
   {
     "match_id": "98d1dc29d25ab7e669c1dadb335a7368",
