@@ -1,5 +1,51 @@
 [
   {
+    "match_id": "ce682ec0145d78a1ba5e560c7d45673a",
+    "match": "Real Madrid vs Atlético Madrid Full Match and Highlights",
+    "competition": "Video, Real Madrid",
+    "date": "2026-03-22T21:00:00+00:00",
+    "published_at": "2026-03-22T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267881038/photo/madrid-spain-alex-baena-of-atletico-de-madrid-is-fouled-by-federico-valverde-of-real-madrid.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=ekJMkEHNHTUykdHQUvwXCZ1lQd9agrqTeRPhf3o0jug=",
+    "page_url": "https://timesoccertv.com/real-madrid-full-match-replays/",
+    "updated_at": "2026-03-23T00:17:11+00:00",
+    "scraped_at": "2026-03-23T01:10:38.122747+00:00",
+    "listing_date_raw": "3 hours ago",
+    "listing_date_at": "2026-03-22T22:10:38+00:00",
+    "categories": [
+      "Video",
+      "Real Madrid"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/fpk8ajfktcz5",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/fpk8ajfktcz5",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/fpk8ajfktcz5\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/tsqrng4h0g02",
+        "label": "Second Half",
+        "embed_url": "https://hgcloud.to/e/tsqrng4h0g02",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/tsqrng4h0g02\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/VDUh6ZPNTmDml",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/VDUh6ZPNTmDml",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/VDUh6ZPNTmDml\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "108e2f65f24d1f1a1cf5a683fbc7e440",
     "match": "Real Madrid vs Atletico Madrid",
     "competition": "La Liga, Atletico Madrid, Real Madrid",
@@ -28,6 +74,44 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/fpk8ajfktcz5\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "cb4234a4661c8d0bfa0aeb30cef26316",
+    "match": "Fiorentina vs Inter Full Match and Highlights",
+    "competition": "Video, Inter",
+    "date": "2026-03-22T20:30:00+00:00",
+    "published_at": "2026-03-22T20:30:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2267876345/photo/florence-italy-pio-esposito-of-inter-scores-goal-during-the-serie-a-match-between-acf.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=aubLXA7OcEaH-lX7bZ9X9SCqq7v0SJbd1Ky7P8iBv2s=",
+    "page_url": "https://timesoccertv.com/inter-milan-highlights/",
+    "updated_at": "2026-03-23T00:12:46+00:00",
+    "scraped_at": "2026-03-23T01:10:38.122747+00:00",
+    "listing_date_raw": "4 hours ago",
+    "listing_date_at": "2026-03-22T21:10:38+00:00",
+    "categories": [
+      "Video",
+      "Inter"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/iwpp9o5ms0pj",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/iwpp9o5ms0pj",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/iwpp9o5ms0pj\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/jKUL2kWLeqNKY",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/jKUL2kWLeqNKY",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/jKUL2kWLeqNKY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -5820,52 +5904,6 @@
     ]
   },
   {
-    "match_id": "ce682ec0145d78a1ba5e560c7d45673a",
-    "match": "Real Madrid vs Elche Full Match and Highlights",
-    "competition": "Video, Real Madrid",
-    "date": "2026-03-14T21:00:00+00:00",
-    "published_at": "2026-03-14T21:00:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266534794/photo/madrid-spain-federico-valverde-player-of-real-madrid-in-action-during-the-laliga-ea-sports.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=KmsXiN6xqFwwBHrL3hCwKgkSWzW5U79y0Ha7EwLkrw8=",
-    "page_url": "https://timesoccertv.com/real-madrid-full-match-replays/",
-    "updated_at": "2026-03-14T22:59:43+00:00",
-    "scraped_at": "2026-03-14T23:17:18.723296+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Real Madrid"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/bwb089q1si3g",
-        "label": "First Half",
-        "embed_url": "https://hgcloud.to/e/bwb089q1si3g",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/bwb089q1si3g\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://hgcloud.to/e/bga4x47vwjrc",
-        "label": "Second Half",
-        "embed_url": "https://hgcloud.to/e/bga4x47vwjrc",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/bga4x47vwjrc\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/Rp4WequY0DjGY",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/Rp4WequY0DjGY",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/Rp4WequY0DjGY\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
-  },
-  {
     "match_id": "3e02b7c5a26b54f6419e06c0e9e444f3",
     "match": "Real Madrid vs Elche",
     "competition": "La Liga, Elche, Real Madrid",
@@ -6330,44 +6368,6 @@
       }
     ],
     "description": "[RU]Full Match [EN]Highlights Chelsea vs Newcastle United Watch and download Chelsea vs Newcastle United full match replay. KICK-OFF at 17:30 (UTC) on 14th March 2026 The referee for this match is Tierney P. Game played at Stamford Bridge This is a match in England – Premier League 2026, Round 30 League: Premier League Team: Chelsea Newcastle United"
-  },
-  {
-    "match_id": "cb4234a4661c8d0bfa0aeb30cef26316",
-    "match": "Inter vs Atalanta Full Match and Highlights",
-    "competition": "Video, Inter",
-    "date": "2026-03-14T17:30:00+00:00",
-    "published_at": "2026-03-14T17:30:00+00:00",
-    "source_tag": "source_3",
-    "source_name": "timesoccertv.com",
-    "source_url": "https://timesoccertv.com",
-    "preview_image": "https://media.gettyimages.com/id/2266476025/photo/milan-italy-gianluca-manganiello-and-denzel-dumfries-of-inter-reacts-during-the-serie-a-match.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=UsmOvWHq0vOWPIXvAStLFsd74BC3LlBFZy5nhnsuqrY=",
-    "page_url": "https://timesoccertv.com/inter-milan-highlights/",
-    "updated_at": "2026-03-14T19:05:46+00:00",
-    "scraped_at": "2026-03-14T19:19:30.652255+00:00",
-    "listing_date_raw": null,
-    "listing_date_at": null,
-    "categories": [
-      "Video",
-      "Inter"
-    ],
-    "links": [
-      {
-        "url": "https://hgcloud.to/e/ap50zghmg4k7",
-        "label": "Full Match",
-        "embed_url": "https://hgcloud.to/e/ap50zghmg4k7",
-        "host": "hgcloud.to",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://hgcloud.to/e/ap50zghmg4k7\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      },
-      {
-        "url": "https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV",
-        "label": "Highlights",
-        "embed_url": "https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV",
-        "host": "soccertims.vortexvisionworks.com",
-        "kind": "replay",
-        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/gF5QRDxzPOkXV\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-      }
-    ]
   },
   {
     "match_id": "a0b8421e7f52e99a2d415f8b12d4bd76",
