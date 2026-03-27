@@ -1,5 +1,128 @@
 [
   {
+    "match_id": "88dea185b9a9d449d71ee1a209b1eecf",
+    "match": "Spain vs Serbia",
+    "competition": "International Friendlies, Serbia, Spain",
+    "date": "2026-03-27T22:45:53+00:00",
+    "published_at": "2026-03-27T22:45:53+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i1.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Spain-vs-Serbia.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/friendly/international-friendlies/spain-vs-serbia-27-03-2026/",
+    "updated_at": "2026-03-27T22:52:17+00:00",
+    "scraped_at": "2026-03-27T23:22:23.161552+00:00",
+    "listing_date_raw": "27/03/2026",
+    "listing_date_at": "2026-03-27T00:00:00+00:00",
+    "categories": [
+      "International Friendlies",
+      "Serbia",
+      "Spain"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/oamo70oor54y",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/oamo70oor54y",
+        "player_url": "https://hgcloud.to/oamo70oor54y",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/oamo70oor54y\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/ym7osth09ozc",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/ym7osth09ozc",
+        "player_url": "https://hgcloud.to/ym7osth09ozc",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/ym7osth09ozc\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "77c2ddcf4b7907029310e8274531673c",
+    "match": "Netherlands vs Norway",
+    "competition": "International Friendlies, Netherlands, Norway",
+    "date": "2026-03-27T22:45:36+00:00",
+    "published_at": "2026-03-27T22:45:36+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i3.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Netherlands-vs-Norway.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/friendly/international-friendlies/netherlands-vs-norway-27-03-2026/",
+    "updated_at": "2026-03-27T22:53:04+00:00",
+    "scraped_at": "2026-03-27T23:22:23.161552+00:00",
+    "listing_date_raw": "27/03/2026",
+    "listing_date_at": "2026-03-27T00:00:00+00:00",
+    "categories": [
+      "International Friendlies",
+      "Netherlands",
+      "Norway"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/il4sdzm2l6lu",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/il4sdzm2l6lu",
+        "player_url": "https://hgcloud.to/il4sdzm2l6lu",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/il4sdzm2l6lu\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/90fpl9unavvu",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/90fpl9unavvu",
+        "player_url": "https://hgcloud.to/90fpl9unavvu",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/90fpl9unavvu\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "951e19c59c3056dd9f956355be20a788",
+    "match": "Switzerland vs Germany",
+    "competition": "International Friendlies, Germany, Switzerland",
+    "date": "2026-03-27T22:44:39+00:00",
+    "published_at": "2026-03-27T22:44:39+00:00",
+    "source_tag": "source_2",
+    "source_name": "footreplays.com",
+    "source_url": "https://www.footreplays.com",
+    "preview_image": "https://i2.wp.com/www.footreplays.com/wp-content/uploads/2026/03/Switzerland-vs-Germany.webp?ssl=1",
+    "page_url": "https://www.footreplays.com/friendly/international-friendlies/switzerland-vs-germany-2-27-03-2026/",
+    "updated_at": "2026-03-27T22:53:11+00:00",
+    "scraped_at": "2026-03-27T23:22:23.161552+00:00",
+    "listing_date_raw": "27/03/2026",
+    "listing_date_at": "2026-03-27T00:00:00+00:00",
+    "categories": [
+      "International Friendlies",
+      "Germany",
+      "Switzerland"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/w53s2qssdret",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/w53s2qssdret",
+        "player_url": "https://hgcloud.to/w53s2qssdret",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/w53s2qssdret\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/cchgfzdmg9ur",
+        "label": "Highlights",
+        "embed_url": "https://hgcloud.to/e/cchgfzdmg9ur",
+        "player_url": "https://hgcloud.to/cchgfzdmg9ur",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/cchgfzdmg9ur\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
     "match_id": "81ecd30be72cfb86a11bfa3dbf652ff7",
     "match": "England vs Uruguay",
     "competition": "International Friendlies, England, Uruguay",
