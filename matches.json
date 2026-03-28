@@ -1,5 +1,65 @@
 [
   {
+    "match_id": "44c7421896ce9e901d3089f1b7577ee9",
+    "match": "Argentina vs Mauritania",
+    "competition": "Friendlies, Argentina, Mauritania",
+    "date": "2026-03-27T23:15:00+00:00",
+    "published_at": "2026-03-27T23:15:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": null,
+    "page_url": "https://soccerfull.net/argentina-vs-mauritania-3216.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-28T14:22:43.975078+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Friendlies",
+      "Argentina",
+      "Mauritania"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12982",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12982",
+        "stream_url": "https://soccerfull.net/hls/12982.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12982\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12983",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12983",
+        "stream_url": "https://soccerfull.net/hls/12983.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12983\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12984",
+        "label": "[AR] First Half",
+        "embed_url": "https://soccerfull.net/play/12984",
+        "stream_url": "https://soccerfull.net/hls/12984.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12984\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12985",
+        "label": "[AR] Second Half",
+        "embed_url": "https://soccerfull.net/play/12985",
+        "stream_url": "https://soccerfull.net/hls/12985.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12985\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match [AR]First Half [AR]Second Half Argentina vs Mauritania Watch and download Argentina vs Mauritania full match replay. KICK-OFF at 23:15 (UTC) on 27th March 2026 The referee for this match is Lopez D. Game played at Estadio Alberto J. Armando This is a match in World – Friendlies 2026 League: Friendlies Team: Argentina Mauritania"
+  },
+  {
     "match_id": "88dea185b9a9d449d71ee1a209b1eecf",
     "match": "Spain vs Serbia",
     "competition": "International Friendlies, Serbia, Spain",
