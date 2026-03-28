@@ -12,8 +12,8 @@
     "page_url": "https://www.footreplays.com/friendly/international-friendlies/spain-vs-serbia-27-03-2026/",
     "updated_at": "2026-03-27T22:52:17+00:00",
     "scraped_at": "2026-03-27T23:22:23.161552+00:00",
-    "listing_date_raw": "27/03/2026",
-    "listing_date_at": "2026-03-27T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "International Friendlies",
       "Serbia",
@@ -53,8 +53,8 @@
     "page_url": "https://www.footreplays.com/friendly/international-friendlies/netherlands-vs-norway-27-03-2026/",
     "updated_at": "2026-03-27T22:53:04+00:00",
     "scraped_at": "2026-03-27T23:22:23.161552+00:00",
-    "listing_date_raw": "27/03/2026",
-    "listing_date_at": "2026-03-27T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "International Friendlies",
       "Netherlands",
@@ -94,8 +94,8 @@
     "page_url": "https://www.footreplays.com/friendly/international-friendlies/switzerland-vs-germany-2-27-03-2026/",
     "updated_at": "2026-03-27T22:53:11+00:00",
     "scraped_at": "2026-03-27T23:22:23.161552+00:00",
-    "listing_date_raw": "27/03/2026",
-    "listing_date_at": "2026-03-27T00:00:00+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
     "categories": [
       "International Friendlies",
       "Germany",
@@ -119,6 +119,52 @@
         "host": "hgcloud.to",
         "kind": "replay",
         "embed_html": "<iframe src=\"https://hgcloud.to/e/cchgfzdmg9ur\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "f5bd3a888972cc5f41af9daf35b0a534",
+    "match": "England vs Uruguay Full Match Replay and Highlights",
+    "competition": "Video, England",
+    "date": "2026-03-27T22:00:00+00:00",
+    "published_at": "2026-03-27T22:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2268671156/photo/london-england-noni-madueke-of-england-is-challenged-by-maximiliano-araujo-of-uruguay-during.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=Sz3JEy1kk_wmn95Rz_GXc0xQmxHvhHzWMx1tZKpTygE=",
+    "page_url": "https://timesoccertv.com/england-highlights/",
+    "updated_at": "2026-03-27T23:53:51+00:00",
+    "scraped_at": "2026-03-28T01:08:32.034550+00:00",
+    "listing_date_raw": "2 hours ago",
+    "listing_date_at": "2026-03-27T23:08:32+00:00",
+    "categories": [
+      "Video",
+      "England"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/mvfa9w3iqpit",
+        "label": "First Half",
+        "embed_url": "https://hgcloud.to/e/mvfa9w3iqpit",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/mvfa9w3iqpit\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://hgcloud.to/e/qp3qyoigqztk",
+        "label": "Second Half",
+        "embed_url": "https://hgcloud.to/e/qp3qyoigqztk",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/qp3qyoigqztk\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/eTm68zYoJkhBX",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/eTm68zYoJkhBX",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/eTm68zYoJkhBX\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
   },
@@ -153,6 +199,431 @@
         "embed_html": "<iframe src=\"https://hgcloud.to/e/mvfa9w3iqpit\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
       }
     ]
+  },
+  {
+    "match_id": "973586182e4cb0c96789f58347379445",
+    "match": "Netherlands vs Norway Full Match Replay and Highlights",
+    "competition": "Video",
+    "date": "2026-03-27T21:00:00+00:00",
+    "published_at": "2026-03-27T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2268678130/photo/amsterdam-netherlands-denzel-dumfries-of-netherlands-runs-with-the-ball-while-under-pressure.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=0nXBpxgqir-lD53okVYPK1LJli3mZItIKg8waq8fGXQ=",
+    "page_url": "https://timesoccertv.com/netherlands-highlights/",
+    "updated_at": "2026-03-27T23:42:48+00:00",
+    "scraped_at": "2026-03-28T01:08:32.034550+00:00",
+    "listing_date_raw": "3 hours ago",
+    "listing_date_at": "2026-03-27T22:08:32+00:00",
+    "categories": [
+      "Video"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/il4sdzm2l6lu",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/il4sdzm2l6lu",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/il4sdzm2l6lu\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/oMLu0NFqyU4e9",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/oMLu0NFqyU4e9",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/oMLu0NFqyU4e9\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "cc63760f18e1a73f4b3fc7e7c6bd3700",
+    "match": "Spain vs Serbia Full Match Replay and Highlights",
+    "competition": "Video, Spain",
+    "date": "2026-03-27T21:00:00+00:00",
+    "published_at": "2026-03-27T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2268669377/photo/villarreal-spain-pedri-and-lamine-yamal-of-spain-look-on-during-the-warm-up-prior-to-the.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=WIe6_hhO8-GqNDeQg3fRtoWz_wUHXNai0yMPbEYlcVY=",
+    "page_url": "https://timesoccertv.com/spain-highlights/",
+    "updated_at": "2026-03-27T23:48:33+00:00",
+    "scraped_at": "2026-03-28T01:08:32.034550+00:00",
+    "listing_date_raw": "3 hours ago",
+    "listing_date_at": "2026-03-27T22:08:32+00:00",
+    "categories": [
+      "Video",
+      "Spain"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/oamo70oor54y",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/oamo70oor54y",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/oamo70oor54y\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/13yMwidst6abC",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/13yMwidst6abC",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/13yMwidst6abC\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "df033b4793fca6c37108950057ee8767",
+    "match": "Switzerland vs Germany Full Match Replay and Highlights",
+    "competition": "Video, Germany",
+    "date": "2026-03-27T21:00:00+00:00",
+    "published_at": "2026-03-27T21:00:00+00:00",
+    "source_tag": "source_3",
+    "source_name": "timesoccertv.com",
+    "source_url": "https://timesoccertv.com",
+    "preview_image": "https://media.gettyimages.com/id/2268675133/photo/basel-switzerland-breel-embolo-of-switzerland-scores-his-teams-second-goal-while-under.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=Hm21f-Ap4uX6mNJKmkXR3xd9nyVYx83jB6QAUKooqdo=",
+    "page_url": "https://timesoccertv.com/germany-highlights/",
+    "updated_at": "2026-03-27T23:59:12+00:00",
+    "scraped_at": "2026-03-28T01:08:32.034550+00:00",
+    "listing_date_raw": "3 hours ago",
+    "listing_date_at": "2026-03-27T22:08:33+00:00",
+    "categories": [
+      "Video",
+      "Germany"
+    ],
+    "links": [
+      {
+        "url": "https://hgcloud.to/e/w53s2qssdret",
+        "label": "Full Match",
+        "embed_url": "https://hgcloud.to/e/w53s2qssdret",
+        "host": "hgcloud.to",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://hgcloud.to/e/w53s2qssdret\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccertims.vortexvisionworks.com/embed/6T2qFK6WTixYM",
+        "label": "Highlights",
+        "embed_url": "https://soccertims.vortexvisionworks.com/embed/6T2qFK6WTixYM",
+        "host": "soccertims.vortexvisionworks.com",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccertims.vortexvisionworks.com/embed/6T2qFK6WTixYM\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ]
+  },
+  {
+    "match_id": "f32f1d78c4d852d18871c371a50ac66b",
+    "match": "Spain vs Serbia",
+    "competition": "Friendlies, Spain, Serbia",
+    "date": "2026-03-27T20:00:00+00:00",
+    "published_at": "2026-03-27T20:00:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "/imgs/3213.png",
+    "page_url": "https://soccerfull.net/spain-vs-serbia-3213.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-28T01:08:17.949384+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Friendlies",
+      "Spain",
+      "Serbia"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12967",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12967",
+        "stream_url": "https://soccerfull.net/hls/12967.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12967\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12968",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12968",
+        "stream_url": "https://soccerfull.net/hls/12968.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12968\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12969",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12969",
+        "stream_url": "https://soccerfull.net/hls/12969.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12969\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12970",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12970",
+        "stream_url": "https://soccerfull.net/hls/12970.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12970\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12971",
+        "label": "[EN] Full Match",
+        "embed_url": "https://soccerfull.net/play/12971",
+        "stream_url": "https://soccerfull.net/hls/12971.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12971\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match [RU]Full Match [EN]Highlights [EN]Full Match Spain vs Serbia Watch and download Spain vs Serbia full match replay. KICK-OFF at 20:00 (UTC) on 27th March 2026 The referee for this match is Branco Godinho L. M. Game played at Estadio de la Ceramica This is a match in World – Friendlies 2026 League: Friendlies Team: Spain Serbia"
+  },
+  {
+    "match_id": "af464797f838154e82fc8b7a69cf180a",
+    "match": "Switzerland vs Germany",
+    "competition": "Friendlies, Switzerland, Germany",
+    "date": "2026-03-27T19:45:00+00:00",
+    "published_at": "2026-03-27T19:45:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "/imgs/3215.png",
+    "page_url": "https://soccerfull.net/switzerland-vs-germany-3215.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-28T01:08:17.949384+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Friendlies",
+      "Switzerland",
+      "Germany"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12977",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12977",
+        "stream_url": "https://soccerfull.net/hls/12977.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12977\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12978",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12978",
+        "stream_url": "https://soccerfull.net/hls/12978.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12978\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12979",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12979",
+        "stream_url": "https://soccerfull.net/hls/12979.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12979\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12980",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12980",
+        "stream_url": "https://soccerfull.net/hls/12980.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12980\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12981",
+        "label": "[EN] Full Match",
+        "embed_url": "https://soccerfull.net/play/12981",
+        "stream_url": "https://soccerfull.net/hls/12981.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12981\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[RU]Full Match [RU]Full Match [RU]Full Match [EN]Highlights [EN]Full Match Switzerland vs Germany Watch and download Switzerland vs Germany full match replay. KICK-OFF at 19:45 (UTC) on 27th March 2026 The referee for this match is Kavanagh C. Game played at St. Jakob-Park This is a match in World – Friendlies 2026 League: Friendlies Team: Switzerland Germany"
+  },
+  {
+    "match_id": "fabe7f3e9319d8b309af8b7abcd1a7dc",
+    "match": "Netherlands vs Norway",
+    "competition": "Friendlies, Netherlands, Norway",
+    "date": "2026-03-27T19:45:00+00:00",
+    "published_at": "2026-03-27T19:45:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "/imgs/3214.png",
+    "page_url": "https://soccerfull.net/netherlands-vs-norway-3214.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-28T01:08:17.949384+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Friendlies",
+      "Netherlands",
+      "Norway"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12972",
+        "label": "[EN] Full Match",
+        "embed_url": "https://soccerfull.net/play/12972",
+        "stream_url": "https://soccerfull.net/hls/12972.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12972\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12973",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12973",
+        "stream_url": "https://soccerfull.net/hls/12973.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12973\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12974",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12974",
+        "stream_url": "https://soccerfull.net/hls/12974.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12974\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12975",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12975",
+        "stream_url": "https://soccerfull.net/hls/12975.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12975\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12976",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12976",
+        "stream_url": "https://soccerfull.net/hls/12976.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12976\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]Full Match [RU]Full Match [RU]Full Match [RU]Full Match [EN]Highlights Netherlands vs Norway Watch and download Netherlands vs Norway full match replay. KICK-OFF at 19:45 (UTC) on 27th March 2026 The referee for this match is Visser L. Game played at Johan Cruijff Arena This is a match in World – Friendlies 2026 League: Friendlies Team: Netherlands Norway"
+  },
+  {
+    "match_id": "2ab09d973b92c19c5f4ee4682ea93c8a",
+    "match": "England vs Uruguay",
+    "competition": "Friendlies, England, Uruguay",
+    "date": "2026-03-27T19:45:00+00:00",
+    "published_at": "2026-03-27T19:45:00+00:00",
+    "source_tag": "source_1",
+    "source_name": "soccerfull.net",
+    "source_url": "https://soccerfull.net",
+    "preview_image": "/imgs/3212.png",
+    "page_url": "https://soccerfull.net/england-vs-uruguay-3212.html",
+    "updated_at": null,
+    "scraped_at": "2026-03-28T01:08:17.949384+00:00",
+    "listing_date_raw": null,
+    "listing_date_at": null,
+    "categories": [
+      "Friendlies",
+      "England",
+      "Uruguay"
+    ],
+    "links": [
+      {
+        "url": "https://soccerfull.net/play/12958",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12958",
+        "stream_url": "https://soccerfull.net/hls/12958.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12958\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12959",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12959",
+        "stream_url": "https://soccerfull.net/hls/12959.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12959\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12960",
+        "label": "[EN] First Half",
+        "embed_url": "https://soccerfull.net/play/12960",
+        "stream_url": "https://soccerfull.net/hls/12960.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12960\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12961",
+        "label": "[EN] Second Half",
+        "embed_url": "https://soccerfull.net/play/12961",
+        "stream_url": "https://soccerfull.net/hls/12961.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12961\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12962",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12962",
+        "stream_url": "https://soccerfull.net/hls/12962.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12962\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12963",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12963",
+        "stream_url": "https://soccerfull.net/hls/12963.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12963\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12964",
+        "label": "[RU] Full Match",
+        "embed_url": "https://soccerfull.net/play/12964",
+        "stream_url": "https://soccerfull.net/hls/12964.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12964\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12965",
+        "label": "[EN] Highlights",
+        "embed_url": "https://soccerfull.net/play/12965",
+        "stream_url": "https://soccerfull.net/hls/12965.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12965\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      },
+      {
+        "url": "https://soccerfull.net/play/12966",
+        "label": "[EN] Full Match",
+        "embed_url": "https://soccerfull.net/play/12966",
+        "stream_url": "https://soccerfull.net/hls/12966.m3u8",
+        "host": "soccerfull.net",
+        "kind": "replay",
+        "embed_html": "<iframe src=\"https://soccerfull.net/play/12966\" allow=\"autoplay; fullscreen; picture-in-picture; encrypted-media\" allowfullscreen=\"true\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      }
+    ],
+    "description": "[EN]First Half [EN]Second Half [EN]First Half [EN]Second Half [RU]Full Match [RU]Full Match [RU]Full Match [EN]Highlights [EN]Full Match England vs Uruguay Watch and download England vs Uruguay full match replay. KICK-OFF at 19:45 (UTC) on 27th March 2026 The referee for this match is Jablonski S. Game played at Wembley Stadium This is a match in World – Friendlies 2026 League: Friendlies Team: England Uruguay"
   },
   {
     "match_id": "cb3907cc5f2b3d55a5849d3addba8373",
